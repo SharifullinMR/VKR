@@ -1,0 +1,3 @@
+[submodule "PromptRank"]
+	path = PromptRank
+	url = https://github.com/NKU-HLT/PromptRank.git

@@ -1,0 +1,1100 @@
+text mining, English grammar books, diachronic research
+text mining, knowledge graph, power equipment defect
+Clustering, Summarization, Text mining, Techniques, Pattern
+data mining, knowledge discovery, Text mining
+RStudio, the digital economy, open data, text mining, data mining
+Summarization, Applications, Text Mining Process, Techniques
+Natural Language Processing, Information Extraction, Data Mining, Text Mining
+Text-CNN, auxiliary diagnosis, EMR, type2 diabetes, Text mining
+Clustering, Word Association, TF - IDF, stemming, stop words, text mining
+Keywords not found
+Topic modeling, Gensim, information extraction, classification, Data Mining, Spacy, Text mining, clustering, Text analysis
+text mining, policy text analysis, state owned capital layout adjustment, fuzzy cognitive map
+Gene-environment interaction studies, Natural language processing, Translational informatics, Text mining, Biomedical informatics
+text mining, bioinformatics, data mining, information retrieval
+text mining, pointwise mutual information, systematic literature review, text classification
+Analogical proportions, Text mining, Arabic text summarization, Arabic text classification
+data extraction, grouping, data recovery, information revelation, Text mining
+Natural Language Processing, predictive model, interns’ performance, Naïve Bayes algorithms, text classification
+Clustering Analysis, Paper Clustering, Text Mining, Keywords Extraction
+Associate Rule Mining (ARM), Support Vector Machine (SVM), Lemmatization, Term Frequency (TF), Stemming, Text mining, Natural Language Processing (NLP), crawling, Document Term Matrix (DTM)
+text analysis, neural network, deep learning, structure modelling, optimization, data mining
+text mining, hot issues mining, intelligent e-government, message classification
+Apache Spark, big data, sentiment analysis, Apache Hadoop, text preprocessing, text mining
+text mining, policy address, random forests, SVM (Support Vector Machine)
+text mining, data mining, accident data, traffic safety
+Support vector machine, Convolutional neural network, Text mining, Text naming
+Data mining, Interactive text, NLP, MOOCs
+text mining, data mining, Tetdm, data analysis support
+text mining, machine learning, research trend analysis, data analysis
+Opinion Mining, Human Resources Management, Subjectivity Detection, Staff Appraisal, Text Mining
+text mining, people management practices, best companies to work for
+Agent-based Simulation, Context Identification, Data Mining, Text Mining
+Text Mining, Text-based, Recommendation System
+Decision Tree Model, criminal proceedings, text mining, jurisprudence, text classification
+text mining, history of text mining, methodology of text mining, natural language processing
+OCR correction, historical document search, spell checking, medical history, text mining
+style, research, health literacy, text mining, literature review
+Data preparation, Disease, ICD-10-CM, Classification, Text mining, Symptom
+Rule Reduction, Text Categorization and Summarization, Text Mining, Feature Identification, Token Creation
+open questionnaire, model building, LSA, text mining
+Concept-based mining model, Conceptual rule mining, conditional probability, text clustering, probability ratio, ranking
+Innovation management, text mining, innovation potentials, semantic network
+text mining, convolutional neural network, power equipment, feature fusion
+text processing, Data Mining, fault analysis, information retrieval, fault diagnosis
+Twitter, Data mining, Social media, Text mining, Audience segmentation
+text Mining, web of Science, Data Mining
+Similarity, Suspicious Profile, NCD Normalized Compression Distance, Profiling, Cybercrime, Text Mining, Social Media, Semantic Web, Text Analysis
+stemming, text mining, text pre-processing, Indonesian stemmer, algorithm
+Keywords not found
+Text mining, Idea mining, Text classification, Information retrieval
+threat intelligence, severity level of vulnerabilities, text mining, PCA, XGBoost
+sentiment analysis, naive bayes classifier, text mining, vaccines
+software requirement specification, similarities, class diagram, validation, text mining, use case diagram
+text mining, TCM records, type-2 diabetes
+text mining, data mining, knowledge discovery
+Clustering, Classification, Text Mining, ODP Taxonomy, Probabilistic Classifier, categorization
+Data Mining, Text Mining, NLP, Feature Extraction, Machine Learning
+text mining, generator, keywords application, word scoring
+information extraction, artificial intelligence, project management, text mining, word processing, data processing
+Log-book, Features, Event log, Text mining, Process mining, Intention mining, Seismic events, Opinion mining
+Data mining, Pattern discovery, Information Retrieval, Sequential pattern mining, Text mining, Phrase based method
+Text mining, Machine learning algorithms, Term association
+SOM, clustering, text mining, LDA, social media
+pattern deploying, stemming, pattern evolution, text mining, patterns
+GPU, PubMed, Heterogeneous Environment, Chemical Text Mining
+N-gram, Information Education System, Text Mining, Automatic Topic Selection, Tokenization, Term Frequency
+Data mining, Big data, Unstructured data, Knowledge discovery, Text mining, Information retrieval
+Word to quantify, Distribution line trip, Edit distance, Text mining
+Similarity -Measures, Term -Weighting Methods, TF-IDF, Text -Classification, Text- Mining
+Agent-based Model, Text Mining, Relevant Studies
+Data Mining, Unstructured Data, Text Mining, Lucene, Document-based Searching
+Contextual text mining, SBERTs, Ontology, Sustainable Development Goals (SDGs)
+Smart Production, Intelligent Document, Integrative Text Mining, Textual Process Analytics
+Topic modeling, Big data, Text clustering, Text preprocessing, Text mining
+Business Text Mining, Stock market forecasting, Information Gathering, Rule extraction
+report retriever, Text mining, Radiology report, Image feature extractor
+text mining, undergraduate research, research topic, topic clusters
+MESH, corpus, association, text mining, MedLine database
+Topic modeling, Relative frequency, Developmental trends, Text mining, Word cloud
+Association Analysis, LDA, Text Mining, Online Reviews
+Text mining, Digital pedagogy, Digital collections
+Python Tokenization, n-gram, Text Mining, Computational Linguistics, NLP
+benefits and limitations, information extraction, visualization, classification, Text mining framework, clustering
+BERT, Text mining and analysis, XLNet, BiLSTM
+Classification, Text Mining, Typos
+Swear Word, Nearest Neighbor, Decision Tree, Text Mining, Naive Bayes Classifier, Twitter
+support vector machine, classification, complaints and proposals, text preprocessing, text mining
+Dimensionality Selection, Genetic Algorithms, Text Mining, Stop word selection, Text Classification
+Environmental report, Corresponding analysis, Text mining, Corporate Social Responsibility
+text mining, literature review, predictive maintenance, abbreviation extraction
+text mining, formal grammar, natural language processing, text data mining
+text mining, leisure industry town, intelligent analysis, online sales
+Web structure mining, Multi-media mining, Web content mining, Web mining technology
+characteristics, applications, cases, Word Stat, Text Analyst, text mining
+Integrative Text Mining, Text Summarization, Knowledge Representation
+text summarization, information extraction, conversation structure, Discourse Parsing, Discourse processing, coherence
+Text Mining, E-learning, Recommender Systems
+Chinese Word segmentation, Cloud word, Text Mining, Visualization technology, jieba
+Mining Industry, Mines Safety, Natural Language Processing, Fatality, Text Mining
+Text Mining, Text Classification, ICA, Natural Gradient ICA
+Unified Medicai Language System, Web Scrapping, Health-related Forum, Sentiment Analysis, Text Mining, Social Media
+Keywords not found
+student surveys, sentiment analysis, text mining, data mining, educational data mining
+structural equation modeling, consumer financing industry, text mining, data mining, consumer loyalty
+Text classification, Text mining, Text feature extraction
+text mining, LDA, Integrated report, SDGs
+text mining, traditional crafts, visualization, sentiment analysis
+apriori, text categorization, frequent itemset mining, termsets
+Automatic summary, TextRank, Text mining, Literature review
+text mining, feature extraction, deep learning, Fuzzy logic
+Artificial Intelligent(AI), Natural Language Processing, Electronic Medical Records(EMRs), Text data mining
+Preprocessing, Natural Language Processing, Automated Essay Scoring, E-learning, Text Mining
+Clustering, Data Mining, Categorisation, Classification, Text Mining, Machine Learning
+text mining, physical therapy, traditional Chinese medicine, hypertension
+Misconception, Text Cluster, Histogram, Text Filtering, Variation, Singular Value Decomposition
+Natural language processing, Electronic cigarettes, Text mining, Sentiment analysis
+text mining, pattern discovery, visualization
+encountered, information, mining, dangers, ability
+Keywords not found
+Semi supervised learning, Deep learning, LSTM, SVM, Text mining, RNN
+text analysis, deep learning, text mining
+Information Extraction, Patterns, Text Mining, Text Messages, NLP
+Keywords not found
+Extra Tree, Random Forest, Data Mining, Classification, Decision Tree, Text Mining, Tokenization, Feature Extraction
+Text summarization, Text clustering, Statistical text summarization, Fuzzy text summarization, Text mining
+Hospital Information System, Incident Report, Text Mining, Patient’s Personal Information
+Data mining, Web mining, text mining, decision support
+social network analysis (SNA), text retrieval, name entity recognition, Taiwan Biographical Database (TBDB), text mining
+text mining, semantic text analysis, neural networks, Keywords
+R language, failure analysis, trip, power transformer, text mining
+Radix Astragali, Data slicing algorithm, Text mining, associating rules
+Knowledge Repository, Text Mining, Diabete, social networks, Ontology
+Railroad safety, Highway-rail grade crossing, Text mining, Similarity, Random Forest, Logistic Regression
+Research project selection, Text mining, KNN, Text classification
+Clustering, Data Mining, Software Engineering, Classification, SDLC, Text Mining
+retrieval, biomedical text extraction, biomedicall, ndexData Mining
+SVM, sentiment analysis, text mining, investor sentiment, stock reviews
+text mining, SVD, supervised machine learning algorithm, Deceptive review
+text mining, road, monitoring, social media
+clinical terms, clinical notes, health big data, text mining, electronic health records
+Risk factors analysis, R language, Text mining, Inland ship collision
+Market Prediction, Text Mining, Training Set Selection
+summarization, abstraction, sum basic, Text mining, multi-document
+Random Forest, Natural Language Processing, Text Mining, Knowledge Discovery, Stock Market
+Text mining, event credibility, Twitter
+performance instrument, grounded theory, text mining, Systems engineering
+Classification, Crime Rate Detection, Text Mining, Social Media
+Keywords not found
+text mining, fuzzy comprehensive evaluation method, product evaluation, online shopping review
+HK Graph, Questionnaire analysis, Concept, Visualization, Text mining
+Unstructured format, Text-mining, The Korea Meteorological Administration, Word cloud
+visualization results, textual characteristics, power grid hazard investigation, hidden danger management, text mining
+natural language, Text mining, Support Vector Machine, Pattern classification
+text mining, proactive personality, Machine learning
+Time Series, Natural Language Processing, Corpus, Text Mining, rhythmicity detection
+Data mining, Air traffic, Cockpit voice, Text processing
+Keywords not found
+support vector machine, tweet, covid-19 pandemic, naive bayes, text mining
+Risk prediction model, Electricity customer demands, Text mining technology
+biomedical text mining, named entity recognition, frequent itemset mining, gene - disease association
+Information Filtering, Text Mining, Social Network
+Independent Component Analysis, Text Mining, Particle Swarm Optimization, Text Classification, FastICA
+Call Center, Text Mining, Customer Claim Registration
+Abuse, Opioid, Opioid Use Problems, Addiction, Text-mining
+Text mining, GIS, The elderly living alone, News title crawling, Heat index
+Bayesian optimization, Defect diagnosis, Power transformer, Chinese text mining
+Requirement Specification, Non-Functional Requirement, Requirement Elicitation, Functional Requirement, Text Mining
+Topics, Classifying, Majors Classification, IDF-TF, Text Mining
+Natural Language Processing, Latent Dirichlet Allocation, Multinomial Logistic Regression, Policy Text Mining
+Pattern Recognition, Intelligent System, Text Mining, Machine Translation, Comparable Corpus
+text mining, writing, text summarization, graphs
+Extraction, Consistency, Use Case Description, Step Performed, Text Mining, Sequence Diagram
+Closed frequent mining, Sequential pattern mining, Pattern taxonomy, Text mining, Information retrieval, Pattern mining
+BERT, FastText, educational data mining, text sentiment analysis
+Complex network, Text mining, Traditional Chinese medicine
+R, natural language processing, Text mining, information retrieval, benchmark
+text mining, association rule, concept vector
+mining, topic modeling, LDA, narrative medicine
+policy evaluation, Big data, Text mining, Machine learning
+Hadoop, Text mining, K-means, Canopy, "World-class universities and first-class discipline", Education, Big Data
+Learning analytics, Assignments evaluation, Text mining, Hierarchical cluster analysis
+Side Information, Data Mining, Text Mining, Co-Clustering
+text summarization, classification, sentiment analysis, hospitality industry, clustering, text mining
+scientific workflows, ontologies, QSPR, bibliometrics, text mining
+big data, usability, electronic health record, heuristics, text mining
+Clustering, Python, Text Mining, Stop words, Elbow Method
+Corpus, Feature extraction, Affective value, Text mining, International relations network
+recommendation system, smart LMS, log forum discuss, online learning, text mining analysis
+Text Classification, Data Mining, International Relations, Deep Learning
+systematic review, sentiment analysis, stock market prediction, text mining, time series
+Decision support system, Diagnosis in dogs, Dog behavior, Text Mining
+Similarity, Activity Diagram, Extraction, Validity, Step Performed, Text Mining, Reliability
+Text Summerization, Text mining, conceptual Dependency, Name Entity Recognition, Pos Tagging
+Text mining, Accountability, Text Categorization, Support Vector Machine, Naïve Bayes, Dimensionality Reduction
+Parsing, Filtering, Cluster, Pattern, Singular Value Decomposition
+accident causes, apriori, text mining, accident analysis, complex networks
+text mining, natural language processing, natural environment, budling design
+Citation Network Analysis, Text mining, Graph
+machine learning, neural network, performance evaluation., text mining, Naïve Bayes, text classification
+Text Mining, Biomedical literature, Phenotyping, Electronic Health Records
+Classification, Text mining, Machine Learning
+Real-world applications, Text mining, Deployment, Skill training program, Sentimental analysis
+data analysis, data mining tools, elimination of spam, data extracting methods, social media
+text mining, stock return prediction, industry momentum
+text mining, abbreviation, natural language processing, gene identification
+text mining, ambiguity, context knowledge
+Online review, Text mining, Scientific Research Project
+Information Extraction, Natural Language Processing, Clinical Text Analysis, Clinical Text Mining, and electronic health records, Ensemble Learning
+Analysis, Text Mining, Social Media, Restaurants
+text mining, fuzzy neighborhood, clustering, evaluation
+Network Science, Graph Clustering, Document Mining, Graph Analysis
+token, Patterns, Mining, Corpus, lexical analysis, NLP
+Hadoop, Text Mining, Mahout
+Closed Sequential pattern, Text mining, Information retrieval, Pattern co-occurrence matrix
+text mining, packaged documents, property, ethical drugs
+text mining, fault diagnosis, onboard equipment, fault text chain
+Data Mining, Big Data, Text Mining, Social Networks, API, Twitter
+text mining, bag-of-words model, tokenization, document-term-matrix
+text mining, pattern discovery, pure pattern
+text mining, food therapy, external therapy, hypertension
+AIGC, Generative AI, text mining, KH-coder
+word embedding, Text mining, profanity words, NLP, social media
+Semantic relations, Concept cluster, Text mining, Information retrieval, English WordNet
+Frequency analysis, Reciprocal relevance analysis, Text mining, Environmental spatial information
+text mining, Career adaptability, item response theory
+text analysis, tourist perception, weiciyun, tourism destination management
+breast cancer, biomedical literatures, clustering, text mining, relation extraction
+machine learning, Arabic dataset, classification, sentiment analysis, text mining
+R, Compendium Student Guidance, KH Coder, Teacher Employment Selection Examination, text-mining, SQL
+Deep learning, Ovarian cancer, Natural Language processing (NLP), Text mining, Machine learning
+text mining, visual text analytics, Visualization
+sentiment analysis, text mining, classification
+email communication, system evaluation, mobile system, text mining, e-health information system
+text analysis, recurrent neural networks, psychotype determination, speech behavior, text classification
+Turkish, anatomic categorization, biomedical, radiology report, text mining, document classification
+Dictionary-Based Approach, Opinion Mining, Text Classification
+random forest, healthcare, naïve Bayes classification, disease, text mining
+word embeddings, classification, Text vectorization, clustering, concept mining, data mining
+aspect-based, etc, text clustering, text mining, Albanian language, Sentiment
+requirements assurance, assurance, risk assurance, experience, risk, text mining, system repository mining, systems development artifact
+text mining, naive bayes algorithm, association rules, focused crawler
+Keywords not found
+learning methods, Data Mining, Text Mining, Machine Learning
+text mining, productivity
+Automatic grading, Big data, English composition, Text mining
+Keywords not found
+text mining technique, associated networks, traditional Chinese medicine, Ligusticum wallichi
+news articles, ecology, Ukraine, web scraping, text mining
+Topic modeling, Text mining, Vietnamese text, word processing, text classification
+text mining, acupoint, acupoint application therapy, coronary heart disease
+TFIDF, Data Mining, Weighting to Keywords, Text Mining, Text Classification
+Identification and Analysis, Tourists' Ecological Values, Text Mining, Computer Network
+rules acquisition, SWRL rules, ontology, knowledge extraction, Text mining, Naturel language processing, corpus
+Big-Data Analysis, Text Mining, Scientific Exhibition
+text mining, hierarchical clustering, multiset
+classification, indexing, searching, question answer, stemming, named entity recognization, clustering, stopword, Tokenization
+neural network, crf, text mining, named entity recognition, railway signal equipment
+Infoveillance, Data mining, Sars-cov2, Natural Language Processing, People behaviour, Coronavirus, Infodemiology, France, Pandemic, Public Health, Text Mining, Data science, Social Networks, Europe, Covid-19, Paris, Twitter
+Data Mining, Text, Text Mining, Social Networks, Social Media
+text mining, word centrality, graph theory
+text mining, non-alcoholic liver disease, pathogenesis
+Rule-based System, Question Answering, Experimental Meta-data Checklist, Biomedical Text Mining
+Topic modeling, bag-of-words, classification, LSA, clustering, text mining, LDA, biomedical
+Affective Expression, Medical Science, Text Mining, Knowledge Engineering, Popular Science
+Bread model, Feature selection, First principles of instructions, Text mining
+AI, Emotion, Text Mining
+Brain Death, X-Rays, Text Mining, Text Analysis
+acupuncture, ischemie cerebrovascular disease, acupoint, Meridians
+Removal, ERT framework, Preprocess, Expansion, Tokenization
+Natural Language Processing, Text Mining, Depression, Twitter
+Text Mining, Deep Belief Network, Sentiment Analysis
+word embedding, inspection text, power cable, recurrent convolutional neural networks, text classification
+Data mining, Deep neural network, TextCNN
+Text mining, Regularity of clinical medication, Gastro-esophageal reflux disease
+text preprocessing, text mining, crowdsourcing, text normalization
+text mining, power system, dispatch operation ticket system, spectral clustering algorithm
+Text Classification, Power Secondary Equipment, Word2Vec, Deep Learning
+beauty e-commerce, user generated-content, text network analysis, text mining, electronic service quality, multiclass classification
+k-means clustering, Text Mining, cluster validity
+class modeling, object oriented modeling, text mining, OCL
+Trust, Tokopedia, Text Mining
+Prospecting information, textual geoscience data, convolution neural networks, text mining, visual analysis
+Text Mining, Detection and Classification, Bullying, Twitter
+wind energy, ontology, wind turbine accidents, text mining, accident analysis
+Neuro Linguistic Programming, Classifier, Text Mining, Customer Relationship Management
+data mining, Educational Data Mining (EDM), knowledge discovery in databases (KDD)
+Text Mining, Knowledge Engineering, Intelligent Systems
+Digital Ecosystem, Mining, Text Mining, Synergy
+Hierarchical Clustering, Operating Room, Medical Abbreviation, Text Mining, Misspelling Detection
+Side Information, Data Mining, Text Mining, Co-Clustering
+Predictions, Text Mining, Market Analysis
+Mexico, Infoveillance, Natural Language Processing, People behaviour, Coronavirus, Text Mining, Covid-19, Twitter
+text mining, stroke, ontology, electronic medical record
+text mining, linguistic analysis, visualization
+text mining, visual text analytics, sematnic analysis and ontology
+pattern, Traditional Chinese medicine, Chinese herbal medicine, text mining, liver cancer
+grapheme, machine learning, phoneme, GATE, Clustering and Classification, mapping, Text mining, morpheme, morphophonemic, NLP
+text mining, natural language processing, timeseries modeling, data pre-processing
+Multi-label Text Classification, MapReduce, Natural Language Processing, component, Text Mining., Arabic Language
+text mining, acupuncture, coronary heart disease
+Text mining; retrieval information; clustering; singular value decomposition; dimension reduction; clustering; k-means
+e-commerce;-k-medoid;-text-mining
+Technology Roadmap, Triple Co-occurrence, Text Mining, Future-oriented Technology Analysis
+normalization, Biomedical text mining, neural networks, Web service, multi-type, named entity recognition, decision rules
+text mining, natural language processing, ontology, Automated essay scoring
+text preprocessing, stop-word list, stopword filter, hash algorithm, text mining
+machine learning, product safety, sentiment analysis, naïve Bayes, text mining, social media
+Electronic Medical Record, Text Mining, Support Vector Machine
+text mining, hate speech, systematic literature review, classification
+preprocessing, document clustering, stemming, text mining, data mining
+Natural Language Processing, Learning Analytics, Text Analytics, Supervised learning, Sentiment analysis, Rapid Miner, Opinion mining, Machine Learning
+weak-tie, innovattion and diffusion, ground theory, text mining, instructional design
+biomedical text mining, deep learning, Information extraction, relation extraction
+Keywords not found
+Sensitivity analysis, Bayesian Network, Occupational safety, Text Mining, Fault Tree Analysis
+Apache Spark, trust accuracy, text mining, online social networks, Twitter
+Text Mining for Accreditation Document, English Terms Detection, Accreditation Document Automatic Profiling
+Text Mining, Distance based Classifier, Sentiment Analysis
+defect rate, power equipment, defect analysis, Age curve, text mining, factor study
+Hierarchical Clustering, Sentiment Analysis, Geo-enabled Text Mining, Geoinformatics, Knowledge Extraction
+text processing, Data Mining, fault analysis, information retrieval, fault diagnosis
+Kano, Railqual, Train Services, Kansei Engineering, Text Mining
+Deep Learning (DL), Text Mining, Natural Language Processing (NLP), Machine Learning (ML)
+Humorous, analysis, Text mining, data mining, funny
+Data mining, Transformation of education and training institutions, Double reduction policy, Statistical analysis
+text mining, database, visualization, institutional research
+MUSTYR, LSA, UrText, UNHD, Text mining, FTM, LDA, UPTI
+text mining, think aloud, user experience, EV sound
+text mining, breast cancer, natural language processing
+Word2vec, Text clustering, Danmaku, Text mining, Public emergencies, Comments
+reviewer selection, scientific paper, multicriteria assessment, reviewer assignment, academic journal, decision support, text mining, peer review
+sentiment analysis, natural language processing, Hijab, text mining, weighting algorithm
+ontology, query analysis, semantic content retrieval, social network analysis, text mining, non-rule based unstructured data
+dabase, pattern, knowledge, clusterk-means, text mining
+Named Entity Recognition, Policy Recommendation, Grammar-based Extractor, Elementary Discourse Unit, Text Mining, Intelligent Government Affairs Service
+Association Rules, Data Mining, Text Mining, Knowledge Discovery
+Text Mining, Natural Language Processing, Software Engineering
+Fault data, Knowledge graph, Entity extraction
+support vector machine, sentiment analysis, logistic regression, Word2Vec, text mining
+rheumatoid arthritis, chronic inflammation, text mining, biological basis, deficiency pattern
+Social Network Text Mining, Latent Dirichlet Allocation, Social Interests, k-means Clustering, Lifestyle Segmentation
+Voyant Tools, Service Quality, Hospitality Sector, Text Mining, Word Cluster
+Keywords not found
+Text pre-processing, Text classification, Reduction algorithms, Text mining
+geographic information system, self-organizing maps, visualization, complaints and proposals, text mining
+Environmental Perception, Ancient Poetry Literature, Intertextual Artistic Conception, Text Mining
+bivariate time series, cross correlation analysis, Toyota, Granger causality, sudden acceleration, SVD plot, correspondence analysis, detection mechanism, text mining, quality, google correlate
+text mining, similar vulnerability, similarity calculation
+Raspberry Pi, IoT, Text Analytics, Text Mining, Agent Systems
+VSM, Big data, Mahout, Text Clustering
+literature analysis, topic modeling, CISTI, text mining, research trends
+JSON, automatic assessment tools, Text mining, Machine learning
+Machine Learning Algorithms, Information Extraction Methodology, Data Mining, Text Mining, (Web-) Information Extraction
+Innovation Process, Employee-driven Digital Innovation, Idea Mining, Data Mining, Employee-driven Innovation, Text Mining, Ideation
+text mining, information retrieval, crowdsourcing, ideation contest
+Document clustering, Text mining, Auxiliary Information
+big data, cloud computing, information extraction, similarity, literature analysis, topic modeling, Text mining
+sentiment analysis, topic model, chronic disease, text mining, social network
+Feature selection, text categorization, dimension reduction
+Feature selection, two-stage method, text mining, particle swarm optimization
+ride-hailing service, social media analytics, topic modeling, text mining, latent Dirichlet allocation
+Keywords not found
+Data Visualization, Data Science, Text Mining, Information Retrieval
+Establish Term-Document Matrix, LASSO, Singular Value Decomposition, Support Vector Machine and Wuthering Heights, Chi-square
+Preprocessing, Pattern deploying, Classification of text, Data mining, Pattern taxonomy, Text mining, Inner process evolution
+Natural Language Processing, Knowledge Profile, Text Mining, Software Engineering
+word weighthing, Text mining, tf-idf algorithm, classification
+text mining, Latent Dirichlet Allocation, Feature Location, Formal Concept Analysis
+Preprocessing, TF-IDF, Dataset, Support Vector Machine, Feature Extraction
+clustering analysis, features extraction, text similarity measure, PLDA-LCS
+machine learning, electronic medical records, epilepsy, text mining, data mining, ICD codes
+customer reviews dataset, text mining, graph-based representation
+universal instructional design, universal design for learning, educational innovation, students with disabilities, impaired undergraduates, text mining, higher education
+K-means, Binary multiverse optimizer, Text mining, Text Clustering, Text Feature Selection Problem
+Topic Modeling, Data Mining, Text mining
+LDA topic model, machine learning, convolutional neural network, text classification
+text mining, Bike-sharing, association rule mining
+Extraction, Analyzing, Biomedical domain, Preprocessor, Argument structure, Text mining, Structured data, Full parser
+Keywords not found
+text mining, demand characterstic, logistis talent
+mining, named entity recognition, text categorization, automatic labeling
+recommendation system, sentiment analysis, natural language processing, logistic regression, text mining
+Web mining, Geo-Tracking, Text Mining, Business Intelligence, Pattern Analysis
+Peak Analysis, Structural Modeling, English Language, Word Frequency Data Mining
+text mining, LERP-RSA, ARPaD, plagiarism detection
+Information Resource Management, Korean Text, Data Mining, Information Platform Design
+risk project management, early warning signs, unstructured information, text mining, Naïve Bayes
+software requirement specification, similarity, requirement sStatement, text mining, elicitation
+Twitter, Sentiment Analysis., Text Mining, Data Preprocessing, Text Analysis
+LDA, Tourism destination image, Gender groups
+Social Network Analysis, Data Mining, Text Mining, Social Media
+Clustering, Arabic language processing, Text mining
+big data, Artificial intelligence (AI), web crawler, text mining
+Multi-source information fusion, Distribution transformer, Health condition assessment, Text Mining, Operation data
+text mining, problem transformation, multilabel
+vulnerability, distributed memory, regression, CVE, CVSS, text mining
+Map Reduce, Image Mining, Audio and Video Mining, Spatial data mining, Text Mining, Query Optimization, web mining
+tourism, revisit, feature selection, text mining, data mining
+document clustering, text mining, library management system, self-organizing map
+Dimension reduction, Text Categorization, PCA, Morphological analysis LINGO, SVD
+Laboratory Package, Experimental Replication, Controlled Experiment, Visual Text Mining, Systematic Literature Review
+correlation, DFMEA, classification, Text Mining, the optimal set
+Probability learning, News headlines classification, Short Text Classification, Probabilistic model
+text mining, Human resources (HR) mining, job advertisement analysis, tech mining
+Li-Fa-Fang-Yao, depression, validation, traditional Chinese medicine, text mining
+SVM, random forest, classification, deep learning, decision tree, correspondence analysis, text mining, Discharge summary
+Application programming interface, Neutral polarity, Natural language processing, Natural language toolkit, Online customer reviews
+Natural Language Processing, Security, Secret Sharing Scheme, Text Summarization
+text mining, food therapy, external therapy, mammary gland hyperplasia
+machine learning, ICD-10 TM, Text mining, IR, Thai diagnosis
+Marketing strategy, Organic food, Text mining, Customer perceptions
+integrated expert systems, natural language processing, problem-oriented methodology, AT-TECHNOLOGY workbench, combined knowledge acquisition method, text mining, data mining
+text mining, extractive summarization, natural language processing, query-oriented summarization
+college entrance examination, public opinion, emotion, education, text mining
+cosine similarity, text pre-processing, stemming, text mining, porter algorithm, algorithm
+text mining, Japanese firms, Social innovation
+Vader, sentiment analysis, n-gram, Textblob, reviews, text mining, word cloud
+Text Mining, Text Classification, Multi-level Fuzzy Neural Network, Machine Learning
+Decision tree, Data mining, C tree, Text Mining, Naïve Bayes
+machine learning, naïve Bayes classification, intelligent data mining, automatic text classification, heuristics, feature extraction
+call center, network problems, topic modeling, network service provider, text mining
+Data mining, entity recognition and resolution, semantic interoperability, social and criminal network analysis, text mining, intelligence analysis
+WSR, component, Text mining, Risk prevention and control, 2019-nCoV
+Text mining, Supervised learning, Massive Open Online Course, MOOC, Opinion mining
+Natural Language Processing, Text Mining, Tech-mining, Acronym disambiguation
+Clustering, SOM, Text Mining, K-Means
+text mining, mobile app store, content analysis, user feedback
+Data Mining, Text Mining, Recommendation System
+TF-IDF, Business Chart, Business Chart Recommended System, Text Mining, Data Visualization
+Infoveillance, Natural Language Processing, People behaviour, Coronavirus, Pandemic, Public Health, Text Mining, Social Networks, Infodemiology, Covid-19, Twitter
+Classification accuracy, Classification, Class distributions, Dimensionality reduction, Similarity measures
+text mining, parallel vulnerabilities, vulnerability correlation, vulnerability discovery
+Sentiment Analysis, text preprocessing, Text Mining, Social Network, data stream mining
+text classifier, term vector space reduction, textual data, Unstructured data, text mining, document classification
+python, job, stop list, survey, psychometric, mapping, test, text mining, recruitment, personality
+SVM, twitter, sentiment analysis, naïve bayes, social media
+text similarity, bidding audit, intelligent algorithm model
+text mining, feelings dictionary, customer satisfaction
+Clustering, Content Analysis, Data Mining, Text Mining, News Frames, Non-Negative Matrix Factorization
+Text Classification, Mahalanobis distance, KNN Classifier, Chinese
+feature selection, text classification, service quality, evaluation
+Naive Bayes classification, classification, mixture of classifiers, Tf-idf, entropy, Text mining, k nearest neighbor
+text mining, teaching practice, teaching evaluation, pair programming
+text analysis, information extraction, natural language processing, concordance, digital corpora
+Bioinformatics, Text mining, Machine learning
+TFIDF, Text Categorization, Topic Identification, Natural Language Processing, Graph approach, Text mining
+GPT-4, Medline, Relation Extraction, Biological Function, Wound Healing
+Clustering, Natural Language Processing, Big Data, Dimensionality Reduction, Text Classification, Machine Learning
+case study, Text Mining, learning approach
+document structure, Arabic NLP, text-mining, Terminology extraction and enrichmen
+text mining, last mile logistics, Google Scholar, technology infrastructure
+web service, naïve bayes, bahasa Indonesia, text classification
+cTAKES, Natural Language Processing, Annotation Query Language, Text Mining, Clinical Data, UIMA, SystemT
+text mining, multiagent system, machine learning, stock and forex values
+knowledge, Big data, Pattern Mining, pruning
+Clustering, Graph-based, Automatic Text Summarization, Text Mining, Growing Self-Organizing Map
+Automatic classification, Automatic natural language processing, DL, NLP, Text mining, Text classification, E-mails
+Mutual Information, Data Mining, Application Programming Interface calls, Over Sampling, Text Mining
+text mining, filtering, Interest rate model
+social computing, semantic web, Data mining, Knowledge mining, Complex networks
+Preprocessing, Knuth Morris Pratt, Boyer Moore, Pattern Matching, Python, Naive
+Text Categorization, Comparative Text Mining, Monolingual Translation. Corpus Summarization
+corporate sustainability, cluster analysis, triple bottom line, text mining
+KDD, data mining, classificatìon, clustering
+Encoder-Decoder model, Text Summarization, Bi-Directional RNN
+Statistical Topic Model, Latent Dirichlet Allocation, Text Classification, Support Vector Machine
+Financial Decision-Making, Sentiment Analysis, Text Mining
+SemanticWeb Mining, Web mining, Synaptic web Mining, Synaptic web
+deep Learning, Arabic Poetry Meter, Arud Science, Support Vector Machine, Decision Tree, Text Classification, NLP
+Naive Bayes, Urban Rail, Text Mining, Word Cloud, Transit Fault Analysis
+sentiment analysis, natural language processing, user-generated data, text mining, social media
+Financial Text Documents, Financial System Features, Clustering, Information Gain and Clustering Algorithm
+in-memory computing, Analytics, energy efficiency, reconfigurable architecture, text mining, hardware accelerator
+E-Books, Dependency Structure Matrix (DSM), Ontology, Text Mining
+online learning, text mining tool, pedagogical agent
+opinion mining, aspect-based sentiment analysis, hospitality industry, text mining, RNTN
+word embedding features, protein-protein interaction, recurrent convolution neural networks, BioCreative, text classification
+Pattern Discovery, PTM, Text mining, Levenshtein
+Natural Language Processing, Curriculum Vitae, Data Science, Text Mining, South America, Peru, Research
+Text Feature Extraction, Web Mining, VSM, Bean optimization Algorithm
+Fault, Software Bug Localization (SBL), Information Retrieval (IR), Mining Software Repositories (MSR)
+Clustering, Pattern Mining, Classification, Weights, Term Frequency
+Sentiment Analysis, Big Data, Organic Food, Text Mining, Machine learning
+historical digital textual collections, information extraction, semantic web, web tools, natural language processing, digital tools, deep transfer learning, parallel computing, knowledge graphs, text mining
+Scientific Workflow, Natural Language Processing, AI System, Text Analytics
+Decision tree, Tokens, k-Neighbor classifier, recall (r), precision (p), Lemmatization or Stemming, Bayes classifier, Stop words, F-measure, Zipf's law, Vector Space Model
+ride-hailing service, sentiment analysis, social media analytics, text mining, multi-class classification
+Weak Supervision, Information Extraction, Instagram, Word Embeddings
+Cosine Similarity, Multiple Emotion Detection, Natural Language Processing, Text Mining, Ekman's emotions, Sentence embeddings
+diagnostics, maintenance actions, V-22, text-mining, data-mining
+Natural Language Processing, Text Classification, Text Mining, Word2vec
+monetary policy, topic shift, NBR Board, text mining, decisions, topic analysis
+Negation Identification, Social Media Mining, Opinion Mining, Sentiment Analysis, Subjectivity Analysis, Term Document Matrix. Stemming, Text Mining, Negation Calculation
+K-NN Classifier, Opinion Mining, Sentiment Analysis, Logistic Regression, Classification, Decision Tree, Text Mining, Arabic language
+Hotel, Knowledge extraction, Travel, Evaluation, Text Mining, User Review
+quranic text, concept extraction, rule-based approach
+text mining, weighted association rules mining, Clincal notes
+Machine Learning model, Legal document, Text Mining, Text Classification, Arabic Text Classification
+K-Nearest Neighbour, Naive Bayes Algorithm, Log Regression, Support Vector Machine, Decision Tree Methods
+text mining, disaster, feelings dictionary
+Benford's Law, Text Mining, Statistical Test, Fraud Detection
+text mining, machine learning, deep learning, document classification
+Naive Bayes, classification, emotion, text mining, Twitter
+Twitter, Fake News, LSA, t-sne, LDA, social media
+The social network, Policy evolution, Digital village construction, Text mining, Content analysis
+Performance, Textual, Decreasing, Additionally
+Wordcloud, Sentiment Analysis, Zipf's Law, Text Mining, Polarity
+sentiment analysis, Text mining, Java Island culinary, Twitter
+Text Analytics, Deep Learning, Data, Text Classification, NLP, Machine Learning
+prostate cancer, reinforcement learning, protein interaction network, systems biology, text mining
+sentiment analysis, Stemming, Text Mining, Arabic, Text Classification, Normalization, Social Media, Twitter
+SVM, Bangla text classification, Sentiment classification, Opinion Mining, N-gram, POS
+text mining, Fruit Fly Optimization Algorithm, gambling industry, public opinion
+feature vector, supervised, k-nearest neighbor, feature selection, Concept analysis, text classification
+Tax Comments, Text Mining, Support Vector Machine, Feature Selection
+Deep learning, Natural language processing, Fine-tuning model, Text classification
+deep learning, transfer learning, Text mining, microbial network, relation extraction
+military logistics, demand forecasting, spare part, text mining, data mining
+architecture, text information mining, state evaluation, unstructured, fraction power supply equipment, statistical analysis
+Twitter, Literature review, survey, topic modeling, text mining, social media
+text processing, LSTM, summarizing, original text production, deep learning, markov chain, data minning
+text mining, Domain adaptation, low-rank concept extraction
+expert reviews, classification, reason mining, text mining, research project selection
+Sentiment classification, Text Mining, Topic Expressiveness, Latent Dirichlet Allocation
+information security, web mining, text mining, cyberbullying
+China’s OFDI, big data mining technology, bibliometrics, Cox proportional hazards regression model, survival of overseas subsidiaries
+Similarity, Activity Diagram, Extraction, Use Case Description, Step Performed, Text Mining, Software Specification Requirement
+Data mining, neural network, decision tree, text mining, power utility, non-technical losses
+Legal documents, Crime scene, Police academy, Crime classification, Text mining
+machine learning, emotion analysis, agent analysis, speaker diarisation, interaction mining, text mining
+Sequence Alignment, Digital Humanities, Statistical Language Model, Suffix Tree, Collaborative Search
+text mining, financial statements debt
+Anger, Opinion Mining, SNS, Fear, EmoAngrFear
+Fuzzy C Means clustering, Radiology reports, Text mining, Bag of words
+classification, bug database mining, vulnerability discovery, text mining, hidden impact bugs
+success factor, sentence identification, Text mining, inter-organization
+event-based search, events, semantic metadata, social history, event interpretation, text mining, discourse analysis
+Infix classes, stemming rules, stemming lists, short text classification, infix rules, Urdu stemmer
+concept mapping, Social network analysis, Industrial engineering, Knowledge discovery, Text mining
+pattern mining, data mining, pattern co-occurrence matrix, pattern deploying
+“Natural Language Processing or NLP”, Speech enhancement, Text mining
+data balancing, regex, recall, text mining, contextual features, social media
+Data mining, artificial intelligence, text recognition, information sciences
+Japan, newspapers, text mining, higher education, sustainability
+Keywords not found
+text clustering, microblog topic, frequent closed word sets
+terrorism, ISIS, text mining, recruitment, social media
+Clustering performance, Distance measure, K-mean technique, Text clustering, Similarity measure, Multi-objectives function
+machine learning, opinion spam, natural language processing, fake review, text mining
+Similarity, Density, Text clustering, Vector distance, Feature term
+text mining, cross entropy, discourse Deberta
+Text Mining, Aspect-based opinion mining, Sentiment Analysis, Recursive Neural Tensor Network
+topic network, topic modeling, Latent Dirichlet allocation, open-ended questions, teacher self-assessment
+Usability Quality, Text Mining, User Review, Action Games
+literature analysis, research themes and trends, topic modeling, human-computer interaction, text mining
+complex system, data mining, simulation
+text mining, social networks, machine learning, identity recognition
+gene, NER-Tagging, Text Mining, protein, Machine Learning
+multilingual information retrieval, information extraction, computational linguistics, similarity metrics
+Multi-features, TCM medical cases, Text mining, Conditional random fields
+text mining, sentiment analysis, voice of customer analysis, parallel association rule mining
+Opinion Mining, Sentiment Analysis, Multi-Document Summarization, Automatic Summarization, Text Mining
+biomedical text mining, deep learning, biomedical word embeddings, word representation
+Root extraction, Stemming, Machine learning, Natural language processing, Text mining, Information retrieval, Bigrams technique
+Latent Dirichlet Allocation, Class Association Rule Mining, Malware Detection, Topic Modeling, Text Classification
+Decision Tree C4.5, K-Nearest Neighbor, Classification, Text Mining, Hadith
+text analytics, automated assessment, digital maker activity, virtual reality content creation, automated feedback
+machine learning, KmerFIDF, miRNA analysis, text mining, transcriptomic data, multiple sclerosis
+Data Mning, OCR, Capstone Projects, Text Mining, Project Wikis
+short text mining, power equipment, natural language processing, operation and maintenance, Machine learning
+text mining, sale behavior, Indonesia, tax projection
+opinion mining, visualization, Unstructured-Data, sentiment analysis, natural language processing, business intelligence, web mining
+text mining, clustering algorithm, density clustering
+information extraction, application, text mining, named entity recognition, benchmarking
+Text comment, Unstructured data, Conceptual hierarchy, Attribute-Oriented Induction
+key-phrase extraction, Free-form textual data, telecommunications industry, text processing pipeline
+Lemmatization, Topic Modeling, Most Relevance Topic, Text Mining, Indonesian Journal
+Bayesian network, Bert model, text classification
+complaint, tweet, Government, naive bayes, prediction, text mining
+component, LDA model, topic mining, interactive text
+Biomedical Literature, Natural Language Processing, Text Mining, Breast Cancer, mHealth, Literature Curation, Mobile Applications
+attention mechanism, text sentiment analysis, teaching evaluation questionnaire, EDM
+pubmed. MineR, diabetic retinopathy awareness, diabetic angiopathies, diabetic retinopathy risk factors, vascular diseases, text mining, Diabetic retinopathies, retinopathy diabetic
+sentiment analysis, educational innovation, students evaluation, learning models, teaching assessment, Text mining, TEL-based education, higher education
+Online Scam, Cybercrime, Classification, Text Mining, Weka
+Summarization, MultiDocument, Sequential Pattern Mining
+web text mining, emotional analysis, web evaluation, big tourism data
+text mining, Policy analysis, document alignment, NATO
+Classifications of failure modes/causes, design failure mode and effect analysis (DFMEA), correlation between keywords, optimal set, text mining, verification and validation (V&V)
+IBM Watson, Medical text annotation, UMLS, Medical report, Text mining
+Data Mapping, Data Mining, Innovative Research Tools, Visual Analytics, Data Analytics, Data Visualization
+Automating, Collections, Categorize, Conversations, Insights
+Text Mining, Reviewer Recommendation, Distributed Software Development, Pull Request, Machine Learning
+Sentence Similarity, Idea Mining, Neural Networks, Text Mining, BERT, Machine Learning
+Text annotation, Text Labeling, Named Entity Recognition (NER), Text mining, Resume Corpus
+Data Analytics, Event Detection, Machine Learning
+subject and trend detectin, Data mining, Text Mining, Categorization, Text Classification
+Traditional Chinese medicine, Chinese herbal medicine, Text mining, Urinary tract infection, Pattern
+Preprocessing, Stop word removal, Stemming, Text Mining, Tokenization
+algebra system, text dimension reduction, feature articulation
+text mining, fine-tuning language models, semi-supervised clustering
+Keywords not found
+Keywords not found
+Occurrence Reporting, Random Forest, Text Mining, Text Classification, Air Safety Reports, Machine Learning
+Concept Location, Text segmentation, Text Mining, Execution Traces, Software modernization
+email analysis, digital forensics, pattern detection, LERP-RSA, ARPaD, text mining
+HMM, TCM medical records, Text mining, Conditional random fields
+similar scientific project detection, big data mining, discriminant framework, Hadoop architecture
+opinion mining, online reviews, sentiment analysis, Customer reviews, text mining
+Natural Language Processing, Data Mining, Sentiment Analysis, Frequent Pattern Mining, Text Classification
+natural language, Sentiment analysis, text mining, data mining, Twitter
+big data, data cleaning, preprocessing, strategy
+tuberculosis, epidemiology, ontology enrichment
+Textual data mining, classification, deep learning, natural language processing, semantic analysis, multi-label
+text mining, LDA, Huffman tree
+Visualization techniques, Human-centered computing, dynamic text stream, event identification, visual analytic, Visualization, Social media, text mining
+medical records mining, applications, text classification
+Natural Language Processing, Traffic Crash Narratives, Crash Analysis, Traffic Safety, Text Mining Analytics
+Natural Language Processing, Semantic Annotation, Data Mining, Text Analytics, Text Mining, Semantic Search, Knowledge Discovery, Corpus Linguistics
+revisit intention, textual comments, feature selection, text mining
+Open Source, Users' Feedback, Mining Software Repositories, Android OS, Text Analytics, NLP and SNA
+Text Classification, Text mining, TF-IDF approach
+big data, undergraduate course, data mining, IBM SPSS Modeler
+Data Mining, Text Mining, Naive Bayes classifier
+Data Extraction, Knowledge discovery, Web mining, Data Mining
+opinion mining, Sentiment Classification, support vector machine (SVM), Feature extraction, Text mining
+Text mining, work order, NLP
+Descriptive Analysis, Master Data Management, Systematic Literature Review, Text Analysis
+Patent Text Mining, component, Self-attention, Cross-attention, Technical Phrase Extraction
+Electronic Medical Records, Health care, Tools and Techniques, Text Mining, Bio-informatics and Clinical Text
+Clustering, Online Discussion, Hill-Climbing, Text Mining, Centroid Lingkage Hierarchical Method (CLHM)
+text analysis, decision support systems, machine learning, deep learning, text similarity, NLP
+Classification, Swarm Search, Feature Selection
+score, logistic regression XG Boost, bag of words, Kaggle data set, and favorable or negative evaluations of excellent food on Amazon, text
+voting ensemble, sentiment analysis, teaching evaluation, text mining
+text analytics, text summarization, topic moduling, text preprocessing, Natural language processing
+SVM, adherence, patient support program, patient notes, NLP, patterns
+opinion mining, outlier detection, Artificial Intelligence in Education (AIEd), decision support system, text mining, performance evaluation, Educational Data Mining (EDM), Machine Learning
+SVM, Random Forest, Logistic Regression, K-mean, KNN, Text Classification
+Web, Data Mining, Cloud Computing
+Word Clouds, Osteoporosis, Text Mining, Case-Based Reasoning
+incremental mining, Frequent Pattern Mining, Big Data, dynamic data base
+text processing, student evaluation of teaching, educational technology, Curriculum development
+copyright restrictions, data reconstruction, digital humanities, application platform, data mining
+sentiment analysis, tweet, text mining, naïve bayes classifier, organic coffee
+war, text messages, text similarity, Tweets, armed conflict, text mining, news reporting, Twitter
+Self-Management, Natural Language Processing, Data Mining, Diabetes
+Similarity, Extraction, Use Case Description, Step Performed, Text Mining, Sequence Diagram
+Medical Diagnosis, Text Mining, Machine Learning, Information Retrieval
+patent analysis, Emerging technologies, technology roadmapping, retail technologies, text mining, foresight
+cross-border logistics service, Kansei engineering, partial least squares, service design, text mining
+Bloom's Taxonomy, Text Mining, Educational Data Mining, Feature Selection, Machine Learning
+Emotion Detection, Classification, Text Mining, Naive Bayes Classifier, Particle Swarm Optimization
+text mining, discussion forums, automatic analysis
+research collaboration, expertise search, human resource management, research management, expert finding
+Evaluation of Teaching Skills, Normal Students, Text Mining, Information Technology
+Keywords not found
+text mining, knowledge discovery, information extraction, strategic alliance
+social media, travel diary survey, component, twitter
+AI, Text Mining, Word Cloud, Term Frequency, Intellectual Disability
+Data preprocessing, stemming, Text Classification, stopword removal, Turkish Text Classification
+alcohol consumption, stock price data, East-Japan earthquake disaster, text mining, KAMEl, YAMAYA
+Multi-label text classification, feature selection, Chi-Square test, grey wolf optimization
+Text mining techniques, Systematic Literature Review, Tool support
+text mining, knowledge extraction, semantics, TFxIDF(Term Frequency x Inverse Document)
+critical incident techniques, CKIP, KMRT, text mining, cluster analysis, customer satisfaction
+ensemble technique, spare parts, logistics, text mining, forecasting, data mining
+text mining, LDA, class evaluation, syllabus
+feedback categorisation, requirements elicitation, crowdsourcing, crowdsourced text mining
+Clinical pathway, processing methods, variance, text mining
+cosine based similarity, weight factor, minimum spanning tree, Text categorization, liver disease, clustering
+Smart Bracelet, Sentiment Analysis, Deep Learning, Text Mining, eWOM
+Naive Bayes, SVM, Machine LR, Text Mining, Text Classification, Information Retrieval
+big data, natural language processing, agile data science, UIMA, text mining
+online shopping atmospheric cues, grounded theory, network marketing strategy, online shopping executive intention
+Clustering, Affinity Propagation Clustering, Text Mining, K-Means
+evaluation model, index evaluation, user experience, android system, text ming
+Historical Corpora, Text mining, Toponym Resolution
+20 Newsgroups, Text Mining, Feature Selection
+News headlines classification, News classification, Classification model, Text Mining, Text classifiers, Machine Learning
+Origin of religious books, Segmental analysis, Artificial intelligence, Authorship classification, Text mining, Computational linguistics
+Keywords not found
+Information Extraction, Curriculum Vitae, Text mining, Resume, Crude job descriptions
+Text Mining, Word Representations, Meta-Embeddings, Semantics Preserving
+machine learning, emotion recognition, deep learning, lexicon-based approach, Sentiment analysis, text mining, emotion models
+online newspapers, Crime analysis, text mining, crime patterns, crime mapping
+Data mining, Pattern discovery, Information Retrieval, Sequential pattern mining, Text mining, Phrase based method
+Natural Language Processing, Information Extraction, Text Mining, Information Retrieval
+causality, ontology, LLM, Knowledge graph, text mining, user-product interaction
+Clustering, Natural Language Processing, Deep Learning, Bidirectional Encoder Representations from Transformers(BERT), CORD-19 Dataset, Embeddings, Paraphrasing, Semantic Search, Keyword Search
+Keywords not found
+healthcare, clinical application, association rules, clustering, text mining, classifiers, traumatic brain injury
+tourist experience, online reviews, bigram, Culinary tourism
+big data, image processing, image mining, structured literature review, computer vision
+Natural Language Processing, Opinion Mining, Data Mining, Deep Learning, Text Mining, Machine Learning
+clusterization, Information collection, K-mean, naïve bayes, knowledge discovery databases, data mining
+Feature selection, filter method, Wrapper selection, Arabic Text Classification
+sentiment analysis, lexicon-based, Budget, text mining, word cloud
+text mining, online word-of-mouth, movie market
+sentiment analysis, text classification, machine learning, Helmholtz Principle
+Parser, Big-Data, CV, Text Analytics
+review topic mining, deep learning, natural language processing, topic models
+Software Test Automation, VectorCAST, Integration Testing, Data Mining, Python, Text Mining
+Feature Selection, Configuration Bug, Data Mining
+Keywords not found
+Education, Educational Objectives, Text Mining, Engineering
+Natural Language Processing, Context Analysis and Indexing, Text mining, Biology and genetics
+TF-IDF, LSA, Sentiment Analysis, NLP, SVD
+Astrazeneca, Deep Learning, Sinovac, Convolutional Neural Network, Text Mining, Covid-19
+K-means clustering, Parkinson's disease, Classification system, Hierarchal clustering, Gait
+hot herb, traditional Chinese medicine, network, text mining, cold herb
+patent analysis, technology lifecycle, patent valuation, text mining
+opinion mining, term frequency, Stance Classification, natural language processing, text mining, Name Entity Recognition
+neural networks, financial opinions, deep learning, embedding, text mining
+Fusion, Bigram, Machine learning, Text Document Classification, Text Representation, ES-VSM
+attention mechanism, text multi-classification, text feature extraction, aviation unsafe information text, neural network model
+Text Processing, Stack Overflow, Classification, Deleted Question
+Latent Dirichlet Allocation, Topic Mining, Mining Thai Text Posts, Social User Interests, Knowledge Discovery
+Text Mining for Reliability, Warranty and Performance Analytics
+Similarity, Use Case Description, Gwet’s AC1, Functional Requirement, Text Mining, Software Requirement Specification
+Topic modeling, Decision support system, Analytics, CFPB, consumer complaint narratives
+Self-admitted technical debt, Eclipse plug-in, SATD detection
+The accuracy value, Drug, Text Mining, Effectiveness, K-Nearest Neighbor algorithm
+dialogue, chat, text mining, teamwork, learning analytics
+Online Learning, Sentiment Analysis, K-NN
+clinical notes, text mining, clinical decision support, EHR, biomedical mining, NLP, data mining
+language teaching and learning, text visualization, text corpus
+semantic web, web usage mining, mining, web personalization, Ontology
+Intelligent Agents, Belief Revision, Text Mining, Recommender Systems
+machine learning, twitter, aspect sentiment analysis, natural language processing, topic modelling, text mining, COVID-19, text classification
+text mining, acupuncture, hypertension
+Politics, Roman Urdu, Inflation, Opinion mining, Natural Language processing
+biomedical text mining, k-means algorithm, parasites, clustering analysis
+Natural language processing, 3D drawing, Knowledge discovery, Transition probability
+healthcare, digitization, text mining, literature review, digital transformation
+news, text mining, classification, LightGBM
+Literature Data Mining, Intelligent Text Extraction, Intelligent Input, Data Analysis, Analysis System
+DEA discriminant analysis, Text mining, Correspondence analysis
+Keywords not found
+policy intensity, natural language processing, policy themes, Integrated elderly care, policy subjects
+Validation, Extraction, Efficiency, Natural Language Processing, Propositions, Deep Learning, Concept Map, Refinement, Tokenization
+Text mining, Indicator-based methodology, Old civil buildings, Physical vulnerability, Expert consultant
+Testing, E-Discovery, Software Engineering
+SVM, random forest, classification, deep learning, decision tree, correspondence analysis, text mining, Discharge summary
+Classification, Clinical decision support system, Text Mining, UMLS, MetaMap
+Naive Bayes, Tf-Idf, J48, K-Nearest Neighbor, Stop-words, Stemmer, Text Classification, Support Vector Machine
+text Rank, Extractive methods, topic modelling, similarity measures, machine Learning, text Summarization, lDA, ranking
+Production Planning and Control, Maintenance, Data Mining, Industry 4.0, Text Mining, Machine Learning
+Text Categorization, Topic Identification, TF-IDF, Natural Language Processing, Arabic Text Categorization, K Nearest Neighbor, KNN
+Social Network Data stream, Text, Twitter
+facebook scrapper, tesseract ocr engine, web scrapping, text mining, facial encodings and recognition, twitter data extraction
+Bug reports, Severity Prediction, Machine Learning techniques, Text Mining
+feature similarity, text segmentation, k nearest neighbor
+text mining, financial risk, BERT, domain knowledge
+Information Extraction, Scientific Intelligence, Relation Extraction, Text Mining, Knowledge Engineering
+big data, Naï, support vector machine, sentiment analysis, Soekarno-Hatta International Airport, ve Bayes classifier, text mining.
+sentiment analysis, aspect classification, pattern matching
+Grouping, Fuzzy C-Means Clustering, Text Mining, Islamic Documents, Hadith
+performance analysis, Features probability distribution, machine learning based classifiers, power law, text classification
+Market Trend, RBM, LSTM, Financial Text
+Search Result Clustering, Text Mining, Wikipedia
+Investment decision, News, Media, Decision Support System, Text-mining
+news, financial time series, information processing, stock market, Bayesian method, topic modeling, prediction, text mining, data preparation, data mining, data processing, feature extraction, latent Dirichlet allocation
+text analytics, topics, sentiments, Student feedback, clustering, education data mining
+PDCA, Data Mining, Environmental Management, Information Sciences, Intelligent Systems
+heterogeneous graph, physician knowledge, medical text classification, dependency modeling, hierarchical attention mechanism
+text summarization, feature similarity, k nearest neighbor
+big data, similarity metrics and measures, recommender systems, information retrieval, data mining, documents
+Data mining, Causal Network, Text mining
+Deep learning, Generative adversary network, Data preprocessing, Distribution network, Text classification
+classification, content mining, microblogging, social web mining, data mining
+mobile robot, automated guided vehicle, industry 4.0, topic modeling, text mining
+Policy Formation, Stakeholder's Reactions, EV Policy, Text Mining, Automobile Sector
+text analysis, machine learning, pattern recognition, topic modelling, disease-gene linkage
+information extraction, language model, content text recognition, text mining, text corpus construction
+text analysis, cancer biomarkers, information extraction, knowledge discovery, network analysis, text mining
+text-mining, sentiment, twitter, cryptocurrency
+text mining, User needs, product features, acquisition
+biological NLP, biomedical literature, information extraction, gene-gene-interaction, Text mining
+Apriori, Web mining, MVC, distance education
+GataFramework, Gini Index, Support Vectore Machine, Tweet, Text Mining, Risk, Imbalance SMOTE
+unsupervised, data analytics, sentiemnt analysis, text mining, lexicon, social media
+sentiment analysis, natural language processing, Electronic Health Records, screen sharing, doctor-patient communication, text min-ing
+Keywords not found
+semantic space, sentiment categorization, Tibetan microblog, K-means, text representation
+Online Review, IPA, Text Mining, Mobile Banking
+word embeddings, deep learning, text data mining, Classifier ensembles
+relationship extraction, breast cancer, visualization, entity recognition
+softmax regression, topic model, text classification
+stop-word list, Slovak language, text mining, shingles, document similarity
+transformers, Simhash, text mining, intelligent recommendation, Hamming distance
+text stream, event, event graph
+conceptual term frequency(ctf), document-based, Concept Based Classifier, sentence-based, Self Appreciating
+text mining, probabilistic topic model, query expansion, text retrieval
+MBSE, Manufacturing, Model based Systems, Systems Engineering, Text Mining, Production
+Knowledge Shaaring, Thai Text Classification, Thai Medical Information Retrieval, R2R, ICD10TM, Data Analytics, Knowledge Extraction, Thai Medical Corpus, Word Relationship Extraction
+algorithms, National Program of Cancer Registries, deep learning algorithms, cancer, Text mining, Certified Tumor Registrars (CTRs), "Natural Language Processing or NLP", Machine learning
+Automated term identification, Rosenblatt's perceptron, automated term categorization, supervised machine learning, text mining
+Recruitment information, Text clustering, Web crawler
+Big data mining, Complex network, Traditional Chinese medicine
+market analysis, named entity matching, string similarity, market size, text mining
+text summarization, term frequency, component, application, news article
+Bangla language processing, natural language processing, content word, text preprocessing, stop word
+Data Set Characteristics, Data Mining, Automatic Selection, Algorithms
+lyrics, the age of listener, Indonesian songs, text mining, naive bayes classifier
+User Classification, Class Imbalance, Text Mining, Machine Learning, Social Media, Twitter
+information extraction, terminology, word2vec, term extraction, text mining
+LERP-RSA, text mining, social network analysis, ARPaD, code similarity detection, code plagiarism detection
+mammogram cleaning, artificial intelligence, k-means, data science, breast cancer, text mining, data clustering
+Keywords not found
+policy public opinion index, integrated learning, label propagation algorithm, text mining, real estate market macroeconomic policy
+neural networks, Data preprocessing, decision trees, text classification, systematic literature review, naive Bayes, support vector machines (SVMs), text mining, real-time systems, social media
+Naive Bayes, Decision Tree, Text classification, k-Nearest Neighbour, Support Vector Machine, Machine Learning
+Cosine Similarity, Artificial Intelligence, Text Mining, Research Articles, Phrase Mining, Research Trend Analysis
+crowdfunding, feature selection, sentiment, reviews, text mining
+constraint-based k-means clustering, recall, treatment modalities, text mining, COVID-19
+dimensionality reduction, latent semantic indexing, searche engine, Arabic text
+Relevance Feedback and Text Mining, Feature Extraction, Feature Selection
+data mining, web content blocking, text classification
+Keywords not found
+K nearest neighbor algorithm, classification models, Text mining, documents categorization
+loyalty, text mining, LDA topic model, MOOC learner
+text classification, law texts, fuzziness detection
+Health 2.0, Internet, Opinion Mining, Data Mining, Patient Experiences, Text Mining
+Stress Reliever, Stress Analyzer, Mobile message emotion extraction model, Dynamic Stress library, Relationship classifier
+opportunity algorithm, Text-mining, clustering methods, social network services
+decision making, On-site inspection, keyword extraction, topic modeling, construction management, text mining
+Natural Language Processing, Text Processing, Unstructured data, Rule Engine
+multiview, feature selection, genetic algorithm, text mining, feature extraction
+sentiment analysis, cognitive image, multiclass classification, network analysis, destination image
+Document clustering, Interdisciplinary research, K-means, Computing disciplines, Topic modelling
+Swarm intelligence, Data mining, Text clustering, Text mining, Machine learning
+Data mining, Social network analysis, feature vectors, fraud group
+reuse of information, text-mining, time-constrained requirements, Requirements elicitation, just-in-time requirements
+Traffic event detection, Apache spark, Binary classification, Text mining, Twitter4j, NLP
+datasets, methods, system literature review, text mining, text classification
+Innovation management, Environmental Scanning, Semantic network, Text mining, Topic modelling
+Latent Dirichlet Allocation, Topic model, OVO, Text mining, LDA, Fintech
+automatic language processing, arabic language, light-stemming, stemming, text mining
+SMEs strategic plan, Data analytic, Visual Analysis, Data Mining Tools, regression analysis
+Latent Dirichlet Allocation, codeine, methadone, hydrocodone, topic modeling, morphine, text mining, prescription opioid, oxycodone
+SVM, Culture, ontology, Collaborative learning, Emotion, Learning Analytics, text mining
+Text similarity, syllabus similarity, text mining, education, students' mobility.
+Data Mining Trends, Data Mining, Big Data, Social Media
+Knowledge Discovery in Database (KDD), Social Network Analysis (SNA), Educational Data Mining (EDM), Learning Management System (LMS)
+text mining, SMEs (small and medium-sized enterprises), GNT (global niche top)
+Lower and Upper approximations, Reduct, Information system, Discernibility, Rough sets, Feature Selection
+Data mining, Text mining, Information retrieval
+analytics, aviation industry, COVID-19, text mining
+cloud computing, intelligence analysis system, domestic platform, text mining
+online shopping behavior, online shopping commentary, Text mining, semantic network
+Requirement Elicitation, Data Mining, Automated Requirement Gathering, Software Product Line
+Information Fusion, Text Analytics
+text mining, trends, marketing, social media
+graph structure optimizing, the common sub-graph of maximum, the matrix of semantic similarity, semantic graph structure
+text mining, hierarchical clustering, digital twins, software classification
+Opinion Analysis, Sentiment Analysis, Text Mining, Polarity, Text Classification
+Naive Bayes, TF-IDF, Bloom's Taxonomy, Classification, Text Mining, Exam Questions
+Rail safety, partial least squares, random forests, safety engineering, latent Dirichlet allocation
+data preprocessing, motivation theory, fuzzification, logs, clustering, text mining, web mining
+Extraction, Literature, Biomedical, Text mining, Relation, Methods
+Wearable Devices and Health Monitoring, Challenges in Adopting Wearable Devices, Limitations to Wearable Medical Devices, Wearable Medical Devices, Literature Based Text Mining
+text mining, fraud detection, Financial statement fraud, qualitataive analysis
+text mining, sentence simplification, natural language processing, information extraction
+Searching rates, K-nearest Neighbor, Classes Center area, Precision, text classification
+Text processing, Natural language processing, Text mining, fuzzy measures, Hidden Markov models
+Named Entity Recognition, Ontological Terms, Term Classification, Text Mining, Disease Names Recognition, Seed Terms
+text analysis, deep learning, state-related crash, variable designation, crash narratives
+Knowledge map, Text mining, Hierarchical clustering, Artificial bee colony algorithm.
+Similarity, Summarization, External and Internal Clustering Measures, Text Mining, Knowledge Discovery
+innovation process, fuzzy front end (FFE), customer-centric innovation, text mining, Crowdfunding
+e-government, data mining, Complaint service
+Data Mining Algorithms, Pattern Recognition, Intelligent Manufacturing, Data Association Rules
+Information Retrieval, Data Mining, Machine Learning, Text categorization
+Document Similarity, Text Mining, Parameter Selection, Rabin-Karp
+Sales Potential, neural network, VOCs, Negative Attitude, segmentation algorithm, text mining, call centers
+Change history mining, Text mining, Code mining, Bug localization
+Topic model, Text mining, e-wallet, E-wallet, Latent Dirichlet Allocation (LDA)
+Cosine Similarity, Monotone Measure, KNN, Text Classification, Choquet Integral
+lemmatizing, Thue-Morse sequence, lossless compression, stemming, compression ratio
+network public opinion, web crawler, negative word, positive word, text mining
+data-driven persona, label mining, knowledge graph, rural tourism
+Keywords not found
+text mining, proactive personality, Machine learning
+patent analysis, contextualized word embedding, static word embedding, text classification
+unstructured data, Mining, K Means Clustering, k-Nearest Neighbor, structured data
+Tourism behavior, Tourist density map, Text mining, Chinese tourists
+Arabic Text Summarization, Stemming, Graph model, Light Stemming
+Phrase analysis, Phrase weights, Text mining
+opinion mining, social events, text analysis
+sentiment analysis, entropy, topic modeling, text mining, social media
+media framing, Singular Value Decomposition (SVD), clustering, text mining, Latent Dirichlet Allocation (LDA)
+graduate students, classification, employability, regression, Data mining techniques
+Social Media (SA), Text mining, Natural Language Processing (NLP), Word cloud
+Search Engine, TF-IDF, Personalized Search, Healthcare, Text Mining, Shingle
+sentiment analysis, Metaverse, topic modeling, service quality, text mining
+text mining, PLSA, Text clustering, subspace
+hierarchical fusion, high density, data mining, data traffic, image analysis
+R language, Higher Education, Social Media Mining, Visualization, Text mining
+text mining, news stories, identity theft, PII attribute
+text mining, joint condition entropy, genetic algorithm
+Taxonomy Generation, Stemming, Text Mining, Tokenization, Text Preprocessing
+Assessment, Text Mining, Implementation, UU ITE
+Automation of SW testing, Text Mining, SWAT
+knowledge discovery, news retrieval, web news mining, online news, web mining, data mining
+Naive Bayes, GST, Sentiment Analysis, Text Mining, Machine Learning
+Keywords not found
+mining, Kansei, robust, ISPs
+Data mining, User-generated content, User preference, Social network analysis
+text summarization, review assessment, TextRank, stop words, text mining
+natural language processing, web content mining, automation, information extraction
+supervised term weighting, automatic text classification, node centrality, graph-based text representation
+Corpus, Business Process, Named Entities Recognition, Text Mining, Success factor
+social interaction, information extraction, natural language processing, personalization, text mining, collaborative learning
+Phishing webpage, Group Method Of Data Handling, Multilayer Perceptron, Logistic regression, Probabilistic Neural Network, Classification, Decision Tree, Text mining, Support Vector Machine, Genetic Programming
+stopwords, Information retrieval, text based clustering, TF IDF
+Big Data, N-gram, Relational Database, NoSQL, Text Mining
+Naïve bayes, Tf-idf, Logistics Regression, Decision Tree, N-gram (Bi-gram), k-Nearest Neighbours, Text Classification, Support Vector Machine
+text mining, Folksonomy, video summarization
+Medical Education, Artificial Intelligence, Text Mining, Case Summaries, Text Classification
+word embeddings, text mining, document classification
+classification, feature reduction, feature selection, clustering, dimensionality
+text mining, Web mining, clustering methods
+text-mining, classification, mobile application
+text mining, agile development, audio to text transcription, just-in-time requirements
+Distributed Data mining, Multi-Agent Systems, Cloud Computing
+big data, business processes, Shariá law, Murabaha, Islamic Finance, text mining, Quránic corpus
+data quality, data mining applications, health big data, health data analysis, data mining, predictive modelling
+text mining, social text data, emotional analysis, customer satisfaction of public institutions
+semi-supervised learning, weakly-supervised learning, Electrical fault identification, text classification
+Ancient Documents, Authorship Attribution, Text Mining, Artificial Intelligence
+Keywords not found
+text mining, rationale
+representational flexibility, learning by making, educational data mining, virtual reality
+Apache Spark, Graph Database, Distributed Algorithm, Unsupervised Learning, Selective Weighting, BERT, Semantic Similarity
+MapReduce, Distributed Storage, Text Mining
+Keywords not found
+text mining, requirements quality
+support vector machine, sentiment analysis, natural language processing, naïve bayes, nbsvm, text mining, youtube
+policy making, Telegram, natural disaster, Twitter, sentiment analysis, text mining, social media
+Text pattern, Text position, Information retrieval, Idea identification, Text extraction
+incident and emergency management, Smart city, social media, Arabic text, text classification
+TFIDF, classification, indexation, TextRank, graph representation, Arabic Text Mining
+consumer product catalog, named entity normalization, user generated content, named entity recognition, CPROD1 contest
+vikipedi, turkish text classification, semantic algorithms, wikipedia, textual data mining, text classification
+Dimension reduction, Semantic relatedness, Text representation, Microblog mining, Deep autoencoder
+Web Mining, Ranking Algorithms, Web Structure Mining
+Keywords not found
+computerized assessment, hamming distance, text similarity, text mining, dyslexia
+data mining; social recommendation; tags
+Multi-Text Label, Label Extraction, Chinese Lexical Analysis
+TF-IDF, N-gram, SVM., Text mining, Sentiment analysis, BOW
+twitter, text categorization, terroris, Naïve Bayes
+Support Vector Machine, Text classification, Online Safety
+Keywords not found
+Telematics, Confusion Matrix, Naïve Bayes, TF-IDF
+Data mining, SVM, KNN, Text classification
+Clustering, cosine similarity, data mining, K-Means clustering
+Topic modeling, Clustering, Unsupervised learning, Classification, Text Mining, LDA
+Trends detection, Trends evolution, Text mining, Fashion blogs
+Hierarchical Clustering, Social Entrepreneurship, Text Mining, No-Code, Machine Learning
+Educational data, Data Mining, EDM Tools, Educational Data Mining, EDM Methods
+text mining, online reviews, sentiment analysis, clustering
+machine learning, SIEM, unstructured log messages, natural language processing, named entity extraction, data mining, Security Information and Event Management, text classification
+Quantitative comparison reserarch, Effect range of medicine, Medicine, Text mining, Package Insert, Experimental configuration
+China Li Ning, Communication contents, Component, Text mining, National trend
+text classification, convolutional neural network, law texts, fuzziness detection
+big data, Hadoop distributed file system (HDFS), process mining, text mining
+Apache Spark, information extraction, parallel processing, natural language processing, cloud-based platform, knowledge graphs, text mining, digitised historical collections
+Cosine Similarity, Hazardous Element, Initiating Event, Supervised Classification, Text Mining, Contractor Safety
+tourism, e-commerce, Data Mining, Web Data Mining
+threat intelligence, cybersecurity news, topic model, cybersecurity event tracking, text mining, event detection
+Component, Malware, EULA Analysis, Text Mining, Malware Detection, Survey, Computer Security
+Paragraph Vectors, doc2Vec, DL4J, PV-DM, PV-DBOW, text mining, word2Vec, author profile identification
+N-Grams, Spatial Analysis, Sentiment Analysis, Big Data, Digital Humanities, Text Analytics, The Refugees (2017)
+Clustering, Natural Language Processing, RV Coefficient, Log Likelihood Comparison, Text Mining
+Fraud Detection, Spam E-mails, Service systems, Text Mining, Financial Market Monitoring system, Pump and Dump manipulation
+feature selection, synonym merge, POS filter, text classification
+Keywords not found
+media-bias,-text-mining-sentiment-analysis,-machine-learning
+Keywords not found
+text mining, the Government Work Report of the State Council, topic evolution, word co-occurrence
+Paraphrase Detection, Natural Language Processing, Text Similarity, Machine Learning
+Turkish Language, morphological analysis, text mining, Aspect based sentiment analysis, annotation, JSON data
+Text Mining, Big Data, Hadoop, Big Data Analytics
+Naive Bayes, Bug Reports, Text Mining, Bug Severity, Bugzilla
+text mining, financial-related text, embedding, deep learning, neural networks
+Education Institutions, R, Text Mining, Online Social Networks (OSNs), Twitter
+Image Mining, Image Patterns, Image Retrieval, Neural Networks, Data Analysis
+Opinion Mining, Sentiment Analysis, Text Mining, Political domain, Twitter
+Rare words, Lexical Features, Computational Linguistics, Authorship Attribution, Artificial Intelligence, Word N-Grams, Arabic language, Text-mining
+Commanality measure, Clustering, Apriori, frequent item
+trends, knowledge discovery, data mining, patterns
+usage pattern, SAS, enterprise microblogging, Topic and Text analysis, Text mining
+root extraction; feature selection; topic identification; natural language processing; data mining; text mining
+Corporate social responsibility reporting (CSR), topic modeling, latent dirichlet allocation (LDA), global reporting initiative (GRI)
+big data, JSTOR, iRODS, Cheshire3, Internet Archive, natural language processing, data management, data mining
+text mining, machine learning, attorney, automatic process analysis
+Classification, Text Categorization, Artificial Intelligence, Machine Learning
+text pre-processing, proximity measures, document representation, dimension reduction, term weight
+text mining, live streaming barrage, BERT-BiLSTM, intention identification
+KDD, Cyberterrorism, Association Rule, Text Mining, FP-Growth
+HTRC Extracted Features Dataset, HathiTrust, text and data mining, digital libraries
+Content Analysis, Market Driven, Text Mining, Requirement Engineering (RE)
+Clustering, Neuro Fuzzy, Data Mining, Neural Network, Fuzzy Logic, Soft Computing
+Community Discovery, Latent Dirichlet Allocation, Social Network Analysis, Web Intelligence, Text Mining
+Parallel Programming, Data Clustering, High Performance, Data Mining, Apriori Algorithm
+Domestic Violence, Natural Language Processing, Opinion Mining, Sentiment Analysis, Text Mining, Domestic Abuse, Social Media
+Veracity, Value and Volatility, Validity, 8V: Volume, Viability, Velocity, Variety
+sentiment analysis, on line sociai networks, social sensing, text mining, social media
+Pre-processing, transaction sequence model, text data mining, vector space model, tensor space model, evaluation
+similarity measurement, graph clustering, feature selection, Crime analysis, text mining, community detection
+summarization, word frequency, python, Indonesian folklore
+Information Propagation, R, Text mining, Google Scholar
+Opinion Analysis, Opinion Mining, Asean Free Trade Area (AFTA), Sentiment Analysis
+NLP, Text Analytics, mapReduce, semantic textual similarity, word2Vec, VSM, TD-IDF, BOW, Information Retrieval
+group discussion, text mining analysis, disaster risk management
+text mining, text similarity, ratcliff/ obershelp, automatics assessment
+Kernel K-Means, Text Mining, Multilingual Document Clustering, Semantic Text Clustering, WordNet
+Gene Network Analysis, Bio-informatics, Optimization, Text Mining, Gene Expression
+Term frequency, Unstructured data, Stemming, Stop words, Text mining, Tokenization
+new energy, convolutional neural networks model, policy identification, policy classification
+greedy algorithm, dataset(grammars), temporal database, EM(Expectation-Maximization) Algorithm
+supervised machine learning, Turkish text classification, n-gram features
+conditional random fields, natural language processing, clinical text analysis, semantic evaluation
+Document Mapping, Cosine Distance, Inverse Document Frequency, Text Mining, Term Frequency
+MLP, unstructured text, neural network, multi-layer perceptron, pair programming
+text mining, recommendation, sentiment analysis
+Information Extraction, Finance, Key Audit Matters, Text Mining, Chinese Knowledge Graph
+Technical standard, Standard essential patents, Text mining, Patent identification, Generative Topographic Mapping
+k-means algorithm, business analysis, silhouette coefficient, clustering, data mining
+Visual Text Mining, Vector Space Model Computation, Term Frequency Thresholding, Otsu's Threshold Selection Method
+digital tools, distributed queries, humanities research, High-Performance Computing, text mining, digitised primary historical sources, XML schemas
+SOIC Ontology Extension, Latent Dirichlet Allocation, Web Text Mining, Semantic Web
+systems engineering (SE), visualization, topic modeling, Effectiveness, text mining, word similarity
+History of Islamic Inventors, Automatic Clustering, Spatio-temporal, Text Mining
+Virtual Community, Text mining, Graph API, BLOG
+Semi-supervised, Unsupervised, Sentiment Analysis, Supervised, Machine Learning
+support vector machine, decision tree, Corporate Social Responsibility, random forests, Machine learning
+Structured data extraction, Email summarization, Knowledge extraction, Text mining, NLP
+agile software development, topic modeling, text mining, software engineering, research trends
+research project selection, Text mining, ontology
+text mining, professional communication, engineering, social media
+Keywords not found
+keyword analysis, education policy, AI education, text mining, word cloud
+Vector support machine, Pancreatitis, Partial Least Squares, Text classification, Information gain
+patent matrix, patent analysis, natural language processing, technology planning, technical information, Information relation matrix, text mining, semantic patent mining
+Microblog, text clustering, topic detection, LDA
+Risk Assessment Matrix, Kernel-based function, Risk Analysis, Text Mining, Space Industry, Supported Vector Machine
+Keywords not found
+text mining, e-government, Classification, public complaint
+K_means, Text clustering, knowledge graphs
+Data mining, technological intelligence, patent analysis, utility mining
+labeling, text mining, ontologies
+SVM, Neural Network, Rocchio, Rule Based, Decision Tree, KNN, Regression, Text Classification, Naïve Bayes
+classification, e-learning, learning concepts, exam queries, educational data mining
+Feature selection, J48, Text categorization, class-specific features, PDF projection and estimation, Term weighting, dimension reduction
+expert system, mobile application, web scraping, text mining, named entity recognition
+Danggui, associated rule, traditional Chinese medicine, validation, text mining
+SOFM, term frequency, web document clustering, suffix tree clustering, concept-based similarity measure, text mining, conceptual term frequency
+machine, classification, entity, patterns, extraction, rules, mining, property, text, learning
+latent semantic analysis, text clustering, clustering ensemble, genetic algorithm
+text mining, criminal data analysis, geographical mapping, web data mining
+Learning context, Personalized learning, Knowledge graphs, Graph-based database models, Text mining
+text mining, fishbone diagram, association rules, attendance mobile application
+cognitive simulation, association rules, Text analysis, knowledge representation
+social media mining, Query systems, sentiment analysis, association rules, pattern mining, non-query systems
+business intelligence, fuzzy clustering, Knowledge discovery, web usage mining
+TF-IDF, Medical Diagnosis, Information Retrieval, K-means, Text Mining, Cluster Analysis, Vector Space Model, Machine Learning
+Keywords not found
+Document Classification, RPA, Text Mining, Conversational AI, Skill Classification, NER
+Nature of Document, Text mining, Semantic graph, Keyword extraction, Language Network, WordNet
+text mining, Instagram, Term-Frequency and Inverse Document Frequency, social media
+sentiment analysis, distributed representation, text mining, stock market
+Sentiment Analysis, Tourism, Text Mining, Naïve Bayes, Twitter
+Graph representation, representation scheme, graph matching, graph, text mining, NLP
+Sentence Embeddings, Biomedical Text Mining
+text mining, bankruptcy information, feature word, topic drift
+Authorship Identification, Natural Language Processing, Word2Vec, MLP classifier, Text Mining
+Android malware detection, malware family classification, LERP-RSA, ARPaD, text mining
+Dream Consultation, Knowledge Management, Artificial Intelligence, Text Mining, Semantic Analytics
+Keywords not found
+documents semantic, text mining, Ontology, literature, Information Retrieval
+Otsu method, Document analysis, Text separation, Image segmentation
+Smart City, CMS, Content Management System, Knowledge Representation, Taxonomy Mining
+machine learning, text mining, software vulnerability prediction, software metrics, Web application
+machine learning, tenderdtocument classification, DRDO, text mining, naïve bayes classifier
+fusion, emotional classification, Algorithms, text mining, speech mining
+Python, web content mining, decision-making support, trend analysis
+precision, recall, modus operandi, Crime reports, text mining, named entity recognition
+Clustering, Expectation maximization clustering algorithm, Classification, Text mining, Ontology
+Clustering, Decision tree, Learning Analytics, Data Mining, Classification, Educational Data Mining, Prediction Performance
+text mining, independent coffee shop, service quality, ontology
+L1 regularization, Apriori, association rule mining, direct importance estimation
+qualitative research, dentists, living people, text mining, oral health, risk management, Key Graph
+Knowledge acquisition, Hourly things, Text mining, Weekly things, Daily things, Monthly things
+competence analysis, crowdsourcing, LDA, innovation design, service provider evaluation
+Indonesian, lyrics, song, topic modelling, latent dirichlet allocation, text mining
+RAKE, TF-IDF, Automatic Text Summarization, baseline, TextRank, Keywords extraction
+text mining, bioinformatics, name entity recognition, VSSWA

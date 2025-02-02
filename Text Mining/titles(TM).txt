@@ -1,0 +1,1100 @@
+Text Mining Of English Grammar Books In 19th ~ 20th Century
+Text Mining Techniques for Knowledge of Defects in Power Equipment
+A Survey on Text Mining Techniques
+Text mining: Challenges and future directions
+Assessment of Congruence of Unstructured Data Using Text Mining Technology
+Review on Text Mining: Techniques, Applications and Issues
+Relevance Feature Discovery in Text Mining Using NLP
+Auxiliary Diagnosis of Type 2 Diabetes Complication Based on Text Mining
+Pattern and Cluster Mining on Text Data
+Analysis and evaluation of unstructured data: text mining versus natural language processing
+Criminal Activity Detection in Social Network by Text Mining: Comprehensive Analysis
+Policy Text Analysis Based on Text Mining and Fuzzy Cognitive Map
+Text Mining for Hypotheses and Results in Translational Medicine Studies
+Text mining in bioinformatics: Past, present and future
+Continued Supporting a Systematic Literature Review by Applying Text Mining Methods
+Analogical Text Mining: Application to Arabic Text Summarization and Classification
+A Survey on Text Mining Tools and Techniques support early testcase prediction
+Descriptive Feedback on Interns’ Performance using a text mining approach
+How to find valuable references? Application of text mining in abstract clustering
+Text Mining Approach for Product Quality Enhancement: (Improving Product Quality through Machine Learning)
+A novel text mining algorithm based on deep neural network
+Experimental Evaluation of Intelligent e-Government System Based on Text Mining
+A Text Preprocessing Framework for Text Mining on Big Data Infrastructure
+The text mining and classification analyses on the relationship of Macau special administrative region's policy addresses from 2012 to 2013
+New Insights into Road Accident Analysis through the Use of Text Mining Methods
+Research on Text Naming Recognition Algorithm Based on Text Mining
+Education data mining: How to mine interactive text in MOOCs using natural language process
+Data Analysis Support by Combining Data Mining and Text Mining
+Trend Analysis in Machine Learning Research Using Text Mining
+Detecting Subjectivity in Staff Perfomance Appraisals by Using Text Mining: Teachers Appraisals of Palestinian Government Case Study
+The use of Text Mining to classify the best people management practice
+A prototype for context identification of scientific papers via agent-based text mining
+A Review Text-based Recommendation System in Text Mining
+Text Mining for the Analysis of Legal Texts
+Text-mining in Terms of Methodology and Development
+Customised OCR correction for historical medical text
+Text mining supporting initial literature review : When you start a new area of R&D – text mining may help you with this task
+Applying Text Mining for Classifying Disease from Symptoms
+Automatic Text categorization and summarization using rule reduction
+The text mining model building of open questionnaire based on LSA
+Mining conceptual rules for web document using sentence ranking conditional probability
+Method for the Semantic Modelling of the Product Context Using Text Mining for the Derivation of Innovation Potentials
+Power Equipment Defect Text Mining Based on New Word Discovery and Feature Fusion
+An ontology-based text-mining method to develop intelligent information system using cluster based approach
+A review on social audience identification on twitter using text mining methods
+Text Mining of Highly Cited Publications in Data Mining
+Cybercrime profiling: Text mining techniques to detect and predict criminal activities in microblog posts
+An Improved of Stemming Algorithm for Mining Indonesian Text with Slang on Social Media
+Constructing knowledge using exploratory text mining
+A review of methods for mining idea from text
+Intelligent Prediction of Vulnerability Severity Level Based on Text Mining and XGBboost
+Sentiment Analysis on the Perception and Mindset of the People of Indonesia on the Use of Vaccines to Deal with the Covid-19 Pandemic using the Text Mining Method
+Development of Class Diagrams Based on Use Case, and Sequence Diagrams Using a Text Mining Approach in SRS Penguin
+An Analysis and Research of Type-2 Diabetes TCM Records Based On Text Mining
+A review on text mining
+Extracting knowledge using probabilistic classifier for text mining
+Efficient Analysis for Extracting Feature and Evaluation of Text Mining using Natural Language Processing Model
+Keywords Generator From Paragraph Text Using Text Mining in Bahasa Indonesia
+Application of Text Mining Technology to Solve Project Management Problems
+Log Design for Storing Seismic Event Characteristics Using Process, Text, and Opinion Mining Techniques
+Operational pattern revealing technique in text mining
+Machine Learning Algorithms with Co-occurrence Based Term Association for Text Mining
+Customer Complaints Clusterization of Government Drinking Water Company on Social Media Twitter using Text Mining
+Implementation of pattern discovery to retrieve relevant document using text mining
+GPU accelerated Chemical Text mining for relationship identification between chemical entities in heterogeneous environment
+A Text Mining Approach for Automatic Selection of Academic Course Topics based on Course Specifications
+Text mining and information professionals: Role, issues and challenges
+Intelligent Mining Method of Distribution Line Trip Filling Text
+Enhanced Text Classification Methods to Improve the Performance of the Various Text Mining Processes using Rapid Miner
+A Text Mining Algorithm Optimising the Determination of Relevant Studies
+Text mining: Finding right documents from large collection of unstructured documents
+Using Contextual Text Mining and Ontology Methods to Establish a Novel Technology Trend and Associative Analysis Framework for Sustainable Energy Development in Taiwan
+Knowledge-based Production Documentation Analysis: An Integrated Text Mining Architecture
+Text Mining Analysis in Turkish Language Using Big Data Tools
+Analysis of stock market using text mining and natural language processing
+Text mining in radiology reports by statistical machine translation approach
+The Use of Text Mining to Investigate Undergraduate Research Topic Clusters from 2015 to 2019
+A Study and Analysis of Gene Drug Association for Diabetic Gene - A Text Mining Approach
+Text Mining A Decade Of Focal Development Trends In An African Country
+Analysing Digital Banking Reviews Using Text Mining
+Text Mining with HathiTrust
+Pre-Processing techniques of Text Mining using Computational Linguistics and Python Libraries
+Techniques on text mining
+Text Mining and Analysis Based on XLNet-BiLSTM Model
+Mining typos in text
+The comparation of text mining with Naive Bayes classifier, nearest neighbor, and decision tree to detect Indonesian swear words on Twitter
+Application of text mining for classification of community complaints and proposals
+Optimal stop word selection for text mining in critical infrastructure domain
+Text Mining Analysis on Determinants of Environmental Costs Expenditure as Time Series Data
+Performing literature review using text mining, Part II: Expanding domain knowledge with abbreviation identification
+Application of formal grammar in text mining and construction of an ontology
+Intelligent Analysis Mechanism of Online Sales Volume of Leisure Industry Town Products Based on Text Mining Technology
+Research on Technology, Algorithm and Application of Web Mining
+Text Mining Software and Their Applications
+Towards Extractive Text Summarization Using Multidimensional Knowledge Representation
+Discourse Processing and Its Applications in Text Mining
+Peer Recommendation Based on Text Mining Algorithm
+Analysis of the Art of War of Sun Tzu by Text Mining Technology
+Automated Analysis through Natural Language Processing of DGMS Fatality Reports on Indian Non-Coal Mines
+Independent Component Analysis Based on Natural Gradient Algorithm for Text Mining
+HealthMine: A Tool for Social Media Text Mining in Health
+A Roadmap on Developing a Taxonomy for Text Data Mining
+Using data mining to extract knowledge from student evaluation comments in undergraduate courses
+A study of factors that affect consumer loyalty in automotive financing company based on structural equation modeling and text mining
+Relevance Feature Discovery for Text Mining
+Evaluation of Universities' Integrated Reports Using Text Mining Technique
+Visualization System for Traditional Crafts based on Text Mining with Sentiment Analysis
+An Evaluation of Character Level N-gram Termsets in Text Categorization
+Performing literature review using text mining, Part III: Summarizing articles using TextRank
+Review of Survey Research in Fuzzy Approach for Text Mining
+A Study on NLP Based Approach in AI and Text Data Mining for Automated Highlighting of New Information in Clinical Notes
+Automated Essay Scoring Using Natural Language Processing And Text Mining Method
+Hierarchical Text Clustering and Categorisation Using a Semi-Supervised Framework
+Rules of traditional physical therapies in treating hypertension through text mining
+Can text mining technique be used as an alternative tool for qualitative research in education?
+An analysis of the sales and consumer preferences of e-cigarettes based on text mining of online reviews
+A Visualized Pattern Discovery Model for Text Mining Based on TF-IDF Weight Method
+Investigating the Benefits of Text Mining for Information Analysis
+Introduction to Data, Text, and Web Mining for Business Analytics Minitrack
+Enhancing Text Mining Using Deep Learning Models
+Review of Text analysis Based on Deep Learning
+Information Extraction From Text Messages Using Natural Language Processing
+Identifying genes involved in biocorrosion from the literature using text-mining
+Location-Based Modelling And Analysis Of Threats By Using Text Mining
+An overview on extractive text summarization
+Analysis of Medical Incident Reports using Text Mining*
+Introduction to Data, Text, and Web Mining for Managerial Decision Support Minitrack
+Development of a text retrieval and mining system for Taiwanese historical people
+Intellectual Analysis of Text Data for Solving the Problem of Information Categorization
+Substation Transformer Failure Analysis Through Text Mining
+Exploring the associating rules of prescription and syndrome on Radix Astragali with text mining
+Mining the web and medline medical records to discover new facts on diabetes
+Mining the Highway-Rail Grade Crossing Crash Data: A Text Mining Approach
+A text mining method for research project selection using KNN
+Exploring Research Opportunities to Apply Data Mining Techniques in Software Engineering Lifecycle
+Research-Based Text Extraction with SVM Distinct Stages Framework Data Mining Approach
+A Study of Relationship between Investor Sentiment and Stock Price Based on Text Mining
+Detection and Summarization of Honest Reviews Using Text Mining
+Road condition monitoring application based on social media with text mining system: Case Study: East Java
+Text mining using clinical terms in electronic records of annual falls of patients in home community care
+Risk Factors Analysis Modeling for Ship Collision Accident in Inland River Based on Text Mining
+Using training set selection methods to improve text mining on market prediction via news headlines
+Real Life Implementation of Text Summarization Technique
+Stock market random forest-text mining system mining critical indicators of stock market movements
+A Text Mining Approach for Evaluating Event Credibility on Twitter
+Development of New Systems Engineering Instrument using Text Mining Technique
+Crime Rate Detection Based on Text Mining on Social Media Using Logistic Regression Algorithm
+Knowledge emergence using Total Environment for Text Data Mining
+Research on the Evaluation of Product Quality Perceived Value Based on Text Mining and Fuzzy Comprehensive Evaluation
+Visualization and analytical support of questionnaire free-texts data based on HK Graph with concepts of words
+Analysis of the yearbook from the Korea Meteorological Administration using a text-mining algorithm
+Research on Text Mining Technology for Power Grid Safety Hazard Identification
+An Enhanced Support Vector Machine Based Pattern Classification Method for Text Classification in English Texts
+Classification of Proactive Personality: Text Mining Based on Weibo Text and Short-Answer Questions Text
+Text analysis based on time series
+Research on Text Processing Technology of Cockpit Voice Based on Data Mining
+Integration of text mining and biological network analysis to access essential genes in Desulfovibrio alaskensis G20
+Indonesia Covid-19 Pandemic Social Media Analysis With Text Mining
+A risk prediction method for electric power customers' demands by text mining technology
+Literature search tool for the extraction of disease-associated genes using frequent itemset mining
+Hybrid model for information filtering in location based social networks using text mining
+Enhance the Performance of Independent Component Analysis for Text Classification by Using Particle Swarm Optimization
+Automating Customer Claim Registration by Text Mining
+A Comparison Between Two Approaches to Identify Opioid Use Problems: ICD-9 vs. Text-Mining Approach
+Utilizing text mining and GIS analysis on the vulnerable disaster type of the elderly living alone
+Defect Diagnosis Method of Main Transformer Based on Operation and Maintenance Text Mining
+Validating Requirement Specification Using Text Mining Analysis
+A Lightweight Algorithm for Text-Classification by Text Mining
+A Latent Dirichlet Allocation-Based Model for Mining Texts in China's Intelligent Elderly Care Policy
+Extraction Method of Machine Translation Equivalent Pairs in Chinese-English Comparable Corpus based on Text Mining
+Using a Text Mining Tool to Support Text Summarization
+Recommendations for Fixing of Step Performed and Sequence Diagram Based on Text Mining on SRS Digibrary
+Pattern discovery for text mining
+Modeling Sentiment Analysis for Educational Texts by Combining BERT and FastText
+The study on traditional Chinese medicine syndromes based on text mining method
+A Comparative Study on R Packages for Text Mining
+FHAR: A New Text Association Rule Algorithm Based on Concept Vector and Its Application
+Characterization of Long COVID using text mining on narrative medicine texts
+Modular Policy Evaluation System: A Policy Evaluation Framework Based on Text Mining
+Text Mining for Educational Literature on Big Data with Hadoop
+Using Text Mining to Extract Information from Students' Lab Assignments
+Co-Clustering with Side Information for Text mining
+Mining online reviews in Indonesia's priority tourist destinations using sentiment analysis and text summarization approach
+Semantically Enriched Literature Search Combining Text Mining, QSPR and Ontologies in Scientific Workflows
+Big data usability text mining of publicly available YouTube electronic health record (EHR) tutorials
+Exploring Text Mining Techniques for Business Intelligence
+Research on International Relations Network Based on Text Mining
+Text Mining Analysis in the Log Discussion Forum for Online Learning Recommendation Systems
+Text Classification of International Relations Based on Deep Learning
+Automatic Prediction of Stock Market Behavior Based on Time Series, Text Mining and Sentiment Analysis: A Systematic Review
+Decision support system for diagnosing diseases in dogs from behaviors using text mining technique
+Extraction of Activity Diagrams Based on Steps Performed in Use Case Description Using Text Mining (Case Study: SRS Myoffice Application)
+Text mining for proper identification of noun using Conceptual Dependency
+Using Text Mining to Categorize the Purpose of Public Spending for the Benefit of Transparency and Accountability
+Does it Matter What They Said? A Text Mining Analysis of the State of the Union Addresses of USA Presidents
+Accident Analysis: A Text Mining and Complex Networks Framework for Safety Incident Prevention
+Architecture Descriptions Analysis Based on Text Mining and Crawling Technology
+Social Network Analysis Text Mining on Networks Publication Citation
+A Comparative Study of Parametric Versus Non-Parametric Text Classification Algorithms
+Analyzing Patterns of Literature-Based Phenotyping Definitions for Text Mining Applications
+Exploring Deep Neural Networks and Decision Tree for Spanish Text Classification
+Text Mining of Activity Reports to Track and Monitor Rural Youth Training Programs
+Contemporary Emerging Trends of Text Mining Techniques used in Social Media Websites: In-Depth Analysis
+Industry Momentum Strategy Based on Text Mining in the Japanese Stock Market
+Poster: Distinguishing scientific abbreviations and genes in bio-medical literature mining
+Resolving ambiguous preposition phrase for text mining applications
+Study and implementation of scientific research project assessment system on network based on text mining
+Utilising NLP for Enhanced Clinical Text Mining
+A Comparative Analysis of Top 5 Fast Food Restaurants Through Text Mining
+Text clustering using fuzzy neighborhood and evaluation of clusters
+On the Network and Topological Analyses of Legal Documents using Text Mining Approach
+Exploration of Text Mining and Lexical Analysis Using a Novel Approach
+HETA: Hadoop environment for text analysis
+Using Patterns Co-occurrence Matrix for Cleaning Closed Sequential Patterns for Text Mining
+Text Mining for the Verification of Scientific Effectiveness of Drugs
+Text mining in fault analysis for on-board equipment of high-speed train control system
+Application of Big Data and text mining methods and technologies in modern business analyzing social networks data about traffic tracking
+Using text mining to handle unstructured data in semiconductor manufacturing — Yan-Hsiu Liu
+Mining Pure Patterns in Texts
+A text-mining analysis on the application of traditional Chinese medicine external therapy and food therapy in hypertension treatment
+How Generative AI Was Mentioned in Social Media and Academic Field? A Text Mining Based on Internet Text Data
+Detecting Racist and Bad Words Using Text Mining in Social Media
+Concepts extraction for medical documents using ontology
+Measuring Contribution of Spatial Information to Environmental Research Using Text Mining Techniques
+Assessment of Career Adaptability: Combining Text Mining and Item Response Theory Method
+Visual Analysis of Tourist Destination Perception Based on Text Mining Platform Named "weiciyun"
+Text mining and pattern clustering for relation extraction of breast cancer and related genes
+AraDS: Arabic Datasets for Text Mining Approaches
+Understanding of Compendium Student Guidance Using Text Mining
+Identification of chemical entities from prescribed drugs for ovarian cancer by text mining of medical records
+Bridging Text Visualization and Mining: A Task-Driven Survey
+Hierarchical Classification in Text Mining for Sentiment Analysis
+Text mining analysis for e-health information system
+The Construction of a Psychological Portrait Using Text Mining Technology
+Text mining in radiology reports
+A novel dictionary-based classification algorithm for opinion mining
+Text Mining in Healthcare for Disease Classification using Machine Learning Algorithm
+Text Vectorization Method Based on Concept Mining Using Clustering Techniques
+Text Mining, Clustering and Sentiment analysis: A systematic Literature Review
+Experiences with text mining large collections of unstructured systems development artifacts at jpl
+Research on text mining algorithm based on focused crawler
+Semantic pattern mining for text mining
+A comprehensive study on machine learning concepts for text mining
+An application of text mining to understand the productivity challenges in Singapore
+English Composition Assisted Writing Training Based on Big Data Text Mining
+Arabic Text Mining a Systematic Review of the Published Literature 2002-2014
+Searching association rules of traditional Chinese medicine on Ligusticum wallichii by text mining
+Web Scraping and Text Mining of Ukrainian News Articles About Ecology
+Building Vietnamese Topic Modeling Based on Core Terms and Applying in Text Classification
+Rules of acupoint selection in acupoint application therapy on coronary heart disease: A text mining study
+Improved Weighting in the Automated Texts Classification using Fuzzy Method
+Identification and Analysis of Tourists' Ecological Values based on Computer Network Text Mining Technology
+Automatic rules extraction from medical texts
+Examining the Trend of Taiwan Primary and High School Scientific Exhibition by Using Text Mining Technique
+Text clustering using a multiset model
+Text mining for Indonesian translation of the Quran: A systematic review
+Research on Named Entity Recognition in Fault Text of Railway Signal Equipment
+Study of Coronavirus Impact on Parisian Population from April to June using Twitter and Text Mining Approach
+Introduction to Mining and Analyzing Social Media Minitrack
+Sentiment Analysis Product using Text Mining with Word Relationship Represented by Graph
+Using text mining to understand traditional Chinese medicine pathogenesis of nonalcoholic fatty liver disease
+A Text Mining Model for Answering Checklist Questions Automatically from Parasitology Literature
+Topic Modeling Technique for Text Mining Over Biomedical Text Corpora Through Hybrid Inverse Documents Frequency and Fuzzy K-Means Clustering
+An analysis of affective expressions in articles of popular science by text mining
+Text mining: An improvised feature based model approach
+Text Mining in Chat Room of Online Learning for Detection Emotion using Artificial Intelligence
+Towards of Automatically Detecting Brain Death Patterns through Text Mining
+Exploring the basic laws of acupoints of ischemie cerebrovascular disease in acupuncture treatment through text mining
+Designing preprocessing framework (ERT) for text mining application
+Depression Detection on Social Media Using Text Mining
+Real Time Emotion Support System in Text Mining [RTESTM]
+Text Classification of Cable Inspection Based on Word Embedding and Recurrent Convolutional Neural Network
+Application of Data Mining Algorithm based on Deep Neural Network
+The detection of Chinese herbal rules for Gastro-esophageal reflux disease by data mining
+Text Normalization for Indonesian Abbreviated Word Using Crowdsourcing Method
+A New Text Mining Method of Dispatching Operation Ticket System Based on Graph Partition Spectral Clustering Algorithm
+Text Mining of Power Secondary Equipment Based on BiLSTM-Attention
+Using Text Mining to Improve Service Quality Effort: a Case on Indonesia Beauty E-Commerce
+Technique of cluster validity for Text Mining
+A Text Mining Approach for Mapping OCL Navigation Expressions
+Indonesian Marketplace Trust Analysis Using Text Mining: a Case of Tokopedia
+Prospecting Information Extraction by Text Mining Based on Convolutional Neural Networks–A Case Study of the Lala Copper Deposit, China
+Detection and Classification of Cyberbullying in Social Media using Text Mining
+Text mining analysis of wind turbine accidents: An ontology-based framework
+Customer product experience analysis using text mining: A neuro linguistic programming approach
+A Survey and Future Vision of Data Mining in Educational Field
+Intelligent Text Mining Based Financial Risk Early Warning System
+Strategic opportunities in mining using text analytics
+Automated Surgical Term Clustering: A Text Mining Approach for Unstructured Textual Surgery Descriptions
+Improved clustering technique using metadata for text mining
+Multiphase text mining predictor for market analysis
+Analysis of Covid-19 Impact in Mexico City using Text Mining and Twitter
+An ontology-based approach for text mining of stroke electronic medical records
+Combining Text Mining and Visualization Techniques to Study Teams' Behavioral Processes
+Overview of cognitive visualisation
+Exploring basic treatment principles for liver cancer within Chinese herbal medicine through text mining
+GATE: Classification and clustering of text for semi-vowel/j/-morphophonemic approach
+Text Data Pre-Processing for Time-series Modelling
+PATC: Parallel Arabic Text Classifier
+Application of acupuncture on coronary heart disease treatment: A text mining study
+Text Document Preprocessing and Dimension Reduction Techniques for Text Document Clustering
+Opinion Mining on E-Commerce Data Using Sentiment Analysis and K-Medoid Clustering
+Future-oriented technology analysis of technology roadmap based on text mining
+A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining
+Automated Essay Scoring with Ontology based on Text Mining and NLTK tools
+Research on the Construction and Filter Method of Stop-word List in Text Preprocessing
+Social media analysis for product safety using text mining and sentiment analysis
+Patient Diagnosis Classification based on Electronic Medical Record using Text Mining and Support Vector Machine
+Systematic Literature Review Of Hate Speech Detection With Text Mining
+Examining the impact of stemming on clustering Turkish texts
+Opinion mining from student feedback data using supervised learning algorithms
+Qualitative Text Mining in Student's Service Learning Diary
+A Novel Automated Approach to Mutation-Cancer Relation Extraction by Incorporating Heterogeneous Knowledge
+Text Mining Algorithms for Cancer Diagnostics
+Text mining based safety risk assessment and prediction of occupational accidents in a steel plant
+Enhancing trust accuracy among online social network users utilizing data text mining techniques in apache spark
+Accreditation Documents Profiling Based On The Used of English Terms Using Text mining Algorithm : A case study on 24 accreditation document
+Enhanced Framework for Sentiment Analysis in Text using Distance based Classification Scheme
+Deep Analysis of Power Equipment Defects Based on Semantic Framework Text Mining Technology
+Geo-Enabled Text Analytics through Sentiment Scoring and Hierarchical Clustering
+An Ontology-Based Text Mining Method to Develop D-Matrix From Unstructured Text
+Integration of Text Mining, Railqual, Kano Model, and Kansei Engineering for Train Service Excellence
+A Novel Recommendation System for Tourist Places and its Speciality
+Independent knowledge extraction in nature of humorous text analysis review using online text analysis tool
+Research on The Transformation and Development of K9 Education and Training Institutions Under Xuzhou Double Reduction Policy based on Data Mining Technology
+Categorizing Bibliographic Data for Detection of Transition in Academic Subjects
+Urdu Miner: An Application for Urdu Text Mining
+Text Mining for Exploring UX Issues of Qualitative Think Aloud Data on EV Sound
+BCISeach: A Searching Platform of Breast Cancer Text Mining for Biomedical Literature
+Cross Platform Text Mining Based on Public Emergency—Using Word2vec Model and K-means Algorithm
+Reviewer Assignment Decision Support in an Academic Journal based on Multicriteria Assessment and Text Mining
+Using of emotion mining techniques for opinions analysis on the issue of Hijab
+Ontology-based text-mining model for social network analysis
+Searching research papers using clustering and text mining
+A Text Mining based Method for Policy Recommendation
+Knowledge Discovery in Text Mining Technique Using Association Rules Extraction
+Current research themes in software engineering: An application of text mining
+A Text Mining based Entity Extraction Model for Power Plant Fault
+A Rule-Based Chinese Sentiment Mining System with Self-Expanding Dictionary - Taking TripAdvisor as an Example
+Exploring the biological basis of deficiency pattern in rheumatoid arthritis through text mining
+Incorporating Social Network Thai Text Mining with Lifestyle Segmentation Analysis
+An Investigation on Service Quality Attributes of Indian Hotels by Text Mining
+Text Mining Medical Device Guidelines to Explore Classification of Technologies
+A Study on the Impact of Pre-Processing Techniques in Spanish and English Text Classification over Short and Large Text Documents
+Clustering and visualization of community complaints and proposals using text mining and geographic information system
+Environmental Perception of the Intertextual Artistic Conception of Ancient Poetry Literature and the Display Spatiality of the Text Mining Algorithm
+A detection mechanism with text mining cross correlation approach
+Similar vulnerability query based on text mining
+Text Analytics Architecture in IoT Systems
+Research of text clustering based on improved VSM by TF under the framework of Mahout
+Research trends in CISTI's unveiled through text mining
+Online Examination with short text matching
+Text Mining-Supported Information Extraction: An Extended Methodology for Developing Information Extraction Systems
+Towards Employee-Driven Idea Mining: Concept, Benefits, and Challenges
+A Text Mining Approach to Evaluate Submissions to Crowdsourcing Contests
+Accessing Accurate Documents by Mining Auxiliary Document Information
+Text Mining Techniques to Capture Facts for Cloud Computing Adoption and Big Data Processing
+Research on Chronic Disease Topic and Sentiment Analysis Based on Web Text Mining
+Text Feature Selection Based on Class Subspace
+Particle Swarm Optimization Based Two-Stage Feature Selection in Text Mining
+Mining Customer Opinion for Topic Modeling Purpose: Case Study of Ride-Hailing Service Provider
+Combining Text Mining and Data Mining for Bug Report Classification
+Identifying Trends in Data Science Articles using Text Mining
+A Study on the Analysis of Novel Characters Based on Social Media Analysis and Text Mining
+Effective pattern discovery for taxt mining using PTM and PDM
+Natural Language Processing and Text Mining to Identify Knowledge Profiles for Software Engineering Positions: Generating Knowledge Profiles from Resumes
+Automatic Online News Feeding in Student Organization Website Using Word Retrieval System
+Text Mining to Concept Mining: Leads Feature Location in Software System
+A novel text mining approach based on TF-IDF and Support Vector Machine for news classification
+Text Mining-based Research on Aircraft Faults Classification and Retrieval Model
+Using text mining to diagnose and classify epilepsy in children
+Graph-Based Representation of Customer Reviews for Online Stores
+Higher Education for Students with Disabilities. An Overview Through the Lens of Text Min
+A Text Feature Selection Technique based on Binary Multi-Verse Optimizer for Text Clustering
+Automatic Topic Modeling for Single Document Short Texts
+Short text data model of secondary equipment faults in power grids based on LDA topic model and convolutional neural network
+The Analysis of the Influencing Factors on the Problems of Bike-Sharing System in China
+Text mining from biomedical domain using a full parser
+Discovery of genes associated with sulfate-reducing bacteria biofilm using text mining and biological network analysis
+Research on the demand characteristics of logistics talents based on Web text mining
+Automatic Annotation of Text Classification Data Set in Specific Field Using Named Entity Recognition
+A Recommendation System Based on Text Mining
+Business Intelligence & Geo Tracking - A Novel Mining Technique to Identify Alerts and Pattern Analysis
+Structural Modeling of English Language Signal Based on Word Frequency Data Mining and Peak Analysis
+Text Mining for Plagiarism Detection: Multivariate Pattern Detection for Recognition of Text Similarities
+Design of Korean Text Resource Information Mining and Management Platform
+A Naïve Bayes approach for ews detection by text mining of unstructured data: a construction project case
+Similarity Software Requirement Specification (SRS) Elicitation Based on the Requirement Statement Using Text Mining on the MNC Play Inventory Management Application
+Analyzing opinion of different countries for recent events in Afghanistan using text mining
+Gender Difference on Destination Image and Travel Options: An Exploratory Text-Mining Study
+Tweets mining for French Presidential Election
+Arabic text mining based on clustering and coreference resolution
+A Résumé Evaluation System Based on Text Mining
+A new condition assessment method for distribution transformers based on operation data and record text mining technique
+Comparison of multilabel problem transformation methods for text mining
+System for Estimation CVSS Severity Metrics of Vulnerability Based on Text Mining Technology
+An exhaustive study on data mining techniques in mining of Multimedia database
+Apply Data Mining Approach to Identify Non-revisit Factors for Hotel Industry
+Text document clustering using self organizing map: Theses and dissertations of universitas Indonesia
+Text categorization of Marathi documents using modified LINGO
+The Use of Visual Text Mining to Support the Study Selection Activity in Systematic Literature Reviews: A Replication Study
+AText Mining based Reliability Analysis Method in Design Failure Mode and Effect Analysis
+A probabilistic framework for short text classification
+Human Resources Mining for Examination of R&D Progress and Requirements
+Exploring Li-Fa-Fang-Yao rules of major depressive disorder in traditional Chinese medicine through text mining
+Mining text for disease diagnosis in hospital information system
+Text Extraction and Mining Methods Used in Data Science
+Approach of a Multilevel Secret Sharing Scheme for Extracted Text Data
+Exploring rules of traditional Chinese medicine external therapy and food therapy in treatment of mammary gland hyperplasia with text mining
+Development of thai text-mining model for classifying ICD-10 TM
+Traversing the Perception Maze: Delving into the intricate terrain of potential customer perceptions in the realm of organic foods through the application of Text Mining
+Distributed Knowledge Acquisition Basing on Integration of Data Mining and Text Mining Methods and Their Usage with AT-TECHNOLOGY Workbench
+Query-oriented text summarization using sentence extraction technique
+Sentiment Analysis of China's Education Policy Online Opinion Based on Text Mining
+Porter Stemmer and Cosine Similarity for Automated Essay Assessment
+Social innovation activities in Japanese firms: A pilot study with text mining
+Text Analytics on Course Reviews from Coursera Platform
+Effective text classification using multi-level fuzzy neural network
+Sentimental Analysis On Social Feeds to Predict the Elections
+Automatic Text Classification of sports blog data
+An application for detecting network related problems from call center text data
+MOSAIC: Criminal network analysis for multi-modal surveillance and decision support
+Construction of risk prevention and control model for catering industry during 2019-nCoV situation based on text mining
+Using text mining to evaluate student interaction in virtual learning environments
+A method for automatic detection of acronyms in texts and building a dataset for acronym disambiguation
+A study on clustering customer suggestion on online social media about insurance services by using text mining techniques
+Analysis of user feedback in the mobile app store using text mining: A case study of Google Fit
+Hybrid solution for scalable research articles recommendation
+A System of Visualizing Business Chart Using Text Mining Techniques
+Covid-19 Surveillance in Peru on April using a Social Network and Text Mining
+Similarity Measures and Text Documents Classfication Accuracies Using Benchmark Datasets
+Research on Parallel Vulnerabilities Discovery Based on Open Source Database and Text Mining
+Online analysis of sentiment on Twitter
+Document Classification Based on KNN Algorithm by Term Vector Space Reduction
+Simplified Recruitment Model Using Text-Mining on Psychometric and Aptitude Tests
+Indonesia China Trade Relations, Social Media and Sentiment Analysis: Insight from Text Mining Technique
+Intelligent Model of Bidding Audit based on Text Mining
+Customer satisfaction factor extraction method using text mining
+Discovering News Frames: Exploring Text, Content, and Concepts in Online News Sources to Address Water Insecurity in the Southwest Region
+A novel text classification based on Mahalanobis distance
+Evaluating service quality in insurance customer complaint handling throught text categorization
+Presenting an improved combination for classification of Persian texts
+Report on Behavior Analysis Using Text Mining in Pair Programming Education
+Text Analysis of the Hybrid Digital Corpora
+A Representation Method for Cellular Lines based on SVM and Text Mining
+Topic Identification of Noisy Arabic Texts Using Graph Approaches
+Uncovering the Effects of Genes, Proteins, and Medications on Functions of Wound Healing: A Dependency Rule-Based Text Mining Approach Leveraging GPT-4 based Evaluation
+Text Categorization Techniques: A Survey
+The case study approach to learning Text Mining
+Arabic Terminology Extraction and Enrichment Based on Domain-Specific Text Mining
+Performing literature review using text mining, Part I: Retrieving technology infrastructure using Google Scholar and APIs
+Text Classification Services Using Naïve Bayes for Bahasa Indonesia
+Tactical Clinical Text Mining for Improved Patient Characterization
+Analysis of Economic Indicators Through News and Twitter Using Text Mining, Machine Learning and Multiagent Systems
+High Utility Pattern Mining: A Comprehensive Survey
+Graph-based Growing self-organizing map for Single Document Summarization (GGSDS)
+Automatic classification of emails using Deep Learning
+Malware detection by text and data mining
+Interest Rate Model With Investor Attitude and Text Mining
+Intelligent data mining technique of social media for improving health care
+A comparitive analysis of single pattern matching algorithms in text mining
+SyntacticDiff: Operator-based transformation for comparative text mining
+Explore the effects of industrial context and leaders' viewpoints on corporate sustainability in Taiwan by text mining
+Data mining and text mining — A survey
+Text Summarization using Neural Networks
+Performance evaluation of Latent Dirichlet Allocation in text mining
+"Boom" or "Ruin"--Does It Make a Difference? Using Text Mining and Sentiment Analysis to Support Intraday Investment Decisions
+Semantic-Synaptic Web Mining: A Novel Model for Improving the Web Mining
+Arabic Poetry Meter Categorization Using Machine Learning Based on Customized Feature Extraction
+Text Mining-based Identification Model for Urban Rail Transit System Infrastructure Fault Analysis
+Developing a workflow approach for mining online social media data
+CFTDISM:Clustering Financial Text Documents Using Improved Similarity Measure
+Energy-Efficient Adaptive Hardware Accelerator for Text Mining Application Kernels
+Construction of Dependency Structure Matrix (DSM) for e-books using ontology based text mining
+The use of text mining to build a pedagogical agent capable of mediating synchronous online discussions in the context of foreign language learning
+Opinion mining from online reviews in Bali tourist area
+Recurrent convolution neural networks for classification of protein-protein interaction articles from biomedical literature
+Pattern Discovery for Text Mining Measured by Levenshtein Edit Distance
+Text Mining over Curriculum Vitae of Peruvian Professionals using Official Scientific Site DINA
+Web Text Feature Extraction with Bean optimization Algorithm
+Review of Text Mining Techniques for Software Bug Localization
+Pattern document weight discovery for text classification mining
+Exploring Consumer Views on Organic Food using Text Mining within the Realm of Big Data Analysis
+frances: A Deep Learning NLP and Text Mining Web Tool to Unlock Historical Digital Collections: A Case Study on the Encyclopaedia Britannica
+TARFlow: A Workflow System for Text Analytics and Retrieval
+Indian Language Text Representation and Categorization Using Supervised Learning Algorithm
+Sentiment Analysis for Mining Customer Opinion on Twitter: A Case Study of Ride-Hailing Service Provider
+Deep Text Mining of Instagram Data without Strong Supervision
+A Text-Based Hybrid Approach for Multiple Emotion Detection Using Contextual and Semantic Analysis
+V-22 aircraft flight data mining
+Integrating rich document representations for text classification
+Analysis of Monetary Policy Decisions of the National Bank of Romania with Text Mining Techniques
+Document Level Sentiment Analysis from News Articles
+Sentiment Analysis of Arabic Tweets Using Supervised Machine Learning
+Towards Extracting the Hotel Evaluations from the Comments by the Foreign Tourists with Text Mining
+Syntactic rule-based approach for extracting concepts from quranic translation text
+Radiology Clinical Notes Mining Using Weighted Association Rules
+Arabic Text Classification in the Legal Domain
+A survey on classification techniques for text mining
+Extracting Disaster Characteristics Using Text Mining
+Extracting Irregular Datasets in University Admission Statistics using Text Mining and Benford's Law
+A Comparative Analysis on Medical Article Classification Using Text Mining & Machine Learning Algorithms
+A text mining application of emotion classifications of Twitter's users using Naïve Bayes method
+Text Analysis On Twitter Data Using LSA and LDA
+Policy research on digital village construction in china: Content characteristics and evolutionary logic
+Leveraging Text Mining Techniques for Automated Information Analysis
+Text mining and sentiment extraction in central bank documents
+Sentiment Analysis of Big Cities on The Island of Java in Indonesia from Twitter Data as A Recommender System
+Custom Dataset Text Classification: An Ensemble Approach with Machine Learning and Deep Learning Models
+Protein-protein interaction network constructing based on text mining and reinforcement learning with application to prostate cancer
+Sentiment - subjective analysis framework for arabic social media posts
+N-Gram Based Sentiment Mining for Bangla Text Using Support Vector Machine
+The study on keywords frequency composite function of public opinion toward Macau's gambling industry: Using the Fruit Fly Optimization Algorithm
+An enhanced data mining model for text classification
+Text mining based on tax comments as big data analysis using SVM and feature selection
+Investigating the Performance of Fine-tuned Text Classification Models Based-on Bert
+Multi-type Microbial Relation Extraction by Transfer Learning
+A Predictive Model for Forecasting Spare Parts Demand in Military Logistics
+Research on Framework and Key Technologies of Text Mining for Operation and Maintenance of Traction Power Supply Equipment
+Twitter and Research: A Systematic Literature Review Through Text Mining
+Generation of Original Text with Text Mining and Deep Learning Methods for Turkish and Other Languages
+Discovering Low-Rank Shared Concept Space for Adapting Text Mining Models
+Using reason mining to analyze external expert reviews for research project selection
+Fusing Latent Dirichlet Allocation with Fuzzy Matching for Improved Topic Expressiveness in Text Mining
+Cyberbullying detection using web content mining
+Research on China’s OFDI Based on Big Data Mining Technology
+UML Artifact Extraction for Activity Diagram Based on Step Performed Using Text Mining: Case Study of SRS Sipranta Application
+Non-Technical Losses Reduction by Improving the Inspections Accuracy in a Power Utility
+Exploring Narrative Court Documents for Use in Police Academic Education
+BirdEview: Advance version of call monitoring system by using mining techniques
+The anatomy of a search and mining system for digital humanities
+Evaluating the Use of Brazilian Companies' Financial Footnotes Texts for Debt Variation Prediction
+Mining emotions (anger & fear) from Indian army fans page on Facebook
+Mining similar radiology reports using BoW and Fuzzy C-means clustering
+Vulnerability identification and classification via text mining bug databases
+Data mining approach for automatic discovering success factors relationship statements in full text articles
+News search using discourse analytics
+Pattern Based Comprehensive Urdu Stemmer and Short Text Classification
+Knowledge discovery in scientific databases using text mining and social network analysis
+Pattern co-occurrence matrix to reduce the low frequency problem and effective pattern discovery
+A Critical Evaluation of the Application of Natural Language Processing (NLP) For Enhancing Text and Speech Mining
+The Use of Text Mining for Classification of Product Selling Content in Social Media Female Daily
+Data mining of myths, legends and folk tales in the context of artificial intelligence
+Text Mining Assessment of Sustainability Learning Topics at Higher Education in Japan
+Mining Semantic Structures from Syntactic Structures in Free Text Documents
+Short Text Clustering Algorithm Based on Frequent Closed Word Sets
+Terrorism, Social Media and Text Mining Technique: Review of Six Years Past Studies
+Multi-objectives-based text clustering technique using K-mean algorithm
+A Review-and-Reviewer based approach for Fake Review Detection
+A Text Clustering Algorithm Based on Find of Density Peaks
+Predicting Effective Arguments with A Natural Language Processing Model
+Aspect-Based Opinion Mining of Customer Reviews in the Hospitality Industry: Leveraging Recursive Neural Tensor Network Algorithm
+Text Mining of Open-Ended Questions in Self-Assessment of University Teachers: An LDA Topic Modeling Approach
+Method for classifying usability qualities and problems for action games from user reviews using text mining
+Human-Computer Interaction: A Literature Analysis from 1998 to 2018 Using Automated Text Mining
+Integration of Complex System Simulation and Data Mining
+Recognising User Identity in Twitter Social Networks via Text Mining
+GenNER - A highly scalable and optimal NER method for text-based gene and protein recognition
+Translingual text mining for identification of language pair phenomena
+Multi-combined Features Text Mining of TCM Medical Cases with CRF
+Voice of customer analysis using parallel association rule mining
+Movie review summarization and sentiment analysis using rapidminer
+Training word embeddings for deep learning in biomedical text mining tasks
+Information retrieval: A new multilingual stemmer based on a statistical approach
+A Hybrid Approach Using Topic Modeling and Class-Association Rule Mining for Text Classification: the Case of Malware Detection
+Comparison of Decision Tree C4.5 Algorithm with K-Nearest Neighbor (KNN) Algorithm in Hadith Classification
+Automated Analysis of Text in Student-Created Virtual Reality Content
+A Novel Approach of Transcriptomic microRNA Analysis Using Text Mining Methods: An Early Detection of Multiple Sclerosis Disease
+Mining Capstone Project Wikis for Knowledge Discovery
+Short text mining framework with specific design for operation and maintenance of power equipment
+A Model Configuration of Social Media Text Mining for Projecting the Online-Commerce Transaction (Case: Twitter Tweets Scraping)
+ScrAnViz — A tool to scrap, analyze and visualize unstructured-data using attribute-based opinion mining algorithm
+A text mining model based on improved density clustering algorithm
+Benchmarking of Scientific Research Clusters by Use of Text Mining Algorithms on Textual Artefacts
+Unstructured Text Data Rule Generalization in Attribute-Oriented Induction
+Domain-Independent Automated Processing of Free-Form Text Data in Telecom
+Topic Clusterization of Indonesian Journal Article based Topic Modeling
+Text Classification Research Based on Bert Model and Bayesian Network
+Classification of Citizen Tweets Using Naive Bayes Classifier for Predictive Public Complaints
+Research on Interactive Text Topic Mining Based on LDA Model -- Taking Customer Service Chat Records as an Example
+Breast cancer patients using mobile applications: An automated biomedical literature curation model (BLCM)
+Text Mining Analysis of Teaching Evaluation Questionnaires for the Selection of Outstanding Teaching Faculty Members
+Identifying Diabetic Retinopathy Risk Factors and Associated Pathologies based on Text Mining of PubMed Database
+A Text Mining and Statistical Approach for Assessment of Pedagogical Impact of Students’ Evaluation of Teaching and Learning Outcome in Education
+Document Classification of Filipino Online Scam Incident Text using Data Mining Techniques
+Sequential pattern based multi document summarization — An exploratory approach
+Web Evaluation Analysis of Tourism Destinations Based on Data Mining
+Assessing NATO policy alignment through text analysis: An initial study
+Design for Reliability Through Text Mining and Optimal Product Verification and Validation Planning
+Medical Text Annotation Tool based on IBM Watson Platform
+Text mining and visual analytics in research: Exploring the innovative tools
+Text Mining for Intelligent Information Processing and Analysis
+Review on Textual Data Mining for Reviewer Recommendation in Pull-Based Distributed Software Development
+Idea Mining From Online Reviews Using Transformation-Based Natural Language Processing Tasks
+Streamlining Resume Annotation with Named Entity Recognition
+Event Detection and Knowledge Mining from Unlabelled Bengali News Articles
+Persica: A Persian corpus for multi-purpose text mining and natural language processing
+Basic treatment principles for urinary tract infections with Chinese herbal medicine: An application of text mining
+Preprocessingpubmed abstracts
+A novel algebra to articulate feature in text dimension reduction
+Fine-Tuning Language Models For Semi-Supervised Text Mining
+The research of text preprocessing effect on text documents classification efficiency
+Text Mining Analysis on the Questionnaire Investigation for High School Teachers' Work Load
+Classification of Aviation Safety Reports using Machine Learning
+Using text mining to locate concepts in execution traces
+Text Mining in Unclean, Noisy or Scrambled Datasets for Digital Forensics Analytics
+Free text mining of TCM medical records based on conditional random fields
+A Discriminant Framework for Detecting Similar Scientific Research Projects Based on Big Data Mining
+Using Online Reviews for Customer Sentiment Analysis
+Analyzing the behavior of youth to sociality using social media mining
+Sentiment Analysis of English Tweets Using Rapid Miner
+A Feasible Chinese Text Data Preprocessing Strategy
+Tuberculosis Ontology Generation and Enrichment Based Text Mining
+A Multi-Label Classification Method Based On Textual Data Mining
+A Comparison Between Supervised and Unsupervised Models for Identify a Large Number of Categories
+Social Media Text Streaming Visualization
+An Introduction to Text Classification with Applications to Medical Records
+Exploring Traffic Crash Narratives in Jordan Using Text Mining Analytics
+Knowledge Discovery and Data Mining of Free Text Radiology Reports
+Why Tourists Don’t Visit Again?
+Augmenting Text Mining Approaches with Social Network Analysis to Understand the Complex Relationships among Users' Requests: A Case Study of the Android Operating System
+Automated document classification for news article in Bahasa Indonesia based on term frequency inverse document frequency (TF-IDF) approach
+The construction of undergraduate data mining course in the big data age
+Faculty rating system based on student feedbacks using sentimental analysis
+An Overview of the Challenges and Applications towards Web Mining
+Opinion mining and sentiment classification: A review
+Text Mining Strategy of Power Customer Service Work Order Based on Natural Language Processing Technology
+Descriptive analysis and text analysis in Systematic Literature Review: A review of Master Data Management
+Attention Mechanism Based Technical Phrase Extraction for Patent Text
+Text Mining in Health Care Sector Techniques, Applications and Challenges
+The application of Centroid linkage hierarchical method and Hill climbing method in comments clustering online discussion forum
+Introducing Text Analysis Algorithms in Decision Support Systems for Automated Evaluation of the Doctor Prescriptions
+Optimized Swarm Search-Based Feature Selection for Text Mining in Sentiment Analysis
+Empirical evaluation of Amazon fine food reviews using Text Mining
+Improved sentiment analysis for teaching evaluation using feature selection and voting ensemble learning integration
+TxtPrePro: Text Data Preprocessing Using Streamlit Technique for Text Analytics Process
+Text Mining Approach To Predict Non-Adherence
+A Comprehensive Investigation into the Dimensions of Educational Data Mining Using Artificial Intelligence
+Text Classification Using Feature Extraction and Classification Model
+Research on Web Data Mining Strategy Based on Cloud Computing
+Using text cloud technology to build predictive models of disease — Taking osteoporosis case for example
+A Survey on Fast and Scalable Incremental Frequent Item Set Methods for Big Data
+Palaute: An Online Text Mining Tool for Analyzing Written Student Course Feedback
+Thoughts on Optimizing Digital Humanities Application Platform Based on Copyright
+Analysis of Public Perception on Organic Coffee through Text Mining Approach using Naïve Bayes Classifier
+Text similarity study for Twitter-based news on Russian - Ukraine cyber war
+Detecting Ineffective Self-Management in Diabetic Patients: A Data Mining Perspective
+Extraction of Step Performed in Use Case Description as a Reference for Conformity of Sequence Diagrams Using Text Mining (Case Study: SRS APTU)
+A text mining approach to automated healthcare for the masses
+Technology Roadmapping Using Text Mining: A Foresight Study for the Retail Industry
+Kansei Engineering with Online Content Mining for Cross-Border Logistics Service Design
+Educational data mining: A case study of teacher's classroom questions
+Implementation of Text Mining Model to Emotions Detection on Social Media Comments Using Particle Swarm Optimization and Naive Bayes Classifier
+Automatic analysis of messages in discussion forums
+Web Application Development for Expertise Search and Research Collaboration of Chiang Mai University’s Researchers Using Text Mining
+Research on Evaluation of Teaching Skills of Normal Students Based on Text Mining Technology —Take Information Technology as an Example
+Extraction and Analysis of Hazardous Patterns in Truck-Involved Crashes via a Text Mining and Network Topology Framework
+A Text Mining Model for Strategic Alliance Discovery
+Complementing Travel Diary Surveys with Twitter Data: Application of Text Mining Techniques on Activity Location, Type and Time
+Understanding Intellectual Disability and Genetics with AI Perspective: A Text Mining Approach
+Analysis of preprocessing methods on classification of Turkish texts
+Trigger of economic reconstruction from the East-Japan earthquake disaster
+A multi-stage multi-objective GWO based feature selection approach for multi-label text classification
+Text-Mining Techniques and Tools for Systematic Literature Reviews: A Systematic Literature Review
+Automatic Knowledge Extraction Supported by Semantic Enrichment in Medical Records
+Knowledge Discovery of Service Satisfaction Based on Text Analysis of Critical Incident Dialogues and Clustering Methods
+Machine learning based approach for demand forecasting anti-aircraft missiles
+Topic Analysis of Syllabus for Faculty of Engineering in the Japanese National University
+CRAFT: A Crowd-Annotated Feedback Technique
+Variance Analysis and Handling of Clinical Pathway: An Overview of the State of Knowledge
+A framework for medical text mining using a feature weighted clustering algorithm
+A Study of Deep Learning to Sentiment Analysis on Word of Mouth of Smart Bracelet
+Performance Evaluation of Text Document Using Machine Learning Models for Information Retrieval
+Agile text mining with Sherlok
+Text mining-based evaluation of the user experience in online shopping for clothing
+A weighted seeds affinity propagation clustering for efficient document mining
+A quality evaluation model for Android system based on forum text mining
+Customising geoparsing and georeferencing for historical texts
+Effective 20 Newsgroups Dataset Cleaning
+News classification based on their headlines: A review
+Automatic authorship classification of two ancient books: Quran and Hadith
+The study of dynamic delivery adaptive learning content in e-learning personalization using text mining and ontology approach
+Extraction of Useful Information from Crude Job Descriptions
+Learning Similarity-Preserving Meta-Embedding for Text Mining
+Enigmas in Emotion Detection Techniques Tools: Challenges and Concerns
+Crime analysis and mapping through online newspapers: A survey
+Operational pattern detection in textmining using pattern taxonomy
+Extraction of incremental information using query evaluator
+Representing the Interaction between Users and Products via LLM-assisted Knowledge Graph Construction
+Data Mining Tool To Help The Scientific Community Develop Answers To Covid-19 Queries
+Application for Text Processing of Cardiology Medical Records
+Patterns in Cognitive Rehabilitation of Traumatic Brain Injury Patients: A Text Mining Approach
+Analysis through Text Mining Approach: Culinary Experience Dimensions of International Tourists
+A differentiation between Image Mining and Computer Vision in the application area of Big Data
+Survey on Sentiment Analysis using Deep Learning
+Skin Cancer Prediction using Data Mining and its Techniques – A Review
+Arabic Text Classification: A Review Study on Feature Selection Methods
+Lexicon-based sentiment analysis of Indian Union Budget 2016–17
+Could the movie be cute? Understanding the user-generated word-of-mouth by implementing text mining analysis on the movie market
+A novel classifier based on meaning for text classification
+A Review on Text Analytics Process with a CV Parser Model
+Research Progress of Review Topic Mining Methods: From Word Frequency Statistics to Deep Learning
+Software Integration Test Report Analysis Automation Using Python
+Automated Configuration Bug Report Prediction Using Text Mining
+Desktop Text Mining for Open Source Intelligence
+Differences in between technical colleges and institute of technology in Japan, from the viewpoint of their educational objectives
+RLIMS-P 2.0: A Generalizable Rule-Based Information Extraction System for Literature Mining of Protein Phosphorylation Information
+Sentiment Analysis on Comments in Bengali Language Using Text Mining & Machine Learning Approach
+Classification of Public Opinion on Vaccine Administration Using Convolutional Neural Network
+A text mining approach to identify the relationship between gait-Parkinson's disease (PD) from PD based research articles
+Exploring associated networks of cold herb and hot herb within the framework of traditional Chinese medicine through text mining
+An SAO-based approach to patent evaluation using TRIZ evolution trends
+A Two-Phase Approach for Stance Classification in Twitter Using Name Entity Recognition and Term Frequency Feature
+CADEN: A Context-Aware Deep Embedding Network for Financial Opinions Mining
+A survey on text document categorization using enhanced sentence vector space model and bi-gram text representation model based on novel fusion techniques
+Research on Aviation Unsafe Information Text Analysis Based on Improved CNN-BiGRU-att Model
+It Takes Two to Tango: Deleted Stack Overflow Question Prediction with Text and Meta Features
+Thai text topic modeling system for discovering group interests of Facebook young adult users
+Warranty/Performance Text Exploration for Modern Reliability
+The similarity of Elicitation Software Requirements Specification in Student Learning Applications of SMKN7 Baleendah Based on Use Case Diagrams Using Text Mining
+Text Analytics and Big Data in the Financial domain
+SATD Detector: A Text-Mining-Based Self-Admitted Technical Debt Detection Tool
+Classification of Drug Effectiveness Based on Patient's Condition Using Text Mining With K-Nearest Neighbor
+Analysis of teamwork dialogue: A data mining approach
+Implementation of Text Mining for Sentiment Analysis of Online Lectures During the Covid-19 Pandemic
+Linking Knowledge Discovery In Clinical Notes And Massive Biomedical Literature Repositories
+Interactive Visual Text Analysis for Corpus-Based Language Learning
+Web usage mining and text mining in the environment of web personalization for ontology development of recommender systems
+Mining Contextual Knowledge for Context-Aware Recommender Systems
+Aspect oriented Sentiment classification of COVID-19 twitter data; an enhanced LDA based text analytic approach
+Study of acupuncture therapy on hypertension based on text ming
+Opinion Mining of Politics and Inflation using Roman Urdu Dataset
+Discovery of the Similarities for Parasites
+Development of Creative Thinking Support Method through Text Mining for Inspiration
+A Literature Review of Digital Transformation in Healthcare
+Classifying News Based on Indonesian News Using LightGBM
+Intelligent Input and Analysis System of Pre-Qin Literature Based on Intelligent Text Extraction and Analysis Algorithm
+A study on support method of consulting service using text mining-Application to real problem-
+Identifying and tracking online financial services through web mining and latent semantic indexing
+Exploring the Development of Integrated Elderly Care Policy System in China Based on Text Mining
+An Analysis of Proposition Abstraction from Domain Text for Conceptual Plan Mining Using Deep Learning Methods
+The Construction of Physical Vulnerability Evaluation Index System for Urban Old Civil Buildings
+The 'BigSE' Project: Lessons Learned from Validating Industrial Text Mining
+Construction of Discharge Summaries Classifier
+MiNerDoc: a Semantically Enriched Text Mining System to Transform Clinical Text into Knowledge
+An ensemble based NLP feature assessment in binary classification
+Extractive Text Summarization - An effective approach to extract information from Text
+Estimation of Production Inhibition Time Using Data Mining to Improve Production Planning and Control
+Topic identification of Arabic noisy texts based on KNN
+Online analyzing of texts in social network of Twitter
+Automation of Non-Classroom Courses using Machine Learning Techniques
+Severity Prediction Of Bug Reports using Text Mining: A Systematic Review
+Using K Nearest Neighbors for text segmentation with feature similarity
+Financial Risk Prediction Method Based on Texting Mining
+SINDI-WALKS: Workbench for PLOT-based Technological Information Extraction and Management
+Sentiment Analysis of Airport Customer Reviews
+Automatic Rule Definition for Pattern-Based Text Mining
+Keyword-Based Hadith Grouping Using Fuzzy C-Means Method
+Comparative Analysis of Machine Learning Classifiers for Text Classification: Characterization of Features Probability Distribution
+Massive Text Mining for Abnormal Market Trend Detection
+Enhancing Wikipedia search results using Text Mining
+Proposed investment decision support system for stock exchange using text mining method
+Financial Latent Dirichlet Allocation (FinLDA): Feature Extraction in Text and Data Mining for Financial Time Series Prediction
+Analyzing educational comments for topics and sentiments: A text analytics approach
+PDCA Cycle of Environmental Management Accounting under the background of Data Mining and Intelligent Systems
+GDEMO-HAT: Knowledge-guided Medical Text Classification Using Heterogeneous Graph-based Dependency Modeling with Hierarchical Attention
+K nearest neighbor for text summarization using feature similarity
+A comparative analysis of text similarity measures and algorithms in research paper recommender systems
+Discovering the Causal Network of Terms from the Text Corpus
+Research on Text Classification Method of Distribution Network Equipment Fault based on Deep Learning
+Content Mining of Microblogs
+Research Trends in Mobile Robots: A Comparative Analysis within the Periods before and after the Industry 4.0 Revolution
+Analyzing Stakeholder's Response to Indian Government's EV Policy Through a Text Mining Approach
+Topic modeling of biomedical text
+A Template Independent Method for Large Online News Content Extraction
+Combining information extraction and text mining for cancer biomarker detection
+Sentiment Analysis of Crypto Coin on Twitter Data Using Text Mining Method with K-Means Clustering Case Study: Bitcoin, Ethereum, and Binance
+User Demand Research Based on Internet Information
+Constructing yeast genetic interaction network using biomedical literature and logistic regression
+Research on Intelligent Education Method Based on Data Mining of Distance Education System
+Informative Tweet Classification of the Earthquake Disaster Situation In Indonesia
+Real time analysis of social media data to understand people emotions towards national parties
+The Impact of Double Screen Electronic Health Records on Doctor-Patient Verbal Communication and Sentiment: Comparing White Americans and African Americans
+Comparison of rule based classification techniques for the Arabic textual data
+The Tibetan Microblog Text Representation Method Based on Shallow Parsing
+Strategic Use of Online Review of Mobile App
+The Analysis of Text Categorization Represented With Word Embeddings Using Homogeneous Classifiers
+Extraction of biomedical informtion related to breast cancer using text mining
+News text classification model based on topic model
+Document similarity analysis in Slovak language
+Application of the maintenance text data of transformers based on SimHash and Hamming distance algorithm
+Event graph model and its properties: A method of mining trends in text streams
+A self appreciating approach of text classifier based on concept mining
+Mixed Graph of Terms: Beyond the Bags of Words Representation of a Text
+Identifying the Thematic Trends of Model Based Systems Engineering in Manufacturing and Production Engineering Domains
+K4ThaiHealth: A Prototype for Thai Routine Medical Research Knowledge Extraction Sharing
+Detailed Investigation of the use of Text Mining and Natural Language Processing (NLPs) for Cancer Detection
+Developing an Algorithm for Identification and Categorization of Scientific Terms in Natural Language Text Through the Elements of Artificial Intelligence
+Statistical Analysis of Online Recruitment Information Based on Text Mining Technology
+Research on the Biological Basis of Treating Different Diseases with Same Method Based on Big Data Mining and Complex Network
+Market Size Estimation Model at the Product Level based on Text Mining Approach
+Term Frequency Method For Automated Text Summarization Application Of Indonesian News Article
+BenSW: A Standard Dataset for Bengali Stop Word Detection
+A Review on Different Data Mining Algorithms and Selection Methods
+Implementation of Naïve Bayes Classifier Algorithm to Categorize Indonesian Song Lyrics Based on Age
+Identifying High Value Users in Twitter Based on Text Mining Approaches
+Automatic Term Extraction on Turkish Scientific Texts
+Identifying Social Networks of Programmers using Text Mining for Code Similarity Detection
+Text Mining to Analyze Mammogram Screening Results for Breast Cancer Patients in Saudi Arabia
+A credit evaluation model for small micro-enterprises based on text mining and empirical study
+A text-based mining approach for real estate policy impact monitoring and analysis
+Real-Time Text Classification of User-Generated Content on Social Media: Systematic Review
+A Review on Comparison of Machine Learning Algorithms for Text Classification
+Research Trend Analysis of Artificial Intelligence
+A Study of Social Media Reviews Effects on the Success of Crowdfunding Projects
+A Method of Identifying Treatment Modalities Related to COVID-19 from PubMed Abstracts
+Enhanced Search for Arabic Language Using Latent Semantic Indexing (LSI)
+Mining Relevant Text Features for Retrieving Web Information
+Evaluation of text classification techniques for inappropriate web content blocking
+Introduction to Data, Text, and Web Mining for Business Analytics Minitrack
+Automatic classification of academic documents using text mining techniques
+Analysis of Influencing Factors of MOOC Learners' Loyalty Based on Online Review Text Mining
+Fuzziness Detection in Thai Law Texts Using Text Classification
+Mining Patient Experiences on Web 2.0 - A Case Study in the Pharmaceutical Industry
+Relationship classifier and stress analyzer in the mobile messaging application network through text mining
+‘A Wisdom of Crowds’: Social Media Mining for Soccer Match Analysis
+Understanding On-Site Inspection of Construction Projects Based on Keyword Extraction and Topic Modeling
+Automation of outage analysis using natural language processing
+Combining Multiple Views from a Distance Based Feature Extraction for Text Classification
+Mining Digital Traces to Uncover Global Perception of Bali’s Topmost Destinations
+Exploring interdisciplinary nature of postgraduate research in the field of Computing using Text mining: a case study
+A Novel Text Clustering Approach Based on Bacterial Colony Optimization
+The research on fraud group mining which based on social network analysis
+Time-constrained requirements elicitation: reusing GitHub content
+Real time road traffic event detection using Twitter and spark
+A Systematic Literature Review of Text Classification: Datasets and Methods
+Application of Topic Modeling for the Identification of Innovation Potentials in the Product Environment
+Review of User Comments for the OVO Fintech application using LDA
+Building a syntactic rules-based stemmer to improve search effectiveness for arabic language
+A comparison study between data mining tools over regression methods: Recommendation for SMEs
+Text Fingerprinting and Topic Mining in the Prescription Opioid Use Literature
+An ontology based text approach for culture aware emotion mining: A Moodle plugin
+A Text Mining Methodology to Discover Syllabi Similarities among Higher Education Institutions
+Evolution of data mining: An overview
+Data mining techniques and applications — A decade review
+Success Factors in Global Niche Top Companies: Analysis of Free Description Data Using Text Mining
+Rough set based feature selection approach for text mining
+Feature Selection and Term Weighting
+Exploring the Impact of COVID-19 on Aviation Industry: A Text Mining Approach
+OSIA: Open Source Intelligence Analysis System Based on Cloud Computing and Domestic Platform
+Research on the evolution law of the semantic web structure of online shopping reviews
+Capturing Users Requirements Using a Data Mining Approach
+Text-Driven Multi-structured Data Analytics for Enterprise Intelligence
+Research Trends of Online Marketing in Social Media Research
+Text Clustering Algorithm Based on Semantic Graph Structure
+Digital Twin Software Overview with Text Mining Techniques
+Sentiment Analysis Methods and Applications–A Review
+Text Mining Approach Using TF-IDF and Naive Bayes for Classification of Exam Questions Based on Cognitive Level of Bloom's Taxonomy
+Text Mining the Contributors to Rail Accidents
+Mining fuzzy motivation indicator in learning environment through Human Computer Interaction
+A comparative study of the current technologies and approaches of relation extraction in biomedical literature using text mining
+Identifying Challenges and Barriers in Wearable Medical Devices Adoption through Text Mining
+Qualitative analysis of financial statements for fraud detection
+iSimp: A sentence simplification system for biomedicail text
+Improved KNN classification algorithms research in text categorization
+Measure of fuzzy presence of descriptors on Arabic Text Mining
+Biomedical text mining for concept identification from traditional medicine literature
+Crash Causing Information Extraction via Text Mining Techniques: Implementation of the Chinese State-related Crash Narratives
+Knowledge Map Construction Using Text Mining and Artificial Bee Colony Algorithm
+The process of summarization in the pre-processing stage in order to improve measurement of texts when clustering
+Text Mining Approach for Identifying Product Ideas and Trends Based on Crowdfunding Projects
+Data Mining Techniques of Complaint Reports for E-government: A Systematic Literature Review
+An Improved Algorithm and Implementation of Data Mining for Intelligent Manufacturing Association Rules Based on Pattern Recognition
+Punjabi document classification using vector evaluation method
+Best Parameter Selection Of Rabin-Karp Algorithm In Detecting Document Similarity
+Development of Segmentation Algorithm for Identifying VOCs (Voice of Customers) with Sales Potential and Those with Negative Attitude at Call Centers
+Locating Source Code to Be Fixed Based on Initial Bug Reports - A Case Study on the Eclipse Project
+Analyzing User Comments on Fintech E-wallet Applications in Indonesia Using the LDA Algorithm
+A k-Highest Expert Text Classification Algorithm Based on Choquet Integral
+Compression and data mining
+Comparison and Analysis of the Positive and Negative words in the websites among Australia, UK and Canada
+Data-driven Construction of Rural Persona Based on Text Mining and Knowledge Association
+Visualization of similar news articles with network analysis and text mining
+Predicting Self-Reported Proactive Personality Classification With Weibo Text and Short Answer Text
+Comparison and Analysis of Embedding Methods for Patent Documents
+Crime Analysis using Text Mining
+Design a Density Map of Chinese Tourists Journey in Chiang Mai City
+Impact of stemming on Arabic text summarization
+Mining and computing phrase weight in texts
+Opinion mining and analysis: A literature review
+A Signal Denoising Method for Text Meaning Vectors
+Automatic Content Analysis of Media Framing by Text Mining Techniques
+Data mining techniques for employability: Systematic literature review
+An empirical study on analyzing the distortion detection on OSN using NLP & SA in banking institution
+Comparative Analysis for KeyTerms Extraction Methods for Personalized Search Engines
+Identification of Key Service Features for Evaluating the Quality of Metaverse Services: A Text Mining Approach
+Text Document Latent Subspace Clustering by PLSA Factors
+The Enhanced Performance of Hierarchical Fusion Based Data Mining for High Density Data Traffic in Big Data Servers
+Social big data: A Twitter text mining approach to the communication of universities during the Lebanese protests
+Modelling and Analysis of Identity Threat Behaviors through Text Mining of Identity Theft Stories
+Text feature extraction based on joint conditional entropy
+Does preprocessing really impact automatically generated taxonomy
+Investigation of Netizen Sentiment Analysis Toward The Controversy of Information and Electronic Transaction Law
+SPt: A Text Mining Process to Extract Relevant Areas from SW Documents to Exploratory Tests
+A survey on web news retrieval and mining
+Sense GST: Text mining & sentiment analysis of GST tweets by Naive Bayes algorithm
+Machine Learning and Text Mining of Trophic Links
+Kansei-based Mining and Robust Design for Internet Service Provider
+A User Influence Network Construction Approach Based on Web Mining and Social Network Analysis
+Stop words in review summarization using TextRank
+Automated Dataset Construction from Web Resources with Tool Kayur
+Centrality-Based Approach for Supervised Term Weighting
+Automatic discovering success factor relationship entities in articles using named entity recognition
+A scheme for extracting information from collaborative social interaction tools for personalized educational environments
+Detecting phishing e-mails using text and data mining
+Preprocessing of High Dimensional Dataset for Developing Expert IR System
+NoSQL vs relational database: A comparative study about the generation of the most frequent N-grams
+Text Classification Using Machine Learning Techniques: Comparative Analysis
+Video summarization of timestamp comments videos based on concept of folksonomy
+Mining case summaries in BioWorld
+Generation of Word Vectors for Unknown Words without Additional Corpus
+Dimensionality reduction approach for high dimensional text documents
+Main Content Extraction from Web Pages
+Weight Term Document in Clustering Algorithm for Classification a Final Project in Online Learning
+Automated Support to Capture Verbal Just-in-Time Requirements in Agile Development: A Practitioner View
+Cloud computing & multi-agent systems: A new promising approach for distributed data mining
+Developing Adaptive Islamic Law Business Processes Models for Islamic Finance and Banking by Text Mining the Holy Qur'an and Hadith
+Importance of data mining in healthcare: A survey
+A Study on Customer Satisfaction Analysis of Public Institutions using Social Textmining
+Electrical Fault Diagnosis via Text Mining: A Weakly-Supervised Learning Model
+Performances Evaluation of Automatic Authorship Attribution on Ancient Arabic Documents
+Transforming Social Media Posts into Volunteered Geographic Information using Data Mining Methods
+Exploring techniques for rationale extraction from existing documents
+Tracking Representational Flexibility Development through Speech Data Mining
+A Framework For Scalable Similarity Evaluation in Text Graphs
+A distributed look-up architecture for text mining applications using MapReduce
+Extraction and Analysis of Risk Factors from Chinese Railway Accident Reports
+Text Mining for Standardized Quality Criteria of Natural-Language IT-Requirements
+Sentiment Analysis of Positive and Negative of YouTube Comments Using Naïve Bayes – Support Vector Machine (NBSVM) Classifier
+Understanding Reactions to Natural Disasters: a Text Mining Approach to Analyze Social Media Content
+Feasibility of Using the Position as Feature for Idea Identification from Text
+Using Arabic Social Media Feeds for Incident and Emergency Management in Smart Cities
+A graph based method for Arabic document indexing
+An Overview of the CPROD1 Contest on Consumer Product Recognition within User Generated Postings and Normalization against a Large Product Catalog
+Exploiting Turkish Wikipedia as a semantic resource for text classification
+Microblog Dimensionality Reduction—A Deep Learning Approach
+Page ranking algorithms used in Web Mining
+An Automated Text Mining Approach for Classifying Mental-Ill Health Incidents from Police Incident Logs for Data-Driven Intelligence
+Comparison of Computerized and Manual Assessment of Dyslexia Children Test using Text Processing
+Social Recommendation in Location-Based Social Network Using Text Mining
+An Improved Term Frequency-Inverse Document Frequency Method Solving Multi-Text Label Problem
+Machine Learning Based Automatic Classification of Customer Sentiment
+An Early Warning Detection System of Terrorism in Indonesia from Twitter Contents using Naïve Bayes Algorithm
+Text classification using clustering techniques and P.C.A.
+Discovery-Enriched curriculum: A text mining approach for assessing students' discoveries
+Telematics Work Field Review Text Classification Using the Naïve Bayes Method
+On KNN and SVM text classification technology in knowledge management
+Flight crash investigation using data mining techniques
+Document Clustering and Topic Classification Using Latent Dirichlet Allocation
+Natural Language Processing for Fashion Trends Detection
+Beyond CTRL F(ind): Exploring Insights Hidden in Abstracts through No-Code Text Mining Using the Example of Social Entrepreneurship
+Educational Data Mining Tools: A Survey from 2001 to 2016
+Mining Online Book Reviews for Sentimental Clustering
+Text mining for security threat detection discovering hidden information in unstructured log messages
+A Study on Filtering of the Effect Range with the Package Insert of the Medicine
+Relationship value in the Digital Era: New Ideas for the Communication of National Trendy Brands: - Taking China Li Ning as an Example
+Fuzziness Detection in Thai Law Texts Using Deep Learning
+A system architecture for manufacturing process analysis based on big data and process mining techniques
+frances: Cloud-Based Historical Text Mining with Deep Learning and Parallel Processing
+Identification of Accident Path Elements using Supervised Learning: Observation of Diminishing Marginal Accuracy while using Cosine Similarity
+Research on the application of web data mining technology in tourism E-Commerce
+A Study on Security Trend based on News Analysis
+A Survey on Malware Detection Approaches Using EULA Analysis with Text Mining
+Classification of Turkish Documents Using Paragraph Vector
+Text Mining Life Cycle for a Spatial Reading of Viet Thanh Nguyen's The Refugees (2017)
+Optimized hybrid approach for topic search using log likelihood and RV coefficient
+Financial Market Service Architectures: A "Pump and Dump" Case Study
+Feature selection for text classification based on part of speech filter and synonym merge
+Predicting the Popularity of Trending Arabic Wikipedia Articles Based on External Stimulants Using Data/Text Mining Techniques
+Bias Detection of Palestinian/Israeli Conflict in Western Media: A Sentiment Analysis Experimental Study
+Text mining driven drug-drug interaction detection
+Textual topic evolution analysis based on term co-occurrence: A case study on the government work report of the State Council (1954–2017)
+A Hybrid Approach to Paraphrase Detection Based on Text Similarities and Machine Learning Classifiers
+An annotated corpus for Turkish sentiment analysis at sentence level
+Framework to extract context vectors from unstructured data using big data analytics
+Comparing Mining Algorithms for Predicting the Severity of a Reported Bug
+User and Topic Hybrid Context Embedding for Finance-Related Text Data Mining
+Prediction of events in education institutions using online social networks
+Analysis on image mining techniques
+Social media opinion analysis for Indian political diplomats
+Authorship Attribution of Short Historical Arabic Texts Based on Lexical Features
+A frequent term based text clustering approach using novel similarity measure
+An Ngram-Based Approach to Determine Trends and Patterns in the Social Networks
+A study on the use of “Yams” for enterprise knowledge sharing
+Enhanced Topic Identification Algorithm for Arabic Corpora
+Topic Trends in Sustainability Disclosure of German DAX 40 Companies—A Text Mining-Based Analysis
+Integrating Data Mining and Data Management Technologies for Scholarly Inquiry
+Intelligent Decision Support System in Inheritance Processes : a Research in the General Attorney Office of the State of Pernambuco
+Text Categorization using Supervised Machine Learning Techniques
+A Systematic Study on Textual Data Processing in Text Mining
+Exploring Consumption Intent in Live E-Commerce Barrage: A Text Feature-Based Approach Using BERT-BiLSTM Model
+Implementation of Text Association Rules about Terrorism on Twitter in Indonesia
+Introduction to and Hands-On Use Cases with HathiTrust Research Center's Extracted Features 2.0 Dataset
+Requirements management for market driven software products — Key issues
+Novel approach of mining methods for social network sites
+Enhancing Community Discovery and Characterization in VCoP Using Topic Models
+Improve Data Mining Techniques with a High-Performance Cluster
+Analyzing the Impact of Domestic Violence on Social Media using Natural Language Processing
+A comparative study of various text mining techniques
+Social sensing and sentiment analysis: Using social media as useful information source
+Transactional and Sequential model for pre-processing the textual data
+Crime analysis against women from online newspaper reports and an approach to apply it in dynamic environment
+Text Summarization of Indonesian Folklore with Word Frequency Concept
+Analysis of information propagation in academic social networks
+Temporal sentiment analysis for opinion mining of ASEAN free trade area on social media
+Advanced NLP Based Entity Key Phrase Extraction and Text-Based Similarity Measures in Hadoop Environment
+Evaluation of small-group discussions from the viewpoint of regionality in disaster risk management
+Ratcliff/Obershelp Algorithm as An Automatic Assessment on E-Learning
+Semantic Models for Style-Based Text Clustering
+A Proposed Robust Computational Network Modelling to Optimally Investigate Gene Data
+Analysis of learning objectives for higher education textbooks using text mining
+A new energy policy text classification and recognition model based on convolutional neural networks
+A novel approach for mining temporal pattern database using greedy algorithm
+Effects of various preprocessing techniques to Turkish text categorization using n-gram features
+Clinical text analysis using machine learning methods
+Finding similar files using text mining
+Incorporating Unstructured Text in Multi-Layer Perceptron (MLP) Network: Factors Affecting Partner Selection in Pair Programming
+Personalized Hotel Recommendation Using Text Mining and Mobile Browsing Tracking
+Text Mining with Information Extraction for Chinese Financial Knowledge Graph
+Identifying Potential Standard Essential Patents Based on Text Mining and Generative Topographic Mapping
+Business Trends Based on News Portal Websites for Analysis of Big Data Using K-Means Clustering
+Using Otsu's Threshold Selection Method for Eliminating Terms in Vector Space Model Computation
+Extending defoe for the Efficient Analysis of Historical Texts at Scale
+Leveraging Social Network Analysis with Topic Models and the Semantic Web
+Systems Engineers’ Effectiveness in an Organization: Text and Visual Analytics Approach
+Spatio-temporal history of Islamic inventors based on mobile
+Autorec: Intelligent agent for rapid recommendation to engender or sustain Blog-based Virtual Community
+Analysis on various machine learning based approaches with a perspective on the performance
+Develop CSR Themes using Text-Mining and Topic Modelling Techniques
+Structured data extraction from emails
+Research Trends in Agile Software Development
+An implementation of clustering project proposals on ontology based text mining approach
+From Engineers' Tweets: Text Mining Social Media for Perspectives on Engineering Communication
+The Application of Text Mining Algorithms to Discover One Topic Objects in Digital Learning Repositories
+Keyword Analysis of Artificial Intelligence Education Policy in South Korea
+An Automatic Electronic Nursing Records Analysis System Based on the Text Classification and Machine Learning
+Generating Information Relation Matrix Using Semantic Patent Mining for Technology Planning: A Case of Nano-Sensor
+Topic Detection from Microblog Based on Text Clustering and Topic Model Analysis
+Space engineering risk analysis from risk assessment matrix using text mining
+Random walks on adjacency graphs for mining lexical relations from big text data
+Contextual Text Analytics Framework for Citizen Report Classification: A Case Study Using the Indonesian Language
+An Improved K_Means Algorithm for Document Clustering Based on Knowledge Graphs
+A Novel Technology Intelligence Tool Based on Utility Mining
+Automatic Class Labeling for CiteSeerX
+A comprehensive study of text classification algorithms
+Annotating Exam Questions Through Automatic Learning Concept Classification
+Class-Specific Features Using J48 Classifier for Text Classification
+Dietary Supplements Mobile Application with Expert System and Text Mining
+Exploring associated rules of Danggui in traditional Chinese medicine through text mining
+A novel approach to aggregation of web documents by semantic suffix tree and self organizing feature map methods
+Automatic text classification and property extraction applications in medicine
+Text clustering ensemble based on genetic algorithms
+Mapping of the Perception of Theft Crimes from Analysis of Newspaper Articles Online
+Building Contextual Knowledge Graphs for Personalized Learning Recommendations Using Text Mining and Semantic Graph Completion
+Analysis of Employee Attendance Mobile Application Problems Based on User Reviews: A Case Study
+Associated Activation-Driven Enrichment: Understanding Implicit Information from a Cognitive Perspective
+Non-Query-Based Pattern Mining and Sentiment Analysis for Massive Microblogging Online Texts
+Towards an extensible web usage mining framework for actionable knowledge
+Automated Medical Diagnosis from Clinical Data
+Extracting Named Entities at Web Scale for Competitive Intelligence
+Robotic Process Automation for Resume Processing System
+Semantic graph based approach for text mining
+TF-IDF method in ranking keywords of Instagram users' image captions
+Constructing Financial Sentiment Lexicons by Integrating Textual and Time-Series Data
+Sentiment Analysis on Tourism Place using Naive Bayes
+Graph-Based Text Representation and Matching: A Review of the State of the Art and Future Challenges
+BioSentVec: creating sentence embeddings for biomedical texts
+Feature Extraction Using Restricted Bootstrapping
+Authors' Writing Styles Based Authorship Identification System Using the Text Representation Vector
+Text Mining for Malware Classification Using Multivariate All Repeated Patterns Detection
+Use Text Mining to Abstract Affective Words in the Dream Log to Assist Dream Consultation
+Leveraging process discovery with trace clustering and text mining for intelligent analysis of incident management processes
+Research of literature information retrieval method based on ontology
+Text separation in document images through Otsu's method
+Taxonomy Mining from a Smart City CMS using the Multidimensional Knowledge Representation Approach
+A study on software vulnerability prediction model
+Machine learning for automated tender classification
+A novel approach for emotion classification based on fusion of text and speech
+Real-time web mining application to support decision-making process
+A two-stage approach of named-entity recognition for crime analysis
+Selecting Reviewers for Research by Clustering Proposals Using Expectation Maximization Clustering Algorithm
+Performance Analysis of Students Based on Data Mining Techniques: A Literature Review
+Ontology Development Based on Quality Service of Coffee Shop Management at Kunming, China
+Improving Association Rule Mining for Infrequent Items Using Direct Importance Estimation
+A Narrative Analysis by Text Mining Technique Using Key Graph: Similarity and Difference of a View of Oral Health and Oral Risk Cognition between Japanese Living People and Dentists
+Acquisition of Knowledge with Time Information from Twitter
+Service Providers’ Competence Identification in Knowledge-Intensive Crowdsourcing Context
+Indonesians' Song Lyrics Topic Modelling Using Latent Dirichlet Allocation
+Comparative Study on Keyword Extraction Algorithms for Single Extractive Document
+A combined approach for the extraction of the multi-word and nested biomedical entity

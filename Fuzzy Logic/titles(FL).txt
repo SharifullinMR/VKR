@@ -1,0 +1,1100 @@
+Develop Type-2 Fuzzy Controller from Optimization of the Type-1 Fuzzy for the Engine Control Using the Bee Colony Optimization Technique
+Towards Fuzzy Partial Logic
+Employing an interval type-2 fuzzy logic and hesitation index in a Multi Criteria Group Decision Making system for lighting level selection in an intelligent environment
+Early Warning System Design for Flood Disasters Using the IoT-Based Fuzzy Logic Control Method
+Medical diagnosis system using fuzzy logic toolbox
+Fuzzy temporal predicate logic for incomplete information
+General Type-2 Fuzzy Logic Systems Using Shadowed Sets: A New Paradigm Towards Fault-Tolerant Control
+A multi-objective approach to design of interval type-2 fuzzy logic systems
+A Modified Fuzzy C Means Clustering Using Neutrosophic Logic
+Tracking control of surface vessels via adaptive type-2 fuzzy logic control
+An edge detection method based on generalized type-2 fuzzy logic
+Design of temperature control system using conventional PID and Intelligent Fuzzy Logic controller
+Research of grinding process fuzzy neural network system based on fuzzy logic
+Towards an Adaptive Control Strategy Based on Type-2 Fuzzy Logic for Autonomous Mobile Robots
+A method for constructing Hedge Algebraic Type-2 Fuzzy Logic Systems
+A hybrid approach to develop an interval type-2 fuzzy logic system
+The non-singleton fuzzification operation for general forms of interval type-2 fuzzy logic systems
+A novel soft computing method based on interval type-2 fuzzy logic for classification of celiac disease
+Stable type-2 fuzzy logic control of TCSC to improve damping of power systems
+A type-2 nonsingleton type-2 fuzzy logic system to handle linguistic and numerical uncertainties in real world environments
+ADONiS—Adaptive Online Nonsingleton Fuzzy Logic Systems
+Landing on the moon with type-2 fuzzy logic
+Fuzzy differential evolution method with dynamic parameter adaptation using type-2 fuzzy logic
+A comparative study on Fuzzy Logic and Intuitionistic Fuzzy Logic
+Interval type-2 fuzzy logic systems optimization with swarm algorithms for data classification
+Applications of type-2 fuzzy logic in power systems: A literature survey
+Fuzzy Bisimulation for Gödel Modal Logic
+Dempster-shafer based probabilistic fuzzy logic system for wind speed prediction
+Type-2 fuzzy airplane altitude control: A comparative study
+Adaptive speed control of brushless DC (BLDC) motor based on interval type-2 fuzzy logic
+On the application of fuzzy logic in the computer engineering and management engineering
+Power management of a variable speed wind turbine for stand-alone system using fuzzy logic
+Generalization of fuzzy sets type-2, fuzzy quantifiers sets and α-cut fuzzy sets fuzzy temporal sets, fuzzy granular sets and fuzzy rough sets for incomplete information
+A type-2 fuzzy logic system approach to train Honduran coffee cuppers
+Type-2 fuzzy logic control for underactuated truss-like robotic finger
+A Modular Implementation Scheme for Nonsingleton Type-2 Fuzzy Logic Systems With Input Uncertainties
+A New Look at Type-2 Fuzzy Sets and Type-2 Fuzzy Logic Systems
+Different methods supporting educational softwares: Contribution of fuzzy logic model to educational softwares
+An inversion method for interval type-2 fuzzy logic systems
+A Spectrum of Fuzzy Clustering Algorithm and Its Applications
+Omitting Types Theorem for Fuzzy Logics
+An adaptive type-2 fuzzy logic controller for dynamic positioning
+A hybrid approach for Multi-Criteria Group Decision Making based on interval type-2 fuzzy logic and Intuitionistic Fuzzy evaluation
+Hybrid multi-objective forecasting of solar photovoltaic output using Kalman filter based interval type-2 fuzzy logic system
+Application of fuzzy logic for performance evaluation of academic students
+Genetic algorithm based fully automated and adaptive fuzzy logic controller
+Type-1 and Type-2 Fuzzy logic controller based Shunt active filter Id-Iq control strategy for mitigation of harmonics with Triangular membership function
+An adaptive fuzzy logic controller based on real coded quantum-inspired evolutionary algorithm
+Fuzzy Set Theory and Fuzzy Logic for Activities Automation in Engineering Education
+Comparison of fuzzy controllers for the water tank with Type-1 and Type-2 fuzzy logic
+Some methods of fuzzy conditional inference and fuzzy reasoning
+Fuzzy Logic Approach for Evaluating the Effectiveness of Investment Projects
+On-line control of the inverted pendulum with type-2 fuzzy logic controller
+The route choice problem based on interval type-2 fuzzy logic inference
+The laws of excluded middle and contradiction in checklist paradigm based fuzzy interval logic
+Position Control of Servo Drive System Based on Interval Type-2 Fuzzy Logic Algorithm
+Sequential Fuzzy Description Logic: Reasoning for Fuzzy Knowledge Bases with Sequential Information
+Type-2 fuzzy logic dynamic parameter adaptation in a new Fuzzy Differential Evolution method
+A new variant of Fuzzy K-Nearest Neighbor using Interval Type-2 Fuzzy Logic
+Type-2 fuzzy logic control for airlane monitoring
+Performance comparison of Type-1 and Type-2 fuzzy logic systems
+Generalized Fuzzy Logic with twofold fuzzy set: Learning through Neural Net and Application to Business Intelligence
+Fuzzy Logic Framework for Assesing and Choising of Etreprise Strategies
+Summary of the optimal computation of type-2 fuzzy Logic system
+Indirect adaptive model predictive control supervised by fuzzy logic
+Target Search and Tracking with an Autonomous Quadcopter using Type-2 Fuzzy Logic Controller
+Higher-Order Fuzzy Logics and their Categorical Semantics: Higher-Order Linear Completeness and Baaz Translation via Substructural Tripos Theory
+Fuzzy logic approach to predict vehicle crash severity from acceleration data
+Studies on Centroid Type-Reduction Algorithms for Interval Type-2 Fuzzy Logic Systems
+A PSO-Based Type-2 Fuzzy Logic Controller Designed for Quadrotor Systems
+Some new typical fuzzy multisets logics
+Fuzzy logic torque control strategy for parallel hybrid electric vehicles
+A hardware architecture for real-time edge detection based on interval type-2 fuzzy logic
+Design of interval type-2 fuzzy logic controllers for flocking algorithm
+A functional-link based interval type-2 compensatory fuzzy neural network for nonlinear system modeling
+Discrete complex fuzzy logic
+Robust speed-controlled permanent magnet synchronous motor drive using fuzzy logic controller
+Powerful video noise removal using fuzzy logic
+T-S fuzzy control of a model car using interval type-2 fuzzy logic system
+On the Choice of the Pair Conjunction–Implication Into the Fuzzy Morphological Edge Detector
+Research on Unequal Clustering Protocol based on Fuzzy Logic and Entropy Weight Method
+Type-2 fuzzy probabilistic system
+Game of spheros: A real-world pursuit-evasion game with type-2 fuzzy logic
+Recommendations for Tourism Sites Using the Mamdani Fuzzy Logic Method and Floyd Warshall Algorithm (Case Study in Yogyakarta)
+Fuzzy Certainty Factor for incomplete information
+Fuzzy Logic in VANET context aware Congested Road and Automatic Crash Notification
+Uncertainty modeling for interval Type-2 Fuzzy Logic Systems based on sensor characteristics
+Generalized fuzzy logic for incomplete information
+Symbolic Verification of Fuzzy Logic Models
+Refinement CTIN for general type-2 fuzzy logic systems
+Fuzzy predicate logic for Knowledge Representation
+A New Insight on the Mappings of Type-2 Fuzzy Logic Systems
+The discussion on interval type-2 fuzzy logic controller with Stewart Platform
+Accident detection and action system using fuzzy logic theory
+Fuzzy Logic Based on Belief and Disbelief Membership Functions
+On t-norm fuzzy logics
+Shadowed Type-2 Fuzzy Logic Systems
+Mutually-inversistic rough fuzzy logic
+Diet recommendation based on Prakriti and season using Fuzzy ontology and Type-2 Fuzzy Logic
+Critique of “A New Look at Type-2 Fuzzy Sets and Type-2 Fuzzy Logic Systems”
+A fuzzy logic speed and current controller for Brushless DC Motors
+A resolution method for linguistic truth-valued intuitionistic fuzzy first-order logic
+Combined fuzzy logic and sliding mode approach's for modelling and control of the two link robot
+Method of Implementing a Fuzzy Logic Controller by Hardware
+Application of fuzzy logic in the regulation of Internal Environment of buildings
+Utilizing fuzzy logic for assessing "FAIRness" of a digital resource
+Application of Fuzzy Logic in the Ranking of Academic Institutions
+Soft decoding based Fuzzy Logic for processing of elementary signals within data transmission channels of distributed control systems
+Type-2 fuzzy logic controller for conical AMB-rotor system
+The law x ≤ I(y; x) and the three main classes of fuzzy implications
+Type-1 and Type-2 Fuzzy Logic Controllers for Autonomous Robotic Motion
+Implementation of a System for Teaching the Basics of Fuzzy Logic Inference Systems and Fuzzy Case-Based Reasoning
+Possibility of building a fuzzy epistemology from fuzzy logic presuppositions
+Development of fuzzy logic and genetic fuzzy commodity price prediction systems — An industrial case study
+Fuzzy logic control of MPPT for photovoltaic power system
+Online visual multi-object tracking based on fuzzy logic
+Interval type-2 fuzzy logic controller as a power system stabilizer
+Hybrid algorithm: Fuzzy Logic-Genetic Algorithm on traffic light intelligent system
+Parafoil path tracking control based on GPC parameters self-correction with interval type-2 fuzzy logic
+Implementation of Fuzzy Logic in Autonomous Irrigation System for Efficient Use of Water
+Interval type-2 fuzzy logic for dynamic parameter adaptation in the Harmony search algorithm
+Interval Type-2 Fuzzy Logic System Based on Batch Normalization and Uniform Regularization with Application to Time Series Forecasting
+Type-1 and Type-2 fuzzy logic speed controller based high performance direct torque and flux controlled induction motor drive
+On the Fundamental Differences Between Interval Type-2 and Type-1 Fuzzy Logic Controllers
+Towards Congestion Control Approach Based on Weighted Random Early Detection and Type-2 Fuzzy Logic System
+Early Detection of Cow Pregnancy Based on Volume Control of Cow Urine Using Fuzzy Logic Method
+Type-2 fuzzy functional inference method
+Multiple hybrid storage systems operation with combined fuzzy logic and model predictive control considering two-dimension modeling
+Implementation of A Fuzzy Logic Progression For Alcohol Addicts Using Fuzzy Control System(FCS)
+Fuzzy-Bot: A Food Serving Robot as a Teaching and Learning Platform for Fuzzy Logic
+Juzzy - A Java based toolkit for Type-2 Fuzzy Logic
+Integrating the Probabilistic Uncertainty to Fuzzy Systems in Fuzzy Natural Logic
+Fuzzy logic controller design and implementation for industrial applications
+Type - 2 fuzzy logic controller for nonlinear object control
+Application of adaptive neural network based interval type-2 fuzzy logic control on a nonlinear system
+A multiple level MIMO fuzzy logic based intelligence for multiple agent cooperative robot system
+Extension to fuzzy logic representation: Moving towards neutrosophic logic - A new laboratory rat
+Design control system for eel fish (Anguilla spp.) water aquaculture based Fuzzy Logic: MATLAB based simulation approach
+A new approach for data classification using Fuzzy logic
+A Comparative Analysis of MANET Routing Protocols on Cluster Head selection: with fuzzy logic approach and without fuzzy logic approach
+Variable Universe Type-II Fuzzy Logic Control Design for the GOOGOL’s Two-Wheeled Self-Balancing Robot
+Technique for edge detection based on interval Type-2 fuzzy logic with sobel filtering
+Edge detection method based on Interval type-2 fuzzy systems for color images
+Design of Buck Converter Based on Interval Type-2 Fuzzy Logic Controller
+A rule-based system embedded with fuzzy logic for risk estimation
+Application of fuzzy logic to short-term planning of electric loads
+Fuzzy logic control: Design of a ‘Mini’ fuzzy associative matrix (FAM) table algorithm in motor speed control
+Fuzzy risk sets for decision making
+Towards general forms of interval type-2 fuzzy logic systems
+Intelligent Bio-Environments: Exploring Fuzzy Logic Approaches to the Honeybee Crisis
+Toward a Fuzzy Logic System Based on General Forms of Interval Type-2 Fuzzy Sets
+Voltage stability analysis based on adaptive fuzzy logic considering load fluctuation
+Domestic Chicken Chick's Banda using Neuro fuzzy logic technique for reducing energy cost
+Multi-source knowledge based Unnormalized Interval Type-2 Fuzzy Logic Systems design
+Online adaptive fuzzy logic controller using neural network for Networked Control Systems
+Particle Swarm Optimization for designing an optimal fuzzy logic controller of a DC motor
+Adaptive fuzzy logic speed controller for brushless DC motor
+Interval Type-2 Fuzzy Logic System Based on Semi-Tensor Product
+A Fuzzy Logic Controller to Calibrate Color Parameters of a Microscope Camera in Order to Improve Safranin Detection in Digital Images
+Fuzzy logic approach for the prediction of the lifetime of epoxy insulators
+A new type reduction method for type-2 fuzzy logic controller
+Fuzzy Logic Based Control System for Automated Guided Vehicle
+Dissolved Gas Analysis (DGA) to Diagnose the Internal Faults of Power Transformer by using Fuzzy Logic Method
+Twin-rotor MIMO system and its control using interval type-2 fuzzy logic
+Interval Type-2 Fuzzy Sets are Generalization of Interval-Valued Fuzzy Sets: Toward a Wider View on Their Relationship
+A novel type-2 fuzzy logic control of induction motor drive using space vector PWM
+A hybrid watermarking scheme using Contourlet transform and fuzzy logic
+Automatic Storage of Goods on Moving Conveyors Using Fuzzy Logic Method
+Control Hybrid Filter To Improve Power Quality In Polluted Distribution System Using interval type-2 fuzzy logic
+A New Kicker System of Wheeled Soccer Robot ERSOW Using Fuzzy Logic Method
+Fuzzy logic controller design based on genetic algorithm for DC motor
+Evaluation of Student Performance Using Fuzzy Logic
+Real-Time Implementation of an Interval Type-2 Fuzzy Logic Controller for the Trajectory Tracking of an UAV
+Simulation of routing process based on fuzzy logic: The use of fuzzy sets in routing opens up new possibilities of management based on simple heuristic rules and adaptation to extreme and non-stationary traffic
+Mobile Robot Path Planning based on Fuzzy Logic Algorithm in Dynamic Environment
+Study of speech analysis techniques for the phonemes classification using fuzzy logic
+Implementation of Fuzzy Logic Control in Predictive Analysis and Real Time Monitoring of Optimum Crop Cultivation : Fuzzy Logic Control In Optimum Crop Cultivation
+Query Tuning in Semantic Inference Fuzzy Logic Algorithm for Real-Time Recommendations
+Adaptive Inverse Control of Cable-Driven Parallel System Based on Type-2 Fuzzy Logic Systems
+A new fuzzy logic method for transformer incipient fault diagnosis
+Adaptive Type-2 Fuzzy Logic Based System for Fraud Detection in Financial Applications
+Tridimensional fuzzy pain assessment
+Bearing fault detection based on interval type-2 fuzzy logic systems for support vector machines
+The impact of FOU size and number of MFs on the prediction performance of Interval Type-2 Fuzzy Logic Systems
+Generalized type-2 fuzzy logic in response integration of modular neural networks
+A new approach based on generalized type-2 fuzzy logic for edge detection
+Speed-adaptive vertical handoff algorithm based on fuzzy logic in vehicular heterogeneous networks
+Design of fuzzy logic controller for a non-linear system
+Interval-valued complex fuzzy logic
+Optimization of interval type-2 fuzzy logic controllers with rule base size reduction using genetic algorithms
+Environment Control System for Livestock Sheds Using Fuzzy Logic Technique
+Linguistic Fuzzy Modelling and Simulation for Fuzzy Logic Controller for Digital to Analog Conversion
+A novel load balancing algorithm based on utility functions and fuzzy logic in heterogeneous wireless networks
+Risk analysis in cancer disease by using fuzzy logic
+Implementation of Washing Machine System Via Utilization of Fuzzy Logic Algorithms
+Multi-focus image fusion using fuzzy logic
+A genetic interval type-2 fuzzy logic based approach for operational resource planning
+Model order reduction using fuzzy logic algorithm
+Elliptic membership functions and the modeling uncertainty in type-2 fuzzy logic systems as applied to time series prediction
+Performances evaluation and comparison of two algorithms for Fuzzy Logic rice cooking system (MATLAB Fuzzy Logic Toolbox and FuzzyTECH)
+Fuzzy concept lattice construction: A basis for building fuzzy ontologies
+A fuzzy logic based certain trust model for E-commerce
+A parametric-fuzzy logic system for paint cost estimation of products with uncertain geometric characteristics
+Bat algorithm with parameter adaptation using Interval Type-2 fuzzy logic for benchmark mathematical functions
+Analysis of Fuzzy Logic Method for Load Lifting Robot
+Detection of turn short circuit fault in PMSM variable speed based on adaptive fuzzy logic and sliding-mode control
+Comparative study between direct load control and fuzzy logic control based demand response
+An Interval Type-2 Fuzzy Logic System for Stock Index Forecasting Based on Fuzzy Time Series and a Fuzzy Logical Relationship Map
+Software Fuzzy Logic Compensator of Nonlinear Elements of Automatic Control System
+Overtaking assistant system (OAS) with fuzzy logic method using camera sensor
+DC Motor Speed Modeling and Simulation Using Fuzzy Logic Control Method
+General Type-2 Fuzzy Logic Systems Made Simple: A Tutorial
+On cognitive application of generalized computer Logic
+Survey of clustering algorithms using fuzzy logic in wireless sensor network
+An Undergraduate Survey Course on Asynchronous Sequential Logic, Ladder Logic, and Fuzzy Logic
+An interval type-2 fuzzy logic system for dynamic parameter adaptation in particle swarm optimization
+A system based on fuzzy logic approach to control humidity and temperature in fungus cultivation
+Human-Inspired—Zadeh—Sets and Logic
+Design of Fuzzy logic based level controller for surge tank system
+H infinity robust controller comparison with PD like fuzzy logic controller for an AUV control
+Improving reliable cloud computing environment using fuzzy logic
+Development of Heat Detector Based on Fuzzy Logic Using Arduino Board Microcontroller
+Development of a fuzzy logic wall following controller for steering mobile robots
+Design of Automatic Watergate System Using ESP32 Microcontroller Based on Fuzzy Logic Method
+Application of fuzzy logic for decoding and evaluation of results within the process of information system components diagnosis
+Speed control design for a vehicle system using fuzzy logic and PID controller
+Decision support system for crisis management using temporal fuzzy logic
+SoC Estimation of Lithium Ion Battery Using Combined Coulomb Counting and Fuzzy Logic Method
+Enterprise Management Mobile Assistant based on Using the Theory of Fuzzy Logic and Fuzzy Sets
+Improving the fuzzy logic controller of a car racing competition with adjusted fuzzy sets
+Performance Enhancement of Wind Turbine Systems using Type-2 Fuzzy Logic Control: comparative study
+A variant to the dynamic adaptation of parameters in galactic swarm optimization using a fuzzy logic augmentation
+Real-time fuzzy logic speed tracking controller for a DC motor using Arduino Due
+Discrimination between the patients with CIPD and Charcot-Marie-Tooth utilizing the fuzzy logic system based classifiers
+Fault diagnosis of VSI fed induction motor drive using fuzzy logic approach
+A study of academic performance evaluation using Fuzzy Logic techniques
+Image enhancement and image quality analysis using fuzzy logic techniques
+Fuzzy Logic-Based Packet Scheduling for MPQUIC in Multi-Access Networks
+Lecturer Promotion Assessment System based on Fuzzy Logic
+Fuzzy logic controlled adaptive scheduling of public utility buses in Metro Manila
+Exploring the use of Fuzzy Logic models to describe the relation between SBP and RR values
+Improved Sensorless Control of Salient-pole Permanent Magnet Synchronous Motor based on Fuzzy Logic Model Reference Adaptive System
+Fuzzy logic model for degumming and bleaching troubleshooting in palm oil refining
+Research on PD detection of 12kV switchgear based on fuzzy logic algorithm
+Design & analysis of fuzzy logic controller using Lyapunov function for a non-linear system
+Modified AHP for Gene Selection and Cancer Classification Using Type-2 Fuzzy Logic
+PID like fuzzy logic control of an Unmanned Underwater Vehicle
+Formation control of leader-follower robot using interval type-2 fuzzy logic controller
+IoT data acquisition in fashion retail application: Fuzzy logic approach
+A pH process control embedded on a PLC using Fuzzy Logic
+Adaptive Contrast Enhancement using Fuzzy Logic
+Design of Automatic Car Breaking System Using Fuzzy Logic and PID Controller
+Analysis of Fuzzy Logic Algorithm for Load Balancing in SDN
+Design of a reliable hub-and-spoke network using an interactive fuzzy goal programming
+Comparative study of hybrid fuzzy logic methods for mobile robot navigation in unknown environments
+A congestion control scheme based on fuzzy logic for wireless sensor networks
+Production estimates of coalbed methane by type-2 fuzzy logic systems
+Estimating the impact of domestic consumers on power quality using fuzzy logic
+Single intersection signal control based on Type-2 fuzzy logic
+A big-bang big-crunch Type-2 Fuzzy Logic based system for soccer video scene classification
+Adaptive Fuzzy Logic Control to Enhance Pitch Angle Controller for Variable-Speed Wind Turbines
+Interpreting Variational Autoencoders with Fuzzy Logic: A step towards interpretable deep learning based fuzzy classifiers
+Juzzy online: An online toolkit for the design, implementation, execution and sharing of Type-1 and Type-2 fuzzy logic systems
+Latency Aware - Resource Planning in Edge Using Fuzzy Logic
+MPPT for a three-phase grid-connected PV system (Fuzzy Logic Controller vs. PI Controller)
+Detection of The Freshness Level of Goldfish Through Eye Objects Using Fuzzy Logic Method Based on Image Processing
+Deep Learning-based Advancement in Fuzzy Logic Controller
+Fuzzy logic control of a WMR
+Estimation Length of Study Period Using A Fuzzy Logic Model
+Model based fault detection of nonlinear systems using singleton interval type-2 fuzzy sets
+Estimation of origin destination matrix using fuzzy logic
+Application of fuzzy logic for the implementation of the pump equipment
+Noninteracting Adaptive Control of PMSM Using Interval Type-2 Fuzzy Logic Systems
+Application of fuzzy logic on a PV water pumping system
+On-line monitoring induction motors by fuzzy logic: A study for predictive maintenance operators
+E-puck Mobile Robot Obstacles Avoidance Controller Using the Fuzzy Logic Approach
+A Teamwork communication model based on spiritual intelligence by fuzzy logic
+A discrete wavelet transform and fuzzy logic algorithm for identifying the location of fault in underground distribution system
+Application of fuzzy logic for evaluating the influence of panchagavya on tomato yield in grow bags: Fuzzy logic for tomato yeild
+Design and pass band analysis of automatic gain control circuit using fuzzy logic
+A Clustering Algorithm for WSN to Optimize the Network Lifetime Using Type-2 Fuzzy Logic Model
+Motion Control Design and Analysis of UR5 Collaborative Robots Using Fuzzy Logic Control (FLC) Method
+A General Omitting Types Theorem in Mathematical Fuzzy Logic
+Fuzzy Quantifiers and Compositions of Partial Fuzzy Relations Employing Dragonfly Algebras
+An Approach for Optimization of Intuitionistic and Type-2 Fuzzy Systems in Pattern Recognition Applications
+Three-dimensional localisation for wireless sensor networks using probabilistic fuzzy logic
+Fuzzy logic control for active ankle foot orthosis
+On Complex Fuzzy S-Implications
+Intelligent over current relays based on interval type 2 fuzzy logic approach
+An Efficient Configuration for Probabilistic Fuzzy Logic System
+Designing generalised type-2 fuzzy logic systems using interval type-2 fuzzy logic systems and simulated annealing
+Development of a Generic and Configurable Fuzzy Logic Systems Library for Real-Time Control Applications Using an Object-Oriented Approach
+(alpha, beta)-Ordered Linear Resolution of Intuitionistic Fuzzy Propositional Logic
+Adaptive Contrast Enhancement using Fuzzy Logic
+Using type-2 fuzzy logic systems for spike detection in the hypoxic ischemic EEG of the preterm fetal sheep
+DGA fuzzy logic diagnostic method based on subordinating function
+A GA-fuzzy logic based extended Kalman filter for mobile robot localization
+Control of a flexible air-breathing hypersonic vehicle with measurement noises using adaptive interval type-2 fuzzy logic system
+Antenna array synthesis by implementing non-uniform amplitude using Fuzzy logic
+Application of fuzzy logic in modern landfills
+A comprehensive comparative study of DGA based transformer fault diagnosis using fuzzy logic and ANFIS models
+Bio-inspired optimization of fuzzy logic controllers for autonomous mobile robots
+Advanced Fuzzy Logic Optimization for Superior Direct Torque Control in Double Star Induction Motor DS-IM
+Comparative analysis on performances of adjustable-gain single-neuron PID controllers based on general fuzzy logic and normal cloud model
+Tracking power photovoltaic system with a fuzzy logic control strategy
+Integration of Fuzzy Logic and QFD for Critical Chain in Project Scheduling with Uncertainties
+Fuzzy logic based vibration control of a single degree of freedom system
+Extending the Contraposition Property of Propositional Logic for Fuzzy Abduction
+Fuzzy Logic-Based Pressure Control System on Triaxial Test Equipment
+Fuzzy Logic Implementation on Motion of Tennis Ball Picker Robot
+A method for generalized fuzzy rough sets and application to fuzzy control systems
+Investigation on intermittent observation in mobile robot localization with fuzzy logic technique
+Hybrid auto text summarization using deep neural network and fuzzy logic system
+Fuzzy Logic-Based Incipient Fault Detection in Power Transformers Using IEC Method
+Fuzzy logic on reading recommendation system
+A combined facility location and network design model with multi-type of capacitated links and backup facility and non-deterministic demand by fuzzy logic
+Using Fuzzy Logic for Accessories Ordering in Conversion Services
+Power Management Control of Hydrogen-Based System Using Fuzzy Logic Method
+A Fuzzy Logic Based Internet of Things (IoT) for Smart Water Bottle
+On the use of fuzzy logic in dependable cloud management
+Optimal design of fuzzy logic controller for automatic voltage regulator
+A tuning strategy for microwave filter using variable universe adaptive fuzzy logic system
+Energy Demand Estimation of a Multi-Party Consumer using Fuzzy Logic Method
+Active power filter Dc voltage regulation with fuzzy logic controller
+Evaluating student performance using fuzzy inference system in fuzzy ITS
+Adaptive bandwidth PLL design based on fuzzy logic control
+Prediction of Coronary Heart Disease Using Fuzzy Logic: Case Study in Albania
+REACTIVE POWER ADAPTIVE CONTROL SYSTEM IN NETWORKS WITH DISTRIBUTED GENERATION BASED ON FUZZY SET THEORY
+Fuzzy Logic Technique based Fault Diagnosis for Electrical Distribution Network
+A novel type-2 fuzzy logic control of induction motor drive using Scalar Control
+Fuzzy Logic-Based Temperature Controller for a PLA Storage Container
+Fuzzy Logic-based Two-Level Clustering for Data Aggregation in WSN
+An Improved Fuzzy Logic Control Strategy of an Optimized Linear Induction Motor Using Super Twisting Sliding Mode Controller
+Fuzzy Logic Application in DGA Methods to Classify Fault Type in Power Transformer
+A new method for design and implementation of intelligent traffic control system based on fuzzy logic using FPGA
+System Design Of Adaptive Oxygen Flow Control using the Fuzzy Logic Method For Oxygen Therapy Devices
+Interval Type-2 Fuzzy Logic PID Controller Based on Phase and Margins Gains of the System Applied to a Non-Linear Control of a Conical Tank
+The classification algorithm development of photomasks defects based on fuzzy logic
+Fuzzy logic control of mechatronic systems
+Type-2 Fuzzy Logic Based DCT for Intelligent Image Compression
+Development of Smart Lights to Reduce Electricity Usage by Using Fuzzy Logic
+Fuzzy variable structure control for PWM inverters
+Application of Fuzzy Logic and Neural Networks Methods for Industry Automation of Technological Processes in Oil and Gas Engineering
+Adaptive Fuzzy Logic Controller For Maximum Power Point Tracking of DFIG Wind Turbine
+Building Machine learning datasets for oil-immersed service transformer health assessment using Fuzzy logic method
+Recognition of distorted characters printed on metal using fuzzy logic methods
+Fuzzy Logic Toolbox in Evaluating the Effectiveness of Projects in the Matlab Program
+Evaluating coordination in emergency response team by using fuzzy logic through social network analysis
+NcFDL: Non-commutative fuzzy description logic and its application
+Improvement power system stability using Unified Power Flow Controller based on hybrid Fuzzy Logic-PID tuning In SMIB system
+Design and Implementation of Fuzzy Logic Controller for A Class of Hexapod Mobile Robot
+Fuzzy Truth Maintenance System for Non-Monotonic Reasoning
+Application of fuzzy logic algorithm for optimization of control strategy in electric vehicles
+On Pythagorean and Complex Fuzzy Set Operations
+Hybrid fuzzy logic-artificial neural network controller for shunt active power filter
+Fuzzy Prediction of Metro Traffic Flow
+An Efficient Fuzzy Logic Modelling of TiN Coating Thickness
+Performance Analysis of Smart Irrigation System using Fuzzy Logic Method
+An Approach Towards the Design of Interval Type-3 T–S Fuzzy System
+A slow Cooker Design based on Fuzzy Logic Control Temperature System
+Superiority of using interval type-2 fuzzy PID controller over the conventional type-1 fuzzy controller in a chlorine flow control system
+Design of Seaweed Dryer Using Sugeno's Fuzzy Logic Control Approach
+Fuzzy Logic as a Computational Tool for Quantitative Modelling of Biological Systems with Uncertain Kinetic Data
+Density Based Fuzzy Logic Control Scheme for a Multi-Stoplight Road Network Implemented on a Simplified Traffic Model
+Transformer DGA Diagnostic Method Based on Fuzzy Logic Function Method
+An Approach to Identifying the Type of Uncertainty of Initial Information Based on the Theory of Fuzzy Logic
+Storing and analysing fuzzy data from surveys by relational databases and fuzzy logic approaches
+Fuzzy logic based expert system for students' performance evaluation
+Towards Image Steganography Using Type-2 Fuzzy Logic and Edge Detection
+Facial expression recognition using facial effective areas and Fuzzy logic
+Estimation of software maintainability using fuzzy logic technique
+An Ingenious Traffic Control System Using Fuzzy Logic Control With Emergency Override Feature
+OFDMA-based WiMAX Connection Admission Control based on fuzzy logic controller
+A Study of Jojoba Oil Extraction Based on a Fuzzy Logic Model
+Routing Algorithm Based on Fuzzy Logic Optimization for Lifetime Enhancement and Packet Success in Heterogeneous Wireless Sensor Networks
+Application of Fuzzy Logic in Decision Support System for Analysis of Condition Enterprises
+An Interval Type-2 Fuzzy Logic System for the Simulation of Fused Deposition
+Covid-19 Symptom Detection System in Public Area using Fuzzy Logic Method
+Data-Driven Elastic Fuzzy Logic System Modeling: Constructing a Concise System With Human-Like Inference Mechanism
+Fusion of fuzzy logic and PD control for a five-fingered smart prosthetic hand
+Condition Monitoring System for Induction Motor Using Fuzzy Logic Tool
+Foot Plant Deformation Classification System by Image Processing and Fuzzy Logic
+Heuristic algorithm of two-level minimization of fuzzy logic functions
+Network based type-2 fuzzy logic controller design for hydraulic system
+Fuzzy Logic Based Spectrum Handover Approach in Cognitive Radio Network: A Survey
+Integration of Fuzzy Logic Algorithms with Failure Mode and Effect Analysis for Decision Support Systems in Product Quality Improvement of Piano Cabinets
+Synergism of Recurrent Neural Network and Fuzzy Logic for Short Term Energy Load Forecasting
+Detection of Gas Harmful Effect using Fuzzy Logic System
+Fuzzy Logic used in Textual Emotion Detection
+Relationship between similarity measure and entropy of interval type-2 fuzzy sets
+Recognition of Power Quality Disturbances Based on T-S Fuzzy Logic
+Fuzzy Logic approach based predicting power output of PV panel in desert environment
+Grid-based general type-2 fuzzy logic systems based on GPU computing
+Classification of red blood cells disease using fuzzy logic theory
+Accident Detection System Using Dynamic Fuzzy Logic Control
+Unsupervised clustering with the Octave Fuzzy Logic Toolkit
+Design of a fuzzy logic based automated shading and irrigation system
+Gas Turbine Monitoring using Fuzzy Control approaches: Comparison between Fuzzy Type 1 and 2
+Robust Apple Segmentation using Fuzzy Logic
+Applying Fuzzy Inference Systems in the Extraction of Chia Cake Extract: Predicting the Mass Yield
+Optimization of hybrid robot control system using artificial hormones and fuzzy logic
+Power Energy Management for a Grid-Connected PV System Using Rule-Base Fuzzy Logic
+Precise and Accurate Multifunctional Prosthesis Control Based on Fuzzy Logic Techniques
+On the cooperation of interval-valued fuzzy sets and genetic tuning to improve the performance of fuzzy decision trees
+Design of server room temperature and humidity control system using fuzzy logic based on microcontroller
+Energy-efficient cluster-head selection with fuzzy logic for robotic fish swarm
+DC/DC Buck Converter Using Fuzzy Logic Controller
+A Self-Organized Method for a Hierarchical Fuzzy Logic System Based on a Fuzzy Autoencoder
+An Approach to Automation of the Principle of Insignificance based on Fuzzy Descriptive Logic
+An Energy Control Strategy Based on Adaptive Fuzzy Logic for Onboard Hybrid Energy Storage System
+Fuzzy Logic Controller Application in HybriD Solar and Wind Energy System
+A novel relay selection scheme for multi-user cooperation communications using fuzzy logic
+Tagging of Regional Websites using Fuzzy Logic
+Application of fuzzy logic for Alzheimer's disease diagnosis
+Infocommunication System Weakly Formalized Processes Intelligent Control Based on Fuzzy Logic
+A novel approach for medical image fusion using fuzzy logic type-2
+Machine Learning Based Fuzzy Logic Approach for Auto Harmonization of Melodies in C Major
+A characterization of watermelon leaf diseases using Fuzzy Logic
+Fuzzy Logic Based Scheme for Directional Overcurrent Detection and Classification for Transmission Line
+Design of Optimized PID Type Fuzzy Logic Controller for Higher Order System
+Study of the effect in the output membership function when tuning a Fuzzy Logic Controller
+A New Modeling Method for Switched Reluctance Motor Based on the Fuzzy Logic System
+Dynamic simultaneous adaptation of parameters in the grey wolf optimizer using fuzzy logic
+Design of a wireless controller for an automotive actuator based on PID-Fuzzy Logic
+Design and implementation of flood detector using wireless sensor network with mamdani's fuzzy logic method
+Identification of Various Genus Mentha L. with Electronic Nose Using Fuzzy Logic Algorithm
+Adaptive Interval Type-2 Fuzzy Logic Control for PMSM Drives With a Modified Reference Frame
+Fuzzy simulation of pedestrian walking path considering local environmental stimuli
+Evaluation of the energetic and operational efficiency in active power filters using fuzzy logic control for microgrid applications
+Long term load forecasting for Nigeria's electric power grid using ann and fuzzy logic models
+A fuzzy rule-based classification system using Hedge Algebraic Type-2 Fuzzy Sets
+Designing & Simulation for Maximum Power Tracking of Photovoltaic System using Fuzzy Logic Algorithm
+Design of a Fuzzy Logic process Controller for flow applications and implementation in series tanks Pilot Plant
+Investigating the performance of PV interfaced PBT based DSTATCOM by Adaptive Fuzzy logic controller for reactive power management
+Control of Livestock Waste Odors Using Gas Sensors and Fuzzy Logic
+Type-2 Fuzzy SARIMA system for real-valued uncertain non-stationary data-intensive seasonal time series
+Frequency Regulation of Microgrid using Fuzzy-logic based controllers
+Design of a self-tuning hierarchical fuzzy logic controller for nonlinear swing up and stabilizing control of inverted pendulum
+Fuzzy Multi-Cascade AC Drive Control System
+Development of a fuzzy logic-based PV solar tracking system simulated using QT fuzzy engine
+Indirect vector control of induction motor using fuzzy logic controller
+Input space selective fuzzification in intuitionistic semi fuzzy-neural network
+Logical Characterizations of Crisp Bisimulations in Fuzzy Description Logics
+An Intelligent Controller for an Assisted Electric Wheelchair based on Interval Type-2 Fuzzy Logic
+Incipient Fault Detection of Electric Power Transformers Using Fuzzy Logic Based on Roger's and IEC Method
+Cardiovascular Risk Assessment Using Intuitionistic Fuzzy Logic System
+Design of low power VLSI-architecture and ASIC implementation of fuzzy logic based automatic car-parking system
+Mamdani based Fuzzy Logic Controller for A Wheeled Mobile Robot with Obstacle Avoidance Capability
+A fuzzy logic approach for cloud classification based on near-infrared image features
+Fuzzy Logic for Omnidirectional Mobile Platform Control Based in FPGA and Bluetooth Communication
+Classification of Fuzzy Logic Linguistic Terms for Accurate Load Balancing in Electric Power Distribution System
+Node Clustering in Wireless Sensor Networks using Fuzzy Logic: Survey
+Fuzzy Logic System for BRB Defect Diagnosis of SCIG-Based Wind Energy System
+A Type-2 Fuzzy Logic Based System for Augmented Reality Visualisation of Georeferenced Data
+Fuzzy Logic Based self-switching multi-strategic pedagogical agent
+Application of fuzzy logic for charging control of lead-acid battery in stand-alone solar photovoltaic system
+Fuzzy logic based load flow analysis
+Intelligent traffic signal synchronization using fuzzy logic and Q-learning
+Fuzzy logic-based Student Placement Evaluation and Analysis
+An interval type-2 fuzzy logic based system for improved instruction within intelligent e-learning platforms
+Static Obstacles Avoidance in Autonomous Ground Vehicle using Fuzzy Logic Controller
+CNN and Fuzzy logic based hybrid approach for lung cancer detection and report generation
+Energy performances of a routing protocol based on fuzzy logic approach in an underwater wireless sensor networks
+Fuzzy Logic and Neural Network-Based Intelligent Control System for Quadruped Robot on Extreme Terrain
+Intelligent Agents and Neural Fuzzy Logic: Enhancing Agent Intelligence in Complex Environments
+Behavior control of a mobile robot based on Fuzzy logic and Neuro Fuzzy approaches for monitoring wall
+Amelioration of the floating solar panel with Fuzzy Logic
+Torque estimation of sensorless SRM drive using adaptive-fuzzy logic control
+Assessment of Environmental Risks Using Elements of Fuzzy Logic
+Accurate Forecasting of Electric Load Demand via Interval Type-2 Fuzzy Logic Method With Particle Swarm Optimization
+Fuzzy logic system for risk-level classification of diabetic nephropathy
+Design of a Fuzzy Logic control system for monitoring gearbox jamming in a bottle washer machine
+Adaptive PID-Fuzzy Logic Controller for Brushless DC Motor
+A fuzzy logic control approach for smoothing of wind and photovoltaic generation output fluctuations
+A simplified implementation of interval type-2 fuzzy system and its application in students' academic evaluation
+Dual Axis Solar Tracker With Fuzzy Logic Method
+Fuzzy Logic Control for Semi-Autonomous Navigation Robot Using Integrated Remote Control
+Fraud detection in international calls using fuzzy logic
+Research on Cognitive Mining Method of Ship Formation Behavior Law Based on Knowledge Graph and Fuzzy Association Logic
+Artificial Intelligence in Underwater Robot Navigation Using Sonar Sensors with Fuzzy Logic Method
+Fuzzy Logic Approach to Improve the Performances of Grid-Connected Photovoltaic Power System
+Modeling market data and technical indicators with Fuzzy Logic to develop a trading algorithm for an individual stock in the Philippines
+Hybrid Fuel Cell/Battery Power System Energy Management by Using Fuzzy Logic Control for Vehicle Application
+Automated Tungsten Inert Gas Welding Process using Fuzzy Logic Operation
+Generation of an adaptive e-learning domain model based on a fuzzy logic approach
+On the Monotonicity of Interval Type-2 Fuzzy Logic Systems
+A 0-1 Law in Mathematical Fuzzy Logic
+Fertigation Control System on Smart Aeroponics using Sugeno's Fuzzy Logic Method
+Proposal of a fuzzy logic controller for the improvement of irrigation scheduling decision-making in greenhouse horticulture
+Application of Fuzzy Logic for Detection of Financial-Customs Violations
+Improving power system stability using a fuzzy logic control
+Improving estimation accuracy of the COCOMO II using an adaptive fuzzy logic model
+Gateway and Cluster Head Election using Fuzzy Logic in heterogeneous wireless sensor networks
+A Novel Approach for Fault Diagnosis of Multilevel Inverter Using Dwt and Fuzzy Logic Algorithm
+Modeling and Performance Evaluation of a Fuzzy Logic Controller for Buck-Boost DC/DC Converters
+Bisimilarity in Fuzzy Description Logics Under the Zadeh Semantics
+On the Continuity of Type-1 and Interval Type-2 Fuzzy Logic Systems
+Impact of Emotional Intelligence Training on Performance Management Systems Upshoting Organizational Effectiveness Using Fuzzy Logic Approach
+Robust sliding mode - based interval Type-2 fuzzy logic observer for quadcopter UAVs
+Analysis of Speed/Position Controller Based on Several Types of a Fuzzy Logic for Travelling Wave Ultrasonic Motor
+Modeling a Conceptual Framework for Owner-Contractor Relationship and Time-Cost Trade-Off Using Fuzzy Logic Techniques
+Optimization of power quality problem for a windturbine fixed speed induction generatorunder asymmetric faultsusing UPFC fed vector control-PI, hysteresis and fuzzy logic
+Efficient handover algorithm using fuzzy logic underlay power sharing for cognitive radio wireless network
+Characterizing Crisp Simulations and Crisp Directed Simulations between Fuzzy Labeled Transition Systems by Using Fuzzy Modal Logics
+Adaptive Fault Classification Approach Using Digitized Fuzzy Logic (DFL) Based on Sequence Components
+A trust model in cloud computing based on fuzzy logic
+Performance comparison of PMSM drive using PI and Fuzzy Logic based controllers
+Grid Connected Solar PV Array Fed BLDC Motor Driven Water Pumping System Using Fuzzy Logic Controller
+Energy Management System for Smart Microgrid Systems using Adaptive Fuzzy Logic
+Towards a Type-2 Fuzzy Logic Based System for Decision Support to Minimize Financial Default in Banking Sector
+Integrating Fuzzy Logic and agent-based modeling for assessing construction crew behavior
+Opportunistic Routing Protocols Based on Fuzzy Logic: Present and Future Directions
+Minimizing uncertainties with improved power system stability using wide area fuzzy-2 logic based damping controller
+Dynamic Fuzzy Logic Traffic Light Integrated System with Accident Detection System Using iTraffic Simulation
+Using interval type-2 fuzzy logic to analyze Turkish emotion words
+The Design of Embedded Fuzzy Logic Controller for Autonomous Mobile Robots
+Failure Modes and Effects Analysis Using Fuzzy Logic for Electric Vehicle Inverter
+Performance Modelling and Analysis of Dynamic Class-Based Call Admission Control Algorithm Using Fuzzy Logic for Heterogeneous Wireless Networks
+New Energy Efficient Clustering Method Based on Fuzzy Logic and Genetic Algorithm in IoT Network
+A PLC-Based PI and Pi-Fuzzy Logic Controller for an Industrial Fan System
+Modelling of Mamdani Fuzzy Inference Engine using hierarchical colored Petri nets
+Competition of fuzzy logic controllers applied on flexible manipulator
+A framework for assessing the evolvability characteristics along with sub-characteristics in AOSQ model using fuzzy logic tool
+Determining best setup sites for cellular towers using fuzzy logic
+Classes of η-fold implicative fuzzy filters of residuated lattice ordered monoids
+Fuzzy logic controlled UAV autopilot using C-Mean clustering
+Dynamic fuzzy logic traffic light integrated system with Accident Detection System using FuzzyTech program
+A fuzzy logic method for predicting the drape behavior
+Efficient Fuzzy Logic Energy Management in Stand-Alone Solar Systems
+Research and Analysis of Modified Paired Transitions Algorithm Based on Fuzzy Logic in Software Defined Networks of Internet of Things
+Fuzzy logic based vertical handover algorithm for trunking system
+Control of Technological Parameters of Precision Stamping Process Based on Fuzzy Logic
+Solid fuel fired boiler combustion control using Fuzzy Logic Algorithm
+Actuality of fuzzy logic use for implementation pumping equipment
+Control Algorithms of Hybrid Energy Storage System Based on Fuzzy Logic
+Development of Virtual Firefighting Robots Using Breitenberg and Fuzzy Logic Methods
+Safety Value Index: Computation and Evaluation of Safety of Geographical Area using Fuzzy Logic
+A type-1 fuzzy logic algorithm to manage the flow of energy in a stand-alone PV/wind/battery hybrid system
+Low frequency keyword extraction with sentiment classification and cyberbully detection using fuzzy logic technique
+Fuzzy logic based maximum power point tracking technique for a stand-alone wind energy system
+Determination of Tomato Fruit Stages Using Principal Component Analysis and Fuzzy Logic Algorithm
+An Event-Driven Spectrum-Aware Routing Protocol in Cognitive Radio Sensor Networks Using Fuzzy Logic
+Boost Converter with Fuzzy Logic, PI Controller and Sliding Mode Control for a Variable Source Input
+Methodology of fuzzy logic with mamdani fuzzy models applied to the microcontroller
+Fuzzy logic based sentiment analysis of product review documents
+Design of Precision Fiber Optic Winding Machine based on Fuzzy Logic Control System
+Cluster Head Selection and Cluster Construction using Fuzzy Logic in WSNs
+Power transformer fault diagnosis using fuzzy logic technique based on dissolved gas analysis and furan analysis
+Fault Classification in HVDC Systems: A Fuzzy Logic Classifier Approach
+Fuzzy logic approach for GNSS signal classification using RHCP and LHCP antennas
+A Fuzzy Logic Approach in assessing the trustworthiness of Instagram Sellers: A Customer's Perspective
+Smart Fish Feeder Using Arduino Uno With Fuzzy Logic Controller
+Mobile Robot Obstacle Avoidance in labyrinth Environment Using Fuzzy Logic Approach
+Improving the Scoring Process of Question Answering System in Indonesian Language Using Fuzzy Logic
+Global temperature fuzzy model as a function of Carbon emissions a fuzzy ‘regression’ from historical data
+Fuzzy logic based heating systems operation scenario selection
+Tasks distribution for students testing based on fuzzy logic
+Energy Efficient Cluster Formation Algorithm Based on GA-optimized Fuzzy Logic for Wireless Sensor Networks
+Classification and Identification of Alzheimer Disease With Fuzzy Logic Method
+Position Control System On Autonomous Vehicle Movement Using Fuzzy Logic Methods
+Enhancing classic IFOC with Fuzzy Logic technique for speed control of a 3∼ Ebara Pra-50 moto-pump
+A novel approach for lifetime analysis of sensor network using fuzzy logic
+PID-based Fuzzy Logic Theory Implementation on BLDC Motor Speed Control
+Improving Automation Control Systems and Advantages of the New Fuzzy Logic Approach to Object Real-Time Process Operation
+An efficient approach for clustering in wireless sensor network using fuzzy logic
+Monitoring and Classification System of River Water Pollution Conditions with Fuzzy Logic
+Vision System for Soil Nutrient Detection Using Fuzzy Logic
+Detection of Faults in Power System Transformers Using Fuzzy Logic Approach
+Fuzzy logic as a basic for use case point estimation
+A Cloud-based Model for Medical Diagnosis using Fuzzy Logic Concepts
+An efficient Fuzzy Logic MPPT Control Approach for Solar PV System: A Comparative Analysis with the Conventional Perturb and Observe Technique
+Fuzzy-Logic Applications in Cost Analysis of Transformer's Main Material Weight
+MRAS type-2 fuzzy logic observer and controller for robust speed sensorless induction motor
+FuzzyR: An Extended Fuzzy Logic Toolbox for the R Programming Language
+Incorporate Doubts in Fuzzy Logic
+Closing the loop from continuous M-health monitoring to fuzzy logic-based optimized recommendations
+Probabilistic Fuzzy Classification for Stochastic Data
+Shiphandling fuzzy logic approach for determining safety criteria of ferry operation
+Optimal control of islanded microgrid with adaptive fuzzy logic & PI controller using HBCC under various voltage & load variation
+Design of Fuzzy Logic Control for Automatic Switching OFF Electric Iron
+A Fuzzy Logic System with Attribute Ranking Technique for Risk-Level Classification of CAHD in Female Diabetic Patients
+Real time implementation of unity power factor correction converter based on fuzzy logic
+A Fast GPS Signal Acquisition Method Based on Fuzzy Logic
+Comparison of Mamdani type and Sugeno type fuzzy inference systems in wind power plant installations
+Meta-heuristic algorithms applied to the optimization of type-1 and type 2 TSK fuzzy logic systems for sea water level prediction
+Gait tracking and recognition by SIFT and type-2 fuzzy logic
+Fuzzy conditional inference and application to Wireless Sensor Network Fuzzy Control Systems
+Experimental automation platform of stand-alone hybrid renewable energy systems: Fuzzy logic application and exergy analysis
+Design of smart air-conditioning system using fuzzy logic and neural networks
+Fuzzy ID3 algorithm on linguistic dataset by using WABL defuzzification method
+Question Difficulty Priori Evaluation Based on Fuzzy Logic in Programming System
+Research on SOC Weighted Control Method of Energy Storage System Based on Fuzzy Logic Control Theory
+Path planning navigation of mobile robot with obstacles avoidance using fuzzy logic controller
+Handoff Decision Using a Kalman Filter and Fuzzy Logic in Heterogeneous Wireless Networks
+Dynamic voltage restorer using the combination of fuzzy logic and EPLL control strategies: An optimized implementation
+Hybrid Deep Learning Type-2 Fuzzy Logic Systems For Explainable AI
+Improving Flow Control in Electro-pneumatic Lung Ventilators: PID versus Fuzzy Logic Control Systems. Partial Results
+Tracking with a fuzzy logic controller as applied to a pneumatic robot for polishing
+Leanness assessment using fuzzy logic approach: A case of Indian cooperative bank
+Application of Mamdani Fuzzy Logic Inference System to Optimise CNC Machine Motion Dynamics
+Edge-Detection Method for Image Processing Based on Generalized Type-2 Fuzzy Logic
+IPL Player Selection using Fuzzy Logic
+Adaptive Neuro Fuzzy based dynamic simulation of induction motor drives
+Distributed explosion management of marine mines for destroying mobile targets in intelligent mines ad-hoc network using adaptive fuzzy logic
+Utilization of Fuzzy Logic Controller for Pitch Control of a Small Scale Wind Energy Conversion System (WECS)
+DSP-Based Fuzzy Logic Servo Motor Control
+Fuzzy Logic in Computer Technology: Applications and Advancements
+Fuzzy phase locked loop for three-phase power converters
+Fuzzy logic based energy storage supervision and control strategy for mvdc power system of all electric ship
+Microcontroller based differential relay using fuzzy logic for transformer protection
+Research of Solar Tracking Controller for PV Panel Based on Fuzzy Logic Control
+Fuzzy logic based enhancement of wind power system
+Determination of regional main products with fuzzy logic approach in regional Sula Island of North Maluku Province
+Dynamic Spectrum Assignment Algorithm Based on Fuzzy Logic to Reduce Fragmentation in EONs
+Fuzzy based Pooling in Convolutional Neural Network for Image Classification
+Modeling Wall Tracer Robot Motion Based on Fuzzy Logic Control
+Diagnosing COVID-19 Symptoms Using Fuzzy Logic
+Stabilization algorithm for interval type-2 TSK fuzzy logic control systems with bounded time-varying delay
+Standardization of DGA interpretation techniques using fuzzy logic approach
+Design, Simulation and Comparative Analysis of Switched Mode Converter incorporating PID and Fuzzy Logic Control Topology
+An adaptive interval type-2 fuzzy logic framework for classification of gait patterns of anterior cruciate ligament reconstructed subjects
+Searching arousals: A fuzzy logic approach
+Intelligent Management Model Of Business Processes Of Production With The Use Of Fuzzy Logic Apparatus
+Environmental Condition Monitoring and Decision Making System Using Fuzzy Logic Method
+Implementation of fuzzy logic for network selection in next generation networks
+Using fuzzy logic for vulnerability assessment in telecommunication network
+A many-objective genetic type-2 fuzzy logic system for the optimal allocation of mobile field engineers
+Fuzzy Logic-Based Fault Diagnosis of Simply Supported Bridge Using Modal Frequency as Input Variable
+Design, low cost implementation and comparison of MIMO Mamdani Fuzzy Logic Controllers for wall tracking behavior of mobile robot
+A fuzzy link-based approach for XML information retrieval
+Fuzzy Logic Based Temperature Control
+Simulation of flow control in straight microchannels using fuzzy logic
+Influence of Fuzzy Parameters on the Modeling Quality of XLPE Insulation Properties under Thermal Aging
+Power Factor Correction of Parallel-Connected Boost Converter Utilizing a Fuzzy Logic-Based Controller
+A Fire Detection System Using Multi-Sensor Networks Based on Fuzzy Logic in Indoor Scenarios
+Real-time simulation of maximum power point tracking control using fuzzy logic for stand alone PV system
+Optimization of interval type-2 fuzzy logic controller using quantum genetic algorithms
+Towards Unranked Fuzzy Theory
+The development of fault diagnosis system for diesel engine based on fuzzy logic
+A Fuzzy Logic Based Switching Methodology for a Cascaded H-Bridge Multi-Level Inverter
+Algorithm and the Program of Construction of the Fuzzy Logical Model
+DOB Fuzzy Controller Design for Non-Gaussian Stochastic Distribution Systems Using Two-Step Fuzzy Identification
+Fuzzy Logic Based LQG Controller Design for Inverted Pendulum On Cart
+Automatically regulates Non-Player Character Behavior Using Fuzzy Logic As An Artificial Intelligence Mechanism For Action Makers
+A fuzzy logic controller of two-position pump with time-delay in heavy metal precipitation process
+Fuzzy logic based cluster head selection and data processing in Distributed Sensor Networks
+Fuzzy logic-based clustering approach with mobile sink for WSNs
+Automatic Temperature and Humidity Control System for Tarantula Terrarium Using Fuzzy Logic Algorithm
+Fuzzy Logic System for Corporate Sustainability Assessment
+Fuzzy logic control of In-Wheel permanent magnet brushless DC motors
+Wireless real-time performance monitoring with fuzzy logic protection capability for power inverter
+New Method of Fuzzy Conditional Inference and Reasoning
+Modeling composite intrusion detection systems using Fuzzy Description Logics
+Enhanced Power Factor Correction and Voltage Stability in Electric Spring Circuits Using Double Fuzzy Logic and Fuzzy PI Controllers
+Type-2 Fuzzy Logic Based Energy-Efficient Cluster Head Election for Multi-Hop Wireless Sensor Networks
+Development and modeling of intelligent control system of cruise missile based on fuzzy logic
+Comparing Different Simulated Annealing Cooling Variants for Fuzzy Logic Systems Modeling
+A BERT-Based with Fuzzy logic Sentimental Classifier for Sarcasm Detection
+Improved Performance of Fuzzy Logic Controller to Control Dynamical Systems: A Comparative Study
+Operations on Balanced Fuzzy Sets
+Fusing LIDAR sensor and RGB camera for object detection in autonomous vehicle with fuzzy logic approach
+LQR based Fuzzy Logic Rudder Control System using DC Servo Motor
+Anemia diagnosis by fuzzy logic using LabVIEW
+A low-complexity fuzzy-logic-control-based vertical handoff decision algorithm with rough set theory
+Fuzzy logic controller based dynamic performance analysis of AC drive with SVPWM
+Fuzzy logic based power system stabilizer for damping low frequency oscillations in power system
+Adaptive Personalized Diet Linguistic Recommendation Mechanism Based on Type-2 Fuzzy Sets and Genetic Fuzzy Markup Language
+A type-2 fuzzy logic system for event detection in soccer videos
+GA optimization of fuzzy logic controller for voltage sag improvement in power systems
+Fuzzy Logic Control for Avoiding Static Obstacle in Autonomous Vehicle Robot
+Comparative study of fuzzy logic peak power trackers for a photovoltaic system
+Extended Kalman Filter Based Learning Algorithm for Type-2 Fuzzy Logic Systems and Its Experimental Evaluation
+Hierarchical Fuzzy Logic for Multi-Input Multi-Output Systems
+Fuzzy logic control in regenerative braking system for electric vehicle
+Clustering using fuzzy logic in wireless sensor networks
+Performance comparison of PI and Fuzzy Logic Controller of a heat recovery steam generator (HRSG)
+Controlling of Microclimatic Parameters of a Greenhouse by using Fuzzy Logic and Wireless Sensor Networks
+iPatch: A Many-Objective Type-2 Fuzzy Logic System for Field Workforce Optimization
+Routing Protocol Based on Bacterial Foraging Optimization and Type-2 Fuzzy Logic for Wireless Sensor Networks
+Implementation of LFC Based Fuzzy Logic Controller for the Tunisian Power System
+Design of fuzzy logic controllers for decentralized voltage regulation in grid connected photovoltaic systems
+Investigating the Appropriateness of Fuzzy Logic Techniques to Model Unsteady Aerodynamics
+Mitigation of low frequency oscillation with STATCOM based fuzzy logic controller and adaptive neuro fuzzy inference system controller
+Vision-based Shrimp Feed Type Classification using Fuzzy Logic
+Multidimensional intuitionistic fuzzy quantifiers
+Combining Word Embeddings with Fuzzy Logic to Protect Web Applications Fuzzy VADAS
+A New Fuzzy Logic Based Method For Residential Loads Forecasting
+Application of fuzzy logic for implementation pumping equipment with account energy efficiency
+Fuzzy Logic-based Software Tool for Business Process Model Complexity Assessment
+Fault Detection Method based on Auto-associative Kernel Regression and Interval Type-2 Fuzzy Logic System for Multivariate Process
+Comparative Study of the Open-Loop Buck Converter and the Closed-Loop PID Controlled and Fuzzy Logic Buck Converter
+A fuzzy logic algorithm for RATs selection procedures
+Hybrid self-configuring evolutionary algorithm for automated design of fuzzy logic rule base
+Fuzzy logic controller based dynamic performance analysis of AC drive with SVPWM
+Fuzzy logic technique based single phase auto-reclosing protection system of a double circuit transmission line
+Fuzzy Logic-based Systems for Medical Diagnosis – A Review
+Fuzzy logic for Child-Pugh classification of patients with cirrhosis of liver
+Design and analysis of fuzzy logic based robust PID controller for PWM-based switching converter
+Optimized control of SRG based on fuzzy logic by turn-on and turn-off angle
+Students' Satisfaction in Online Distance Learning Using Fuzzy Logic and Inference System
+In Field Proximal Soil Sensing For Real Time Crop Recommendation Using Fuzzy Logic Model
+Using fuzzy logic to discriminate convective and statiform precipitation in Doppler weather radar
+A Novel Fuzzy Logic-based Method for Modeling and Recognizing Yoga Pose
+Li-Ion battery management system based in fuzzy logic for improving electric vehicle autonomy
+Design of a power system stabilizer using adaptive-neuro fuzzy logic for a multi-machine system having dynamic loads
+Modeling of Fuzzy Logic Control System for Controlling Homogeneity of Light Intensity from Light Emitting Diode
+An Improved Droop Control for DC Microgrid Based on Fuzzy Logic Algorithm
+Energy management in a fuel cell hybrid electric vehicle using a fuzzy logic approach
+Development of Application for Identification of Hydrocarbon Prospect Zone In Well Logging Based on Fuzzy Logic
+Using Fuzzy logic concepts in creating the decision making expert system for cardio — vascular diseases (CVD)
+A fuzzy logic based super-twisting sliding mode control scheme for electronic throttle control
+A novel fuzzy logic controller for smart load voltage regulation
+Development of a Fuzzy Logic Controller for a Smart RGB Lighting System
+Software complexity: A fuzzy logic approach
+Fuzzy logic based system to diagnose internal faults of power transformer
+Fuzzy logic control of ankle movement using multi-electrode intraspinal microstimulation
+Speed control for a permanent magnet synchronous motor based on fuzzy logic with reduced perturbations on the supply network
+Estimation of Playout Time in Networks using Fuzzy Logic Approach
+Fuzzy logic control for a small pitch controlled wind turbine
+Real-time Fault Diagnostic in Rotating Shaft using IoT-based Architecture and Fuzzy Logic Analysis
+Design of Portable Automatic Clothes Dryer with Fuzzy Logic Controller
+Contrasting Noise Robustness of Type 2 Fuzzy Reasoning
+Marine engine rotational speed control automatic system based on Fuzzy PID logic controller
+Comparative Analysis of The Traditional Perturb and Observe with Studied FPPT Method and Fuzzy Logic Control Strategy Based P and O for the MPPT of a Photovoltaic System
+Cooperative Adaptive Fuzzy Control of Uncertain Affine Nonlinear Multi-agent Systems Based on Artificial Potential Functions
+Approaches for Reducing the Computational Cost of Interval Type-2 Fuzzy Logic Systems: Overview and Comparisons
+Suitable power control based on type-2 fuzzy logic for wind-turbine dfig under hypo-synchronous mode fed by multi-level converter
+Handling CHD Classifier Based on Machine Learning and Fuzzy Logic Techniques
+Mobile robots path planning using ant colony optimization and Fuzzy Logic algorithms in unknown dynamic environments
+A fuzzy-logic controlled PV powered buck-boost DC-DC converter for Battery-Load system
+A novel type of fuzzy propositional logic
+A hybrid system combining intuitionistic fuzzy description logics with intuitionistic fuzzy logic programs
+Distributed fuzzy logic based routing protocol for wireless sensor networks
+Fuzzy logic controlled buck-boost DC-DC converter for solar energy-battery system
+Prediction of Steel Plate Fault Classification Using CART Fuzzy Logic and ANFIS Models
+Use of fuzzy logic for networks selection in heterogeneous wireless environment
+CFFL: Cluster formation using fuzzy logic for wireless sensor networks
+Identification of Herbaceous Plants with Electronic Nose using Fuzzy Logic Algorithm
+Recognition of Power Transformer Fault Based on Dissolved Gas Analysis using Fuzzy Logic Approach
+Sprinkler Irrigation System for Pakcoy Cultivation Based on Mamdani Fuzzy Logic and LoRa Communication
+Fuzzy Logic based Control Technique using MPPT for Solar PV System
+Fuzzy Logic Controller for Load-Shifting in Smart Homes with Battery Storage & Rooftop PV
+Dengue notification system using fuzzy logic
+Optimized Fuzzy Logic Controller for a Bipedal Walking Robot
+Design and Implementation of Temperature and Humidity Control System in Oyster Mushroom Cultivation using Fuzzy Logic Controller
+Closed form fuzzy interpolation with interval type-2 fuzzy sets
+Guide to fuzzy logic based transesophageal echocardiography motorized probe control
+Load Frequency Control for Multi-Area Power System using Fuzzy Logic Controller
+Analysis of Islanding Detection in Distributed Generation Using Fuzzy Logic Technique
+Fuzzy Logic Classifier and Conditional Responses Algorithm for Gestural Input Game
+Application of fuzzy logic for a gap-width controller used in electro-discharge machining
+Type-2 Fuzzy Logic Trajectory Tracking Control of Quadrotor VTOL Aircraft With Elliptic Membership Functions
+A fuzzy logic Approach to predict the best fitted apparel size in online marketing
+Optimal power flow management strategies of MicroGrid, using Petri Nets and fuzzy logic approaches
+Fuzzy logic and Takagi-Sugeno Neural-Fuzzy to Deutsche bank fraud transactions
+Hardware module design of a real-time multi-sensor fire detection and notification system using fuzzy logic
+Selection of proper input pattern in fuzzy logic algorithm for classifying the fault type in underground distribution system
+Optimization method for membership functions of type-2 fuzzy systems based on the level of uncertainty applied to the response integration of modular neural network for multimodal biometrics
+Comparisons between artificial neural networks and fuzzy logic models in forecasting general examinations results
+Hover position quadrotor control with fuzzy logic
+Some Fuzzy Logic Operators for Picture Fuzzy Sets
+Investigation of Various Optimization Algorithms in Tuning Fuzzy Logic-based Trajectory Tracking Control of Quadcopter
+Fuzzy logic in heart rate and blood pressure measuring system
+A dynamic inverse control law for hypersonic vehicles based on fuzzy logic
+Enhancement of Stress Cycle-counting Algorithms for Li-ion Batteries by means of Fuzzy Logic
+Weather prediction based on fuzzy logic algorithm for supporting general farming automation system
+The control of two-wheeled inverted pendulum robot (TWIPR) using fuzzy logic
+Speed sensitive-energy aware adaptive fuzzy logic based vertical handoff decision algorithm
+Implementation of Fuzzy Logic Method to Measure Soil Moisture and Environmental Temperature in Automatic Watering System Based on Internet of Things
+Fuzzy Logic Controller for Light Intensity and Humidity Control System of Greenhouse and Its Monitoring using LoRa communication protocol
+Shunt Active Filter for Harmonic Compensation Using Fuzzy Logic Technique
+Fuzzy logic based temperature control of thermoelectric cooler (TEC) for single photon avalanche diode (SPAD) application
+An estimate of global temperature increase by means of a fuzzy logic model
+Multifactor Selection of Personnel Based on Fuzzy Logic
+Comparison of Fuzzy Logic and Neuro Fuzzy Controller for Shunt Active Power Filter
+Closed loop control of BLDC motor using a fuzzy logic controller and single current sensor
+The Application of Convolutional Neural Networks and Fuzzy Logic in Control and Automation Systems for Recognizing and Assessing the Danger Level of Hot Cracks in the Production of Cast Products
+Characterization and Classification of Mangifera Indica Ripeness with Electronic Nose using Fuzzy Logic Algorithm
+A Proposed Security Evaluation Method for Bluetooth E0 Based on Fuzzy Logic
+Decision System for Reservoir Upwelling Using Fuzzy Logic Based on Internet of Things
+A Development of Fuzzy Logic Expert-Based Recommender System for Improving Students’Employability
+Microcontroller based densely clustered fuzzy logic algorithm for peak solar power tracking
+Air targets recognition using a fuzzy logic approach
+Landslide Susceptibility Zoning Using Fuzzy Logic Algorithm & GIS: Study Case In Majene, West Sulawesi
+Identifying Transformer Oil Criticality Using Fuzzy Logic Approach
+A Granular Synthesis Strategy Based on Musical Harmony Theory Through a Fuzzy Logic Approach
+MAS energy management of a microgrid based on fuzzy logic control
+Traffic Aware Dynamic MAC Protocol Using Fuzzy Logic Controller for Wireless Body Area Networks
+Fault classification of a transmission line using wavelet transform & fuzzy logic
+Type-2 Fuzzy logic based controllers for indirect vector controlled SVPWM based two-level inverter fed induction motor drive
+Fuzzy logic based algorithm to classify tumor categories with position from brain MRI images
+The integration of fuzzy logic and artificial neural network methods for mobile robot obstacle avoidance in a static environment
+Prevention from COVID-19 in India: Fuzzy Logic Approach
+Performance Comparison of Fuzzy Logic and Deep Learning algorithms for fault detection in electrical power transmission system
+Using fuzzy logic for diagnosis of technical condition of power circuit breakers
+Monitoring and Implementation of Watering System on Farming Robot based on Fuzzy Logic Algorithm
+Orchid disease detection using image processing and fuzzy logic
+Prediction of Insulating Oil for Transformers Through Fuzzy Logic Approach
+Fuzzy logic approach in fatigue of the laminated composites used for manufacturing of electrical equipments' components
+Electric Stator Faults Detection in Induction Motor based on Fuzzy Logic Technique
+Fuzzy logic controller performance in vector control of induction machine
+Fuzzy logic control of an uncertain robot with output constraint
+Automated vehicle class and color profiling system based on fuzzy logic
+Nutrient Concentration Control System in Hydroponic Plants Based on Fuzzy Logic
+Fuzzy logic applied to control of electrical machines
+Image enhancement using artificial neural network and fuzzy logic
+Throttle Less Electric Bicycle Controller Using Fuzzy Logic
+Fuzzy logic-based group formation control of multiple wheeled robots
+Residential grid connected solar inverter using fuzzy logic DC-DC Converter
+Fire Fighting Robot Using Flame Detector and Ultrasonic Based on Fuzzy Logic Control
+Comparative Study Between Classical and Fuzzy Logic DTC Strategies Aimed to an IPMSM Drives
+Interval type-2 fuzzy logic for image edge detection quality evaluation
+Wind Turbine System based on Fuzzy Logic based MPPT Controller and Boost type Vienna Rectifier
+Determining South African distribution power system big data integrity using fuzzy logic: Power measurements data application
+Fuzzy Logic Approach to Predicting Rainfall Patterns
+General Type-2 fuzzy edge detectors applied to face recognition systems
+Fuzzy Logic Sensor Fusion for Obstacle Avoidance Mobile Robot
+Adaptive Fuzzy Control of a Class of Nonlinear Systems by Fuzzy Approximation Approach
+Using fuzzy logic for clustering in wireless sensor networks
+Adaptive fuzzy logic traffic light management system
+Performance Analysis of Periodic Gate Signal Blocking on SRM Drives with Bang-Bang and Fuzzy Logic Control
+Smart Irrigation Decision Support Based on Fuzzy Logic Using Wireless Sensor Network
+Prototype Design for Routing Load Balancing Algorithm based on Fuzzy Logic
+Implementation of fuzzy logic operators as digital asynchronous circuits in CMOS technology
+Design of Dryer Coconut for Copra Production Using Fuzzy Logic Control
+Design of a fuzzy logic controller for a vent fan and growlight in a tomato growth chamber
+Fuzzy Logic Based VANETS: A Review on Smart Transportation System
+Parafoil air-dropped control with fixed set-point based on interval type II fuzzy logic
+A novel cluster head selection scheme using fuzzy logic in wireless sensor networks
+FuzzyVD: An algorithm that uses fuzzy logic and fuzzy systems to estimate the number of endmembers present in a hyperspectral image
+Humanoid robot hierarchical navigation using Petri nets and fuzzy logic
+On the accuracy of input-output uncertainty modeling with interval Type-2 Fuzzy Logic Systems
+Optimization of PID control parameters with genetic algorithm plus fuzzy logic in stirred tank heater temperature control process
+VHDL based Neuro-Fuzzy Lithium-Ion Hybrid Super Capacitors management: (Advantages of the high-level descriptions of neural fuzzy logic based systems)
+Fuzzy logic controlled shunt active power filter for reactive power compensation and harmonic elimination
+Novel LMI-based stability conditions for interval Type-2 T-S fuzzy logic control systems
+Implementation of Fuzzy Logic Control for Soft-Starting Method Brushless DC Motor at Electric Bicycle
+Prediction of CMRS rock mass rating using fuzzy logic
+Grading System Recommendations for Students using Fuzzy Mamdani Logic
+Stability analysis and control of DC Motor using Fuzzy logic and Genetic algorithm
+Join and Meet Operations for Type-2 Fuzzy Sets With Nonconvex Secondary Memberships
+Design and implementation of closed loop controlled boost converter for solar power installation system using fuzzy logic controller
+Obstacle avoidance of hybrid mobile-quadrotor vehicle with range sensors using fuzzy logic control
+A soft demapping technique using fuzzy logic for LDPC receiver in cooperative wireless networks
+Dynamic rule based approach to reduce power consumption of the fuzzy logic controller for embedded applications
+Decomposing Conventional Fuzzy Logic Systems to Hierarchical Fuzzy Systems
+Cluster Head Election Algorithm Based on Fuzzy Logic to Improve Lifespan in WBAN
+Development of a vehicle and pedestrian simulation environment with M.I.S.O. fuzzy logic controlled intelligent traffic light system
+Research and Application of Clustering Optimization Algorithm Based on Fuzzy Logic in 5G Transmission Line Natural Disaster Monitoring
+Effective Business Strategy Decision Making Method Using Fuzzy Logic
+Closed-Form Mathematical Representations of Interval Type-2 Fuzzy Logic Systems with Application to Inverted Pendulum Stabilization
+Control system of train speed based on fuzzy logic controller
+Fuzzy logic approach for inertial and frequency response from converter based wind power units
+Implementation of Fuzzy Logic on Fire Fighting Robots
+Development of a Method for Optimizing the Voltage Mode Based on Fuzzy Logic
+Embedding Fuzzy Rules with YARA Rules for Performance Optimisation of Malware Analysis
+Traffic Light Control System for Four-Way Intersection and T-Crossing Using Fuzzy Logic
+Design of superheated steam temperature control using fuzzy logic controller
+Fuzzy data processing method
+Comparison of input signal choices for a fuzzy logic-based power system stabilizer
+Duty Cycle Tuning by Using Fuzzy Logic for High-Voltage Generators
+Direct adaptive type-2 fuzzy logic control of a generic hypersonic flight vehicle
+Implementation of Fuzzy Logic Controller for Oxygen Control System in Aquaculture Pond
+Interval Type-2 Adaptive Network-based Fuzzy Inference System (ANFIS) with Type-2 non-singleton fuzzification
+Adaptive particle swarm optimization employing fuzzy logic
+Fast stability achievement through fuzzy logic based non-linear excitation control of synchronous generator
+A Simple Matlab Simulink Model for Adaptive General Type-2 Fuzzy Logic Systems
+Mitigation of subsynchronous resonance by static compensator with the aid of fuzzy logic controller and adaptive neuro fuzzy inference system controller
+Fuzzy inference modeling method of time-varying system based on T-S fuzzy system
+Smelling on the Edge: Using Fuzzy Logic in Edge Computing to Control an Olfactory Display in a Video Game
+Parametric Audio-visual Quality Measurement Based on Interpretable Fuzzy Logic
+General type-2 fuzzy edge detector applied on face recognition system using neural networks
+Research on Task Scheduling Algorithm Based on Fuzzy Logic Priority
+Identification and Removal of Ground Clutter Using the Fuzzy Logic Algorithm
+Self-scaling laboratory crane fuzzy logic control with anti-swing regulation
+Aging Risk Assessment based on Fuzzy logic for overhead transmission line
+Fuzzy Logic Based Scheme for Directional Earth Fault Detection and Classification
+Enhancing secure cloud computing environment by Detecting DDoS attack using fuzzy logic
+Intelligent Control Based on Adaptative Fuzzy Logic for Permanent Magnet Synchronous Machine
+An intelligent self-tuning fuzzy logic controller for pitch angle control for a wind turbine fed induction generator
+Real-time Control of a Rotary Inverted Pendulum using Fuzzy Logic
+Control of a Two-link Robotic Arm using Fuzzy Logic
+Design of a Genetic based Optimized Fuzzy Logic Controller for Enhanced Trajectory Tracking Accuracy of a 3P Robot
+Aero-Engine Over Vibration Monitoring Method Based on Fuzzy Logic
+Fuzzy Logic Controller in a Cuk Converter for Aerospace Application
+Time series forecasting with interval type-2 intuitionistic fuzzy logic systems
+Development of fuzzy logic controller for DC motor using personal computer and inexpensive microcontroller
+The state of health of Li-Po batteries based on the battery's parameters and a fuzzy logic system
+A Fuzzy Logic Based Static VAR Compensator For Wind Farm Voltage Stabilization
+Design of interval type-2 fuzzy logic systems using prior knowledge via optimization algorithms
+Speed Control of BLDC motor using Fuzzy Logic Algorithm for Low Cost Electric Vehicle
+A queue scheduling approach to quality of service support in Diff-Serv networks using fuzzy logic
+Intricacies in digital CMOS implementation of a reconfigurable fuzzy logic traffic light controller
+Designing a Fuzzy Logic Controller for Soft-Switched Quadratic Boost Converter
+Fuzzy logic based security region evaluation of the urban rail transit operating system
+An Effective Routing Mechanism Based on Fuzzy Logic for Software-Defined Data Center Networks
+Swarm Intelligence Based Fuzzy Controller -- A Design for Nonlinear Water Level Tank
+Formation control design for real swarm robot using fuzzy logic
+Keystroke Identifier Using Fuzzy Logic to Increase Password Security
+A Fuzzy Logic Approach for Predicting Gestational Diabetes Mellitus Using Risk Factors
+Hybrid PI-fuzzy logic controller based DC-DC converter
+Applications of Fuzzy Logic in Recruitment Systems
+PH sensor using Fuzzy Logic on Arduino for the monitoring and control of acidity or alkalinity in reservoir's irrigation water
+Regulation of the Real Time Traffic Light at Teling Intersection in Manado City by using Fuzzy Logic and ANFIS
+PID and fuzzy logic optimized controller for temperature control in a cavity of refrigeration
+Maximum green time settings for traffic actuated signal control at isolated intersections using fuzzy logic
+Fuzzy Logic and ANFIS controller for grid integration of Solar PhotoVoltaic
+The complemented elements in fuzzy lattices
+Fuzzy Logic Controller Hardware Implementation using XSG tools Applied to a Variable Speed Wind Turbine Emulator
+Fuzzy Logic-Based Electrical Conductivity Control System in Aquaponic Cultivation
+Automation system for controlling and monitoring ornamental plants using fuzzy logic method
+Time Adjustment of the Hot-Blast Stoves Unit Using Fuzzy Logic
+Theory of dynamic hybrid fuzzy logic control of traffic light network with accident detection and action system
+Fuzzy Logic Gain Factor Based Improved Switching Median Filter for Mixed Noise
+Application of Fuzzy Logic on Astronomical Images Focus Measure
+A fuzzy toolbox for the R programming language
+Parameter optimization for a fuzzy logic control of a Permanent Magnet Brushless Motor
+Simulation of fuzzy logic control for DC servo motor using Arduino based on MATLAB/Simulink
+Bidding strategies based on type-1 and interval type-2 fuzzy inference systems for Google Adwords advertising campaigns
+Fuzzy Logic based Recommendation System for Road Accident Data Analysis
+Type-2 fuzzy rule base system with parameter optimization for forecasting of tardiness
+Three-state fuzzy logic method on resource allocation for small cell networks
+Controller Type-2 Fuzzy Logic – PSO Applied for Variable Speed Wind Turbines
+Using fuzzy logic in psychophysical experiments to separate hits, false positives and guesses in posturally perturbed standing subjects
+Internet of Things in Retail Using Fuzzy Logic for Customer Loyalty
+Fuzzy Logic Controller-based Simulation and Modeling of Peak Current Detection in BLDC Motor for PV-FED Water Pumping System
+Sugeno/ Mamdani Interval Type II Fuzzy Logic Controller Based DSTATCOM with Controlled Load
+An enhanced fuzzy logic optimization technique based on user mobility for LTE handover
+Predicting maintainability of autonomic software systems using fuzzy logic
+Levenberg marquardt algorithm for the training of type-2 fuzzy neuro systems with a novel type-2 fuzzy membership function
+Application of DWT and fuzzy logic algorithm for classifying simultaneous fault types
+Flight Operation Quality Assessment Model Based on the Fuzzy Logic Theory
+Automated GPC tuning based on fuzzy logic and event triggered mechanism
+Comparison of PID, Fuzzy Logic, ANFIS and Model Predictive Controllers for Cruise Control System
+A Stochastic Logic-Based Fuzzy Logic Controller: First Experimental Results of a Novel Architecture
+Implementing fuzzy logic controller techniques for indirect vector control induction motor drives
+Fuzzy-Logic Control in fast technological processes
+Computing derivatives in interval type-2 fuzzy logic systems trained by steepest descent method for fault classification in a switch machine
+Design and performance analysis of fuzzy logic-based speed controller for DTC of VSI fed IPMSM drives
+Enhanced Vector Control of Induction Motor by Fuzzy Logic Controller
+Implementation of a fuzzy logic based perturb and observe approach for maximum power point tracking of solar PV modules
+Fuzzy logic model for deodorizer troubleshooting in palm oil refining
+Fuzzy Logic-based Expert System for Effort Estimation in Scrum Projects
+Image Edge Detection Using Fuzzy Logic Controller
+A Fuzzy-logic Based Energy-efficient Clustering Algorithm for the Wireless Sensor Networks
+The Design of Mobile Robot Heading Control using Fuzzy Logic Controller
+An Intelligent Control of an Inverted Pendulum Based on an Adaptive Interval Type-2 Fuzzy Inference System
+Application of Linguistic Fuzzy-Logic Control in fast and sensitive technological processes
+Enhanced Decision Support System for Financial Risk Assessment Using Hybrid Fuzzy Logic and Machine Learning
+Evaluation of the Influence of Icing on the Functioning of Main Pipeline by Means of Fuzzy Logic Methods
+Fuzzy Logic Based Approach for Navigation Obstruction Risk of Shipwreck in Yangtze River
+Genetic and Fuzzy logic algorithms for robot path finding
+High accuracy three-dimensional radar sensor design based on fuzzy logic control approach
+Fuzzy Logic and PI Controller Implementation on Dynamic Voltage Restorer
+Fuzzy logic control of a new type of electromagnetic converter with rolling rotor
+Improvement of induction motor performance at low speeds using fuzzy logic adaptation mechanism based sensorless direct field oriented control and fuzzy logic controllers (FDFOC)
+Fuzzy Logic Application in Automation Control
+Antenna array synthesis by implementing non-uniform amplitude using Tsukamoto fuzzy logic controller
+Design and Simulation of Fuzzy logic controller based MPPT of PV module using Matlab Simulink
+Monitoring of Wind Energy Conversion System by on Dimensional Adaptive Tuning Fuzzy Logic Controller
+Implementation of Fuzzy Logic in PLC for Three- Story Elevator Control System
+Image contrast enhancement in spatial domain using fuzzy logic based interpolation method
+The implementation of the fuzzy logic controller for permanent magnet synchronous machines
+Design and Simulation of Fuzzy Logic Based Quadratic Boost Converter
+Nonlinear Disturbance Observer Based T-S Fuzzy Logic Control of Pneumatic Artificial Muscles
+Design of an Intelligent Decision System for Polymer Flooding Injection Plans Combining Fuzzy Logic and Genetic Algorithm
+Application of WOA-based Interval Type-2 Fuzzy Logic System in Wind Power Prediction
+DNA Implementation of Fuzzy Inference Engine: Towards DNA Decision-Making Systems
+Trajectory tracking with variable sampling using fuzzy logic controller
+Application of fuzzy logic in recognition of tomato fruit maturity in smart farming
+Application of Fuzzy Logic for Secure Handover in Wireless Cellular Networks
+Generalized fuzzy certainty factor and fuzzy decision set: An application to surgery intelligence
+Power Smooth of a Hybrid PV-Wind Microgrid Using a Hybrid Energy-storage System with a Designed Adaptive Fuzzy Logic Controller
+A fuzzy logic system for demand-side load management in residential buildings
+Anti-Collision Car System using Fuzzy Logic Technique
+Real-time implementation and performance analysis of an intelligent fuzzy logic controller for level process
+An Integrated Fuzzy Logic System under Microsoft Azure using Simpful
+Steam temperature control using fuzzy logic for steam distillation essential oil extraction process
+Theory of dynamic fuzzy logic traffic light integrated system with accident detection and action
+MPPT based on incremental conductance-fuzzy logic algorithm for photovoltaic system under variable climate conditions
+Fuzzy logic type-2 controller design for MPPT in photovoltaic system
+A fuzzy logic system to analyze a student's lifestyle
+Design of a Load Frequency Control based on a Fuzzy logic for Single Area Networks
+Controlling the number of equipments powered from photovoltaic panels with fuzzy logic
+Intelligent PID-Fuzzy logic control for three-phase grid-connected photovoltaic inverter
+A Fuzzy Logic-Based System of Abnormal Behavior Detection Using PoseNet for Smart Security System
+Automatic grading of potatoes with fuzzy logic
+A fuzzy logic based approach to enhance low contrast images
+Complemental Fuzzy Sets: A Semantic Justification of q-Rung Orthopair Fuzzy Sets
+Formalization of Fuzzy Control in Possibility Theory via Rule Extraction
+Event-driven Fast Frequency Response Based on Fuzzy Logic Controller
+Fuzzy controller design using concretion based on boolean relations (CBR)
+Adaptive fuzzy logic based Bi — Histogram equalization for contrast enhancement of mammograms
+Zone based Algorithm for CH Selection using Fuzzy logic for Heterogeneous Wireless Sensor Networks
+Data Fusion for Magnetic Sensor Based on Fuzzy Logic Theory
+Transient stability improvement in transmission system using SVC with Fuzzy Logic Control
+Real-Time implementation of Diagnosis and Fault Detection for PV panel Based on Fuzzy Logic Classification
+Gene Expression Programming-Fuzzy Logic Method for Crop Type Classification
+The recognition of migraine headache by designation of fuzzy expert system and usage of LFE learning algorithm
+Integrated Fuzzy Logic Approach for Calculation of Health Index of Power Transformer
+Dual-axis solar tracking system based on fuzzy logic control and Light Dependent Resistors as feedback path elements
+Application of Fuzzy Logic Algorithms in Beamformers of Antenna Complexes
+Classifying Authentic and Fake Anger Based on High-Performance LSTM Networks Model, Fuzzy Logic Model and Fully Connected Neural Network
+Sensorless control for buried magnet PMSM based on direct flux control and fuzzy logic
+Utilising fuzzy logic to improve Wi-Fi security
+A Disease Inference Scheme based on Fuzzy Logic for Patient's-customized Healthcare
+Automation of Heat Supply in Greenhouse with Usage of the Renewable Heat Sources on the Basis of Fuzzy Logic Simulation Technics
+Fuzzy logic based PIDF controller for PV array fed multilevel converter
+Coconut Fruit Maturity Classification using Fuzzy Logic
+Load Shedding Automation System on Smart Meter Using Fuzzy Logic Method
+Intelligent Ventilation Management System of Laboratory Based on Fuzzy Logic
+Incipient fault detection and diagnosis of induction motor using fuzzy logic
+Fuzzy Logic-Based Flood Detection System Using Lora Technology
+Risk Assessment for Cisco PIX-525 Firewall: Fuzzy Logic Approach
+Performance Analysis and Comparison Between Fuzzy Logic Algorithm and PI-Controller in Photovoltaic System
+Implementation Of Fuzzy Logic For Determining The Level Score Historical Character Recognition Puzzle Educational Game
+Energy efficient IoT thermometer based on fuzzy logic for fever monitoring
+Induction motor stator fault detection via fuzzy logic
+Enhancing the Photovoltaic System Output Performance Through the Use of Maximum Power Point Tracking and Fuzzy Logic Control
+Enhancement of fusion using fuzzy logic with DWTon multimodality images
+A fuzzy logic vertical handoff algorithm with motion trend decision
+Cardiovascular Conditions Classification Using Adaptive Neuro-Fuzzy Inference System
+Detection and target tracking with a quadrotor using fuzzy logic
+Mobile robot obstacle avoidance by using Fuzzy Logic technique
+A Context Speculation Method Based on Fuzzy Logic Inference in Crowd-Sensing Process
+Learners' Working Memory Capacity Modeling Based on Fuzzy Logic
+CUK Converter Based Power Factor Correction with PI and Fuzzy Logic Controller
+Safety Fuzzy Logic Controller with 2003 architecture implemented in FPGA
+Fuzzy Logic and Sliding Mode Control for a Grid-Connected Current Source Inverter Photovoltaic System
+Design of Outer Voltage Control Loop using Type-2 Fuzzy Logic Controller for TCSC
+Design of the LQR controller and observer with fuzzy logic GA and GA-PSO algorithm for triple an inverted pendulum and cart system
+Adaptive GUIs tailored to different user groups for public health service delivery via fuzzy logic membership functions
+Making Decision on Sharing Forensic Data with the Fuzzy Logic Approach
+Expert system for diagnosis of Discus fish disease using fuzzy logic approach
+Comparison of MPPT Fuzzy Logic Controller Based on Perturb and Observe (P&O) and Incremental Conductance (InC) Algorithm On Buck-Boost Converter
+Fuzzy logic approach for airborne gravimeter power system control
+Fuzzy logic controller design for intelligent drilling system
+Dynamic Scaling Adaptive Fuzzy Output Feedback Control of Nonstrict-Feedback Systems
+A Fuzzy Logic Reinforcement Learning-Based Routing Algorithm For Flying Ad Hoc Networks
+Vector control of switched reluctance motor using fuzzy logic and artificial neutral network controllers
+Current chopping control based on fuzzy logic rules for switched reluctance motor
+Fuzzy logic controller for Dc-Dc buck converter with constant power load
+Design car braking system using Mamdani Fuzzy Logic Control
+Use of Fuzzy Logic in RNA-seq Data for Transcript Mining
+Design and control of an upper arm exoskeleton using Fuzzy logic techniques
+A Time Series Based Explainable Interval Type-2 Fuzzy Logic System
+Intelligent system for selecting Optimum Instructional style(s) based on fuzzy logic to develop a courseware (ISSIDC)
+Design of Automatic Goods Carrier Robot System Based on Line Sensor and Fuzzy Logic Control Mamdani
+Trigger based on a Fuzzy Logic for a Detection of Very Inclined Cosmic Rays in the Surface Detector of the Pierre Auger Observatory
+Truth degree decreasing theorem of generalized effective inference in fuzzy logic system
+Fuzzy logic controller (FLC): Application to control DC-DC buck converter
+A Fuzzy Logic-based Method for Proton Exchange Membrane Fuel Cell Fault Diagnosis
+Analysis of dq0 based fuzzy logic controller in DVR for voltage sag and harmonic mitigation
+Fuzzy logic based pitch angle controller/or SCIG based wind energy system
+Implementation of fuzzy logic control in robot arm for searching location of gas leak
+Comparative Study of MPPT and Pitch Angle using PI and Fuzzy Logic Controllers
+Energy-efficient WSNs Model Based on Fuzzy Logic Clustering Protocol and MOML
+Aerodynamic power control of wind turbine using fuzzy logic
+Fuzzy logic control method of HVAC equipment for optimization of passengers' thermal comfort in public electric transport vehicles
+A Distributed Fuzzy Logic with Consensus for Exhaust Fan Controller
+Fuzzy logic and dempster-shafer theory to find kicking range of sepak takraw game
+Interval type-2 fuzzy logic system for the double tank water level control system
+The Fuzzy Logic Control Strategy for PEM Fuel Cell Hybrid Energy System
+A study of tuning process of fuzzy logic controller output membership function for AUV-pitch control
+Predictive Direct Torque Control Based on New Formulation and Fuzzy Logic for Permanent Magnet Synchronous Machine
+Fuzzy logic based sensorless adaptive direct torque control of surface permanent magnet synchronous motor (SPMSM) drives
+Signed-Distance Fuzzy-Logic Sliding-Mode Control Strategy for Floating Interleaved Boost Converter
+Fault diagnosis of motor using fuzzy logic technique
+Detection Brake Condition of Vehicle Using Fuzzy Logic in Visible Light Communication
+Fuzzy logic inference for unsupervised anomaly detection
+A Fuzzy Logic Based Load Shedding Approach for Islanding Mode of Microgrid
+Fuzzy logic based hybrid approach for sentiment analysisl of Malayalam movie reviews
+Fuzzy logic controlled SMES system
+A type-2 Fuzzy Logic based System for asset geolocation within augmented reality environments
+Self-tunable fuzzy logic controller for the optimization of heaving wave energy converters
+Fuzzy logic control scheme for a 3 phased asynchronous machine fed by Kaneka GSA-60 PV panels
+Battery Management System with Temperature Monitoring Through Fuzzy Logic Control
+Power factor improvement using adaptive fuzzy logic control based D-STATCOM
+Optimal voltage control in interconnected power distribution systems by a self-adaptive fuzzy logic controller
+SISO Intuitionistic Fuzzy Systems: IF- t -Norm, IF- R -Implication, and Universal Approximators
+Estimation of the Degree of Polymerization (DP) in Oil-Paper Insulation System Based on Dielectric and DGA Data Using Fuzzy Logic Algorithm
+Fuzzy logic based depth control of an autonomous underwater vehicle
+Performance evaluation of fuzzy logic controlled voltage source inverter based unified power quality conditioner for mitigation of voltage and current harmonics
+A social-aware routing protocol based on fuzzy logic in vehicular ad hoc networks
+Electric Wheelchair Trajectory Tracking Control based on Fuzzy Logic Controller
+Fuzzy logic application to single machine power system stabilizer
+A novel method based on fuzzy logic to set the arbitration threshold in wirarb for time critical applications in wireless sensor network
+Fuzzy logic controller for two wheeled EV3 LEGO robot
+Fuzzy Logic Based Calculation and Analysis of Health Index for Power Transformer Installed in Grid Stations
+ASFuL: Aspect based sentiment summarization using fuzzy logic
+Fuzzy Logic Approach Based Novel Frequency Control Strategy by Wind Turbine Generator in a Wind-Diesel Autonomous Microgrid
+Experimental implementation of fuzzy logic control to track the maximum efficiency point of an open cathode fuel cell system
+A real-time fuzzy logic biofeedback controller for freestyle swimming body posture adjustment
+Fuzzy Logic MPPT for Grid Tie Solar Inverter
+Fuzzy logic based localisation in wireless sensor networks for disaster environments
+Evaluating uncertainty resiliency of Type-2 Fuzzy Logic Controllers for parallel delta robot
+Fuzzy logic driven adaptive PID controller for PWM based buck converter
+Aggregation of performance indicators for supply chain and fuzzy logic extensions applied to green supply chain
+A new method for flat routing in wireless sensor networks using fuzzy logic
+Design and simulation of Fuzzy Logic Controller for boost converter in renewable energy application

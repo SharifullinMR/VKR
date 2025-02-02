@@ -1,0 +1,1100 @@
+enterprise management information, the Semantic Web, Information retrieval, ontology
+Artificial intelligence, Internet, Information retrieval
+relevance feedback, XML information retrieval, Query expansion, information retrieval
+Image Semantic, Cross-Media Retrieval, Ontology, Sort Labeling
+Information Retrieval, XML indexing, XML Retrieval, Fuzzy Ranking
+Information retrieval, Topic model, Mongolian, Word2vec
+information retrieval, path, semi-structured information, XML, indexing, Similarity measure
+semantic retrieval, information retrieval, ontology
+multimedia information retrieval, concept-based MIR, content-based MIR, information retrieval, context-based MIR
+high efficiency, information retrieval, knowledge discovery, self-organizing feature map neural network(SOFMNN)
+concept-based search, information retrieval, multimedia information retrieval, ontology
+XML information retrieval, Genetic algorithm, result merging
+Novelty detection, Information retrieval, information patterns
+content-based image retrieval, medical imaging, distributed systems, multimodal information retrieval
+food safety, information retrieval, topic analysis, cross-media
+Multimedia information retrieval, Cross-modal hashing, Unified hamming space, Non-negative matrix factorization
+Information Retrieval, Retrieval Effectiveness, TF-IDF, IR Models, Precision, Weighting Schemes
+intelligent library, information retrieval, data mining technology
+ontology semantic similarity method, student status file information, information retrieval, classification extraction, SSM framework
+real-time retrieval, vehicle navigation, navigation and location, internet of things environment, information retrieval
+Local Analysis, Relevance Judgment, Urdu Information Retrieval, Query Expansion, Relevance Feedback, Urdu Corpus
+Network Teaching Platform, Medical Information Retrieval Course, Experimental Research, Blackboard
+Virtual Center Function (VCF), Information Retrieval (IR), Clustering, Genetic algorithm (GA), Matching Function
+Asoundex, name retrieval, Soundex, phonetic
+semantic similarity measure, genetic algorithm, Information retrieval
+Sentence BERT, Word2vec, information retrieval, Glove2vec, embeddings vector
+indexing technique, resource allocation, information retrieval, skill set, signature graph
+separation of channel coding and information retrieval, Private information retrieval (PIR), noisy channels, multiple access channels (MACs)
+component, Machine Learning, Information Retrieval, Distributed Cluster, Secondary inverted indexing, category labels
+collaborative information seeking and retrieval, collaboration, ezDL, information retrieval, information seeking, information access, information searching, information sharing
+Complex System, Visual Platform, Medical Information Retrieval, Information Structure, Systematic Model
+cross-modality, semi-supervised learning, semantic matching, category information alignment
+HTML, Rough Set, Information Retrieval, XML
+Steganography, Active Warden, Steganography Information Retrieval, Steganalysis
+Information Retrieval, Unsupervised, Supervised, Outlier Techniques, Knowledge Discovery Categorical Information, Information grouping
+CiteSpace II knowledge mapping, Cross-language information retrieval, CLIR Information retrieval
+Information Retrieval (IR), Probabilistic model, Term Frequency-Inverse Document Frequency (TF-IDF), Pseudo Relevance Feedback (PRF), Query expansion, Ranking algorithms, Query score
+DIRS, digital information retrieval systems, information retrieval, Digital Information Retrieval Systems, thesaurus-enhanced information retrieval, thesaurus
+Information Retrieval, literature, text mining, Ontology, documents semantic
+English Chinese dictionary, Cross language information retrieval, Association pattern mining, Slice expansion, Template matching
+Terrier, Information Retrieval, MapReduce, Hadoop, Indexing, Solr
+Dempster-Shafer theory, XML, ontology, latent information retrieval
+Content-based Information Retrieval, Information Retrieval, Multimedia
+Inverted index structure, Terrier3.5, Information retrieval system, Word pair index structure, Document representation
+Vector Space Model, Text processing, Information Retrieval, Tamil Language
+Content-based image retrieval, medical literature indexing, ubiquitous computing, mobile information retrieval
+query routing, agricultural information retrieval, peer-to-peer network, network structure optimization, geographically distributed network
+Performance evaluation, query expansion, word embeddings, Information retrieval, Word2Vec, Glove, Skip Gram, CBOW, BM25
+agricultural information service, question-answer system, VSM
+Feature Extraction, Image Segmentation, Contents Based Image Retrieval
+Cloud Storage, Massive Information, Information Retrieval and Sharing
+correlation, evaluation, information retrieval, prediction
+stop words, Information retrieval, user interest rate, tokenization, pre-processing, appropriate information
+Geographic Information Retrieval, User Participation, Information Visualization
+Improve AES algorithm, Multitasking Internet information, Hospital case information
+semantic web, semantic information retrieval, ontology
+machine learning, supervised learning, text mining, Information retrieval
+Latent Semantic Indexing, recall-precision, stop words, Information Retrieval
+semantic matrix, semantic retrieval, skolem clauses, question answering, indexing
+language modelling, vector space model, information retrieval, latent semantic analysis
+information retrieval, semantic information, pseudo-relevance feedback
+data analysis, visual information, Web technologies, content-based image retrieval
+pattern recognition, competence, effectiveness, information retrieval, information security, factographic
+databases, scraping, information retrieval, crawling
+information retrieval, visualization, network information
+Learning to Rank, Biomedical Science, Query Expansion, Information Retrieval
+NLP, Information Retrieval, Ontology, Kannada
+Information retrieval, Sentence level retrieval
+bugzilla, feature identification, concurrent versions system, concept location, bug repository, information retrieval, static analysis, program comprehension, code clones
+improved fish swarm algorithm, classification accuracy, Semantic information retrieval
+Ontology, Semantic Information, Machine Learning, Information retrieval
+Mobile Computing, Context Acquisition, Information Retrieval
+supervised query expansion, diversity, term ranking model, biomedical information retrieval
+Keywords not found
+fuzzy clustering, dictionary learning, Chinese and English cross-languages, Information retrieval
+Performance Evaluation, Rank retrieval metrics, Information retrieval, Precision, Recall, Set retrieval metrics, Ontologies
+Improving, Scalability, Evaluated, Gadget, Data
+Cloud Computing, Social bees, Visualisation, Private Information Retrieval, Boosting Cryptosystem
+LDA, Gibbs Sampling, Mongolian, Information retrieval
+Information Retrieval, Quepy, SPARQL, Ontology, RDF
+information retrieval, knowledge base, ontology, traditional Chinese medicine
+lemmatization, Inverted Index, Information retrieval, Standardization, NLP, Paramerization, Stemming
+LDA, Malay Translated Hadith Document, Malay Documents, Semantic IR
+collaborative, information retrieval, FCA
+WordNet, Query processing, Jena API, Information retrieval, Semantic web, SPARQL, Ontology, RDF
+vector space method, index, search, information retrieval
+Document Retrieval, Latent Semantic Analysis, Singular Value Decomposition, k-means
+spatial semantic, qualitative geographic information retrieval, qualitative representation
+context-aware, recommendation, image retrieval
+Information Retrieval, Combinatorial Fusion Analysis (CFA), Rank-Score Function, Multiple Ranking Systems, Biomedical Literature Collection, Information Fusion, Rank-Score Characteristic (RSC) Graph, Multiple Scoring Systems
+query expansion, information retrieval, Wu-Palmer similarity, relevance feedback, mean average precision
+descriptors, non-descriptors, smart city, information retrieval, domain, thesaurus
+Retrieval, Information, Advice, Optimization, Reinforcement
+Knowledge-Synthesis, Question-Answering, Semantic-Retrieval, Information-Retrieval, CORD-19
+Haar, Wavelet transform, Information retrieval, Indexing
+Semantic Information Retrieval System, Boolean model, Information Retrieval, fuzzy-cluster model
+vehicular network, information retrieval, two-tier VANET/P2P system, peer-to-peer computing
+precise ontology, rough ontology, semantic information retrieval, semantic similarity
+query expansion, Cross language information retrieval, query length, Arabic information retrieval
+deep-sea soundscape, soundscape information retrieval, anthrophony, biophony, geophony
+public-transportation ontology, Information Retrival (IR), Information retrieval, entity retrieval, semantic indexing
+information visualization, thematic maps, geographic information retrieval, knowledge discovery, web mining, information retrieval, information extraction, thematic extraction, topic modeling
+similarity measure, recall, Information retrieval, vector space model, Fuzzy logic, precision
+robust and scalable framework, big data, information retrieval systems
+neural networks, data mining, information retrieval, Neuro_IR
+Inverted index, Intelligent Answer System, Information Searching Technology
+page oriented precision, query by example, textual retrieval, retrieval challenge, multimedia retrieval
+Knowledge Graph, Supreme Court Judgments, Legal Information Retrieval, Named Entity Recognition, BART Model
+searching, information retrieval, term-weighting model, indexing
+Semantic value, quantum concepts, information retrieval, relevance
+scene reconstruction, synthetic aperture radar (SAR), Advanced information retrieval (AIR)
+Cross Language Information Retrieval (CLIR)
+English teaching, Mixed information, Information retrieval
+information literacy, ESP teaching, information technology
+Bayesian Network, Network Retrieval, Big Data
+pattern, Information retrieval, question answering, interlingua, matching
+information systems evaluation, Document similarity, pooling, information retrieval, topics, human accessors
+dense vector, information retrieval, code search
+personalization, information retrieval, intelligent agent
+Probabilistic neural network, Cross Language Information Retrieval (CLIR), Forum for Information Retrieval and Evaluation (FIRE), Lucene Indexing, Transliteration
+score normalization, distributed information retrieval, overlapping databases, results merging, weights assignment
+Malay text, Information retrieval, ontology, natural language processing, knowledge
+comparison, information retrieval, models, web search
+multi-screen, HTML5, information retrieval, user interface
+Multilingualism, Phrasal Translation, Big Data, Natural Language Processing, Deep Learning, Parallel Corpora
+Cross language information retrieval, Divergence from randomness, Language modeling, Empirical parameter
+Concept Network, Work Component, Information Retrieval, Cloud Service
+keyword alignment, semantic retrieval, Tibetan-Chinese cross-language, Word2vec
+twig pattern query, ranking, XML, probabilistic information retrieval
+Information Retrieval, E-newspaper, PDF, Cross reference table, Stream
+Similarity measurement, Graphical information retrieval, Retrieval techniques, Cluster-based data mining, Feature extraction
+content based information retrieval, similarity index, thesaurus, Bag of Words, indexing
+Content Based Video Retrieval (CBVR), Content Based Retrieval, segmentation, Content Based Image Retrieval (CBIR), Content Based Audio Retrieval (CBAR)
+Spatial Information Retrieval, Location Name Identification, Information Matching, Traffic Accident Locations, Spatial Data
+Natural Language Processing, Stemming, n-gram, Information Retrieval
+Library Information Retrieval, Information Flow Mining, System CDonstruction, Internet Model
+Information Extraction, Medical Knowledge, Health Event
+clique, Markov network, document expansion, information retrieval
+block Krylov subspace method, Information retrieval, Lanczos Golub-Kahan bidiagonalization, dimensionality reduction, subspace approximation method
+Information Retrieval (IR), Construction Specification, Bidirectional Encoder Representations from Transformers (BERT), Chatbot, Question Answering (QA)
+LDA, Information Retrieval, B-tree Indexing, Inverted Indexing, NoSQL, CBIR, Topic modeling
+Multimodal Information, Machine Learning, Semantic Gap, Deep Learning, Information Fusio
+Evolutionary Computation, Information Retrieval, Optimization
+Indexing Units, Information Retrieval, XML Retrieval
+Multimodal Neural Networks, Transformer, Image Search, Natural Language Processing, Image Retrieval, CLIP Model
+Multimedia, Data Consolidation, Data Retrieval, Web, Information Integration
+Information Retrieval, Search Engine, Heterogeneous Data, Cloud Computing
+heuristic key word extraction, fuzzy theory, fuzzy clustering, information retrieval
+Vector Space Model, Information Retrieval, Speech Recognition, Inference Network, Qur'an Verse, Spoken Query
+entity retrieval, information bias, information theory
+text retrieval, multimedia retrieval, cross lingual retrieval, Ontology
+Keywords not found
+requirements traceability tool, IRRT, information retrieval, vector space model
+Precision, Information Retrieval, Retrieval Effectiveness, Variants of Probabilistic Models
+Pre-processing, Fuzzy Cluster, Data Retrieval, Subtype fuzzy Cluster, Classification, Mutual Information
+Bag-of-Concepts representatation, Software architecture, Information retrieval
+rating, vector space model, comments, sentiment analysis, information retrieval
+EEG, brain-computer interfaces, information retrieval, music, similarity search
+Latent Dirichlet Model, Vector Space Model, Term Document Matrix, Information Retrieval, Latent Semantic Indexing Model
+Semantic retrieval, Forestry thesaurus, Similarity computing, Statistical language modeling, Personalized retrieval
+semantic model, Information Retrieval, business information, ontology business process model, semantic-based search, object-oriented database, semantic queries, BPMN, query language
+random linear combination, distributed storage, Private information retrieval, interference cancellation, privacy-secure
+Personalized information retrieval, Sentiment analysis, Data clustering, Information search optimisation
+Force, TF-IDF, Information retrieval
+user-context, genetic algorithm, information retrieval, search engines
+Normalized Distance-based Performance Measure (NDPM), Discount cumulative gain (DCG), Multilingual Information Retrieval, Merging Techniques, Average Distance Measure (ADM)
+Semantic-Based Image Retrieval, Content-Based Image Retrieval, Semantic Gap
+information retrieval, black box optimization, rpfopt
+Pitch Class Distribution and Bayesian Decision Rule, Hidden Markov Models, Artificial Neural Networks, Music Information Retrieval
+multiple users, capacity, Private information retrieval
+XML information retrieval, INEX, fuzzy logic, link evidence
+high-dimensional index, image information retrieval, feature vector, X-tree, nearest neighbor query
+Content-based information retrieval, textual-based information retrieval, multimedia retrieval, multimedia information fusion
+Digital Libraries, Scientometrics, Information Retrieval, Bibliometrics
+relevance feedback, huge amounts of data, PCA, retrieval algorithm
+NLP; Semantic Web; Text Mining; Information Retrieval; Ontology Engineering; Knowledgebase
+ChatGPT, AI in education, information judgment, information retrieval
+Anonymous entanglement, quantum internet, quantum private information retrieval systems, distributed network, quantum cybersecurity, privacy and anonymity
+stop word, text retrieval, hierarchical retrieve, legal retrieval system
+internet, data mining, information retrieval
+ranking algorithms, information retrieval, History
+Dempster-Shafer, Document retrieval, Information Retrieval, Bayesian
+relatedness, co-occurrence, user intention, Google 5-gram, information retrieval technique, context information, pervasive computing environment
+Multilingual Information Retrieval, Smart News Feed, Big Data
+Question answering, Emotion classifier, Information retrieval, Emotional conversation
+Information Retrieval, Data Mining, Bell Test, Hyperspace Analogue Language, Natural Language Processing
+Text mining, Data mining, Information retrieval, Unstructured data, Big data, Knowledge discovery
+query expansion, Information retrieval, keyword extraction, searchable encryption, cloud computing
+MapReduce, geographical information retrieval, cloud computing, Hadoop
+thesaurus, semantic web, information retrieval, Ontology
+second-stage retrieval, information retrieval, First-stage retrieval
+Post-War Information Retrieval, Data Verification and Collection, MANET, Damage Assessment
+Information retrieval systems, Information retrieval optimization, Personalized information retrieval, Data modelization, Emotional profile
+Text Mining, Information Retrieval, Natural Language Processing, Digital Libraries, Bibliometrics
+Evaluation, Information Retrieval, Natural language processing, Stemming, Arabic, indexing
+structure-centered information retrieval, event analysis, text mining, fact extraction, process mining
+Statistical information, Human action recognition, Content-based video retrieval
+Data Filtering, HMM Algorithm, Information Retrieval, Data Mining
+video production, learning resources, Information retrieval
+related terms, related terms browser, health information retrieval system, Visualized related topics
+Information Retrieval, Cosine Similarity, Rank Documents, Query Expansion, Weighting TF. IDF
+Security Standard, Security Pattern, Information Retrieval, Information Security
+BPNN, Natural language processing, Information retrieval system
+Intelligent Database Systems, Structured Query Language (SQL), Information Retrieval, Natural Language Interface
+Query, Information Retrieval, Word2vecc, Fasttext, Semantic
+Music information, retrieval, Deep learning
+Boolean retrieval, precision rate, topic words, semantic distance, improved algorithm, recall rate
+Wireless Sensor Networks, Marine Environment, Information Retrieval, Intelligent Information
+Data Warehouse, Tabu search, ACO approach, Data Mining, Information Retrieval Technologies, Hybrid system, Materialized Views
+NLP, document retrieval, topic learning, information retrieval
+recall, Information retrieval, similarity function, fuzzy logic, precision
+Group Structure, Entity Relationship, Information Retrieval, Key Rule Mining
+Domain categorization, Information Retrieval, Logistic regression
+Network Crime, Information Retrieval, Face Analysis, Systematic Design, Image Recognition
+statistics, algorithms, techniques, optimize, outcomes
+query interpretation, user profile, information retrieval, user modeling, personalization
+classifier, information retrieval, fuzzy logic
+Natural Language Processing, Learning, Information retrieval, Recurrent neural network
+GLCM, TBIR, Curvelet Transform, Museum IR, Multilevel Classification, CBIR
+Textual Question Answering, Deep Learning, Information Retrieval
+Musical Genre, Lyrics Analysis, Music Information Retrieval, Musical Mood
+DTN, information retrival, content caching
+component, formatting, styling, style, insert
+Search session, Markov random field, Information retrieval, Implicit feedback, Term dependence
+Travel information retrieval, Generic object recognition, User interface
+Query formulation, Information retrieval, Natural Language Query, RDF triple, Ontology, Semantic
+mobile, Internet/Web technologies, information retrieval, user interfaces, geographic information systems
+Semantic Web, Information Retrieval, OBTM, Wordnet, OWL, e-learning
+Keywords not found
+health information retrieval, pre-trained large language models, MedQuAD, BM25
+synonymy words, Query expansion, keyword-based query, subjective-words
+Query, Search Engine, Information Retrieval, Semantic
+tensor factorization, knowledge based systems, Information retrieval
+network information resources, content based image retrieval, integration system framework, Web information retrieval, multi-agent collaboration
+cross-modal retrieval, citrus diseases and pests, multi-modal learning, deep learning
+stop words removal, stemming, lemmatization, information retrieval, tokenization, natural language processing
+crawling information, Lucene technology, index database establishment, data retrieval
+information retrieval, ontology, data retrieval
+evolutionary computation, genetic programming, Learning to rank for Information Retrieval, ranking function
+learning to rank, probabilistic IR, information retrieval, query reformulation
+Keywords not found
+big data, smart cheerleading, sorting algorithm, competition assistant, Information retrieval, evaluation system
+MFCC, LPCC and music retrieval, features, temporal, feature extraction methods
+Product Information Extraction, Vietnamese Information Retrieval System, Data mining
+Information Retrieval, Cover Density Ranking (CDR), Document Representation, Vector Space Model (VSM)
+heterogeneous cache sizes, Private information retrieval (PIR), capacity, uncoded caching
+Pseudo Irrelevance Feedback, Pseudo Relevance Feedback, Rocchio Algorithm, Information Retrieval
+query expansion, Quranic verse retrieval, information retrieval, relevance feedback
+ESPlorer, coud computing, Information retrieval, MQTT, Internet of Things, ThingSpeak
+simulated annealing, information retrieval
+Information Retrieval (IR), Unification Matching Scheme (UMS), Genetic algorithm (GA), Matching Function
+Information Retrieval, Maximum Entropy, Term Selection, Document Ranking, CLIR
+Cross-language-information-retrieval,-Multi-information-Integration,-Parallel-CNN
+clustering, Recommendation, dimension reduction, scatter plot, information retrieval, document analysis
+positive feedback, Relevance feedback, Rocchio algorithm, negative feedback
+ChatGPT, OpenAI, Information Retrieval, PDF-Driven Chatbot
+probabilistic and statistical models, digital signal processing, Information retrieval
+Multilevel Security, Cloud Computing, Information Retrieval, Security Enhanced Linux
+Machine learning, Text mining, Information retrieval, Natural language processing, Root extraction, Bigrams technique, Stemming
+Graph neural network, Social network, Information retrieval
+Clustering, Data Mining, Information Retrieval, HozoEditor, Ontology, Knowledge Representation, XML
+Gaining, Models, Retrieval, Information, Complete
+Keywords not found
+Program debugging, Fault localization, Method frequency, Information retrieval
+Mobile application, EHR, GUI, Information retrieval, Usability
+Math Information Retrieval, Formula Entailment, NTCIR, LSTM
+Keywords not found
+Information Retrieval, Intelligent Information, Wireless Sensor Networks, Coastal Areas, Tsunami Detection System
+Presearch, Information Retrieval, Keywords, BioBERT, Medical Paper Data
+stemming text, search information from document, cross-language plagiarism detection
+Research hotspot, Information Retrieval, Co-word Network, Community Detection
+mining, logical structure, metadata, information retrieval, XML
+relevance feedback, negative relevance feedback, information retrieval, language model
+Normalization, Feature extraction, LibROSA, Onset, Music information retrieval
+web services, Cloud computing, multi-agent systems, information retrieval
+spatial information, user profile, personalized retrieval
+Keywords not found
+Information Retrieval, Pre-trained Systems, Sentence Retrieval
+XML element retrieval, query likelihood model, smoothing technique
+multiplicative update, information retrieval, dimensionality reduction, visualization
+Blended English teaching, Teaching resource clustering, Information retrieval
+Image-text retrieval, filtering mechanism, location attention, similarity representation learning
+WordNet, Query expansion, Myanmar Information Retrieval
+Searching, Application, Approach, Multimodal, System, Retrieval
+music teaching, classifier, HMM, information retrieval, speech recognition
+TREC Evaluation, Information Retrieval, Lucene, Query Expansion, Clinical Medicine
+document retrieval, open source technology, digital archive information system, vector-space model
+Semantic Web, Semantic representation model, Web search
+Multi-agents, Web, Intelligent Evolution, information retrieval
+WordNet, Information Retrieval, Boolean Information Retrieval, Stemming Algorithm, Semantic
+MapReduce, privacy protection, keyword retrieval, homomorphic encryption, cloud computing
+Information Retrieval, Intelligent Sign Language, Pattern Recognition, Big Data, Corpus of Tourist
+Probabilistic Model. VSM (Vector Space Model), Statistical Model, IR (Information Retrieval), IDF (Inverse document frequency), Boolean Models, TF (Term frequency)
+tree edit distance, parsing model, information retrieval, end-to-end optimization
+Information, Retrieval System, Standardization
+cross-language information retrieval, Patent document, parallel retrieval, Hadoop
+retrieval, ontology, document, semantic, medical
+video synthetic aperture radar, structure-from-motion retrieval, shadow information, reconstruction
+SVM, Machine Learning, Information retrieval, PSO
+Information Retrieval, recall and precision, Detik.com, Weighting TF-IDF
+prompt tuning, legal information retrieval, large language model, natural language processing, legal question answering
+support vector machine, information retrieval, active learning, relevance feedback, selective sampling
+data augmentation, FAQ retrieval system, joint learning, sentence embedding, BERT
+singular value decomposition, suicide, cosine similarity, information retrieval, pattern
+video retrieval, Content based image retrieval (CBIR), image retrieval, Annotation-based image retrieval (ABIR), image similarity, videos, content based retrieval
+standardization services, digital transformation, intelligent retrieval, intelligent question-answering, smart grid
+relevance, information reliability, library resources, interests in the information market, project actions, project, global information space
+Concerns, Information Retrieval, Crosscutting concerns
+bayesian algorithm, behavior pattern discrimination, association rules mining, resource retrieval
+query expansion, Wikipedia, information retrieval, category feedback
+data mining, text mining, information retrieval, bioinformatics
+Keywords not found
+Information Management, Information System
+rank-score characteristic (RSC) function, rank combination, information retrieval, cognitive diversity, score combination
+fracture risk, data retrieval, clinical records, data analysis
+information service, integration model, application system, enterprise information resources, cloud computing
+vector space model, heterogeneous data, information retrieval, cosine similarity
+Retrieval Model, Search Engine, Recall, Precision
+query expansion, user model, Personalized cross-language information retrieval, evaluation
+Keywords not found
+temporal information, relational database, data graph, information retrieval
+medical information retrieval, contextual information retrieval, personalized search, Medical information systems
+Private information retrieval (PIR), wiretap channel II, capacity, asymmetric traffic, MDS codes
+EHR, Information Retrieval, Elasticsearch, Clinical Information Retrieval, Electronic Health Records
+Wireless sensor networks, Tsunami Detection, marine animal behaviour, Intelligent Information Retrieval
+multimedia document, image segmentation, cross-media correlation graph, cross-media retrieval
+ranking method, query expansion, Medical information retrieval, extended Boolean matching method, medical thesaurus
+cognitive ability, evaluation, retrieval, TREC, crowdsourcing, general reasoning skill
+space of event, singleton event, logic, probability, doubleton event, imaging, space of relation, Jaccard coefficient
+AAC, Information Retrieval, Slot-filling, Dialogue management, Augmentative and alternative communication system
+Ontology-based, disaster management, multimedia documents, information retrieval, spatial documents
+Chinese temporal semantics, Temporal ranking, MapReduce, Information retrieval
+vector space model, text classification, term weighting, information tetrieval
+AraBERT, Transformer, Word embedding, Query expansion, Information retrieval, Pseudo relevance feed-back
+tree data structures, indexing, information retrieval, Internet of Things
+improved grey relational grade, subsidized resource pool, information resources, resource retrieval, impoverished students, resource pool information
+PSO, web information retrieval, scalability, Parallel PSO, swarm intelligence
+Test Prioritization, Information Retrieval, Regression Testing
+Information Retrieval, Decision rule, Ontology, Knowledge Representation
+RDoC, mental health informatics, bionlp, information retrieval, information extraction, machine learning
+ancient manuscript, divergence from randomness, bayesian network, Sundanese, retrieval system
+semantic web, document annotation, ontology, SPARQL, semantic search
+Keywords not found
+Schema Matching, Thesaurus, Information Retrieval, Performance
+Turnitin technology, academic violations, information retrieval, similarity checker, technological recommendations
+Drug Data Retrieval, Hybrid Information Retrieval, Technology, BERT, Word Embeddings
+relevance feedback, Query expansion, information retrieval system, word sense disambiguation
+semantic, Hownet, concept similarity, LTP, concept algebra, text representation, text retrieval, concept relation
+Keywords not found
+social network, PageRank, social context similarity, context awareness information retrieval
+heterogeneous, pattern matching, information retrieval, probabilistic, neural network
+term-based query reduction, information retrieval, verbose query, Query-by-example
+WordNet Ontology, Information Retrieval, Ontology Expansion, Arabic expansion
+CNKI, journal evaluation indexes, information retrieval, database inquiry
+Keywords not found
+semantic retrieval, crossmedia, information resources, deep learning
+Keywords not found
+Data Warehouse, Heterogeneous Database System, Aircraft Development, Data Retrieval
+Dictionary Learning, Information Search and Retrieval, Time-series Retrieval, Entropy Optimization, Image Retrieval
+Information Retrieval (IR), Probabilistic model, Pseudo Relevance Feedback (PRF), Cosine Similarity, Inverse Document Frequency (IDF), Term Frequency (TF), Ranking models, Vector space model
+Database, private Information Retrieval, Query Processing, Data storage, Secure Multi-party Computation, Shamir's Secret Sharing
+privacy preserving, perfect privacy, Private information retrieval, non-trivial communication, computationally bounded, quadratic residuosity, replicated databases
+Keywords not found
+positives, information, quicker, system, traditional
+Information retrieval
+user profile, ontology, information retrieval, expansion, personalization
+Association Knowledge (AK), Association Rule Mining (ARM), Case Based Reasoning (CBR)
+Tf-idf, Information Retrieval, Forecasting, Data mining, Japanese Candlesticks, Fuzzy logic
+GIS, SPARQL query, Ontology, Mapping
+information item, a personal space of information, personal information, personal information management
+multiple servers, Capacity, information-theoretic privacy, private information retrieval, information leakage
+web information retrieval (WIR), Particle swarm optimization, pre-processing of documents, indexing
+Thematic interpretation, Al-Quran, Information Retrieval, Profiling, Tafseer al-maudu'iy
+component, Confguration Error, Failure logs, Information retrieval, Configuration testing
+Persian text collection, Ad hoc information retrieval, passage reranking
+Machine Learning, Information Retrieval, Sentiment Analysis, Market Research, Data Visualization
+search engines, Natural Language Processing, Thai language, information retrieval, Text normalization, text retrieval
+single server, Private information retrieval, information-theoretic privacy, information leakage, capacity
+Resolution, Temporal Information, Big Data, Reasoning, Information Analytics, Event
+Vector Space Model, Arabic documents, similarity, information retrieval
+information retrieval, deep stacking network, document ranking
+Information Retrieval, LSTM-RNN, RMSprop Optimization Model, Change Impact Analysis, Software Engineering
+speed-up, Bloom filter, information retrieval, GPU
+Support Vector Machine, Natural Language Processing, Word2Vec, text classification, Latent Dirichlet Allocation
+alternative data, information retrieval, self-supervised learning, finance, representation learning
+LDA, semantic relation, ontology, medical information retrieval, medical search
+web browsing, search Behavior, information behavior, information seeking
+oil painting image, feedback mechanism, retrieval strategy
+urdu text retrieval, urdu test collection, urdu information retrieval
+link based image retrieval, image-rich information networks, content based image retrieval, image retrieval
+information retrieval, full text citation analysis, information extraction
+information Retrieval, natural language processing, legal document, document similarity
+Data Structure Fusion Optimization, Algorithm Design, Information Retrieval, Computer Network
+Information Retrieval Model, Posts, Social Networks, Feedback
+Cross-language information retrieval, parallel corpora, comparable corpora, query translation, bilingual dictionary, document translation, machine translation
+Relevance Feedback, Manifold Ranking, Image Retrieval, Medical informatics
+clustering, data mining, Personalization of information
+personalization, Military transportation, information retrieval model, ontology
+information retrieval, search, Bug localization
+query expansion, Biomedical information retrieval, learning-to-rank, term-ranking model
+textRank, NLP, information retrieval, machine learning
+Sketch-Based Image Retrieval (SBIR), Clustering, Spectral Feature, Relative gain
+semantic retrieval, dependency relationship, mapping rule, classification, sparql
+affective computing, human information behavior, information retrieval, affect, emotions
+vehicle detection, vehicle tracking, rfid sensor, speed calculation, information retrieval, Internet of Vehicle, vehicle-to-human, motion analysis, deep learning
+unified knowledge representation, pre-trained language models, multimodal question answering, Computer vision, information retrieval, natural language processing
+domain ontology, query expansion, food safety, semantic retrieval, concept similarity
+information trust, human resource management system, information retrieval time, cloud computing architecture, SaaS
+Keywords not found
+Vector Space model, Information Retrieval, Assamese Word- Net, query extension
+Average Precision, MLIR, Precision, Recall, Mean Average Precision, Query translation
+3D sensor networks, complex-connected 3D settings, information retrieval, information storage
+BiLSTM, Image retrieval, Parameter Tuning, Deep learning, ResNet
+query optimization, technology monitoring, genetic algorithms, information retrieval, competitive intelligence
+Machine Learning, Information Retrieval, Information Recantations, LLMs, Misinformation, Artificial Intelligence
+Information Retrieval (IR), PageRank, Tokenization, implicit judgment, Content-based Ranking, Link-based Ranking, Weighted PageRank, explicit judgment, Usage-based Ranking
+query expansion, video retrieval, user behavior
+music information retrieval (MIR), Information geometry
+Keywords not found
+N-Gram corpus, CBIR Applications, Inverted Index, Query refinement
+Named Entity, Topic Detection and Tracking, Bag of Words, Interface
+privacy-preserving, homomorphic encryption, Internet of Things (IoT), location privacy protection
+natural language processing, Text retrieval
+Information Retrieval, Fuzzy Sets, Semantic search, Query Expansion, Ontology, K-means clustering
+joint optimization, unsupervised acoustic pattern discovery, interactive retrieval, query by example, spoken term detection, query expansion, semantic retrieval, summarization, key term extraction, pseudo-relevance feedback, graph-based random walk, Spoken content retrieval
+domain ontology, nonmetallic pipe, information retrieve, oilfield
+communication complexity, homomorphic encryption, private information retrieval
+linear code, Hamming space, Information retrieval, shortened code, associative memory
+location privacy, Information-theoretic privacy, private information retrieval
+Keywords not found
+X-ray, information, software, DICOM, retrieve
+similarity measure, CACM, mutual information, Chir, hybrid model, information retrieval
+cross-modal, visual-semantic embedding, information retrieval, retrieval of artwork, search engine
+Bayesian network, Information retrieval, Term dependence
+secure hashing, bloom filter, asymmetric cyclical hashing, image retrieval
+modern Guangdong customs archives, archive information, core weight, direction weight, Higher-order neural network model, evaluation method
+graph of document terms, affinity graph, multiwriter, information retrieval, graph diffusion, document terms
+Similarity Matching, Theme, Semantic, Ontology
+Automatic Indexing, Stopwords, Gujarati Information Retrieval, Corpus, Mean Average Precision
+Location, Wordnet, Information retrieval, Ontology, Semantic web
+XML information retrieval, learning-to-rank, Ranking SVM, BM25
+Ontology, Bio-Portal, Patent, Information Retrieval, Knowledge Base
+SOA, Clustering Genetic Algorithm, Medical Industries, Intelligent Agent
+Information extraction, Clustering, K-Means algorithm, Information retrieval
+semantic fingerprint, STag-LDA, retrieval efficiency, vector space, Tag-LDA
+Evolutionary Computation, Information Retrieval, Big Data
+information behaviour, University of Birjand, academic environment, personal information management, personal information
+Clinical Informatics, Data Mining, Information Science and Retrieval
+entrepreneurs, media richness theory (MRT), information retrieval, affective factors
+Evaluation, retrieval, information, Web, metrics, performance
+Multimedia, information retrieval, semantics, self-adaption, hash algorithm
+Google Photos, automatic classification, Information discovery, semantic gap, images, photo annotation
+conversational search, classification, information retrieval
+multiplequery retrieval, information retrieval, manifold ranking, Pareto fronts
+rule generation, Hadoop, pattern matching, information retrieval, Apache MAHOUT
+umls metathesaurus, query expansion, extrinsic plagiarism detection, Natural language processing, information retrieval, medline
+Social Information Retrieval
+library, document retrieval course, network teaching platform, university
+Information Retrieval System, IR Models, Precision, Recall, Indexing
+Keywords not found
+learning to rank, diversity, biomedical information retrieval
+natural language processing, Text retrieval
+technology, ontology, formalisation, information object, concept, semantics, definition, thesaurus, intellectual environment, cognitive
+Spoken term detection, retrieval, audio search, query by example, indexing
+Keywords not found
+Information Retrieval, Pseudo Relevance Feedback, Query Expansion, Arabic, Semantic
+privacy preserving, perfect privacy, Private information retrieval, non-trivial communication, snake-walk encryption, quadratic residuosity
+Keywords not found
+domain ontology, query semantic extension, computer crime, evidence retrieval
+Keywords not found
+information retrieval, network analysis, course description
+relevance feedback, information retrieval, peer-to-peer
+Keywords not found
+TF IDF, stopwords, Information retrieval, text based clustering
+algorithm, language, stemming, lexicon-free, information, retrieval, Kazakh
+Search Ranking Algorithm, Information Retrieval, Query Interface, Information Integration, Ontology
+random linear combination, Private information retrieval, cache prefetching, interference cancellation, coded cache
+Ranking Algoritms, Evaluation, Information Retrieval, Search Engines
+pragmatics understanding, visualization, information retrieval, data-driven, search engine, Cybersecurity events
+Information Management, Information Systems, Automated Machine Learning
+retrieval validity, retrieval reliability, audio frequency data, retrieval model
+information retrieval experience, Form controls, style, university library databases, user types
+Medical Coordination, Information Retrieval, Machine Learning, Natural Language Processing, Emergency Medicine
+Deep Learning, Music Information, Big Data Storage, Retrieval Technology
+semantic web, digital libraries, data repositories, linked data, ontologies, information retrieval and discovery
+geospatial web service, agriculture, Web GIS, cyberinfrastructure, information sharing
+Graph Convolutional Networks, Knowledge graph retrieval, Generative Adversarial Networks, Node correlation
+learning to rank, topic model, latent dirichlet allocation, Information retrieval
+appreciably, processing, congestion, numerous, performance
+Symmetric private information retrieval, linear programming, eavesdropping, capacity, colluding
+convolutional neural network, luxury microblog, Sina microblog, cross-modal retrieval
+Cultural heritage, semantic web, ontology, data modeling, knowledge organization systems, information retrieval
+archive retrieval systems, information retrieval, requirement analysis, archives
+Part of Speech Tagging, Information Retrieval, Stop-words, Natural Language Processing, Index Size Reduction
+Content-based retrieval, time series retrieval, non-technical loss detection, feature extraction, information retrieval, machine learning, power grids, pattern analysis, deep learning
+Petabytes, Vocabulary database, Cosine Similarity, Information retrieval, Rocchio Algorithm, BM25 Model, Search Engine
+segmentation algorithm, text retrieval, two level routing, distributed networks
+Information Retrieval, Stop Words, Natural Language Processing, Ontology, Query Parsing
+software traceability, information retrieval, vector space model
+linear support vector machine, BASEBALL, QA, Python, natural language processing, Google Assistant, Cortana, NLP, Question-Answering, Alexa, Siri, System, machine learning, LUNAR, logistic regression, stop word, naive Bayer classifier, information retrieval, question answering system
+Information Retrieval, tri-grams, Boolean Naive Bayes, BERT, Laplace smoothing, Named Entity Recognition
+Keywords not found
+Keywords not found
+Swanson hypothesis, literature-based discovery, information retrieval
+Spatial Data, Multimedia Ontologies, Semantic BigData
+Layout element recognition, Computer vision, Information extract ion, Complex tabular content extraction
+query expansion, information retrieval, information extraction, precision medicine, learning to rank
+multilingual, n-gram, document ranking, searching, Cross Language Information Retrieval
+Personalized Information Retrieval, Social Data, User's Profile, Folksonomies
+Longest Common Subsequence, Levenshtein Distance, Language Independent Stemmer, Index Compression, Emille Corpus
+rice field, knowledge graph, semantic retrieval, visual navigation
+Keywords not found
+Image retrieval, Genetic algorithm, textural features, Color characteristics
+requirements traceability, vector space model, information retrieval, latent semantic index, ir probabilistic
+inferences, generating, recognizing, extracting, accurate
+Testbed, information retrieval, ontology, peer-to-peer
+Case Study, Information Retrieval, Enterprise Search, Information Access, Manufacturing, CAx, Industry, Information and Knowledge Management, Manufacturing design and product lifecycle management
+voice, technology, Information Information Desk, speech to text, speech recognition, information retrival
+TFIDF, Precision-recall, Information Retrieval
+Multi-agent Systems, O-MaSE, agent-oriented methodology, Custom Agents, Agent Tool 3, MAS
+Information Retrieval (IR), Question Answering System (QAS), Information Extraction (IE), Search Engines, Natural Language Processing (NLP)
+Digital resource objects, Document expansion, Information retrieval
+Monolingual Information Retrieval, Query Expansion, Synonym Mapping, Malayalam
+WordNet, Information Retrieval, Indian Languages, Word Co-occurrence, Semantic Indexing, Telugu Language, WX- Notation, Synset
+Deep Learning, Convolutional neural network, Fault localization, Information retrieval
+Dependency tree, Geographic information retrieval, Kernel function, Support vector machine, Spatial relations
+information retrieval (IR) systems, technological development, Text stemming, natural language processing (NLP), stemmer evaluation, text classification
+Vector Space Model, Document Retrieval, WordNet, Synonym Search, Query Expansion, Synonym Weighted - Vector Space Model
+single server, Capacity, information-theoretic privacy, private information retrieval, information leakage, rate-distortion theory, lossy compression
+painting semantic retrieval, Jena reasoning, ontology
+sematic web, Pedagogical document, Information retrieval, ontology, indexation
+Semantic annotation, NLP, Semantic map, Semantic information retrieval, Ontology
+Keywords not found
+query/question expansion, key concept paraphrasing, question retrieval
+semantic searching, multimodality ontology, image annotation, image retrieval
+Information retrieval survey, soft computing intelligent information retrieval
+Technology Creation, Enterprise Information Management, Enterprise Corpora
+possible data set, attributes configuration, attribute valuation network, attribute language IRL, information retrieval logic, canonical decomposition, marginalization, evidence system, interpretation IRL, valuation decomposition, logic algebra of valuation, t-norm valuation system
+Keywords not found
+enhancing access, Universiti Teknologi MARA, information retrieval, knowledge taxonomy, digital information resources, taxonomy
+Keywords not found
+Deep Learning, Query Expansion, Distributed Vector, Information Retrieval
+Elasticsearch, Content-Based Image Retrieval, Deep Convolutional Representations, Bag of Visual Words
+Document expansion, Query expansion, Information retrieval, Language model, Pseudo-relevance feedback
+Indexing database, Information retrieval, Dictionary-based string matching, Content based retrieval, Phrase searching
+Stemming, Mobile search, Information Retrieval, Malay Hadith
+real-time location, keywords extraction, Intelligent retrieval, implicit feedback, personalized websites
+Natural language processing, Question answering system, Information retrieval
+Vector Space Model, Term Weighting, recall, query, Text mining, Similarity, Precision, request, Search Engine, Accuracy
+classification, searching, agricultural information, ontology
+Keywords not found
+Concept Extraction, Cloud storage, Document retrieval, Named entity recognition pronoun
+parallel execution, master-slave, distributed execution, information retrieval, web crawling, data mining
+Keywords not found
+clustering, web crawler, information retrieval, petroleum, k-means
+geographic information retrieval, spatial analysis, web pages
+parts of speech (POS), JENA API, RDF(resource description framework), tag-based ranking, ontology, ontological indexing, Information retrieval(IR), retrieval status value(RSV)
+Uncertainty Representation, Information Retrieval, Belief Functions, Missing Data
+keyword search, information retrieval, information management
+relevance feedback, audio information retrieval, manifold ranking
+Multimodal music processing, music description systems, music information retrieval, information fusion
+query expansion, thesaurus, hadith retrieval system
+Keywords not found
+graduate student, information seeking behaviour, model, information retrieval, research
+Semantic Similarity, Arabic text-mining, Semantic Disambiguation, Natural Language Processing, Arabic Semantic Information Retrieval
+Keywords not found
+attributes, data structure, arabic, Quran, information retrieval system
+computer, big data, university library, document development
+Region-based image retrieval, Image annotation, Region of Interest (ROI), Content-based image retrieval, Color-size feature, Visual feature
+Android Operating System, Gray Level Co-occurrence Matrix (GLCM), Feature Extraction, Precision, Color Histogram, Color Co-Occurrence Matrix (CCM), Content Based Image Retrieval (CBIR)
+Bangla document ranking, LSI, IR, Cosine similarity, SVD
+rank-score characteristic (RSC) function, combinatorial fusion analysis(CFA), rank combination, information retrieval (IR), cognitive diversity, multiple retrieval systems (MRS), score combination
+Keywords not found
+Comparisions, web search, Information retrieval, Precision, Recall
+college students, information capacity, information capacity training
+Keywords not found
+baseline level, expression matching, formula retrieval, structural retrieval, mathematical index
+Temporal Information Retrieval, Temporal Ranking, Time-Sensitive queries, Temporal Taggers, Temporal Expressions
+Internet ranking, information relevance, DROPT technique, information retrieval, relevance feedback, tƒ × idƒ
+structural similarity, XML, content similarity
+multimedia, information content, digital library, disabled persons
+deep neural network, information retrieval, hierarchical attention, Text matching, deep learning
+Clustering, Information Retrieval, Partial words, Word Spotting, Indexing
+Multilayer perceptron, National cultural resources, Feature extraction, Supervised learning, content retrieval
+Support Vector Machines, Dependency Parsing, Information Extraction, Information retrieval
+SVD technique, Latent semantic indexing, (TF-IDF) method, information retrieval (IR)
+Information Retrieval, Learning to Rank (LETOR), Machine Learning
+query expansion, Document retrieval, tools for arabic information retrieval, literature review, question answering systems
+information authentication, Information retrieval, search engines, hashing algorithms, documents automatic evaluation, security
+Solr, Mongolian, Information retrieval
+closed domain knowledge base, Natural language processing, information retrieval, BERT word movers distance, conversational agent
+Index Term Selection, Arabic Document Indexing, Arabic Language Processing, Arabic Information Retrieval
+scene graph, multi-granularity, Cross-modal retrieval, hash
+natural language processing, pre-training technique, cross-media retrieval
+Pattern Matching, Music Information Retrieval for Querying, Evaluation Methodology, Symbolic Melodic Similarity
+human-computer interaction, Image recognition, Mask R-CNN, Deep learning, Digital humanities, Automatic image annotation
+Query Expansion, Internet search, Information Retrieval, Ontology
+document ranking, query reformulation, cosine similarity, information retrieval, sentence embedding
+document re-ranking, rheme, topic, information structure, comment, Information retrieval, theme
+destiny, Retrieval, applications, statistics
+information retrieval, subject area, professional knowledge
+feature extraction, high level features, Content based image retrieval, low level features, Image retrieval techniques
+digital divide, elderly-friendly design, elderly, bridging strategy, information system
+personalization, user modeling techniques, intelligent information retrieval, ontology
+Keywords not found
+Web page classification, Information Retrieval, Web query classification, Web mining, Ranking algorithms
+big data information retrieval, web pages index, pagerank
+large-scale network, user utility, Web monitoring, simulation, information retrieval
+game theory, Information retrieval, Energy efficiency, Data dissemination, VANET
+Hybrid intelligent systems, health information management, RFID, information retrieval algorithm
+Keywords not found
+cross language information retrieval, query translation, visual information, image retrieval
+Rough set, approximation, information retrieval
+HSV colour space, colour histogram, text based image retrieval, Histogram Intersection, quantized colour code, Minkowski Metric, edge histogram
+Human-centered computing—Visualization—Visualization design and evaluation methods, Human-centered computing—Visualization—Visualization techniques—Treemaps
+Keywords not found
+intelligent retrieval system, 3D images, gray co-occurrence matrix, Visual technology
+question answering, information retrieval, document ranking, text similarity
+Keywords not found
+Natural Language Processing, Black Box approach, Template based Question answering, Information Retrieval
+information technology ability, principal component analysis, vocational education teachers
+Cloud model, Uncertainty, Re-ranking, Information retrieval
+Keywords not found
+information retrieval, Lossy compression, PCA
+Information discovery, Information retrieval, Information filtering, User interface, User-centric
+Keywords not found
+Arabic IR, combining, indexing, stemming
+expert-seeking technology, human in the loop, structural holes, CIS, mediated information search, knowledge management, collaborative information seeking, knowledge brokers, enterprise information search, human computation, collaborative information search, collaborative information retrieval
+Keywords not found
+Biomedical Data Analysis, Information Retrieval, Clustering Algorithms
+Document-level Biomedical Relation Extraction, Multi-task Learning, Biomedical Text Retrieval, Graph Neural Ranking
+Parallel Batch Algorithm, Redundant Data Retrieval, Data Mining, Algorithm Design
+query expansion, concept based information retrieval, semantic relatedness
+word root, microblog, Arabic language, information retrieval, light stemmer, Stemming
+Feature Extraction, Image Segmentation, Contents Based Image Retrieval
+inverse document frequency(idf), cosine similarity, query expansion, Information retrieval (IR), documents ranking, maximum entropy principle (MEP), document frequency (df), term frequency (tf)
+information systems, safety-oriented system, human resources management, project team formation
+Bert, KNRM, Similarity matrix, DeepCT
+mutants, mutation analysis, software debugging, information retrieval, fault localization
+Lemmatization, Turkish Information Retrieval, Normalization, Information Retrieval
+Keywords not found
+Keywords not found
+diffusion algorithm, event-triggered mechanism, Distributed estimation, inter-event information retrieval
+Genetic Algorithm, Query paraphrasing, Information Retrieval, Optimization
+information retrieval, link prediction, representation learning, information systems, document classification
+K-means, Data Reduction, Data Mining, unsupervised feature selection, Binary Bat algorithm, Instance Selection, Artificial Bee Colony (ABC), Classification, Ant Colony Optimization (ACO)
+Deep Learning, Semantic Matching, Information Retrieval, Personality Recommend
+information retrieval systems, stance detection, fake news detection, news retrieval systems, Deep memory networks, fake rumors detection/debunking
+Information Retrieval, E-Government, E-Document, NLP, Concept Indexing
+Relevance, information retrieval, Collaborative
+stemming, Malayalam, Text pre-processing, Tamil, CLIR
+image understanding and analysis systems, intelligent medical image processing and analysis, semantic image retrieval
+Keywords not found
+P@k, Information Retrieval, MLIR, Average Precision, Precision, Normalized Precision
+electronic resources, information seeking behaviour, information retrieval, digital library
+Information Retrieval, Structured Document, e-Learning, Semantic web, Ontology, Student model, XML, Educational document
+Text Mining, Document Retrieval, Natural Language Processing, Word Movers Distance, KNN Classification
+query reformulation, query expansion, re-ranking, information retrieval, electronic medical record
+content bases image retrieval systems, sparse coding, Image Retrieval, On line and offline systems
+deep hashing, document retrieval, scalability
+Retrieval and Sorting, Q/A, One-question Multi-answer, Text Similarity, knowledge database
+the longest common substring, information retrieval, phoneme recognition, spoken document retrieval
+Bug Localization, Bug Report, Information Retrieval, Spectrum
+similarity measure, Web Image Retrieval, Intelligent, EMD, CBIR, query analysis
+web-ear, information retrieval, information extraction, name-entity recognition, reported speech, natural language processing
+Human information behavior, software developer collaborative work, information recommendation, implicit feedback
+Best Matching 25 (BM 25), Retrieval, Open Domain Question Answering
+feature extraction, similarity Computations, Euclidean distance, Image processing
+Knowledge Graph, UX-design, Rescue Operations, Wearable Devices, Artificial Intelligence
+multilayer encoding, text matching, information retrieval, attention mechanism
+Normalized compression distance (NCD), Bag-of-Words (BoW), Satellite image retrieval
+Natural Language Processing, Query Expansion, Information Retrieval, Query Structure Classification
+Social media, Machine learning, Crisis management, Information retrieval
+learning to rank, semantic similarity, information retrieval, contrastive learning
+Information Retrieval, Data Context, Twitter
+clustering, decision tree classifier, PIT, FIB, information topic, NDN, vehicular network
+Social Information Retrieval
+Statistical co-occurrence of initial query, FIRE data collection, query ambiguity, Keyword ranking, Pre and Post query expansion, Cross Language Information Retrieval
+Keywords not found
+Big data retrieval, Ant colony optimization algorithm, SSH framework improved
+Hawking radiation, Black hole evaporation, Information paradox
+Technology, Information retrieval, Distributed
+Urdu stemmer, lemmatizer, information retrieval, text mining, natural language processing, Stemmer
+prediction modes, HEVC Video Coding Standard, compressed domain
+ITIL, topic modeling, IT service, information retrieval, Analytics, IT operations, Ticket
+CNN, RMDL fusion, Medical data, DNN, RNN
+E-Governance, Query Optimization, Multi-lingual
+probability distribution, relevance, ranking, effectiveness, term weighting, information measure, information retrieval, metric, entropy
+intelligent retrieval, system design, massive academic literature resources, ontology
+Diversity, Dataset Retrieval, Interactive IR, Retrievability
+Currency recognition, Blurriness detection, Counterfeit currency detection, Classification, Deep Learning
+query-based system, LBPH, visually impaired, face recognition
+Cloud Computing, Information Retrieval, Web of Things
+Learning to Rank, Elasticsearch, Relevance Search
+information retrieval, ambiguity, ontology model
+Clustering, information retrieval, principal component analysis, non-negative matrix factorization
+Biodiversity, Grid, query, distributed databases, Cloud
+text analytics, analysis, visualization, Curriculum evaluation, information retrieval, industry skills framework
+Text Mining, Machine LR, SVM, Information Retrieval, Naive Bayes, Text Classification
+Information Retrieval, Mean Average Precision, Microblog Retrieval
+Vector Space Model, Bug Localization, Information Retrieval, Accuracy
+image retrieval, object retrieval, Context
+XML expression, text structural information, conditional random fields, information extraction
+Infrastructures, User-Centered Approach, RCIS, RCIS 2019, Practices, Conference, Data Management, Data Science, Information Systems, Information Science, Publications, Research Challenges, Business Processes
+intelligent question answering technology, information retrieval, natural language processing, knowledge graph, information overload
+Choquet integral, results merging, fuzzy aggregation, Information Retrieval
+synonymy, library information, open source word vectors
+Mobile phones, Middleware, Information retrieval
+query context, clique, information retrieval
+cheerleading projects, system optimization, distributed architecture, Data retrieval, processing software, on-site score
+query difficult prediction, unsupervised effectiveness estimation, content-based image retrieval
+information-centric, Internet of Medical Things, fog, healthcare monitoring
+natural language processing, question answering system, information retrieval, latent semantic indexing
+neural retrieval model, multi-task learning, external corpus Introduction, information retrieval, cross-lingual information retrieval
+feature identification, concept location, information retrieval, latent semantic indexing, static analysis, program comprehension, latent Dirichlet allocation
+Text Mining, Information Retrieval, Noisy Word, Word embedding, Gujarati Language, Bag-of-words, Word2vec model, Natural Language Processing, stopword, Indian Language, Text Classification
+Natural Language Processing, Apach Lucene, unstructured documents, Information Retrieval
+Search engine, Information Retrieval, Text documents, Data Analytics, Big Data, Unstructured data, Deep learning
+information retrieval, pattern matching, historic document image, image clustering
+Deep Learning, AlexNet, Image Retrieval, Content Based
+lexical association, query expansion, language model, Information retrieval
+text corpora, token, knowledge base, tokenization
+Keywords not found
+Keywords not found
+TF.IDF, Text Rank, LDA topic modelling, Keyword retrieval, Cosine Similarity
+query suggestion, search engine, dataset, information retrieval
+Semantic Web search, web search engine, keyword web search, Information Retrieval
+document expansion, information retrieval, agent-based system, topic modeling
+e-library, virtual library, e-book, information system, cloud computing, MARC 21
+database, university teaching methods, intelligent information technology, resource balanced allocation
+news video, overlay text, information extraction, NER, OCR
+Stack Overflow forum, Bug localization, Information retrieval system, Crowdsource, Bug report
+Keywords not found
+semantic web, information retrieval
+Text Mining, Information Retrieval, Meta Data, Ontology
+query expansion, tf-idf, information retrieval, bert
+Dung argumentation framework, Information retrieval, social media, User-profile model, opinions engineering
+Speech, Recommendation, Data Search, Sentiment, Emotion Recognition, Metadata
+query reformulation, model augmentation, information retrieval, pseudo-relevance feedback, BERT, speech recognition, Spoken document retrieval
+Information Retrieval Systems, single key-word and phrase queries, TB±tree, Inverted files, B±tree, Indexing
+Information Retrieval, Query expansion, Viterbi algorithm, Hidden Markov Model, Ontology
+tag semantic weight, node level, Pseudo-Relevance Feedback, XML query expansion
+web documents and modified firefly algorithm, semantic information, Ontology
+Bag-of-visual-word, Content based image retrieval, Peer-to-peer, Locality sensitive hashing
+retrieve, inquiry, user-interest model
+Keywords not found
+College English, Multivariate mixed criterion, Educational Information recommendation
+Information Retrieval, Arabic Morphology, Natural Language Processing, Arabic Irregular Plurals, Stemming, Arabic Broken Plurals
+Knowledge atlas, Question and answer retrieval, Dynamic programming algorithm
+weather station, MEMS, ecology, information technology
+voting, chain code, CBIR, object retrieval
+Keywords not found
+data retrieval system, mass data storage, big data mining, Computer
+computer information extraction algorithms, active learning, automated processing, english corpus
+UIMA, University unstructured information, Grid
+Digital Heritage, Archaeology, Egyptology, Text Retrieval, manuel de codage, hieroglyphs
+K-means, supervised classification, Information retrieval, Information Technology, support vector machines, unsupervised classification, News
+Data Mining, Information Retrieval, Smart System, Book Recommendation, Smart Library
+Cross-language Information Retrieval, Text Mining, Comparable corpora, Formal Concept Analysis
+the concept of information technology as a tool, the concept of information technology, course reform, the concept of information technology as the culture
+value creation, knowledge discovery, Biomimetics, Big data, associative image search
+Legal Information Retrieval, Topic Modeling, Semantic Search
+Under-resourced, Wolaytta-English, NMT, CLIR
+Files Library, Information Retrieval (IR), World Wide Web (WWW), Sequential Hypertext Induced Topic Search (SHITS), Internet Pages, Uniform Resource Locators (URL), Intelligence Information, Web Search Engines
+MeSH, pseudo relevance feedback, UMLS, biomedical information retrieval
+focus time, news retrieval, Information retrieval, inverted pyramid, temporal information retrieval
+web services, Cloud computing, multi-agent systems, information retrieval
+knowledge management, agriculture, Information retrieval, semantic computing, Greimasian semiotics
+Contextualized Semantic Information, Abstractive Summarization, Information Retrieval
+Information Retrieval (IR), Semantic Web (SW), Hozo, Ontology, Software Development Life Cycle (SDLC)
+informationclustering, mean reciprocal rank, information retrieval, natural language processing, question answering system, e-learning
+inverted table, image retrieval, feature extraction, convolutional neural network, Indexing
+semi-structured retrieval, semantic networks, graph-based retrieval model
+Cloud computing, Fuzzy Sets, e-Learning, Information retrieval, Folksonomy
+prior legal case retrieval, AI in law, information retrieval, natural language processing, NLP in law, law, deep learning
+Information retrieval
+education, semantic retrieval, ontology, Jena
+Semantic Web, Information Retrieval, Ontology, Descriptive Logic
+intra-modal classifier, Hashing, GAN, Cross-modal Retrieval
+iterative training, Legal information retrieval, similar case retrieval, self-supervised learning
+Vector Space Model, Document Similarity Score, Data leakage, Interaction Information Retrieval Model
+information visualization, personal information lifecycle, personal information management, conceptual framework
+Data Node Database, Wisdom Translation, TCM English, Robustness Test
+Information resource classification management, Mapping model, Collaborative filtering algorithm
+Multichannel, Attribution Theory, Human Computer Interaction (HMI), Omnichannel, Information Retrieval Techniques (IRT)
+Information Retrieval, Sentence Ranking, Word Stemming, Sentence Scoring, Bengali Document Summarization, Word Tok-enization, Text Extraction
+big data, exploration, cultural heritage, digital libraries, Information retrieval, discovery, information access
+Multi-attribute data; Information retrieval; Visual query language; Voronoi treemap
+Information Retrieval, Morphological Analysis, Natural Language Processing, Arabic Stemming, Rule-Based Stemmers
+Information Retrieval, Query Expansion, Query Performance Predictors, Health Search, Selective Collection Enrichment
+Semantic Annotation, Web Mining, Ontology, Informational Retrieval
+Information retrieval, Knowledge representation, Food safety, Domain ontology, Semantic retrieval model
+Online and Offline Process, Information Retrieval, Portals, Auto Hidden Tag, Tag Images
+metric space, information retrieval, Fisher information, data science
+Ontology-based information retrieval, Real time information Retrieval, Information Retrieval, query expansion, Semantic indexing, Bees Swarm Optimization
+Search Box, Information Tips, PHP, Ajax
+neural networks, classification, fuzzy logic, image retrieval
+information retrieval, Source-code summarization, deep learning
+Math Information Retrieval, Digital Libraries, Math Editors, Math Web Standards
+text categorization and topic recognition, natural language processing methodologies, discovery, collection, and extraction of information in big data sources, performance and benchmarking for big data processing and analytics, semantic content extraction and analytics languages and techniques, machine learning methods applied to big data analytics
+Source content, Hadoop Distributed File System (HDFS), Resource Description Framework (RDF), User Focused Blog Crawling (UFBC), Blog Data, Map Reduce (MR), Hadoop Blog Recommender System (HBR)
+Informasi, Hadith, Information Retrieval, ECS, Al Quran
+Keywords not found
+Sentence-based information retrieval, data visualization, TF-IDF, Hadith searching
+Visual Search, Information Retrieval, Content-Based Image Retrieval, Clothing Retrieval, SIFT
+information-centric networking, failures, disruption tolerance, communication networks, dependability, survivability, metrics, information resilience
+information, college students, curriculum system, information literacy
+page segmentation, VIPS algorithm, indexing approach, information retrieval
+generative adversarial networks, data-driven framework, private information retrieval, information-theoretical privacy, Compression, generative adversarial privacy
+Myanmar information retrieval, similarity percentage measurement, vocabulary file, Levenshtein distance, indexing
+Natural Language Processing, Structured Semantic Data, Information Retrieval, Question Answering System
+Retrieval, Wavelets, Multimedia, Music
+K-means, hierarchical clustering, polysemy, text clustering
+Possibilistic networks, Information retrieval, Term dependence
+Office information management, system design, three-layer architecture, enterprise efficiency
+Word Embedding, Kernel Pooling, KNRM, Ranking, Neural Information Retrieval, Relevance Model
+Posting list, Hbase, AES, Cloud server
+information centric network, Big data, CCN, energy-eciency
+TF-IDF, static document collection, term weight, dynamic document collection, term discrimination, document centroid
+Genetic Algorithm, Cloud Computing, Information Retrieval
+multi-XML, structure IR, keywords IR, distributed
+Classical set, Database searching, Artificial Neural network, Kohonen's self organization map, learning method etc
+Natural Language Processing, Online Social Network, Information Retrieval
+ranking, fuzzy web information retrieval, fuzzy relational BK-product, fuzzy relation, fuzzy thesaurus
+Web text analysis, World Wide Web, Semantic Similarity, information extraction and retrieval
+Vector Space Model, Information Retrieval, Text Summarization, Text mining
+Information Retrieval, CUR Decomposition, Semantic Representation of Documents, Low-rank Approximation, Document Analysis
+Information Retrieval, Arabic language, Morphological analysis, Stemming, Lemmatization
+energy minimization, interactive retrieval, Content-based image retrieval, graph cuts, relevance feedback
+Deep web, privatized information retrieval, Email Search Architecture, private credentials
+dialogue system, Spoken document retrieval (SDR)
+Web Service Discovery, Information Retrieval etc
+data fusion, information retrieval, bibliometrics, precision medicine
+Flickr, Geotagging, GIS, Google Maps, Geographic Information Retrieval, Tourism
+NGO, information retreival, machine learning, optical character recognition(OCR), image processing, Tessearct, deep learning
+Sauer-Shelah lemma, list decoding, Levenshtein’s channel, information retrieval, substitution errors
+Dense Retrieval, Knowledge Graph, Information Retrieval, Specific Domain
+Crawler, Clustering, MKBoost, Bregman Distance, Distance Function, Video Retrieval
+Information retrieval, Idea mining, Text classification, Text mining
+crawler, statistical language model, similarity criterion, vector space model, information retrieval, Search Engine, path feature
+Crime partition, Information Retrieval, Map Reduce, Inverted Index, Cluster, RHadoop
+concept location, concept mapping, contextual relations, domain specific ontologies
+Name Entity Recognition (NER), Natural Language Processing (NLP), Word Embeddings, AI-enabled- Information Retrival Engine (AI-IRE)
+Boolean retrieval, Big Multimedia, multimedia, similarity search, databases
+design information, NLP, AI, BERT Baseline
+Business intelligence, Information retrieval, Domain knowledge, Meaningful information, Ontology, Decision-making, Background knowledge, Prediction, Semantics
+privacy, security, Capacity, distributed storage
+Keywords not found
+Keywords not found
+Ranking function, Genetic programming, Learning to rank for Information Retrieval, Evolutionary computation
+bag of words, graph-based visual saliency, query expansion, probabilistic latent semantic analysis, object retrieval, image retrieval
+geo-social user profile, event extraction, Personalized information retrieval, profile combination
+Clustering, Component Retrieval, Reusability, Classification, Component based Software Engineering
+Information Retrieval, Healthcare, Big Data, Ontology, Artificial Intelligence
+Keywords not found
+Cross-Language, Translation, Information Retrieval, Summarization
+language model, TF-IDF, Multi-dimensional analysis, OLAP, text cube, text databases, information retrieval, data cube
+information retrieval, compound term indexing, language model
+Deep Learning, Passage Ranking, Recommendation, BM25
+sentence retrieval, BERT, Solr
+Search Interface, Information Retrieval Systems, User Assistance, Alerting Service, Web 2.0 Tools, Advanced Search, Academic Database, Simple Search, Browse
+topology, information retrieval, machine learning, target detection, Hyperspectral image (HSI)
+co-occurring word, industry-university cooperation, weak ties, information retrieval, text mining
+Indonesia's Cultural Heritage, CIDOC-CRM, Ontology, Concept-based Search
+digital library, semantic retrieval, cross-media, deep learning
+Keywords not found
+Spatial Relations, Semantic Similarity, Hybrid Model, Semantic Description, Distance Measures, Geographical Features
+Spoken Term Detection, Semantic Retrieval
+Keywords not found
+Attention mechanism, Cross-modal retrieval, Feature extraction, Transformer
+feature extraction, Image retrieval, query expansion, relevance feedback
+Natural language processing, Latent features, Deep architecture
+The Apriori algorithm, Travel, TextRank algorithm, Improved algorithm, Personalized, Big data
+posting, binary search tree, data structures, Information retrieval, term frequency, linked list, dictionary, index, vector-space model
+machine learning, information retrieval, Faster R-CNN, deep learning
+real-time analysis, publications, information dissemination tool, health, information retrieval
+feature extraction, CBIR, machine learning, image retrieval
+Cloud Computing, Cross-Source Academic, Service Platform, Multisource Information Processing, Education Information
+Information Retrieval Systems, Similarity Measures, Arabic Language, Stemming, Latent Semantic Analysis (LSA)
+visual query suggestion, human-computer interaction, relevance feedback, content-based image retrieval
+QA evaluation, Web based information retrieval, Open Domain Question Answering (QA) system, Information retrieval system, Time-Varying QA
+parallel processing, hardware accelerator, information retrieval, FPGA, data mining
+TFIDF weighting calculation, tibetan information processing, feature selection, hot topic extraction
+Lucene, Search Engine, information retrieval, Indexing
+Ranking, Top-k retrieval, Multikeyword search, Encrypted data, Cosine similarity
+Keywords not found
+redundancy, Information Retrieval, complementarity, XML documents, Bayesian networks theory, Aggregated search
+Attention Mechanism, Multiple Information, Deep Learning, Entity Relation Extraction
+frequent subgraph mining, multimedia information retrieval, graph isomorphism, chemical structural formula
+Semantic retrieval; Image semantics;Image annotation;Extraction of feature
+search engine, historical research, informatization, information search
+Keywords not found
+Natural Language Processing, NL2SQL, Information Retrieval
+retrieval, examines, essential, performance, prevent
+Neural Learning to Rank, Transformer models, Information retrieval, Medical informatics
+Artificial intelligence, knowledge representation, information retrieval, entity alignment, knowledge-based systems, multi-modal learning
+Learning to rank, Information retrieval, Deep learning
+Keywords not found
+explicit links, context-based image retrieval, re-ranking, Implicit links
+Classical Arabic corpora, Information Retrieval, Arabic document engineering, meta-search
+Reasoner, Protégé, Information retrieval, Ontology, Information Extraction
+video retrieval, mobile cloud network, high-dimensional index
+log, data mining, information retrieval, security
+Ancient Inscriptions, Character Recoganition, Digitalization, Text Extraction, Content Retrieval, OCR
+Clustering Peers, Evaluation, Information Retrieval, Query Routing, Semi-structured, Peer to Peer
+effectiveness measurement, multimedia search, information retrieval, information technology
+single pass clustering, Quran, data clustering, information retrieval, search engine
+Document Image Retrieval, Kannada Document, Gabor Wavelets, Cosine Distance, Word Spotting, Shape Features
+web search, Information retrieval, user modeling, probabilistic model, personalization
+Emotion analysis, sentiment analysis, learning to rank, natural language processing, emotion cause extraction
+document clustering, Hellinger distance, Hellinger cosine measurement
+Information Retrieval, Contextual Information Retrieval, News Aggregator, Convolutional Neural Networks, Deep Neural Networks
+gold price, decision making, information gathering, mobile application, gold trading
+Semantic Relatedness, Semantic Similarity, Information Retrieval
+Multilayer Perceptron, Language Model, Bilingual Mapping, parallel corpus, Cross Language Information Retrieval
+e-commerce websites, covert properties, information retrieval
+language model, query-document relevance, semantic information retrieval, semantic similarity, conceptual model
+Network traffic analysis, Text retrieval algorithm, Information retrieve
+Language technologies for IR, Semantic search, Semi-structured information retrieval
+WordNet, corpus, information retrieval, Jaccard coefficient, word sense disambiguation
+exploratory search, human computer interaction, information retrieval, biomedical and health research, digital repository, resource discovery
+system stability, big data, retrieval time, storage capacity
+Document Retrieval, Clustering, Ranking, Querying Heterogeneous Data, Ontology
+Keywords not found
+user profile, emotional state, human behavior, Information Retrieval System
+mass estimation (ME), machine learning (ML), information retrieval (IR), target detection, Hyperspectral image (HSI)
+Ancient Chinese dance resources, three-dimensional teaching, digitization, information management
+Shape Based Image Retrieval, Feature Extraction, Locality Sensitive Hashing, Bitsets
+Data Extraction, Named Entity Recognition, Hadith Information Retrieval, Framework
+Vector Space Model, Classification, Information Retrieval
+Word Embedding, Query Drift, Information Retrieval, Glove, BERT, Contextualised Query Expansion
+query construction, patent retrieval, long query, recall-based retrieval
+feature, Information Retrieval, LDA model, Cloud Model
+Application, Public Information System, Digital University Campus, Service Design
+Word Image Retrieval, Bag of Words, Semantic Indexing
+WordNet, Knowledge Graph, Search Engine Optimization, Data correlation, semantic search
+Keywords not found
+Imaging systems, other imaging techniques
+Code Reviews, Code Changes, Software Engineering, Structured Information Retrieval
+sentences splitting, indexing approach, Content carrying term and background term, keyword matching
+vector space model (VSM), latent dirichlet allocation (LDA), query expansion, PSEUDO relevance feed back, cross language information retrieval
+Keywords not found
+Keywords not found
+Controlled Vocabularies, MeSH, Telemedicine, Telecardiology, DeCS
+tf-idf, information retrieval system, cosine similarity
+Keywords not found
+interpretation, projection, information retrieval, search engines
+Student Questionnaire, Information Retrieval, Generalized Vector Space Model, Sentiment Analysis, Naïve Bayes Classifier
+computational linguistics, information extraction, multilingual information retrieval, similarity metrics
+relevance judgments, Evaluation, test collections, document distance, qrels, occurrences
+condorcet fusion, data fusion, information retrieval
+multiple scoring systems (MSS), rank-score characteristic (RSC) function, combinatorial fusion analysis(CFA), rank combination, information retrieval (IR), cognitive diversity, score combination
+unsupervised learning, case documents, document-term matching, domain terms, automatic labeling
+Concern Localization, Multi-Abstraction, Text Retrieval, Topic Model, Latent Dirichlet Allocation
+User Interface, Information Retrieval, User Interest Profile, Personalization, Agent
+first responder, SDN, sensor network, emergency network
+Similarity measures, text clustering, partitioned clustering, information retrieval, Document Clustering
+TRIZ, biomimetics, information retrieval, linked data, Bio-TRIZ
+Text data, Feature extraction, information retrieval, Domain ontology, Flat clusters
+CampusStack, data management, software change requests, Information management system, entity attribute value model, database modelling, relational model
+NeuroMarketing, Information Retrieval, Saccadic Eye Movement, Classification, Brain-Computer Interface, ElectroEncephaloGram (EEG), Event Related Potential (ERP), Web Browsing
+Information Retrieval, Knowledge Resources, Big Data, Mobile learning, Knowledge Management
+deep belief network, Information retrieval, text summarization, template generation, deep learning
+Keywords not found
+Coupling feature extraction, substation area household change relationship, feature quantity, information retrieval, big data model
+similarity measure, Arabic WordNet, automated essay grading, information retrieval, stemming techniques
+Video synthetic aperture radar (VideoSAR), structure-from-motion retrieval, shadow information, sequence analysis
+ranking, genetic algorithm, information retrieval systems, learning to rank, Nelder-Mead method
+government portal, evaluation, user interface, WebQual
+Information Retrieval, Semantic Processing, Natural Language Processing, Question Answering, Answer Selection
+data mining, digital libraries, metadata, Information retrieval
+voice output communication aids, grapheme, text-to-speech, phoneme, machine translation, information retrieval, X-SAMPA, IPA, phonemic transcription
+vector-space, augmented reality, adaptive GUI, contextual awareness, information retrieval
+Parallel Algorithms, Security, Privacy, Number Theoretic Private Information Retrieval
+query expansion, pseudo relevance feedback, firefly algorithm, information retrieval, word co-occurrence, term relationship, word similarity
+Keywords not found
+word spotting, holistic approach, text segmentation, Arabic script, information retrieval, word characterization and matching
+knowledge discovery, visualization, hypothesis generation, Information retrieval, data mining
+API recommendation, feature location, information retrieval, API usage location
+authorship attribution, text classification, Music information retrieval
+square grid, Hamming space, Covering code, information retrieval, associative memory
+CASE tool, ontology, artifacts, traceability link, information retrieval
+Stopword, Information Retrieval (IR), Tokenization, Natural Language Processing (NLP), Sanskrit
+explicit semantic analysis (ESA), natural language, Question answering system (QAS), information retrieval
+Cross-lingual information retrieval, FastText, Google Translate, Levenshtein distance, Dictionary
+Relevance Feedback, Document Clustering, web search, IR
+Student, Recruitment, Education Institution, Paper, USP, Prototype and Information Processing and Retrieval, Inefficiency, Environment Friendly
+Document Image Retrieval, Logo Retrieval, Semantic Relevance Feedback, Textual Search
+query expansion, Wikipedia, Markov network, information retrieval
+delivery algorithm, user profile, proacitvity, personalized retireval, spatial information
+time series, vector space model, information retrieval, semantic search, cosine distance
+Keywords not found
+query, query classification algorithm, domain term extraction, NoSQL database, IR
+Telemedicine, Controlled Vocabularies, Retrieval Information, DeCS
+SpMSpV, Sparse Matrix, Information Retrieval, SpMV, Query Processing, Sparse Vector
+image encryption, JPEG, Markov process, image retrieval
+heterogeneous information network, graph embedding, query embedding
+Vector Space Model, Query Expansion, Synonym mapping, Malayalam
+Keywords not found
+full-text retrieval, Lucene, LDA model, topic index
+Retrieval Intelligence, Distributed Information Storage, MOOC Education Resource Library, Innovation and Entrepreneurship
+cross domain, multi-level feature model, information extraction
+information systems, online threats, online services, information systems components
+morpho-semantic graph, Arabic information retrieval, NLP, knowledge extraction, LMF, text mining, disambiguation
+Legal Contract Documents, GDPR, DPP, Information Retrieval, Information Extraction, Natural Language Processing, Ontology
+Data Mining, WBCHIR, CBIR System, DWT, Image Retrieval, Image Simulation
+graph modeling, PageRank, language model, Document retrieval, Social Book Search, InL2, book recommendation
+Keywords not found
+recognition, Layout analysis, features extraction, information retrieval (IR), segmentation, image processing, OCR
+Information Security Risk Management, Ontology, Attack Patterns, Attack Prediction, Risk Intelligence, Proactive Approach
+word Relativity, document ranking, cognitive structure, personalized retrieval
+Keywords not found
+inference rule discovery, text mining, information extraction, Turkish
+Information Retrieval, Word2Vec, Code Search
+Recommendation System, Information Retrieval, Artificial Intelligence, Human-Computer Interaction
+Clustering, Music Information Retrieval, Instrument Detection
+Approximate Queries, Large-scale Information Aggregation, Computational Grids and Clouds, Autonomic Management
+biomedical images, Arrow detection, content-based image retrieval and text information retrieval
+Bengali keyphrase extraction, Information Retrieval
+knowledge representation, information retrieval, Ontology, AGROVOC
+referring expressions, information retrieval, dialog management, spoken language understanding, Personal digital assistants
+Personalization Service, Big Data Processing, Recommendation Service
+Similarity Detection, Cosine Similarity, Information Retrieval, Book
+Search, Concept retrieval, Semantic knowledge, Video
+Keywords not found
+Keywords not found
+Information Retrieval, Filtering Technique for false positives, Change History, Structural Information, Requirement Traceability
+information sources, Internet, scientific literacy
+Web 3.0 Technologies, Information Retrieval, Semantic Web in Education, Educational Data Systems, AI-Enhanced Learning Platforms
+Semantic Web, Information Retrieval, Web Search, E-Tourism, SPARQL, Ontology
+Search engine, Retrieval model, Text retrieval, Deep learning
+content information extraction, content blocks, statistical information, DOM structure
+Question Answering System, Information Retrieval, Natural Language Processing
+web database, information retrieval, Semantic
+microRNA, information retrieval, gene expression database, content-based search
+dual-encoder, component, passage retrieval, word recovery
+stemming, Query Expansion, Search Engines, IR, Arabic
+information, processing, organizational, predictive, security
+mathematical models, multi-agent system, pertinence information, search agents, domain-specific search
+Image fusion, histogram, Content-based retrieval, Image segmentation, Image Retrieval
+component, keyword extraction, information entropy, Cross language keyword extraction, TextRank
+information retrieval, source code summarization, code comment generation, deep learning
+error information resource, error management, information resource management, error
+Time-Based Reranking, Reranking, Image Retrieval, Circular Reranking
+Chord sheet music, Music similarity, Signature files, Information retrieval
+Holy Quran; Quran Tafseer; information retrieval ; Tafseer dataset, XML dataset.
+program analysis, call graph, dependency, information retrieval, android, program comprehension
+usability, evaluation, cost, information organization, education, curation, digital language archives, information architecture, ethics, information retrieval, information access, collection development, archiving
+Code summarization, empirical study, information retrieval, deep learning
+term weight, Inverted index, Free text quires
+PSO, web information retrieval, scalability, swarm intelligence, bio-inspired approach
+VSM, Afaan Oromo, AOIR, Retrieval, Hybrid Model, Information
+Information Enrichment, Data Integration, Information Extraction, Cultural Heritage
+Retrieval etc, Collection, API, Twitter, Information
+Deep Learning, Test Assertion, Information Retrieval, Unit Testing
+Malware classification, Information retrieval, Windows API calls, TF, IDF, Similarity measure
+text features, pilot study, health literacy, NLP, audio, natural language processing
+Information retrieval, Text mining, Semantic relations, Concept cluster, English WordNet
+content search, content, information retrieval, similar content, content analysis
+database, knowledge discovery, organization of information search, data processing, data collection
+Information Retrieval, Nearest Neighbour Search, Locality Sensitive Hashing, High Dimensional Data, Similarity, Hash Function
+usability, evaluation, cost, information organization, education, curation, digital language archives, information architecture, ethics, information retrieval, information access, collection development, archiving
+Consideration, Gathering, Computerized, Capabilities, Consequences
+Database, Unstructured, Characterization extraction, Information identification, Multimedia information
+knowledge management, e-government, Information management
+ranking, pareto efficiency, genetic algorithms, information retrieval system, learning to rank, multi-criteria optimization
+search term identification, Concept location, information retrieval, POSRank, TextRank
+Keywords not found
+pervasive networks, smart card and user profile, RFID, Information filtering
+soft information fusion, human-based sensing, context exploitation
+Object management, EPCIS, Supply chain management, Internet of Things, GS1 EPCglobal architecture framework
+Keywords not found
+Text Categorization, Cross Language Text Categorization, Information Retrieval
+Named entity recognition, information retrieval, ICDM contest
+ranking learning, Retrieval, cross-modal retrieval, average precision
+Duplicate Detection, Machine Learning, Bug Report, Information Retrieval
+Keywords not found
+user profile, spatial information, pragmatic information, semantic information, syntactic information
+patent text, semantic graph attention network, patent schema knowledge, patent-AMR parsing, generative information extraction
+Multiple Correspondence Analysis (MCA), Co-occurrence Relationship, Semantic Information Retrieval, Re-ranking
+Link Analysis, Information Retrieval, Weighting, Recommendation System, Term Expansion, Adaptation, Indexing
+dense retrieval, Q&A system, representation learning, knowledge graph, deep learning
+Relational Databases, JENA, OWL, Ontology, Search and Retrieval Information
+deep feature learning, matrix factorization, joint learning, Learning to rank, structural SVM, information retrieval
+Information Retrieval (IR), Fault, Mining Software Repositories (MSR), Software Bug Localization (SBL)
+sparse, multimodal, image retrieval, visual reranking, tag refinement
+TF*IDF, VSM, QA, Document Similarities, LSI
+time-series profile, microarray, time-course data, biological information retrieval, content-based search, gene expression database
+NLP, Named Entity Recognition, MinIE, Open information extraction system
+efficient manifold ranking (EMR), similarity measurement, cross-media retrieval
+Information Management, Database, B/S framework, APP
+user feedback, user interests, user information needs, information retrieval systems
+query expansion, F-measure, fuzzy logic, mean average precision, accelerated particle swarm optimization
+Software Visualization, Reverse Engineering, Information Retrieval, Program Comprehension
+Keywords not found
+News Articles, Relation extraction, Information Retrieval, Graph Database, Neo4j, Cypher Queries, Named Entity Recognition
+Similar Bugs, Word Embedding, Information Retrieval, Recommendation Systems
+Social networks, social information retrieval, collaborative tagging
+LSI, TDM, THIN, semantic, free text
+Informationretrieval, Arabic NLP, Query enrichment, weighting function, evaluations metrics

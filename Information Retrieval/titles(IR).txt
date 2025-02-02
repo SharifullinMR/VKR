@@ -1,0 +1,1100 @@
+Ontology-based semantic information retrieval for enterprise management information system
+Design of Internet Information Retrieval System Based on Artificial Intelligence Technology
+Query expansion in XML information retrieval: A new approach for terms selection
+The research on cross-media information retrieval system based on food safety emergencies
+An Intelligent XML Information Retrieval System
+Mongolian Information Retrieval Method Based on Word2vec and Topic Model
+Similarity measure for semi-structured information retrieval based on the path and neighborhood
+Ontology-based information retrieval for historical documents
+Evolution of information retrieval system: Critical review of multimedia information retrieval system based on content, context, and concept
+An intelligent information retrieval algorithm based on knowledge discovery and self-organizing feature map neural network
+Unified concept-based multimedia information retrieval technique
+A Genetic Algorithm-Based XML Information Retrieval Model
+Enhancing retrieval and novelty detection for arabic text using sentence level information pattern
+Extensible Architecture for Multimodal Information Retrieval in Medical Imaging Archives
+Cross-media topic analysis and information retrieval
+A Multimedia Information Retrieval Method Based on Cross-Modal Hashing
+Analysis of TF-IDF Model and its Variant for Document Retrieval
+Construction of Library Information Retrieval System Based on Data Mining
+Information management system of student status archives based on SSM framework
+Real Time Retrieval Technology of Vehicle Navigation and Location Information under Internet of Things Environment
+Query Expansion in Information Retrieval for Urdu Language
+Experimental Research on the Effects of Blackboard Platform on Improving Medical Information Retrieval Teaching
+An improved matching functions for information retrieval using Genetic Algorithm
+Phonetic coding methods for Malay names retrieval
+Enhancing information retrieval efficiency using semantic-based-combined-similarity-measure
+Vector Model Based Information Retrieval System With Word Embedding Transformation
+Information retrieval system: For skill set improvement in software projects
+Noisy Private Information Retrieval: On Separability of Channel Coding and Information Retrieval
+Application Research of Machine Learning Method Based on Distributed Cluster in Information Retrieval
+ezDL: Collaborative Information Seeking and Retrieval in a Heterogeneous Environment
+Design of Visual Platform for Complex Medical Information Retrieval Considering Complex Information Structure
+A cross-modal multimedia retrieval method based on semi-supervised learning and category information alignment
+e - Document retrieval using rough-set theory
+Active warden as the main hindrance for steganography information retrieval
+Prototype survey analysis of different information retrieval classification and grouping approaches for categorical information
+Visual analysis on the research of cross-language information retrieval
+Information Retrieval in Search Engines Using Pseudo Relevance Feedback Mechanism
+Potential Roles and Applications of Thesauri in Digital Information Retrieval Systems
+Research of literature information retrieval method based on ontology
+English Chinese Cross Language Information Retrieval Method Based on Association Pattern Mining
+Performance Evaluation of Distributed Indexing Using Solr and Terrier Information Retrievals
+Using Dempster-Shafer theory and ontology in XML latent information retrieval
+Research on Content-Based Multimedia Information Retrieval
+Word pair index structure for information retrieval using Terrier3.5
+Text processing in information retrieval system using vector space model
+Mobile Medical Visual Information Retrieval
+Agricultural information retrieval in geographically distributed networks
+Query Expansion for Information Retrieval using Word Embeddings: A Comparative Study
+An improved vector space model to retrieval systems for content matching in agricultural information
+Image segmentation approach in multimodal information retrieval
+A serie method of massive information storage, retrieval and sharing
+The Prediction of the High-Cost Non-Cumulative Discounted Gain and Precision Performance Metrics in Information Retrieval Evaluation
+Improve Firefly Heuristic Optimization Scheme for Web based Information Retrieval
+Visualization of Geographic Information Retrieval Results Supporting User Participation
+Design of hospital case information retrieval system based on improved AES algorithm
+A Wordnet based information retrieval on the Semantic Web
+Improve Biomedical Information Retrieval Using Modified Learning to Rank Methods
+Evaluation of stop word lists in text retrieval using Latent Semantic Indexing
+Retrieving answers from multiple documents using semantic skolem indexing
+Web Information Retrieval using Vector Space Model and Docu-Tally Metric
+A Multi-Dimensional Semantic Pseudo-Relevance Feedback Information Retrieval Model
+Visual Information Retrieval: The State of the Art
+Factographic information retrieval for competences forming
+Increased information retrieval capabilities on e-commerce websites using scraping techniques
+Study on network information retrieval based on visual technology
+Learning to Rank for Biomedical Information Retrieval
+Information Retrieval in Kannada using Ontology
+Information Retrieval Model Combining Sentence Level Retrieval
+Extending Bug Localization Using Information Retrieval and Code Clone Location Techniques
+Research on Semantic Information Retrieval Based on Improved Fish Swarm Algorithm
+Ontology based Semantic Information Retrieval System using Data Ranking
+Context acquisition in just-in-time mobile information retrieval
+Improve Diversity-oriented Biomedical Information Retrieval using Supervised Query Expansion
+Expoliting rich features for promoting diversity in biomedical information retrieval
+Construction of Chinese-English Cross-language Information Retrieval Model Based on Dictionary Learning
+Evaluation of Information Retrieval Performance Metrics using Real Estate Ontology
+Evaluating Automated Information Retrieval Techniques for Improved Data Accessibility
+New Private Information Retrieval Protocol Using Social Bees Lifstyle over Cloud Computing
+Mongolian information retrieval method based on LDA model
+Efficient information retrieval using domain ontology
+The research and application of ontology-based information retrieval
+Artificial Intelligence in Information Retrieval
+Effectiveness of Latent Dirichlet Allocation Model for Semantic Information Retrieval on Malay Document
+Collaborative Information Retrieval Framework Based on FCA
+Ontology based information retrieval system for Academic Library
+Indonesian document retrieval using vector space method
+Application Research on Latent Semantic Analysis for Information Retrieval
+A framework and implementation for qualitative geographic information retrieval
+Context-Aware Recommendation System Using Content Based Image Retrieval with Dynamic Context Considered
+Fusion analysis of information retrieval models on biomedical collections
+Improving Query Expansion Performances with Pseudo Relevance Feedback and Wu-Palmer Similarity on Cross Language Information Retrieval
+Application of information retrieval thesaurus for the improvement of information retrieval technologies in specific data domain
+Investigate the Role of Reinforcement Learning in Optimizing Big Data Retrieval Speed
+Large-Scale Knowledge Synthesis and Complex Information Retrieval from Biomedical Documents
+New information retrieval model
+A Fuzzy-Cluster based Semantic Information Retrieval System
+A two-tier VANET/P2P system for information retrieval in vehicular environments
+Rough Ontology Based Semantic Information Retrieval
+Comparative Analysis of Information Retrieval Models on Quran Dataset in Cross-Language Information Retrieval Systems
+Listening to the Deep: Exploring Marine Soundscape Variability by Information Retrieval Techniques
+A generalized framework for ontology-based information retrieval: Application to a public-transportation system
+Evaluation on geospatial information extraction and retrieval: Mining thematic maps from web source
+Development of hybrid similarity measure using fuzzy logic for performance improvement of information retrieval system
+Towards a Robust and Scalable Information Retrieval Framework in Big Data Context
+Information retrieval model based on neural networks using neighborhood
+Research and application of information retrieval techniques in Intelligent Question Answering System
+Multimedia Retrieval that Works
+An Integrated Approach to Enhance Legal Information Retrieval of Sri Lankan Supreme Court Verdicts
+A Comparison of Recent Information Retrieval Term-Weighting Models Using Ancient Datasets
+Quantum concepts in information retrieval
+A Preliminary Study on SAR Advanced Information Retrieval and Scene Reconstruction
+Profound Survey on Cross Language Information Retrieval Methods (CLIR)
+Research on reliability test of hybrid information intelligent retrieval in Mobile English Teaching
+Application of Information Technology to Promote the Practice of ESP Teaching
+Optimization Simulation of Network Retrieval Model Based on Big Data Algorithm
+Information retrieval system using UNL for multilingual question answering
+Reliable Information Retrieval Systems Performance Evaluation: A Review
+Performance of Traditional and Dense Vector Information Retrieval Models in Code Search
+A model based on three-layer agent of personalized information retrieval systems
+Speech and text query based Tamil - English Cross Language Information Retrieval system
+Merging Results from Overlapping Databases in Distributed Information Retrieval
+Information Retrieval for Malay Text: A Decade Review of Research (2008–2019)
+Performance comparison of various information retrieval models used in search engines
+Information Orchestration System for Closing the Information Retrieval Capability Gap
+Multilinguistic approach towards Information Retrieval System for Big Data
+Analysis of retrieval models for cross language information retrieval
+An Availability Method for Information Retrieval in Cloud Service Using Work Components
+Research on Tibetan-Chinese Cross-language Semantic Retrieval Based on Word2Vec
+A XML query results ranking approach based on probabilistic information retrieval model
+Identification and extraction of different objects and its location from a Pdf file using efficient information retrieval tools
+Cluster-Based Data Mining for Graphical Information Retrieval
+Retrieving images through Content Based Fuzzy Information Retrieval-A Survey
+Review of significant researches on multimedia information retrieval
+Exploring traffic accident locations from natural language based on spatial information retrieval
+Experiments in malay information retrieval
+Design of Library Information Retrieval System based on Internet and Information Flow Mining
+A context and knowledge based health event storage for efficient clinical information retrieval
+Document expansion based on clique for Markov network information retrieval model
+Multiple Queries of Information Retrieval Using Krylov Subspace Method
+Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications
+CBDIR: Fast and effective content based document Information Retrieval system
+Multimodal Information Access and Retrieval Notable Work and Milestones
+Optimization of information retrieval using evolutionary computation: A survey
+XML Retrieval More Efficient Using ADXPI Indexing Scheme
+Multilingual Text-Based Image Search Using Multimodal Embeddings
+Semi-automatic information retrieval and consolidation with a sample application
+Research of Information Retrieval in the Cloud Computing Environment
+Information Retrieval Based on Heuristic Key Words Extraction and Clusterings for Documents
+Spoken query for Qur'anic verse information retrieval
+Assessing Bias on Entity Retrieval Models through Conjunctive Fallacies
+The Use of Ontology in Retrieval: A Study on Textual, Multilingual, and Multimedia Retrieval
+SemOIR: An ontology-based semantic information retrieval system
+IRRT: An Automated Software Requirements Traceability Tool based on Information Retrieval Model
+Analysis of Probabilistic Model for Document Retrieval in Information Retrieval
+An Intelligent Subtype Fuzzy Cluster based Relevant User Data Retrieval Model for Effective Classification
+Architecture of a concept-based information retrieval system for educational resources
+Prediction of rating from comments based on information retrieval and sentiment analysis
+Towards Music Information Retrieval driven by EEG signals: Architecture and preliminary experiments
+Analysis of various information retrieval models
+Personalized Semantic Retrieval System based on Statistical Language Model
+Semantic queries in BPMN 2.0: A contemporary method for information retrieval
+A stochastic approach in private information retrieval
+A Clustering Study for the Optimization of Emotional Information Retrieval Systems: DBSCAN vs K-means
+Information Retrieval of Physical Force Using the TF-IDF
+Tuning topical queries for effective information retrieval
+Statistical measure for assisting the multilingual information retrieval system evaluation using Normalized Distance Measure
+Complementary semantic model for content-based image retrieval
+Efficient Parameter Estimation for Information Retrieval Using Black-Box Optimization (Extended Abstract)
+Overview of automatic Indian music information recognition, classification and retrieval systems
+The Capacity of Multi-user Private Information Retrieval for Computationally Limited Databases
+A fuzzy link-based approach for XML information retrieval
+The Design and Implementation of Image Information Retrieval
+Multimedia Information Retrieval Based on Late Semantic Fusion Approaches: Experiments on a Wikipedia Image Collection
+Bibliometric-enhanced retrieval models for big scholarly information systems
+A Novel Fast Retrieval Algorithm for Huge Amounts of Data
+Challenges in Information Retrieval from Unstructured Arabic Data
+Designing Worksheet for Using ChatGPT: Towards Enhancing Information Retrieval and Judgment Skills
+Quantum Anonymous Private Information Retrieval for Distributed Networks
+Legal and Regulation Retrieval System Based on Hierarchical Retrieval
+Application Analysis of Data Mining technology in Internet Information Retrieval
+The History of Information Retrieval Research
+Information Retrieval using probability and belief theory
+Information Retrieval Techniques to Grasp User Intention in Pervasive Computing Environment
+Multilingual Information Retrieval and Smart News Feed Based on Big Data
+Single turn Chinese emotional conversation generation based on information retrieval and question answering
+Using quantum mechanical framework for language modeling and information retrieval
+Text mining and information professionals: Role, issues and challenges
+Cloud Information Retrieval: Model Description and Scheme Design
+MRGIR: Open geographical information retrieval using MapReduce
+Keywords Retrieval Based on Ontology Inference
+Information Retrieval: Recent Advances and Beyond
+A MANET based post-war information retrieval system
+Multiple Emotional Profile Representation for Personalized Information Retrieval Systems
+Joint workshop on bibliometric-enhanced information retrieval and natural language processing for digital libraries (BIRNDL 2016)
+Optimizing Arabic Information Retrieval: A Comprehensive Evaluation of Preprocessing Techniques
+Events analysis based on Internet information retrieval and process mining tools
+Content-based retrieval of human actions by analysing the statistical information of features
+Information Retrieval Framework Based on Filtering-HMM Algorithm
+The video production of learning resources in information retrieval course
+Visualized Related Topics (VRT) system for health information retrieval
+Enhancing Thematic Holy Quran Verse Retrieval through Vector Space Model and Query Expansion for Effective Query Answering
+Framwork for information security standards storage and retrieval using security patterns
+Natural language processing and information retrieval system based on BP neural network
+Enhancing the relevance of information retrieval by querying the database in natural form
+Comparative Analysis of the Performance of the Fasttext and Word2vec Methods on the Semantic Similarity Query of Sirah Nabawiyah Information Retrieval System: A systematic literature review
+Research on music information retrieval algorithm based on deep learning
+Algorithm Research about Textual Case Retrieval Based on Topic Words
+Deployment of Wireless Sensor Networks for intelligent information retrieval in marine environment
+Generating materialized views using ant based approaches and information retrieval technologies
+A Topic-based Document Retrieval Framework
+A new similarity function for information retrieval based on fuzzy logic
+An Information Retrieval Method Based on Data Key Rules Mining
+A Domain Classification-based Information Retrieval System
+Network Crime Information Retrieval Framework based on Facial Image Recognition
+A Comprehensive Analysis of the Use of Machine Learning Techniques to Optimize the Information Retrieval Process
+Personalizing information retrieval: A new model for user preferences elicitation
+Data Processing and Information Retrieval of Atmospheric Measurements
+Multi-Lingual Information Retrieval Using Deep Learning
+Combining Words and Pictures for Museum Information Retrieval
+A Review on Textual Question Answering with Information Retrieval and Deep Learning Aspect
+Genre and mood classification using lyric features
+An information retrieval scheme for Delay and Tolerance Networks
+The relationship between user preferences in interactive information retrieval evaluation
+A session-oriented retrieval model based on Markov random field
+An Exploration Tool for Retrieval of Travel Information with Personal Photos
+Automated Semantic Query Formulation for Document Retrieval
+Inferred Information Retrieval with User Operations on Digital Maps
+A novel semantic approach in E-learning information retrieval system
+Multi-message private information retrieval
+Enhancing Health Information Retrieval with Large Language Models: A Study on MedQuAD Dataset
+Information retrieval experiment on subjective words query expansion
+Semantic tourism information retrieval interface
+Semantically Enhanced Medical Information Retrieval System: A Tensor Factorization Based Approach
+Integration system of network information resources based on multi-agent collaboration
+Citrus Diseases and Pests Image-Text Retrieval Based on Multi-Modal Transformer
+Biodiversity Knowledge Retrieval Application Using Natural Language Processing Technique
+Research and Application of Information Data Retrieval System in Station Based on Lucene Technology
+Data-Information Retrieval based Automated Ontology framework for Service Robots
+Learning to rank for information retrieval using layered multi-population genetic programming
+A Probabilistic Precision Information Retrieval Model for Personalized Clinical Trial Recommendation based on Heterogeneous Data
+Mobile agent based approach for Geographic Information retrieval
+Design of Smart Cheerleading Competition Assistant Evaluation System with Big Data and Information Retrieval Sorting Algorithm
+Musical Instrument Information retrieval using Neural Network
+A Vietnamese information retrieval system for product-price
+Document Retrieval Through Cover Density Ranking
+The Capacity of Private Information Retrieval From Heterogeneous Uncoded Caching Databases
+Improving Effectiveness Information Retrieval System Using Pseudo Irrelevance Feedback
+Evaluation of Quranic text retrieval system based on manually indexed topics
+An IOT by information retrieval approach: Smart lights controlled using WiFi
+Scientific Literature Retrieval Model Based on Weighted Term Frequency
+New Unification Matching Scheme for efficient information retrieval using Genetic Algorithm
+Maximum Entropy Principle based Document Ranking with Term Selection Analysis for Cross-Lingual Information Retrieval
+Cross-Language Information Retrieval Based on Multiple Information
+VisIRR: Visual analytics for information retrieval and recommendation with large-scale document data
+An Emperical Study: Relevance Feedback in Information Retrieval Systems
+Automating Information Retrieval from Faculty Guidelines: Designing a PDF-Driven Chatbot powered by OpenAI ChatGPT
+DSPF: A Digital Signal Processing Based Framework for Information Retrieval
+Multilevel Security Embedded Information Retrieval and Tracking on Cloud Environments
+Information retrieval: A new multilingual stemmer based on a statistical approach
+Simulation of Social Network Information Retrieval and Classification Model Based on Graph Neural Network Algorithm
+Information retrieval system based on ontology
+Analyzing the Use of Machine Learning Models for Enhancing Big Data Retrieval Performance
+Keyword-Base Concept Nets Model for Information Retrieval in the Mobile Cloud
+IRBFL: An Information Retrieval Based Fault Localization Approach
+Usability and information retrieval issues for electronic healthcare record databases
+LSTM Neural Network Based Math Information Retrieval
+Improved Weakly Private Information Retrieval Codes
+Intelligent information retrieval in a Tsunami detection system using wireless sensor networks
+BBPM: A Study of Information Pre-retrieval Models Based on Medical BERT Model
+Information Retrieval of Text Analogs Based on the CLAD Method
+Evolution Analysis of Information Retrieval based on co-word network
+The impact of sections headings on the document retrieval
+The Study of Methods for Language Model Based Positive and Negative Relevance Feedback in Information Retrieval
+LibROSA Based Assessment Tool for Music Information Retrieval Systems
+A Cloud Based Information Retrieval Agent System Using Web Services
+Personalized retrieval of spatial information combining user profile with query request
+Review and Perspective of Markov Network Information Retrieval Model
+Improving the Performance of Pre-trained Systems in Sentence Retrieval
+Path Expression-based Smoothing of Query Likelihood Model for XML Element Retrieval
+Multiplicative update for fast optimization of information retrieval based neighbor embedding
+Clustering method of hybrid English teaching resources based on Information Retrieval
+Bi-Directional Image-Text Retrieval With Position Attention and Similarity Filtering
+Query Expansion for Myanmar Information Retrieval Used by WordNet
+A Survey on Multimodal Information Retrieval Approach
+Information Retrieval Method of Professional Music Teaching Based on Hidden Markov Model
+Clinical Medicine Retrieval System Oriented to Treatment Plan
+Implementation of vector-space online document retrieval system using open source technology
+A semantic information retrieval model for focused crawling
+Research on multi-agents information retrieval system based on intelligent evolution
+An Approach to Improve Precision and Recall for Ad-hoc Information Retrieval Using SBIR Algorithm
+Research on the privacy-preserving retrieval over ciphertext on cloud
+Construction of Intelligent Sign Language Corpus of Tourist Attractions under the Background of Big Data Information Retrieval
+Web Information Retrieval Models Techniques and Issues: Survey
+End-to-end learning of parsing models for information retrieval
+Research on Information Retrieval Systems standardization
+A parallel cross-language retrieval system for patent documents
+A Lightweight Semantic-Based Medical Document Retrieval
+Structure-from-Motion Retrieval from VideoSAR Sequences: Toward a Unified Framework
+Information Retrieval Ranking Using Machine Learning Techniques
+Implementation of Information Retrieval Using Tf-Idf Weighting Method On Detik.Com’s Website
+AIEPU at ALQAC 2023: Deep Learning Methods for Legal Information Retrieval and Question Answering
+Moving Virtual Boundary strategy for selective sampling
+Improving BERT-based FAQ Retrieval System using Query, Question and Answer Simultaneously
+Adaptation of Information Retrieval Methods for Identifying of Destructive Informational Influence in Social Networks
+Content-based image retrieval from videos using CBIR and ABIR algorithm
+Intelligent Retrieval and Question Answering Technology for Power Grid Security Standards: A Brief Survey
+Global Information Network and Conflicts of Interest (Parties, Interests and Conflicts)
+Finding Core Crosscutting Concerns from Object Oriented Systems Using Information Retrieval
+Application research in Internet information retrieval of data mining technology
+Improving Retrieval Performance with Wikipedia's Category Knowledge
+Text mining in bioinformatics: Past, present and future
+Asymmetry Helps: Improved Private Information Retrieval Protocols for Distributed Storage
+The impact of IT on curricula design of Information Management and Information System Doctoral Education in China
+A Comparative Study on the Combination of Multiple Retrieval Systems
+FREIDA - Fracture Risk Evaluation using Highly Efficient Information Retrieval and Analysis of Large Healthcare Datasets
+Research on integration model and application system of enterprise information resources
+Information retrieval from heterogeneous data sets using moderated IDF-cosine similarity in vector space model
+A Document-Based Information Retrieval Model Vector Space
+Query expansion for personalized cross-language information retrieval
+Class-based approach in semantic P2P information retrieval
+Research on Temporal Information Retrieval Method Based on Data Graph
+Context-sensitive, personalized search at the Point of Care
+Private Information Retrieval Through Wiretap Channel II: Privacy Meets Security
+Enhancing Clinical Information Retrieval through Context-Aware Queries and Indices
+Intelligent information retrieval for Tsunami detection using wireless sensor nodes
+An approach for mining heterogeneous data for cross-media retrieval
+IMS: An improved medical retrieval model via medical-context aware query expansion and comprehensive ranking
+Effect of cognitive ability on reliability of crowdsourced relevance judgments
+Information retrieval model: A social network extraction perspective
+Augmentative and Alternative Communication System Using Information Priority and Retrieval
+Extensive overview of an ontology-based architecture for accessing multi-format information for disaster management
+TSIR: A Chinese Temporal semantics Information Retrieval system based on MapReduce
+Improved Terms Weighting Algorithm of Text
+A Hybrid Semantic Statistical Query Expansion for Arabic Information Retrieval Systems
+Sensor Information Retrieval From Internet of Things: Representation and Indexing
+Retrieval Method of Poor Students Subsidy Resource Database Based on Improved Grey Correlation Degree
+Parallel swarm optimization for web information retrieval
+An Information Retrieval Approach for Regression Test Prioritization Based on Program Changes
+Uncertain Ontology Model for Knowledge Representation and Information Retrieval Using Decision Rules
+RDoCer: Information Retrieval and Sentence Extraction for Mental Health using Research Domain Criteria
+Sundanese ancient manuscript retrieval system comparison of two probability approaches
+Movie related information retrieval using ontology based semantic search
+“Clickable real world” information retrieval application based on geo-visual clustering
+Thesaurus Performance with Information Retrieval: Schema Matching as a Case Study
+Empirical Study of Utilizing the Information Retrieval in Similarity Checker Tools based on Academic Violation Findings
+Hybrid Information Retrieval with Masked and Permuted Language Modeling (MPNet) and BM25L for Indonesian Drug Data Retrieval
+Word sense disambiguation in information retrieval using query expansion
+A Text Representation and Retrieval Method Based on Concept Algebra
+Private Information Retrieval from Heterogeneous Uncoded Caching Databases
+Improving Context Awareness Information Retrieval with Online Social Networks
+Information retrieval for probabilistic pattern matching based on neural network
+Handling verbose queries for spoken document retrieval
+Evaluating Arabic WordNet Ontology by expansion of Arabic queries using various retrieval models
+Applying Information Retrieval Technology in Analyzing the Journals
+Experimental symmetric private information retrieval with measurement-device-independent quantum network
+Research on Cross-media Semantic Retrieval Methods of Information Resources Based on Deep Learning
+A Note on a Relationship between Smooth Locally Decodable Codes and Private Information Retrieval
+Study on the Information Database and Retrieval System of Aircraft Development Based on CALS
+Entropy Optimized Feature-Based Bag-of-Words Representation for Information Retrieval
+Performance Analysis of Ranking Models in Information Retrieval
+An effective private data storage and retrieval system using secret sharing scheme based on secure multi-party computation
+A novel hybrid private information retrieval with non-trivial communication cost
+An overview of integrated approach to digital preservation: Case study of Indonesian e-Cultural heritage and natural history information retrieval system
+Automated Learning Engines and their Potential to Enhance Information Retrieval Accuracy
+Batch Evaluation Metrics in Information Retrieval: Measures, Scales, and Meaning
+AXON: A personalized retrieval information system in Arabic texts based on linguistic features
+Information Retrieval in Case Based Reasoning Using Vertical Association Knowledge and Shannon Information Gain
+A Novel Fuzzy Document Based Information Retrieval Model for Forecasting
+A mapping ontology for geographic information retrieval
+Research on Personal Information Management
+Multi-Server Weakly-Private Information Retrieval
+A new PSO methodology for web documents retrieval
+Retrieval Profiling Framework for Thematic Interpretation of Al-Quran
+Troubleshooting Configuration Errors via Information Retrieval and Configuration Testing
+Persian Web Document Retrieval Corpus
+Competitive Sentiment Analysis for Brand Reputation Monitoring
+Survey of Query correction for Thai business-oriented information retrieval
+The Capacity of Single-Server Weakly-Private Information Retrieval
+Text-Based Event Temporal Resolution and Reasoning for Information Analytics in Big Data
+Classify Arabic Text using Vector Space Models
+Deep stacking networks for information retrieval
+Neural Network Based Integrated Model for Information Retrieval
+GPU accelerated information retrieval using Bloom filters
+A Text Information Retrieval Method by Integrating Global and Local Textual Information
+Information Retrieval from Alternative Data using Zero-Shot Self-Supervised Learning
+Semantic analysis for enhanced medical retrieval
+A Review of Models of Information Seeking Behavior
+An oil painting image retrieval strategy based on feedback mechanism
+CURE: Collection for Urdu Information Retrieval Evaluation and Ranking
+Integrated Algorithm (S-CBIR) for Image Retrieval in Image-Rich Information Networks
+Construction of deep resolution and retrieval platform for large scale scientific and technical literature
+An Intelligent Approach Towards Legal Text-Documents Retrieval
+Computer Network Information Retrieval Algorithm Integrating Data Structure Fusion Optimization
+Information retrieval from social networks: A survey
+Translation approaches in Cross Language Information Retrieval
+Medical Image Retrieval Using Manifold Ranking with Relevance Feedback
+Clustering in User Information Retrieval on Web
+Researches on domain ontology-based personalized information retrieval in military transportation
+Improving bug localization using structured information retrieval
+Learning to Refine Expansion Terms for Biomedical Information Retrieval Using Semantic Resources
+Research on Information Retrieval Algorithm Based on TextRank
+Integral Clustering and spectral Feature Modeling for Sketch-based Image Retrieval
+Research on Ontology-Based Chinese Semantic Retrieval Model
+Emotional correlates of information retrieval behaviors
+Real Time Vehicle Tracking, Information Retrieval and Motion Analysis using Machine Learning
+UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models
+Study on food safety semantic retrieval system based on domain ontology
+Research on Cloud Computing Architecture and Optimization of Human Resource Management System
+Capacity-Achieving Private Information Retrieval Codes from MDS-Coded Databases with Minimum Message Size
+WordNet Based Information Retrieval System for Assamese
+Performance evaluation of Multilingual Information Retrieval (MLIR) system over Information Retrieval (IR) system
+On the Distance-Sensitive and Load-Balanced Information Storage and Retrieval for 3D Sensor Networks
+Collaborative Text and Image based Information Retrieval Model using BiLSTM and Residual Networks
+Decision Support System based on Competitive Intelligence and Genetic Algoritms
+Elephant: LLM System for Accurate Recantations
+An Efficient Hybrid Usage-based Ranking model for information retrieval systems & web search Engine
+Enhancing Video Retrieval: A User Behavior-Based Query Expansion Approach
+On the Information Geometry of Audio Streams With Applications to Similarity Computing
+Information retrieval using a novel concept similarity in formal concept analysis
+N-grams corpus generation from inverted index for query refinement in information retrieval applications
+Topic Detection and Tracking interface with named entities approach
+Privacy-Preserving Location Sharing via LWE-based Private Information Retrieval
+The Use of Text Retrieval and Natural Language Processing in Software Engineering
+Ontology based fuzzy classification of web documents for semantic information retrieval
+Spoken Content Retrieval—Beyond Cascading Speech Recognition with Text Retrieval
+Design and implementation of domain ontology-based oilfield non-metallic pipe information retrieval system
+Multi-value Private Information Retrieval using Homomorphic Encryption
+Information Retrieval With Varying Number of Input Clues
+Intermittent Private Information Retrieval With Application to Location Privacy
+Search beyond Traditional Probabilistic Information Retrieval
+Information retrieval technique using tag-info method for digital DICOM X-ray images
+New hybrid measure for the similarity between two queries in an information retrieval system
+Neural-Based Cross-Modal Search and Retrieval of Artwork
+Bayesian Network Based Information Retrieval Model
+Improved Bloom Filter for Efficient Image Retrieval on Mobile Device
+The General Higher-Order Neural Network Model and Its Application to the Archive Retrieval in Modern Guangdong Customs Archives
+Improving Information Retrieval in Multiwriter Scenario by Exploiting the Similarity Graph of Document Terms
+Similarity Matching Algorithm for Ontology-Based Semantic Information Retrieval Model
+To stop or not to stop — Experiments on stopword elimination for information retrieval of Gujarati text documents
+Location based semantic information retrieval from web documents using web crawler
+Learning to rank in XML information retrieval: Which feature improve the best?
+Utilization of Bio-Ontologies for Enhancing Patent Information Retrieval
+Intelligent information retrieval lifecycle architecture based clustering genetic algorithm using SOA for modern medical industries
+Link based K-Means clustering algorithm for information retrieval
+Text retrieval based on the feature conversion of vector space
+Information retrieval in big data using evolutionary computation: A survey
+Personal information management behavior among postgraduate students of University of Birjand
+Improving information retrieval from electronic health records using dynamic and multi-collaborative filtering
+Entrepreneurs’ Information Retrieval: The Role of Affective Aspects through the Media Richness Theory
+RETRIEVAL—An Online Performance Evaluation Tool for Information Retrieval Methods
+Guided Hash Algorithm for Information Semantic Retrieval in Multimedia Environment
+Information Discovery and Images A Case Study of Google Photos
+Open-Domain question classification and completion in conversational information search
+Pareto-Depth for Multiple-Query Image Retrieval
+Retrieval and extraction of unique patterns from compressed text data using the SVD technique on Hadoop Apache MAHOUT framework
+An IR-Based Approach Utilizing Query Expansion for Plagiarism Detection in MEDLINE
+Explicit and Latent Topic Representations of Information Spaces in Social Information Retrieval
+Design and research on network teaching platform of document retrieval course
+Towards Enhancing Information Retrieval Systems: A Brief Survey of Strategies and Challenges
+Healthcare information exchange system based on a Hybrid central/federated model
+Learning to rank for biomedical information retrieval
+The Use of Text Retrieval and Natural Language Processing in Software Engineering
+Ontological Analysis of Cognitive Information Technologies Subject Area
+Speed improvements to Information Retrieval-based dynamic time warping using hierarchical K-Means clustering
+Private information retrieval for coded storage
+Pseudo Relevance Feedback technique and Semantic Similarity for Corpus-based Expansion
+A Novel Perfect Privacy Preserving Single Database Private Information Retrieval With Non-trivial Communication
+Review of Recent Deep Learning Based Methods for Image-Text Retrieval
+The Information Retrieval Model for Computer Crime Evidence Based on Domain Ontology
+Automatic Assessment of Narrative Answers Using Information Retrieval Techniques
+Towards quality improvement: Link network analysis of courses
+Magenta - A model for improving information retrieval in peer-to-peer networks
+Search beyond Traditional Probabilistic Information Retrieval
+Preprocessing of High Dimensional Dataset for Developing Expert IR System
+Lexicon-free stemming for Kazakh language information retrieval
+A 3-tuple information retrieval query interface with ontology based ranking
+Fundamental Limits of Private Information Retrieval With Unknown Cache Prefetching
+Information Retrieval of Distributed Databases A Case Study: Search Engines Systems
+Cyber Information Retrieval Through Pragmatics Understanding and Visualization
+Automated Machine Learning for Information Management and Information Systems: An Overvie
+Application of Big Data Processing Technology in Power Marketing System
+The Impact of Form Controls and User Characteristics on the Information Experience of Database Users
+Applying Natural Language Processing, Information Retrieval and Machine Learning to Decision Support in Medical Coordination in an Emergency Medicine Context
+Key Technologies of Music Information Big Data Storage and Retrieval
+Enhancing information retrieval and resource discovery from data using the Semantic Web
+Building robust geospatial web services for agricultural information extraction and sharing
+A Data Retrieval Method Based on AGCN-WGAN
+Add a topic feature to learning to rank model
+Exploring Advanced Edge Techniques in AI to Develop High-Performance Information Retrieval Systems
+The Capacity of Symmetric Private Information Retrieval Under Arbitrary Collusion and Eavesdropping Patterns
+Deep-Learning-based Cross-Modal Luxury Microblogs Retrieval
+Cultural Heritage Information Retrieval: Past, Present, and Future Trends
+Exploring the development of a web-based archive retrieval system: A case study at the institute of Modern History, Academia Sinica
+PSWG: An automatic stop-word list generator for Persian information retrieval systems based on similarity function & POS information
+Non-Technical Loss Detection in Power Grid Using Information Retrieval Approaches: A Comparative Study
+Information Retrieval based Improvising Search using Automatic Query Expansion
+The design and implementation of an intelligent distributed text retrieval system
+Analytical study on intelligent information retrieval system using semantic network
+The Impact of Retrieval Direction on IR-Based Traceability Link Recovery
+Question-Answering Systems Development Based on Big Data Analysis
+Resu-mizer: Hybrid Resume Information Retrieval System
+A Content-Based Information Retrieval Model Using Non-Negative Matrix Factorization Method
+Exploring term proximity statistic for Arabic information retrieval
+Information retrieval techniques for knowledge discovery in biomedical literature
+User-centered Information Retrieval using Semantic Multimedia Big Data
+Intelligent Information Retrieval: Handling Variability in Document Structure
+A Modified Medical Information Retrieval System
+An improved approach to English-Hindi based Cross Language Information Retrieval system
+Personalized information retrieval models integrating the user's profile
+PLIS: Proposed Language Independent Stemmer for Information Retrieval Systems Using Dynamic Programming
+Research and Construction of Semantic Retrieval Based on Knowledge Graph
+A User-Oriented Approach to the Retrieval of Geospatial Data
+Image Retrieval Technology and System Implementation of Handicraft Based on Genetic Algorithm
+Comparison of Information Retrieval Techniques for Traceability Link Recovery
+Effective Information Capture and Retrieval Through Machine Learning-Based Systems
+Using Ontologies to Build Testbed for Peer-to-Peer Information Retrieval Systems
+Challenges for information access in multi-disciplinary product design and engineering settings
+Voice Enabled Information Desk: Farmer to E-Farmer
+Improved TFIDF weighting techniques in document Retrieval
+Building custom, adaptive and heterogeneous multi-agent systems for semantic information retrieval using organizational-multi-agent systems engineering, O-MaSE
+Implementation approaches for various categories of question answering system
+Document Expansion Method for Digital Resource Objects
+An effective Malayalam information retrieval system using query expansion
+Information retrieval in Telugu language using Synset relationships
+SemirFL: Boosting Fault Localization via Combining Semantic Information and Information Retrieval
+Extracting spatial relations from document for geographic information retrieval
+An Analytical Analysis of Text Stemming Methodologies in Information Retrieval and Natural Language Processing Systems
+Synonym Insensitive Searching: A Novel Synonym Weighted-Vector Space Model for Document Retrieval
+Optimal Rate-Distortion-Leakage Tradeoff for Single-Server Information Retrieval
+Painting Semantic Retrieval Algorithm Research Based on Ontology
+Design and implementation of information retrieval system based ontology
+Construction of navigation map to retrieve semantically information from medical resources
+Adaptive Lookup Protocol for Two-Tier VANET/P2P Information Retrieval Services
+Capturing the Semantics of Key Phrases Using Multiple Languages for Question Retrieval
+Enhancing sports image search and retrieval using multi-modality ontology
+A Survey: Soft Computing in Intelligent Information Retrieval Systems
+Characterization of Corpora from Enterprise Technology Creation for Retrieval and Mining
+The model of possible Web data retrieval
+Concern Localization using Information Retrieval: An Empirical Study on Linux Kernel
+Improving access to digital information resources through the development of a knowledge taxonomy
+Single-Server Pliable Private Information Retrieval With Side Information
+Research on Query Expansion Based on Deep Learning
+A Fast Content-Based Image Retrieval Method Using Deep Visual Features
+An empirical study on query expansion and documentexpans ion in information retrieval
+The Statistical Dictionary-Based String Matching Problem
+M-Hadith: Retrieving Malay Haditli text in a mobile application
+Relevant Feedback Based Accurate and Intelligent Retrieval on Capturing User Intention for Personalized Websites
+Research on the Optimizing Method of Question Answering System in Natural Language Processing
+Document Search in Information Retrieval System Using Vector Space Model
+Application of ontology in classification of agricultural information
+Improved codes for list decoding in the Levenshtein's channel and information retrieval
+Concept based document management in cloud storage
+Implementation and validation of a master-slave distributed crawler applied in Internet Information Retrieval
+Semantic and Cross-Language Information Retrieval for Thai Herbs and Modern Medicine
+A Framework of Petroleum Information Retrieval System Based on Web Scraping with Python
+An integrated framework for retrieving and analyzing geographic information in web pages
+Context based information retrieval based on ontological concepts
+Comparison of uncertainty representations for missing data in information retrieval
+ARGOsearch: An Information Retrieval System Based on Text Similarity and Extensible Relevance Criteria
+Audio Retrieval Based on Manifold Ranking
+Multimodal Music Information Processing and Retrieval: Survey and Future Challenges
+Indonesian Hadith Retrieval System using thesaurus
+Estimating the Reliability of the Retrieval Systems Rankings
+Information seeking behaviour factors: A measurement model
+Semantic Information Retrieval: A Comparative Experimental Study of NLP Tools and Language Resources for Arabic
+Keyword Retrieval Technology Research of XML Document
+Data Set Generation for the Attributes of the Words of the Holy Quran: Information Retrieval System for E-Learning
+Development and Research of Document Intelligent Information Systems in Library Based on Computer Big Data
+Efficient object identification and multiple regions of interest using CBIR based on relative locations and matching regions
+Content based image retrieval using color and texture feature extraction in Android
+Information Retrieval System in Bangla Document Ranking using Latent Semantic Indexing
+Combination of Multiple Retrieval Systems Using Rank-Score Function and Cognitive Diversity
+Information Retrieval in Computing Model
+Comparative study of information retrieval models used in search engine
+Information capacity training of college students: Problems and solutions
+Single-Server Multi-Message Individually-Private Information Retrieval with Side Information
+A formula retrieval method based on hierarchical structure clusters
+Implicit queries based Temporal Information Retrieval using temporal taggers
+Algorithm for Information Retrieval optimization
+An efficient similarity matching for clustering XML element
+Digital libraries for disabled persons
+Deep Hierarchical Attention Networks for Text Matching in Information Retrieval
+Keyword Based Information Retrieval System for Urdu Document Images
+Exploring the Integration of National Cultural Resources through Content Retrieval and Visual Semantic Segmentation Display
+Extracting semantic relations between vietnamese legislative documents
+A semantic model of morphological information retrieval: A comparative accumulative analysis
+A survey on Learning to Rank (LETOR) approaches in information retrieval
+A Review and Future Perspectives of Arabic Question Answering Systems
+Techniques to Preserve the Integrity of the Electronic Versions of the Nobel Quran
+A Mongolian Information Retrieval System Based on Solr
+Transparent, Low Resource, and Context-Aware Information Retrieval From a Closed Domain Knowledge Base
+Arabic Document Indexing for Improved Text Retrieval
+Multi-Granularity Semantic Information Integration Graph for Cross-Modal Hash Retrieval
+The Design and Research of Cross-media Retrieval
+BIRITS: A Music Information Retrieval System Using Query-by-Playing Techniques
+An Image Retrieval System Based on Automatic Image Annotation to Facilitate Digital Humanities Research
+Enhancement Framework of Semantic Query Expansion Using Mapped Ontology
+An Improved Sentence Embeddings based Information Retrieval Technique using Query Reformulation
+Document re-ranking based on topic-comment structure
+Examining the Effects of Applying AI to Enhance Big Data Retrieval Efficiency
+Semantic Deformation of Professional Subject Area of Future Engineers in the Information Retrieval Process
+Enhancing Content Based Image Retrieval Technique by Observing Image Feature Extraction Methods
+An Integrated Strategy to Bridge the Digital Divide Among the Elderly: A Solution Based on Information System
+Study on ontology-based personalized user modeling techniques in intelligent information retrievals
+The Levenshtein’s Channel and the List Size in Information Retrieval
+A technical study on Information Retrieval using web mining techniques
+Cloud Computing Oriented Retrieval Technology Based on Big Data
+Efficient Information Source Monitoring Method Considering User Utility in Large-Scale Networks
+An Energy Efficient Data Dissemination and Information Retrieval Scheme for VANET
+Hybrid agent based algorithm for an efficient RFID-based health information system
+Information retrieval across information visualization
+Query translation based on visual information
+Applying rough set theory to information retrieval
+Image Retrieval based on color and texture features
+Using Eye Tracking to Improve Information Retrieval in Virtual Reality
+Review of medical image retrieval systems and future directions
+Application of Computer 3D Image Vision Technology in Intelligent Retrieval System
+Utilize Pre-Trained PhoBERT to Compute Text Similarity and Rerank Documents for Question-Answering Task
+3D Information retrieval in Mobile Robot Vision based on spherical compound eye
+Performance measurement for the quality of question answering approaches in natural language
+Construction and Empirical Analysis of the Content System of Vocational Education Teachers' Information Technology Ability Training
+A re-ranking method based on cloud model
+Optimising web-based information retrieval methods for horizon scanning using relevance feedback
+DPZ: Improving Lossy Compression Ratio with Information Retrieval on Scientific Data
+Application Architecture to Foster User-Centric Information Discovery and Retrieval
+Empirical Use of Information Retrieval to Build Synthetic Data for SMT Domain Adaptation
+A hybrid model for Arabic document indexing
+Identifying Knowledge Brokers and Their Role in Enterprise Research through Social Media
+Leveraging Quadratic Spherical Mutual Information Hashing for Fast Image Retrieval
+Identifying Correlations among Biomedical Data through Information Retrieval Techniques
+Entity Relation Aware Graph Neural Ranking for Biomedical Information Retrieval
+A Novel Redundant Data Retrieval Model based on Parallel Batch Algorithm
+Concept Based Query Expansion
+Comparative Analysis of Nine Arabic Stemmers on Microblog Information Retrieval
+Inchoative integration of content based image retrieval: Shodhani
+Documents ranking using new learning approach
+Information technologies of HR management in safety-oriented systems
+The research of text retrieval based on DeepCT and Conv-KNRM
+Software Fault Localization Based on Combining Information Retrieval and Mutation Analysis*
+Comparison of different lemmatization approaches for information retrieval on Turkish text collection
+Prolog to the Section on Mass Storage and Data Retrieval
+Semantically enhanced term frequency based on word embeddings for Arabic information retrieval
+Event-Triggered Distributed Estimation With Inter-Event Information Retrieval
+Query paraphrasing using genetic approach for intelligent information retrieval
+Information cartography based on syncretic representation of scientific papers
+Expert system for retrieval of documents using evolutionary approaches incorporating clustering
+DSMN: A Personalized Information Retrieval Algorithm Based on Improved DSSM
+A Memory Network Information Retrieval Model for Identification of News Misinformation
+A method for simplifying the submission of an online request for an E-Government service
+The collaborative relevance in the distributed information retrieval
+Text Pre-Processing Methods on Cross Language Information Retrieval
+Linguistic Approach to Modeling of Coronary Arteries in Semantic Techniques of Image Retrieval
+Using ontologies as queries in information retrieval
+Weight based Precision oriented metrics for Multilingual Information Retrieval System
+Electronic resources at the University of Dubai: Information seeking behavior
+Information retrieval in educational structured documents adapted to learners needs
+A Proposal for Earthmovers Distance Based KNN Classification for Document Retrieval
+Combining Query Reformulation and Re-ranking to Improve Query Expansion in Chinese EMR Retrieval
+Review of the sparse coding and the applications on image retrieval
+Deep Hashing Retrieval of Dynamic Corpora
+CRQA: Credibility Retrieval for Medical Question Answer Service
+The extended longest common substring algorithm for spoken document retrieval
+Statement-Level Software Bug Localization Based on Information Retrieval and Spectrum
+Automatic construction health image library using information retrieval technique
+Web-Ear, an information retrieval system that uses reported speech expressions in Turkish
+Supporting information exchange among software developers through the development of Collaborative Information Retrieval utilities
+Performance Comparison of Passage Retrieval Models according to Korean Language Tokenization Methods
+Satellite cloud image processing and information retrieval system
+Smart UX-design for Rescue Operations Wearable - A Knowledge Graph Informed Visualization Approach for Information Retrieval in Emergency Situations
+A Novel Text Matching Model Based on Multilayer Coding and Feature Enhancement
+A comparison of Bag-of-Words method and normalized compression distance for satellite image retrieval
+A coupled linguistics/statistical technique for query structure classification and its application to Query Expansion
+An Iterative Information Retrieval Approach from Social Media in Crisis Situations
+Semantic Augmentation Transformer Model for Ad-hoc Retrieval
+Data Context-Aware Web Information Retrieval
+Topic Based Clustering of Vehicles for Information Retrieval and Sharing
+Routing of Queries in Social Information Retrieval Using Latent and Explicit Semantic Cues
+Improving Retrieval performance of English-Hindi based Cross-Language Information Retrieval
+Usage of databases and the information literacy of students of the Faculty of Electrical Engineering and Computing
+Improvement of big data retrieval algorithm in the intelligent archives management
+A novel parametric bound for information retrieval from black hole radiation
+Analysis of distributed information retrieval
+Building a Multilevel Inflection Handling Stemmer to Improve Search Effectiveness for Urdu Language
+Visual information retrieval in HEVC compressed domain
+Probabilistic text analytics framework for information technology service desk tickets
+Document Information Retrieval with Deep Learning
+Query Optimization for Information Retrieval in Multilingual Environment for E-governance resources
+Alternatives to Classic BM25-IDF based on a New Information Theoretical Framework
+Research on the intelligent retrieval system of massive academic literature resources based on the ontology
+Studying Retrievability of Publications and Datasets in an Integrated Retrieval System
+Machine Learning-based Currency Information Retrieval for Aiding the Visually Impaired People
+Voice Interactive Query Based Information Retrieval System for Assisting Visually Impaired People
+Information-Retrieval-as-a-Service for the Web of Things: A Survey and a Proposal of IRaaS Architecture
+Intelligent Information Retrieval Module Based on Learning to Rank
+A domain case-based knowledge model for supporting of high-level information retrieval using reducing ambiguity in language
+Matrix Factorization-based clustering of image features for bandwidth-constrained information retrieval
+Experiments on information retrieval mechanisms for distributed biodiversity databases environment
+Text-mining approach for verifying alignment of information systems curriculum with industry skills
+Performance Evaluation of Text Document Using Machine Learning Models for Information Retrieval
+Information Retrieval on Tweets collected during Disaster Situations
+An improved bug localization using structured information retrieval and version history
+Object Retrieval Using Visual Query Context
+From text to XML by structural information extraction
+An Overview of Scientific Areas in Research Challenges in Information Science
+Knowledge Graph Construction and Intelligent Question Answering on Science and Technology Intermediary Service
+Fuzzy aggregation for results merging in information retrieval: An application of Choquet Integral
+Using Open Source Word Vector Corpus to Obtain Synonyms of Library Information
+Information retrieval in mobile phones using snippet clustering methods
+Integrating cliques as query context into information retrieval model
+On-Site Score Processing Software for cheerleading projects based on Distributed Architecture considering Data Retrieval
+Unsupervised Effectiveness Estimation for Image Retrieval Using Reciprocal Rank Information
+Fog-Assisted Internet of Medical Things for Smart Healthcare
+Enhancing Arabic Question Answering System
+A Novel Cross Language Neural Retrieval Model
+Measuring the Accuracy of Information Retrieval Based Bug Localization Techniques
+Automatic stopword Identification Technique for Gujarati text
+Information retrieval for unstructured text documents in Serbian into the crime domain
+DSSM with text hashing technique for text document retrieval in next-generation search engine for big data and data analytics
+Fast historic document retrieval by extracting document image summary
+Content Based Image Retrieval Approach using Deep Learning
+Query Representation through Lexical Association for Information Retrieval
+Creating a tokenization algorithm based on the knowledge base for the Uzbek language*
+Information retrieval using an Ontological Web-Trading model
+Single-Server Single-Message Online Private Information Retrieval with Side Information
+Transforming online class recording into useful information repositories using NLP methods: An Empirical Study
+A Dataset for Evaluating Query Suggestion Algorithms in Information Retrieval
+Semantic and keyword based web techniques in information retrieval
+Agent-Based Document Expansion for Information Retrieval Based on Topic Modeling of Local Information
+Model and Architecture for Virtual Library Information System
+Teaching Methods of Colleges and Universities Based on Intelligent Information Technology
+Strategy for automatic person indexing and retrieval system in news interview video sequences
+A Method to Suggest Solutions for Software Bugs
+Using Electronic Medical Records and Physician Data to Improve Information Retrieval for Evidence-Based Care
+Improving legal information retrieval using the Wikipedia knowledge base, legal ontology and the Eurovoc Thesaurus
+Data retrieval for client projects: Matching data onto an ontology map to produce a relevance assessment
+Document Retrieval Using Deep Learning
+Personalizing Information Retrieval Using an Extension of a Dung Argumentation
+Information Retrieval and Recommendation Using Emotion from Speech Signals
+Spoken Document Retrieval Leveraging Bert-Based Modeling and Query Reformulation
+TB±tree: Index structure for Information Retrieval Systems
+An approach for semantic query expansion based on maximum entropy-hidden Markov model
+Selecting Good Expansion Terms for Improving XML Retrieval Performance
+Modified Firefly Algorithm and Fuzzy C-Mean Clustering Based Semantic Information Retrieval
+An image retrieval framework for distributed datacenters
+Research on personalized document retrieval based on user interest model
+Information anxiety: Research among students about impact of different media on them
+Recommendation of College English Education Information Based on Fuzzy
+Irregular Arabic plurals recognition without stemming
+Question Answering Retrieval Method for Knowledge-Based with Dynamic Programming Algorithm
+The Development of Information Technology and the Selected Application of MEMS as an Example of Integration of Information System in the Area of Ecology Applications
+Frequency Based Rearranged Chain Code
+Retracted: The Information Retrieval Technology of Dynamic Feedback Artificial Intelligence Based on the Neural Network
+A fusion algorithm of central classification index and local classification index based on B+ tree
+Computer Information Extraction Algorithm Based on English Corpus
+Grid-Based University Unstructured Information Resources Management Software Infrastructure
+TIR over Egyptian Hieroglyphs
+K-means and Support Vector Machines for Thai Language IT News Retrieval System
+Construction of Smart Library System Based on Book Information Retrieval
+Billingual Formal Concept Analysis for Cross-Language Information Retrieval
+On the concept of information technology based on course reform
+Realization of Associative Image Search: Development of Image Retrieval Platform for Enhancing Serendipity
+Does Semantic Search Performs Better than Lexical Search in the Task of Assisting Legal Opinion Writing?
+Wolaytta-English Cross-lingual Information Retrieval using Neural Machine Translation
+Information Retrieval Based on the Sequential Hypertext Induced Topic Search in Web Pages
+Combining MeSH Thesaurus with UMLS in pseudo relevance feedback to improve biomedical information retrieval
+Section-Based Focus Time Estimation of News Articles
+Information Recapture Technique for Service Oriented Computing
+Information Retrieval: A Case Study on Contributions of Greimasian Semiotics to Semantic Computing in Agriculture for Knowledge Management
+A Context-Aware BERT Retrieval Framework Utilizing Abstractive Summarization
+Ontology development using Hozo and Semantic analysis for information retrieval in Semantic Web
+IPedagogy: Question Answering System Based on Web Information Clustering
+Comprehensive Study of Indexing Techniques Used for Extracting CNN Features
+Graph-based retrieval model for semi-structured data
+Fuzzy folksonomy-based index creation for e-Learning content retrieval on cloud computing environments
+Prior Case Retrieval for the Court of Cassation of Turkey
+Information Retrieval Techniques for Automated Policy Review
+An Efficient Semantic Retrieval Method for Network Education Information Resources
+Semantic Information Retrieval using String Ontology in Music Domain using Protege5.0
+Adversarial learning based intra-modal classifier for cross-modal hashing retrieval
+Iterative Self-Supervised Learning for Legal Similar Case Retrieval
+Performance Analysis of Data Leakage Detection System
+A conceptual framework for an interactive personal information management system
+Design and Robustness Test of TCM English Smart Translation Algorithm Based on Data Node Database Retrieval and Deep Search
+Research on Information Resource Classification Management Mapping Model Based on Collaborative Filtering Algorithm
+Smartphones usage in information retrieval under multichannel settings: An assessment of technological triggers
+Automated Bengali Document Summarization by Collaborating Individual Word & Sentence Scoring
+ACHS'16: First international workshop on accessing cultural heritage at scale
+An Interactive Graphical Interface for Retrieving Multi-attribute Data: A Case Study on Historical Relics Retrieval in 3D Digital Museum
+On the use of Arabic stemmers to increase the recall of information retrieval systems
+Selective collection enrichment in user-centred health information retrieval
+Ontology Based Informational Retrieval System on the Semantic Web: Semantic Web Mining
+A Novel Ontology-Based Semantic Retrieval Model for Food Safety Domain
+Web information retrievals: An excellent image portal with automated hidden tag to image
+Sensitivity of Estimators for Measuring Information Amount in Web-Based Medical Documents
+Bees Swarm Optimization for Real Time Ontology Based Information Retrieval
+Research on information tips in the search box
+Hybrid technique for colour image classification and efficient retrieval based on fuzzy logic and neural networks
+RetCom: Information Retrieval-Enhanced Automatic Source-Code Summarization
+Efficient applications for mathematical resources on web
+Performance evaluation of information retrieval models in bug localization on the method level
+Personalized semantic retrieval of information from large scale blog data
+Informatian Retrieval of Indonesian Translated version of Al Quran and Hadith Bukhori Muslim
+Dimension reduction in text document retrieval by Hebbian neural network and nonlinear activation functions
+TF-IDF and Data Visualization For Syafie Madhhab Hadith Scriptures Authenticity
+On Visual Clothing Search
+Disciplines and measures of information resilience
+Research on construction of information literacy curriculum system in colleges
+Research on the application of page segmentation in information retrieval
+Generative Adversarial User Privacy in Lossy Single-Server Information Retrieval
+Automatic Generating Vocabulary File in Myanmar Information Retrieval
+Information Retrieval from a Structured KnowledgeBase
+Performance comparison for feature selection in Musical Information Retrieval
+Hierarchical clustering based Intelligent Information Retrieval approach
+Possibilistic Network based Information Retrieval Model
+The Construction of the Shared Office Information Management System under the Computer Technology
+Myanmar News Retrieval Using Kernelized Neural Ranking Model
+SK-IR: Secured keyword based retrieval of sensor data in cloud
+An Aggregatable Name-Based Routing for Energy-Efficient Data Sharing in Big Data Era
+A new weighting scheme and discriminative approach for information retrieval in static and dynamic document collections
+Secure Retrieval in Outsourced Environment using Genetic Algorithm
+Distributed information retrieval for Multi-XML document based on keywords
+Usability of KSOM and classical set in information retrieval
+BERT-Based Natural Language Processing System for Online Social Information Retrieval on Illness Tracking
+Fuzzy web information retrieval system with fuzzy thesaurus using fuzzy relational BK-products
+A survey of semantic similarity measuring techniques for information retrieval
+Ranking of Odia Text Document Relevant to User Query Using Vector Space Model
+Semantic Representation of Documents Based on Matrix Decomposition
+Arabic information retrieval: Stemming or lemmatization?
+Graph cuts based relevance feedback in image retrieval
+Aggregate discovery and retrieval of contents from authenticated interface
+Interactive Spoken Document Retrieval With Suggested Key Terms Ranked by a Markov Decision Process
+Web service discovery based on IR models: A review
+Bibliometric Data Fusion for Biomedical Information Retrieval
+Extracting Touristic Information from Online Image Collections
+OCR for Data Retrieval :An analysis and Machine Learning Application model for NGO social volunteering
+On Levenshtein’s Channel and List Size in Information Retrieval
+LeCAR: Leveraging Context for Enhanced Automotive Specification Retrieval
+Star: Semi-supervised-Clustering Technique with Application for Retrieval of Video
+A review of methods for mining idea from text
+Effective retrieval of related documents based on spelling correction to improve information retrieval system
+Map reduce programming model: Construction of inverted index for automated document clustering
+Improving information retrieval-based concept location using contextual relationships
+AI Enabled- Information Retrival Engine (AI-IRE) in Legal Services: An Expert-Annotated NLP for Legal Judgements
+ADAM - A Database and Information Retrieval System for Big Multimedia Collections
+Design Information Extraction and Visual Representation based on Artificial Intelligence Natural Language Processing Techniques
+Devloping knowledge driven ontology for decision making
+Cross Subspace Alignment and the Asymptotic Capacity of  X -Secure  T -Private Information Retrieval
+Content-based image retrieval system using neural network
+Spoken document retrieval system based on phonemic transcribing
+Applying layered multi-population genetic programming on learning to rank for information retrieval
+Saliency map driven image retrieval combining the bag-of-words model and PLSA
+An event-based geo-social user profile for a personalized information retrieval
+Classification and clustering for efficient storage and retrieval of component repositories
+AI Based Ontology-Driven Information Retrieval for Healthcare Information System
+Using Tag-Neighbors for Query Expansion in Medical Information Retrieval
+A novel approach for cross language information retrieval
+A Multi-dimensional Analysis and Data Cube for Unstructured Text and Social Media
+A New Language Model Combining Single and Compound Terms
+A Noise-enhanced Fuse Model for Passage Ranking
+Chinese Composition Example Sentence Retrieval System Base on Expression
+Assessment of Search Interface of Information Retrieval Systems A Case Study of Select Academic Databases
+Information Retrieval With Chessboard-Shaped Topology for Hyperspectral Target Detection
+Unique Links as Weak Ties
+Concept-based Multimedia Information Retrieval System using ontology search in Cultural heritage
+Research onCross-media Semantic Retrieval in Digital Library Based on Deep Learning
+Information retrieval failure analysis: Visual analytics as a support for interactive “what-if” investigation
+Hybrid semantic similarity distance measures using conceptual contexts for geospatial information retrieval
+Semantic query expansion and context-based discriminative term modeling for spoken document retrieval
+New development for legal information retrieval using the Eurovoc Thesaurus and legal ontology
+TSFE: Research on Transformer and Feature Enhancement Methods for Image-Text Retrieval
+Query Expansion Based on Top-Ranked Images for Content-Based Medical Image Retrieval
+Image retrieval using latent feature learning by deep architecture
+Research on Travel Personalized Recommendation Information Retrieval Based on Big Data Improvement Algorithm
+Data structures for information retrieval
+Information Retrieval from web with Faster R-CNN Deep Learning Networks: A New Perspective
+Towards Implementation of an Information Dissemination Tool for Health Publications: Case of a Developing Country
+A Detailed Review on CBIR and Its Importance in Current Era
+Construction and Application of a Cloud Computing Based Basic Education Information Service Platform
+Stemming for Arabic words similarity measures based on Latent Semantic Analysis model
+Image retrieval method using visual query suggestion and relevance feedback
+Automated Evaluation Approach for Time-Dependent QA Pairs on Web Crawler-Based QA System
+Hardware accelerators for information retrieval and data mining
+Technology Research of Tibetan Hot Topics Extraction
+Design and implementation of intranet search engine system
+An efficient technique for Multikeyword based Search and Retrieval of cloud data
+Accurate Retrieval of Corporate Reputation from Online Media Using Machine Learning
+Aggregated search in XML documents: What to retrieve?
+Entity Relation Extraction Method based on Fusion of Multiple Information and Attention Mechanism
+PharmKi: A Retrieval System of Chemical Structural Formula Based on Graph Similarity
+Research on Image Semantic Communication and Retrieval Based on Massive Resource Pool of Internet
+Prospects for the Use and Improvement of Information Search Systems as Part of Development of Historical Research
+Information retrieval from large data sets via multiple-winners-take-all
+An Intelligent Information Retrieval System Through Natural Language Prompts for Private Database
+Facilitating Data Use: Achieving Maximum Efficiency with AI-Enhanced Information Capture and Retrieval
+Transformer and Knowledge Based Siamese Models for Medical Document Retrieval
+Multi-Modal Entity Alignment Using Uncertainty Quantification for Modality Importance
+A New Deep Neural Network Based Learning to Rank Method for Information Retrieval
+Weakly Private Information Retrieval Under the Maximal Leakage Metric
+Link-Driven Study to Enhance Text-Based Image Retrieval: Implicit Links Versus Explicit Links
+KUNUZ: A Multi-Purpose Reusable Test Collection for Classical Arabic Document Engineering
+Ontology Based Information Extraction -A Review
+V2 RMC: Vertical Video Retrieval System in Mobile Cloud Computing Environment
+Analysis of log files as a security aid
+A Review on Character Recognition and Information Retrieval from Ancient Inscriptions
+Clustering-Based Query Routing in Cooperative Semi-Structured Peer to Peer Networks
+Building Better Search Engines by Measuring Search Quality
+A Hybrid Information Retrieval for Indonesian Translation of Quran by Using Single Pass Clustering Algorithm
+A system for word retrieval from Kannada documents
+Statistical language modeling for personalizing information retrieval
+Extracting Emotion Causes Using Learning to Rank Methods From an Information Retrieval Perspective
+Information retrieval using Hellinger distance and sqrt-cos similarity
+Context-based News Articles Retrieval using CLSM
+Web information gathering processes for gold and silver price information
+Valuing Semantic Relatedness
+Cross Language Information Retrieval Using Parallel Corpus with Bilingual Mapping Method
+An unsupervised method for information retrieval on E-commerce websites
+HIR: A Hybrid IR Ranking Model
+Large-Scale Network Traffic Analysis and Retrieval System Using CFS Algorithm
+A topic based indexing approach for searching in documents
+Jaccard coefficient-based word sense disambiguation using hybrid knowledge resources
+Enabling exploratory search in UK PubMed Central: Enhancing information retrieval for the UK's biomedical and health research community
+Research on big data information retrieval based on hadoop architecture
+Ontology Mediated Document Retrieval for Exploratory Big Data Analytics
+Cell assemblies for query expansion in Information Retrieval
+Real-time affective learner profile analysis using an EMASPEL framework
+Ensemble-Based Information Retrieval With Mass Estimation for Hyperspectral Target Detection
+System Framework and Information Model for a Distributed Dance Teaching Resource Repository
+Effective method for Shape based Image Retrieval using Pyramid of Histogram of Oriented Gradients
+Query based information retrieval and knowledge extraction using Hadith datasets
+Citation Analysis of Research Articles (CARA)
+A Contextual Query Expansion Model using BERT Based Deep Neural Embeddings
+Query construction based on concept importance for effective patent retrieval
+New Features Acquisition of Text with Cloud-LDA Model
+Construction of University Campus Public Information System of Service Design
+Bringing Semantics in Word Image Retrieval
+Constructing Knowledge Graph by Extracting Correlations from Wikipedia Corpus for Optimizing Web Information Retrieval
+Semantic proximity in information retrieval and documents classification
+Image Retrieval in Spatial and Temporal Domains With a Quadrant Detector
+Recommending Code Reviews Leveraging Code Changes with Structured Information Retrieval
+A context sensitive document indexing approach for Information Retrieval
+LDA based PSEUDO relevance feedback for cross language information retrieval
+Topological models of document-query sets in retrieval for Enterprise Information Management
+Features of web subject-related image and its retrieval significance
+An Architecture for Information Retrieval in a Telemedicine System
+Gospel lyrics and background images retrieval system based on reflection topics
+Visual information retrieval techniques applied to veterinary radiology
+New web information retrieval paradigm based on a multi-space interpretation index and projection operations
+Retrieval Information Using Generalized Vector Space Models And Sentiment Analysis Using Naïve Bayes Classifier For Evaluation Of Lecturers By Students
+Translingual text mining for identification of language pair phenomena
+Towards automatic generation of relevance judgments for a test collection
+Condorcet Fusion for Blog Opinion Retrieval
+Combining Multiple Retrieval Systems Using Combinatorial Fusion Analysis and Rank-Score Characteristic Function
+A Large Scale Document-Term Matching Method Based on Information Retrieval
+Multi-abstraction Concern Localization
+The Personal User Interface Based on Multi-agent and System Construction
+SDN control in a combined sensor, information retrieval, and communications network for dangerous environments
+Similarity Measure Approaches Applied in Text Document Clustering for Information Retrieval
+Bio-TRIZ database for sustainable lifestyle technology transfer from nature to engineering
+A novel method to summarize and retrieve text documents using text feature extraction based on ontology
+CampusStack: An Efficient Design Approach for Information Management System
+Post-saccadic event related potential toward a new technique for information retrieval
+Big data and mobile learning in generating pervasive knowledge
+Summarization of Text and Image Captioning in Information Retrieval Using Deep Learning Techniques
+Framework for content-based image retrieval using knowledge based inference engine
+Big data retrieval model of substation area household change relationship based on coupling feature extraction
+A Comparative Analysis of Euclidean, Jaccard and Cosine Similarity Measure and Arabic Wordnet for Automated Arabic Essay Scoring
+3-D Structure-from-Motion Retrieval Based on Circular Videosar Sequences
+Learning to rank based on modified genetic algorithm
+User Interface Evaluation on Government Knowledge Management Portal Using Webqual 4.0
+Semantics-Enhanced Answer Selection in Closed-domain Question Answering System
+Incorporating circulation data in relevancy rankings for search algorithms in library collections
+A Tool for Scholarly Phonemic Transcription of Ukrainian Texts
+A vector-space retrieval system for contextual awareness
+On Acceleration and Scalability of Number Theoretic Private Information Retrieval
+Improving Pseudo Relevance Feedback with Term Relationship using Firefly Algorithm
+Analysis and evaluation of unstructured data: text mining versus natural language processing
+Segmentation and Word Spotting Methods for Printed and Handwritten Arabic Texts: A Comparative Study
+SEACOIN2.0:an interactive mining and visualization tool for information retrieval, summarization and knowledge discovery
+MULAPI: A Tool for API Method and Usage Location Recommendation
+Evaluating text features for lyrics-based songwriter prediction
+Codes for Information Retrieval With Small Uncertainty
+Enhanced traceability in model-based CASE tools using ontologies and information retrieval
+Generating Stopword List for Sanskrit Language
+Improving question answering systems by using the explicit semantic analysis method
+Adapting Google Translate using Dictionary and Word Embedding for Arabic-Indonesian Cross-lingual Information Retrieval
+Relevance feedback versus web search document clustering
+A new sustainable prototype USP for education information system
+Automatic web page logo detection (Logo matching using semantic relevance feedback)
+Improving Query Expansion Using Wikipedia
+The analysis of delivery algorithms of spatial information
+Document semantic distance based on the time series model
+Does Figure-Text Improve Biomedical Article Retrieval? A Pilot Study
+Query Classification based Information Retrieval System
+Designing an information retrieval system for the STT/SC
+Sparse Matrix Sparse Vector Multiplication - A Novel Approach
+Markov Process Based Retrieval for Encrypted JPEG Images
+Efficient and Effective Multi-Modal Queries through Heterogeneous Network Embedding (Extended Abstract)
+An information retrieval system for Malayalam using query expansion technique
+Heterogeneous Metric Learning with Content-Based Regularization for Software Artifact Retrieval
+An Educational Resource Retrieval Mechanism Based on Lucene and Topic Index
+Construction of Innovation and Entrepreneurship MOOC Education Resource Library based on Distributed Information Storage and Retrieval Intelligence
+Cross domain web information extraction with multi-level feature model
+A Pedagogic Analysis of Information Systems Security Measures in Online Services
+A hybrid approach for standardized Dictionary-based knowledge extraction for Arabic morpho-semantic retrieval
+Automatic Detection and Analysis of DPP Entities in Legal Contract Documents
+Data Mining Techniques for Content-Based Image Retrieval
+The Impact of Linked Documents and Graph Analysis on Information Retrieval Methods for Book Recommendation
+Private Information Retrieval Through Wiretap Channel II
+Arabic Documents Information Retrieval for Printed, Handwritten, and Calligraphy Image
+Risk intelligence retrieval based on ontology
+Research on Personalized Document Retrieval and Ranking Strategy
+PIR schemes with small download complexity and low storage requirements
+A pilot study on automatic inference rule discovery from Turkish text
+Combining Word2Vec with Revised Vector Space Model for Better Code Retrieval
+Ranking Actionable Mental Health Advice through a Personalized Video Recommendation System
+Clustering of Instruments in Carnatic Music for Content Based Information Retrieval
+Self-Regulated Trade-Off among Timeliness, Messages and Accuracy for Approximate Queries in Large-Scale Information Aggregation
+Scalable Arrow Detection in Biomedical Images
+Automatic Keyphrase Extraction from Bengali Documents: A Preliminary Study
+Ontology development for agriculture domain
+Remembering what you said: Semantic personalized memory for personal digital assistants
+The mechanism of personalized service recommendation for the academic field
+Book Data Content Similarity Detector With Cosine Similarity (Case study on digilib.uad.ac.id)
+Concept-based video retrieval model based on the combination of semantic similarity measures
+Concept Blueprints Serving More Focused User Queries
+Evaluating semantically enriched information systems
+Filtering of false positives from IR-based traceability links among software artifacts
+An investigation of public retrieval specific science or technology related information on the Internet in Taiwan
+Integrating Web 3.0 Technologies for Advanced Information Retrieval Systems in the Educational Sector
+An unfangled approach to semantic search for e-tourism domain
+Deep Text Retrieval Models based on DNN, CNN, RNN and Transformer: A review
+Web content information extraction based on DOM tree and statistical information
+Context aware restricted tourism domain question answering system
+Information retrieval from web databases using semantic similarity
+Inferring microarray relevance by enrichment of chemotherapy resistance-based microRNA sets
+Enhancing BERT-based Passage Retriever with Word Recovery Method
+Arabic Information Retrieval: Techniques, tools and challenges
+Streamlining Information Capture and Retrieval with AI-Enabled Systems
+Creating a Multi-Agent Information-Analytical System for Implementing Domain-Specific Search for Information
+Ontology Based Image Retrieval by Utilizing Model Annotations and Content
+Research on Cross Language Text Keyword Extraction Based on Information Entropy and TextRank
+A Simple Retrieval-based Method for Code Comment Generation
+Errors are also information resources: How to manage them?
+Improving image retrieval precision using combination of circular reranking and time-based reranking
+A music similarity measure based on chord progression and song segmentation analysis
+Building Standard Dataset for Quran Tafseer
+Android Repository Mining for Detecting Publicly Accessible Functions Missing Permission Checks
+1st International Workshop on Digital Language Archives
+Revisiting Information Retrieval and Deep Learning Approaches for Code Summarization
+Content sharing in information storage and retrieval system using tree representation of documents
+Web Information Retrieval Using Particle Swarm Optimization Based Approaches
+Intelligence Information Retrieval System Modeling for Afaan Oromo
+Information extraction and integration for enriching cultural heritage collections
+Textual content based information retrieval from Twitter
+Automated Assertion Generation via Information Retrieval and Its Integration with Deep learning
+An information retrieval approach for malware classification based on Windows API calls
+Health Information Delivery Using Audio
+Concepts extraction for medical documents using ontology
+Method of Similar Textual Content Selection Based on Thematic Information Retrieval
+Organization of Information Search in the Global Network Based on the Information-graph Data Model
+A Dynamic Locality Sensitive Hashing Algorithm for Efficient Security Applications
+2nd International Workshop on Digital Language Archives*
+Investigating the Benefits and Drawbacks of Automated Information Retrieval
+Analysis of Feature Extraction Methods of Multimedia Information Resources Based on Unstructured Database
+The design and implement of E-government information system based on knowledge management
+Learning to rank based on multi-criteria optimization
+STRICT: Information retrieval based search term identification for concept location
+The Capacity of Oblivious Transfer with Replicated Databases and Binary Erasure Multiple Access Channel
+A user profile for information filtering using RFID-SIM card in pervasive network
+Evaluating spreading activation for soft information fusion
+Boxcan: A platform realizing fast retrieval of parent-child tree of containers and inner objects over EPCIS events
+Applying Information Retrieval to Distributed Hash Table (DHT) Systems
+A Cross Language Text Categorization Algorithm from the Perspective of Information Retrieval
+Identification and Disambiguation of Product Mentions with Information Retrieval and Problem Specific Methods
+Semantic Pre-Alignment and Ranking Learning With Unified Framework for Cross-Modal Retrieval
+Automatic Duplicate Bug Report Detection using Information Retrieval-based versus Machine Learning-based Approaches
+Context-Aware Personal Information Retrieval From Multiple Social Networks
+Spatial information user modeling method from the point of view of linguistics
+A Semantic-Driven Generative Information Extraction Framework Oriented to Patent Text
+Utilization of Co-occurrence Relationships between Semantic Concepts in Re-ranking for Information Retrieval
+The Role of Artificial Intelligence in Information Acquisition
+A Chinese Knowledge Graph Q&A System Based on Dense Relationship Retrieval
+Information retrieval on ontology based in keywords
+Joint Structural Learning to Rank with Deep Linear Feature Learning
+Review of Text Mining Techniques for Software Bug Localization
+Sparse Multi-Graph Ranking towards Social Image Retrieval
+An Information Retrieval Approach to Finding Similar Questions in Question-Answering of Indonesian Government e-Procurement Services using TF*IDF and LSI Model
+Content-Based Search on Time-Series Microarray Databases
+Open Information Extraction System For Extracting Relations in Legal Documents
+Efficient manifold ranking for cross-media retrieval
+Optimization Design of University Information Management Platform Based on B/S Framework and APP
+Learning and modelling user interests using user feedback : A novel approach
+Soft Computing Techniques Based Automatic Query Expansion Approach for Improving Document Retrieval
+MetricAttitude++: Enhancing Polymetric Views with Information Retrieval
+Fuzzy ontology-based Medical Information Retrieval
+Graph-based Named Entity Information Retrieval from News Articles using Neo4j
+Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports
+Building a social network, based on collaborative tagging, to enhance social information retrieval
+An efficient information retrieval technique for e-health systems
+Method of enriching queries by contextual information to approve of information retrieval system in Arabic

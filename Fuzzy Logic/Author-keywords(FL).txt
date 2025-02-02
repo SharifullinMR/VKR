@@ -1,0 +1,1100 @@
+engine speed control, Bee Colony Optimization, Type-1 fuzzy logic controller, fuzzy membership functions, Type-2 fuzzy logic controller
+undefinedness, partial logic, mathematical fuzzy logic
+interval type-2 fuzzy logic, intuitionistic fuzzy sets, multi-criteria group decision making
+hcsr04, rain gauge, flood, blynk, turbidity, fuzzy logic
+medical diagnosis using fuzzy logic, fuzzy logic toolbox, medical diagnosis, fuzzy logic
+Keywords not found
+fault-tolerant control, coupled conical frustum tank, Shadowed Type-2 Fuzzy Logic, actuator fault
+Multi-Objective, Type-2 Fuzzy Logic Systems, Fuzzy Modeling
+Clustering, Fuzzy C Means, Fuzzy Logic, Neutrosophic Logic
+type-2 fuzzy logic system, marine vehicle control, function approximation, tracking, Adaptive control
+generalized type-2 fuzzy logic, inage processing, edge detection, alpha planes theory
+Temperature, Furnace, PID, Controller, Fuzzy Logic
+Fuzzy logic, Artificial neural network, Fuzzy neural network
+AMR (Autonomous Mobile Robots), T2FLC(Type-2 Fuzzy Logic Controller), T2FS (Type-2 Fuzzy Systems), OMR (Omnidirectional mobile Robot).
+hedge algebraic type-2 fuzzy sets, type-2 fuzzy sets, hedge algebraic type-2 fuzzy logic systems, hedge algebra, Type-2 fuzzy logic systems
+Fuzzy Clustering, Approximate Reasoning, Interval Type-2 Fuzzy Sets
+general forms of interval type-2 fuzzy sets, non-singleton fuzzy logic systems, general forms of interval type-2 fuzzy logic system
+Celiac disease, Uncertainty, Type-2 fuzzy logic, Fuzzy C-means
+simulated annealing based power system stabilizer, type-1 fuzzy logic control systems, Interval type-2 fuzzy logic control systems, thyristor controlled series capacitor, interval type-2 fuzzy logic systems
+interval type-2 fuzzy logic systems, measurement data, type-2 nonsingleton fuzzy logic systems
+firing strength, online learning, Adaptive input, noise estimation, nonsingleton fuzzy logic system (NSFLS)
+Type-2 Fuzzy Sets, Type-2 Fuzzy Logic, Lunar Lander, Games, Type-2 Fuzzy Logic Controllers
+Fuzzy logic, Differential Evolution, Fuzzy Differential Evolution
+Fuzzy Logic, Fuzzy Set, Hesitation, Intuitionistic Fuzzy Logic
+Fuzzy system, Interval type-2 fuzzy set, Evolutionary algorithm, Membership function
+Literature Survey, Type-2 fuzzy logic, power systems, Applications
+fuzzy transition system, Fuzzy modal logic, fuzzy automata, bisimulation, mathematical fuzzy logic
+Chicken Swarm Optimization, Dempster-Shafer, probabilistic fuzzy logic system, Wind speed prediction
+fuzzy airplane control, altitude control, Type-2 fuzzy logic control
+Invertal Type-2 Fuzzy Logic, Self-tuning PID Controller, Brushless DC (BLDC) Motor, Speed Control
+Fuzzy logic, management engineering, computer engineering
+synchronous generator, fuzzy logic controller, Variable speed wind turbine, stand-alone system
+fuzzy quantifiers, fuzzy sets type-2, fuzzy rough sets, fuzzy temporal set. fuzzy granular sets, α-cut fuzzy set, fuzzy logic
+Fuzzy logic, Type-2 fuzzy logic systems, Fuzzy logic type-2
+type-2 fuzzy logic control, deformable trusses, nonlinear system, underactuated robot
+nonsingleton (NS) fuzzification, type-2 fuzzy logic systems, Fuzzy logic control
+type-2 fuzzy sets (T2 FSs), Compositional rule of inference, fuzzy relations, type-2 fuzzy logic systems (T2 FLSs), conditional fuzzy sets
+Educational softwares, teaching softwares, education, fuzzy Logic
+Interval Type-2 Fuzzy Logic Systems, Inversion, Type-2 Fuzzy Sets
+Crisp logic, Medicine, Fuzzy Logic, Fuzzy Clustering, Membership Function
+logic UL, First-order fuzzy logics, omitting types theorem, uninorms, logic MTL, left-continuous t-norms, mathematical fuzzy logic
+function approximation, dynamic positioning, Adaptive control, type-2 fuzzy logic system
+interval type-2 fuzzy logic, intuitionistic fuzzy sets, multi-criteria group decision making
+MOEA/D, Interval type-2 fuzzy logic system, Kalman filter, MOPSO, Multi-objective optimization
+academic students, fuzzy logic technique, Performance evaluation
+Fuzzy Logic Controller, Fuzzy Rule Base, Optimization, Backing up a truck reversing problem, Genetic Algorithm
+Type-2 Fuzzy logic controller, Shunt active filter, Triangular M.F, Current control strategy, Harmonic mitigation, Type-1 Fuzzy logic controller
+Fuzzy Logic Controller, Truck-and-Trailer controller, Fuzzy Rule Base, Optimization, Real Coded Quantum-Inspired Evolutionary Algorithm
+eLearning, engineering education, automation, Fuzzy logic, Fuzzy set theory, modeling
+Type-2 Fuzzy Logic, Fuzzy Controller, Uncertainty, Fuzzy Logic, Linguistic variables
+fuzzy set, fuzzy Conditional Inference, fuzzy reasoning, fuzzy logic
+Mamdani algorithm, triangular fuzzy number, investment project, fuzzy logic
+type-2 fuzzy logic controller, online control, membership function, fuzzy logic system
+Gauss membership function, route choice problem, Interval Type-2 Fuzzy sets
+Fuzzy Identity, Law of Excluded Middle, Fuzzy Interval Logic, Law of Contradiction, Fuzzy Negation
+tracking loops, expert systems, position control, motion control, fuzzy sets, fuzzy logic
+relative decidability, embedding theorem, description logic, Sequential fuzzy description logic, fuzzy description logic
+Fuzzy logic, Differential Evolution, Fuzzy Differential Evolution
+Fuzzy KNN, Mamdani Fuzzy Inference System, Interval Type-2 Fuzzy Logic.
+uncertainty handling, airlane, Mamdani type, Fuzzy logic type-2 system
+Pitch angle, Controller, Fuzzy logic, Wind turbine, Design, Type-2, Type-1
+business intelligence, fuzzy certainty factor, fuzzy conditional inference, fuzzy logic, twofold fuzzy logic
+fuzzy knowledge bases, linguistic variables, Fuzzy SAW, Mamdani fuzzy inference system, decision support system, term-set, fuzzy information, fuzzy logic
+optimal computation, type-2 fuzzy logic system, genetic algorithm, artificial immune algorithm
+Fuzzy Logic Supervisor, LTV system, Augmented state space model, MPC
+Type-2 Fuzzy Logic Controller, Quadcopter, ROS/Gazebo, Type-1 Fuzzy Logic Controller
+categorical semantics, linear completeness, MTL, tripos theory, Baaz translation, higher-order fuzzy logic
+Fuzzy logic, Jerk and Kinetic energy, vehicle crash severity
+EISAC, EKM algorithm, simulations, interval type-2 fuzzy logic systems, KM algorithm
+metaheuristic, PSO, type-2 fuzzy logic, Fuzzy Controller, tracking Control, Quadrotor
+triangular norm, typical multiset, multiset logic, fuzzy multiset, list logic, hesitant fuzzy set
+Control strategy, Hybrid electric vehicles, Optimal control, Fuzzy logic control, Torque distribution
+Edge detection, Real time, Interval Type-2 Fuzzy Logic
+reactive control, flocking algorithm, Type-2 fuzzy logic controller (FLC), multi-agent systems
+compensatory operation, on-line fuzzy clustering, structure learning, type-2 fuzzy systems
+Fuzzy Logic, Complex Fuzzy Logic, Post Multi Valued Logic System
+vector control, permanent magnet synchronous motor, fuzzy logic controller, robustness
+Impulse noise, Fuzzy sets, Image processing, Video signal processing, Fuzzy logic
+Interval type-2 fuzzy logic system, T-S fuzzy control, model car
+fuzzy gradient, edge detection, Fuzzy mathematical morphology
+wireless sensor network, unequal clustering, objective entropy weight method, fuzzy logic
+characteristic moments, type-2 fuzzy sets, ARIMA, fuzzy event, fuzzy logic system, fuzzy probability, real-valued random quantities, fuzzy subset
+Real-World Games, Type-2 Fuzzy Logic, Pursuit-Evasion, Sphero 2.0, BB-8
+Tourism, Floyd Warshall, Yogyakarta, Fuzzy Logic
+Fuzzy Set, Two fold fuzzy set, Fuzzy certainty factor, Fuzzy logic, Fuzzy reasoning
+context aware systems, automated crash notification, VANET, congestion detection, fuzzy logic
+Interval Type-2 Fuzzy Logic Systems, Uncertainty Modeling, Centroid, Sensor Characteristics
+Generalized fuzzy inference and reasoning, Generalized fuzzy certainty factor, Generalized fuzzy logic
+fuzzy logic model, verification, SMT, symbolic execution
+Type-2 Fuzzy Logic Systems, Type-2 Fuzzy Inference, Type-2 Fuzzy Sets, Geometric Representation
+knowledge representation, fuzzy predicate logic, fuzzy modules, logic programming, fuzzy reasoning, fuzzy logic
+Fuzzy Mapping, Type-2 Fuzzy Logic Systems, Footprint of Uncertainty, Rational Polynomial Functions
+Karnik-Mendel Algorithm, Stewart Platform, Interval Type-2 Fuzzy Logic Controller
+linguistic variables, accident detection, Fuzzy logic, traffic light system, membership function, cross ratio
+Fuzzy logic and fuzzy reasoning with two fold fuzzy set, Fuzzy truth variables, Fuzzy sets, Fuzzy certainty factor, Medical expert system, EMYCIN
+t-norm fuzzy logics, t-norm, many-valued logic, fuzzy logic
+Shadowed Sets, General Type-2 Fuzzy Logic Systems, Interval Type-2 Fuzzy Logic Systems, Uncertainty Modeling, Shadowed Type-2 Fuzzy Sets
+rough fuzzy sets, mutually-inversistic rough fuzzy logic, fuzzy association rule mining of the lower and upper approximations of equivalence classes, granular computing, mutually-inversistic fuzzy logic
+Type-2 Fuzzy Logic, Fuzzy logic, Prakriti, Season, Diet recommendation, Ontology
+interval type-2 fuzzy sets (IT2 FS), type-2 fuzzy logic systems, type-2 fuzzy sets (T2 FS), Footprint of uncertainty (FOU)
+digital control, fuzzy rule numbers, speed control, Brushless DC Motor, current control, fuzzy logic
+intuitionistic fuzzy first-order logic system, uncertain reasoning, linguistic truth-valued intuitionistic fuzzy algebra
+Fuzzy logic, Sliding mode control, MIMO Nonlinear systems
+PLC, fuzzy logic controller, DC motor
+internal environment, automated control, fuzzy logic controllers, environmental control
+FAIRness evaluation, FAIR, fuzzy logic
+Sugeno, NIRF, KSM index, Fuzzy control system
+decision making, simulation, block circuit, elementary signals, decoding, fuzzy logic
+Interval Type-2 fuzzy logic controller, Active magnetic bearings, rotor support, fuzzy logic controller
+(S,N)-, R-and QL-implications, Boolean-like laws, automorphisms, Fuzzy implication
+goal seeking, type-2 fuzzy controller, obstacle avoidance, type-1 fuzzy controller
+case-based reasoning, fuzzy logic inference system
+Fuzzy logic, epistemology, ontology
+Genetic Algorithms, Natural Rubber Prices, Forecasting, Genetic Fuzzy System, Fuzzy Logic
+photovoltaic array, maximum power point tracking, fuzzy logic control, photovoltaic generation system
+Fuzzy Logic, Online multi-object tracking, Multiple features, Fuzzy rule base
+Power system stabilizer, Excitation system, Particle swarm optimization, Interval type-2 fuzzy logic controller
+Genetic Algorithm, Hybrid Algorithm, Intelligent traffic light system, Conventional traffic controller, Fuzzy Logic
+Fuzzy Self-correction, Interval Type-2 Fuzzy Logic, Predictive Control, Trajectory Tracking, Parafoil
+Resources, Efficient, Fuzzy Logic, Irrigation, Automation
+Dynamic Parameter Adaptation, Fuzzy Logic, Harmony Search
+time series forecasting, uniform regularization, interval type-2 fuzzy logic system, batch normalization
+induction motor drive, Type-2 fuzzy logic speed controller, Type-1 fuzzy logic speed controller, Direct torque control
+equivalent PI gains, P-map, equivalent generalized type-1 fuzzy sets (EGT1FSs), Continuity, interval type-2 fuzzy logic controller (IT2 FLC)
+Type-2 fuzzy logic, congestion, WRED, OMNeT ++
+microcontroller, urine, sulfuric acid, pregnancy detection, cow, fuzzy logic
+Type-2 fuzzy inference, fuzzy function, fuzzy functional inference method, T-S inference method, internval type-2 fuzzy sets
+model predictive control, multiple storage, hydrogen storage, microgrid, fuzzy logic
+Reduced Alcohol Intake (RAI) Logic Model, Self-determined State, Alcohol Addicts, Mamdani Fuzzy Inference System (MFIS), Motivation
+Fuzzy logic, fuzzy-bot, service robots, human-machine interaction
+multi-core, toolkit, fuzzy systems, type-2, software, Java, fuzzy inference, open-source
+fuzzy model, probabilistic fuzzy system, approximate reasoning, fuzzy system
+Fuzzy logic Controller, Nonlinear processes
+simulation tests, 2-type fuzzy logic controller, robot manipulator, nonlinear object
+tracking control, robot manipulator, Neural network, vibration control, interval type-2, fuzzy logic control, flexible link
+Fuzzy Logic, Robotics, Product Design & Development, Artificial Intelligence
+Neutrosophic logic data representaion, Fuzzy logic data representation, Neutrosophic logic reasoning system
+eel fish, dissolved oxygen, cultivation, acidity, fuzzy logic
+Fuzzy logic, Classification technique, Fuzzy C-means (FCM) Algorithm
+clustering, Mobile Adhoc Network, optimization, fuzzy logic
+variable universe (VU), type-II fuzzy system (T2FS), fuzzy logic control (FLC), balance control, external disturbances, interval type-II (IT2) fuzzy set
+figure of merit(FOM), membership function (MF), footprint of uncertainty (FOU), Morphological gradient (MG), euclidean distance (ed), sobel filtering, Interval Type-2 FLS, fuzzy logic system (FLS)
+fuzzy edge detection, type-1 fuzzy logic, morphological gradient, color edge detection, interval type-2 fuzzy logic, image processing
+simulink, interval type-2 fuzzy logic controller, buck converter, matlab
+Fuzzy logic, rule-based reasoning, logistics project management, risk analysis
+short-term forecasting, electrical distribution network, fuzzy logic
+fuzzy associative matrix (FAM), motor speed control, fuzzy logic control
+fuzzy Certainty Factor, fuzzy set, Fuzzy Risk Set, Decision Making, fuzzy membership functions
+IT2FLS, general forms of IT2FLS, fuzzy logic systems, fuzzy logic
+sensor fusion, intelligent environment, ANFIS, fuzzy logic
+general forms of interval type-2 fuzzy systems (gfIT2 FLS), type-2 fuzzy logic, General forms of interval type-2 fuzzy sets (gfIT2 FSs)
+voltage, adaptive, load uncertainty, fuzzy logic
+Neural Fuzzy Logic, MATLAB, Optimize, Controller, Fuzzy Logic, Logic
+prior knowledge, interval type-2 fuzzy logic system, constrained least squares algorithm
+Data Communication Networks, Neural Networks, Online Adaptive Fuzzy Logic Controller, Rules-Table Rotation, Networked Control Systems
+Optimization, PSO, Fuzzy Logic
+Fuzzy logic controller, MATLAB/Simulink, PI controller, Brushless DC motor
+Interval Type-2 Fuzzy Logic Systems, Interval Matrix, Interval Type-2 Fuzzy Sets, Semi-tensor Product
+Fuzzy logic, Camera Calibration, Safranin
+insulator, Epoxy resins, lifetime, fuzzy logic
+backing up control, type reduction (TR), interval type-2 fuzzy logic systems (IT2-FLSs)
+membership functions, artificialintelligence, fuzzy control, fuzzy inference system, mathematical model, automated guided vehicle, linguistic variable, Mamdani fuzzy algorithm
+faults and membership function., fuzzy logic controllers, Transformer
+Nonlinear model, type-2 fuzzy logic, unmanned aerial systems, multi-input multi-output system
+Type-2 fuzzy sets, Interval-valued fuzzy sets, Interval type-2 fuzzy sets
+Space Vector PWM, Type-2 Fuzzy logic Control, Two level Voltage Source Inverter and Scalar Control of Induction Motor
+Contourlet transform, data hiding, fuzzy logic
+Fuzzy Logic, Color Sensor, Storage
+interval type-2 fuzzy logic, current harmonics, Clarke’s, HSAPF
+DC Motor, Wheeled Soccer Robot, Fuzzy Logic Controller., Control Shooting, Robocup
+Genetic algorithm, Simulation, Fuzzy logic controller, DC motor drive
+Fuzzy logic, Evaluation, student performance, Prediction
+quadcopter, trajectory tracking, Type-2 fuzzy logic controller
+routing, load, packet loss, fuzzy logic
+logic algorithm, fuzzy, mobile robot, path planning, dynamic environment
+Fuzzy logic, Speech analysis, Features extraction, Speech recognition
+Fuzzy Logic, Monitoring, Crop Production, Predictive Analysis
+Real-time, Fuzzy Logic Algorithm, Query Tuning, Semantic Rule Base
+fuzzy NARX model, type-2 fuzzy logic systems, adaptive inverse control, Cable-driven parallel system
+dissolved gas analysis, transformer, artificial intelligence, insulation diagnosis, fuzzy logic
+financial applications, Type-2 fuzzy logic system, fraud detection
+Decision Support System, Pain Assessment, Classification, Artificial Intelligence, Computational Intelligence, Fuzzy Logic, Professional-Social-Sexual Disabilities
+Fault Detection, Type-2 fuzzy logic system, Bearing, Support Vector Machines
+Type-2 Fuzzy Logic Systems, optimization, time series forecasting, footprint of uncertainty, extreme learning machine
+modular neural networks, Generalized type-2 fuzzy logic, pattern recognition
+generalized type-2 fuzzy logic, image processing, edge detection, alpha planes theory
+Speed adaptive, Vehicular heterogeneous network, type-2 Fuzzy logic, Vertical handoff
+Inference systems, Linguistic Variables, Rule Based Fuzzy Systems, Fuzzy Sets, Traffic control system, Fuzzy Logic
+Keywords not found
+Double inverted pendulum system, Learning and reducing technique, Hybrid genetic algorithms, Type-2 fuzzy logic controller
+Fuzzy Logic Controller, Environment Control, Control Shed, Fuzzy Logic, Fuzzy Inference System
+FIS, Sugeno, D-A Convertor, Mamdani, Fuzzy logic
+load balancing, utility functions, fuzzy logic, heterogeneous wireless networks
+Risk, Analysis, Mamdani, Fuzzy logic, Canser
+Washing machine system, Fuzzy logic algorithms, Matlab
+image fusion, multi-focus, fuzzy logic
+type-2 fuzzy logic systems, operational resource planning, hierarchical fuzzy logic systems, service providers
+Membership function, Fuzzy logic, Sets, Fuzzy, Model reduction, MSE, Transfer function, Classical
+Gaussian, triangular, time series prediction, Elliptic membership function, fuzzy sets, uncertainty, type-2 fuzzy logic theory
+FuzzyTECH, Fuzzy Logic Controller, Temperature, MATLAB Fuzzy Logic Toolbox
+Fuzzy concept lattices, fuzzy formal concept analysis, threshold method, fuzzy closure method, fuzzy ontologies
+Probabilistic Logic, E-Commerce Trust Model, Fuzzy Logic, Subjective Logic, Certain Trust
+uncertainty, paint cost estimation, fuzzy logic
+Type-2 fuzzy logic, Bat Algorithm, Type-1 fuzzy logic
+Fuzzy logic, Load lifting, Mass sensor, Arm robot
+PMSM, sliding mode control, Diagnosis, inter-turn fault, fuzzy logic controller
+Power demand, Demand response, Energy management, Fuzzy technology, Energy savings, Fuzzy systems, Fuzzy control, Load management, demand side management Direct Load control (DLC), Rational decision-making model
+Fuzzy logical relationship, interval type-2 fuzzy logic system, fuzzy time series, TAIEX, stock index
+nonlinearity, intelligent system, compensation of nonlinearities, software package, fuzzy logic controller, automatization, fuzzy logic
+two-way road, Pixy CMUcam5, overtaking, car's distance, one-way road, Overtaking assistant system, radio control car, fuzzy logic
+membership functions, triangle model, DC motor, trapezoid model, fuzzy logic control
+Alpha-plane, zSlice, vertical slice, interval type-2 fuzzy logic system, horizontal slice, general type-2 fuzzy logic system
+cognition, Computer Logic, cognitive science, fuzzy Logic, cognitive Logic, generalized computer Logic, artificial intelligence Logic
+wireless sensor network, cluster head, fuzzy logic
+electrical engineering education, Asynchronous logic, digital circuits, ladder logic, fuzzy logic
+Dynamic Parameter Adaptation, PSO, Particle Swarm Optimization, Type-2 Fuzzy Logic
+Microcontroller, fungus, Sensor DHT11, Fuzzy logic, LabVIEW
+human-inspired sets, Zadeh logic, fuzzy sets, Zadeh sets
+fuzzy clustering, takagi-sugeno system, mamdani inference, state-feedback, fuzzy logic controller
+Autonomous Underwater Robot, H_infinity Robust controller, Uncertainty, Fuzzy Logic Control
+Fuzzy logic, Cloud computing, Reliability
+heat detector, intelligent fire detector, fire detection system, fuzzy logic
+mobile robot, fuzzy logic controller, wall following navigation
+ultrasonic sensor, microcontroller, automatic watergate, fuzzy logic
+fuzzy sets, computational modeling, fuzzy variables, fuzzy logic
+PID control, controller, cruise control, fuzzy logic
+crisis management, temporal logic, fuzzy logic
+Fuzzy Logic (FL), Over Charge, Coulomb Counting Method (CCM), Lithium ion Battery, Battery Life Span, State Of Charge (SoC), Battery Energy Storage System (BESS), Deep Discharge
+semantic network, the financial analysis, decision support, mobile app, enterprise management, fuzzy sets, digital economy, fuzzy logic
+car racing competition, fuzzy sets, membership functions, fuzzy logic
+Wind energy conversion system, Maximum power point tracking, Type-1 fuzzy logic controller, Proportional integral controller, Type-2 fuzzy controller
+Galactic swarm optimization, adjust of parameters, fuzzy systems, CEC-2015 Functions
+fuzzification, pulse width modulation, arduino due, analog to digital converter, defuzzification, artificial intelligence, servo motor, fuzzy inference system, linguistic fuzzy values, controller, fuzzy logic
+Classification, Fuzzy Logic system, CIDP, Diagnosis, Charcot-Marie-Tooth
+Fuzzy logic, Knowledge base and Stator current magnitude, Fuzzy inference, Diagnosis
+Academic performance Evaluation, Expert System, Membership Functions, Intelligent Tutoring Systems (ITS), Computer Assisted Instruction (CAI), Fuzzy Logic
+image enhancement, image processing, fuzzy logic
+QUIC, multi-access net-works, fuzzy logic, MPQUIC
+Mamdani Inference System, Defuzzification, Fuzzification, Lecturer Assessment System, Fuzzy Logic
+passenger demand, transit system, bus scheduling and dispatch system, Matlab, fuzzy logic
+Keywords not found
+Fuzzy logic systems, Field-oriented vector control, Model reference adaptive system, Salient-pole permanent magnet synchronous machine
+Bleaching, Fuzzy logic, Degumming, Palm Oil Refining, Troubleshooting
+pulse separation, partial discharge, switchgear, fuzzy logic algorithm
+Lyapunov function, Fuzzy Logic Control System, Takagi-Sugeno Fuzzy Model, Non-Linear System, Asymptotic Stability, Inverted Pendulum
+gene selection, gene expression levels, microarray data classification, interval type-2 fuzzy logic, fuzzy c-means clustering, analytic hierarchy process (AHP)
+fuzzy logic controller, regression, unmanned underwater vehicle, nonlinearity
+Swarm robot, Interval type-2 fuzzy Logic, Leader-Follower Robot, Formation Control
+internet of things, fashion retail, customer behavior, fuzzy logic
+Fuzzy Logic, Human Machine Interface, Potential of Hydrogen, Programmable Logic Controller
+adaptive, contrast enhancement, digital image processing, fuzzy inference system, sugeno, fuzzy logic
+Fuzzy Rules, Vehicle Speed, Relative Distance, Fuzzy Logic, PID controller, Membership Function
+Software Defined Network (SDN), Fuzzy Logic Algorithm, Load Balancing
+Bi-objective programming, Fuzzy goal programming, Network design, Reliable hub location problem, Interactive decision making
+PSO-Fuzzy controller, Fuzzy logic controller, Mobile robot, GA-Fuzzy controller
+Wireless Sensor Network, congestion detection, rate control, fuzzy logic
+type-2 fuzzy logic system, coalbed methane, production prediction
+harmonic pollution, nonlinear loads, domestic consumers, fuzzy logic
+genetic algorithm, traffic signal control, Type-2 fuzzy logic, single intersection
+video scene classification, type-2 fuzzy logic, fuzzy logic classification system, video summarization
+wind turbine, Fuzzy logic control pitch angle
+fuzzy cmeans clustering, classification, interpretation, fuzzy sets, Variational autoencoder
+Keywords not found
+Edge Computing, Fuzzy Logic, Resource Allocation, Latency aware
+Photovoltaic Array, Fuzzy Logic Controller, Proportional Integral Controller, Maximum Power Point Tracking
+Common Carp Fish, Mamdani Fuzzy Logic, RGB, HSV, Image Processing
+Neuro-fuzzy system (NFS), Deep Learning (Dl), Fuzzy Rules (FRs), Adaptive Neuro-fuzzy Inference System (ANFIS), Fuzzy Logic Application, Deep Learning Neuro Based Fuzzy System (DNFS) Artificial Intelligent (AI), Hybrid systems, Neural Networks (NN)
+fuzzy control, fuzzy rules, defuzzification, fuzzy logic
+Estimation, Fuzzy Logic, Length of Study Period
+Fault Detection, Type-2 Fuzzy Logic system, Interval Type-2 Fuzzy, Type-2 Fuzzy Neural Network, Singleton Type-2 fuzzy
+Modeling transport, Fuzzy logic, Gravity model, Soft computing, Trip distribution
+PID control, pump aggregate, energy efficiency, fuzzy control, fuzzy logic
+interconnections effect, type-2 fuzzy logic systems, Decentralized adaptive control, permanent magnet synchronous motor (PMSM), sliding mode term, Lyapunov stability theorem, reconstruction errors
+DC pump motor, Perturbation and Observation, photovoltaic water pumping system, maximum power point, Fuzzy Logic, boost converter
+Fuzzy Logic, Predictive Maintenance, Vibration Analysis, On line Monitoring
+Fuzzy Logic, Obstacle Avoidances, Mobile robot
+management of teamwork, simulation, fuzzy logic, S-intelligence
+Fuzzy Logic, Fault Location, Underground Distribution System, Discrete Wavelet Transform
+Organic agriculture, Panchagavya, Tomato yield, Disease resistance, Fuzzy logic, Organic concoction
+automatic gain control, pass band analysis, fuzzy logic
+WSN, Mamdanis Method, Fuzzy Logic Type-2
+control design, universal robots ur5, collaborative robots, fuzzy logic control
+First-order fuzzy logics, omitting types theorem, weighted structures, uninorms, mathematical fuzzy logic
+fuzzy quantifiers, Fuzzy relational compositions, partial fuzzy logic, Dragonfly algebras, excluding features
+Intuitionistic fuzzy systems, Type-1 fuzzy systems, Type-2 fuzzy systems
+3D, Probabilistic fuzzy logic, LWSNs
+Orthosis, Gait, Gyro-sensor, Orthotic, Fuzzy logic controller, LabVIEW
+Complex fuzzy sets, Complex fuzzy logic, Fuzzy logic, Fuzzy implications
+interval type 2 fuzzy logic, power system protection devices, over current relays, fuzzy logic
+probabilistic fuzzy set, probabilistic fuzzy inference, Probabilistic fuzzy logic system, probabilistic modeling
+Keywords not found
+Robot control, Type-1 Fuzzy Logic System, Mamdani, Interval Type-2 Fuzzy Logic System, Object oriented Design, TSK, UML
+similar literals, intuitionistic fuzzy propositional logic, ß)-ordered linear resolution, reducible ordered clause, (a
+adaptive, contrast enhancement, digital image processing, fuzzy inference system, sugeno, fuzzy logic
+Keywords not found
+fuzzy multivalued decision, incidence matrix, subordinating function, fuzzy logic
+Mobile robot localization, GA-fuzzy logic, Extended Kalman filter
+adaptive interval type-2 fuzzy logic system, measurement noises, flexible air-breathing hypersonic vehicle, state estimator
+Fuzzy Logic Controller, Antenna array, Defuzzificatin, Array Radiation Pattern, Fuzzy logic, Side Lobe Level, Fuzzification
+modern landfill, knowledge base, fuzzy logic
+dissolved gas analysis, transformer fault diagnosis, Adaptive neuro fuzzy inference system, fuzzy logic
+Fuzzy Logic Controllers, Genetic Algorithms, Autonomous Mobile Robot, Particle Swarm Optimization
+DS-IM, advanced fuzzy logic optimization, IMPROVED DTC, MATLAB
+normal cloud model, single-neuron PID controller, dynamic performances, adjustable gain, fuzzy logic
+PV, P&O, MPPT, optimization, photovoltaic, Boost converter, solar energy, fuzzy logic
+Critical Chain, Project Management, based systems, Fuzzy logic, Quality Function Deployment
+control, vibration, fuzzy logic
+propositional logic, implication relations, Contraposition property, fuzzy logic network (FLN), fuzzy abduction
+triaxial, back pressure, control system, fuzzy logic
+Fuzzy Logic, Infrared Sensor, Pixy2 CMUcam5, Tennis Ball
+Keywords not found
+State Covariance, Extended Kalman Filter, Intermittent Observation, Fuzzy Logic, Localization
+Fuzzy Logic System, Restricted Boltzman Machine(RBM), Deep neural network(DNN), fuzzy membership function
+Rule Base, Fault detection, Conventional IEC method, Fuzzy logic, DGA, Power Transformer
+Membership function, Recommendation method, Numeric weight, Fuzzy Logic, Fuzzy set
+backup facility, network design, multi-capacitated links, facility location, fuzzy logic
+Uncertain Supply, Uncertain Demand, Fuzzy Logic, Inventory Management, Supply Chain
+Hydrogen, optimization, Power management, hybrid off-grid systems, fuzzy logic
+Fuzzy logic, Smart water bottle, Internet of Things, Fuzzy Inference System
+Fuzzy Logic, Service Level Agreement, Resource Allocation, Dependable Cloud
+Linearized model of AVR power system, Fuzzy sets and membership functions, PID controller, Fuzzy logic controller (FLC)
+variable universe adaptive, contraction-expansion factor, microwave filters tuning, fuzzy logic
+normal probability distribution, quartile, defuzzification, data storage units, fuzzy logic
+algorithm, regulator, simulation, APF, fuzzy logic
+Intelligent Tutoring Systems, fuzzy inference system, fuzzy logic, Intelligent Agents
+PLL, variable bandwidth, fuzzy logic control, frequency tracking
+Fuzzy logic toolbox, Prediction model, Coronary heart disease, Membership function
+electrical network with distributed generation, fuzzy set and fuzzy logic, reactive power control, membership function, capacitor bank
+fault detection, and location, Artificial intelligence (Fuzzy logic), distribution power systems, identification
+Space Vector PWM, Bus clamped SVPWMs, Type-2 Fuzzy logic Contro, Two level Voltage Source Inverter and Scalar Control of Induction Motor
+Fuzzy logic, fuzzy controller, embedded systems, PLA
+two level clustering, node density, similarity rate, WSN, residual energy, fuzzy logic
+Total Harmonic Distortion, Fuzzy Logic Control (FLC), Super Twisting Sliding Mode (STSM) controller, Linear Induction Motor
+dissolved gas analysis, transformer fault detection, IEC method, Transformer protection, fuzzy logic
+State Machine, Intelligent Traffic Signal, FPGA, Fuzzy Logic, Intelligent Traffic Control System
+oxygen therapy, fuzzy logic, flow rate
+fuzzy gain scheduling, interval type 2 fuzzy, PID control;fuzzy control
+photomasks, intellectual system, fuzzy logic, defects
+mechatronic system, fuzzy controller, cosimulation, control system, fuzzy logic
+image compression, discrete cosine transform (DCT), Type-2 fuzzy logic, bit rate
+energy efficiency, smart lamp, fuzzy logic
+total harmonic distortion (THD), PWM Inverter, Variable structure Control (VSC), chattering, fuzzy logic (FL)
+neuro-fuzzy controller with discrete terms, neural networks, fuzzy logic, soft computing
+Conventional PI, Wind power turbine, Adaptive Fuzzy Logic Controller, Double fed induction generator
+machine learning, transformer health, server transformer, real-time monitoring, fuzzy logic
+Keywords not found
+Matlab software, sustainability, linguistic variables, Fuzzy Logic Toolbox, non-economic parameters (indicators)
+social network analysis, Evaluation, fuzzy logic, coordination
+semantic web, bilateral matchmaking, Non-commutative Fuzzy Description Logic, multi-issue bilateral negotiation
+UPFC, Hybrid Controller, Low frequency oscillations, Hybrid PID-fuzzy logic controller, Damping controller, Fuzzy Logic, PID Controller
+Takagi-Sugeno-Kang, hexapod mobile robot, obstacle avoidance, fuzzy logic
+fuzzy non-monotonic reasoning, FTMS, fuzzy Sets, non-monotonic reasoning, incomplete knowledge, twofold fuzzy sets
+control strategy, optimization, fuzzy logic algorithm, electric bus
+fuzzy union, complex fuzzy sets (CFS), lattice theory, Pythagorean fuzzy sets (PFS), fuzzy intersection, Complex fuzzy logic (CFL)
+Hybrid fuzzy-neural controller (HFNC), Shunt active power filter (SAPF), Direct current control (DCC), Fuzzy logic controller (FLC), Artificial neural network (ANN), dSPACE 1103
+metro pedestrian flow, fuzzy sets, fuzzy logic rules
+Coating Thickness, PVD, CCD, Fuzzy Logic
+fuzzy logic., chili cultivation, plantation, tilt, irrigation
+Alpha-plane, interval type-3 Takagi–Sugeno (T–S) fuzzy logic system (FLS), tertiary membership, general type-2 (GT2) fuzzy logic system (FLS)
+Fuzzy Logic, Temperature, Control, Rice Cooker
+Chlorine flow, Interval Type-2 Fuzzy, PID controller, Type-1 Fuzzy
+Fuzzy Logic Sugeno, Temperature, Humidity, Seaweed Dryer
+Synthetic Biology, Gene Regulatory Networks, Uncertain Kinetic Data, Ordinary Differential Equations, Computational Biology, Modelling and Simulation, Fuzzy Logic
+Intelligent traffic management systems, Traffic simulation, Fuzzy Logic, MATLAB
+DGA, incidence matrix, subordinating function, fuzzy logic
+uncertainty of information, membership function, fuzzy logic
+similarity, fuzzy set, data summarization, fuzzy data, relatinal database, questionnaire
+Expert System, Student performance assessment, Fuzzy logic, Fuzzy System, Student evaluation
+Steganography, type-2 fuzzy logic, edge detection
+integral projection, effective areas, facial expression recognition, fuzzy logic
+Fuzzy Inference System (FIS), Complexity (CLX), Gaussian Membership function (GMF), Rule Base, Readability (RD), Understandability (USD), Adaptability (AD), Triangular Membership Function (TriMF), Knowledge Base, Object Oriented Metric, Document Quality (DocQ), Fuzzy Logic, Trapezoidal Membership Function (TrapMF)
+Membership functions, basics rules of fuzzy logic, emergency, fuzzy variables, fuzzy logic
+Connection Admission control, blocking probability, OFDMA, Fuzzy Logic, WiMAX, QoS
+fuzzy logic model, jojoba seeds, oil extraction
+wireless sensor network, lifetime, quality of service., residual energy, fuzzy logic
+expert system, decision support system, intelligent methods, semantic network, fuzzy rules, fuzzy logic
+Fused deposition modelling, Taguchi orthogonal array, interval type-2 fuzzy logic system
+Fuzzy Logic, Raspberry Pi, Body Temperature, Covid-19
+TSK fuzzy logic system, Concise and interpretable model, elastic fuzzy logic systems (FLSs), high-dimensional data
+Adaptive Neuro-Fuzzy Inference System, Hybrid Control, Prosthetic Hand, Fuzzy Logic, PD Control
+induction motor, fuzzy inference system, predictive maintenance, fuzzy logic
+pre-diagnosis, foot plant deformation, fuzzy logic, Image processing
+minimization, fuzzy logic function, fuzzy implicant, cube
+position, simulation, hydraulic servo system, Adaptive network based type-2 fuzzy logic control
+Cognitive Radio Network (CRN), Spectrum handover, fuzzy logic controller (FLC), Membership Function
+Failure Mode and Effects Analysis, Fall Board Cabinet, Fuzzy Logic Algorithm
+Generalized Regression Neural network, Load Forecasting, Fuzzy Logic
+fuzzification, defuzzification, rule, harmful gases, fuzzy logic
+Emotion Detection, Fuzzy Logic, Text Mining
+entropy, similarity measure, interval type-2 fuzzy set, fuzzy logic
+Feature Selection, T-S Fuzzy Logic, Equalized Universe Method, Power quality
+Modeling, Ambient temperature, Light intensity, Fuzzy logic, dust intensity
+Type-2 fuzzy operation, defuzzification, Type-2 fuzzy set, General type-2 fuzzy logic systems, Graphic Processing Units
+Blood Cells Disease, Fuzzy Logic, classification, Hemoglobin
+Membership functions, Intelligent traffic control system, Fuzzy Logic theory, Fuzzy Logic with Accident Detection, Linguistic variables
+fuzzy clustering, Octave, toolkit, MATLAB, toolbox
+Fuzzy logic, Irrigation, Integrated web system, Shading
+Fuzzy Set, Fuzzy Inference System, Gas Turbine, Fuzzy Logic, Fuel Valve, Type-2 Fuzzy Control
+c-means clustering, Fuzzy Logic, image processing, fuzzy inference system
+performance evaluation, chia cake, mass yield, Fuzzy inference systems, adaptive neuro-fuzzy inference systems
+fuzzy type2 controller, artificial hormone controller, robot control system, performance indices, Hybrid controller
+Memebership Functions (MFs), Fuzzy Logic (FL), Load Shedding (LS), Depth of Discharge (DOD), State of Charge (SOC), Fuzzy Logic Controller (FLC), Distributed Generators (DG), Photovoltaic (PV), Fuzzy Inference (FI)
+Fuzzy Entropy, filters, Surface electromyography (SEMG), prosthesis, fuzzy logic
+Linguistic Fuzzy Rule-Based Classification Systems, Fuzzy Decision Tree, Classification, Interval-Valued Fuzzy Sets, Tuning, Ignorance functions
+Microcontroller, IoT, Temperature and Humidity Control, Fuzzy Logic, Server Room Monitoring
+robotic fish swarm, energy saving, cluster-head, fuzzy logic
+PI control, fuzzy logic control, simulation, DC/DC buck converter
+regression prediction, Fuzzy autoencoder, hierarchical fuzzy system (HFS), interpretability
+Fuzzy Description Logics, Legal Computing, Principle of Insignificance, Semantic Web, Law Computing
+adaptive fuzzy logic rule, hybrid energy storage system (HESS), dead zone, soft connection out, energy saving
+hybrid systems, wind plant, Fuzzy logic controller, solar panel, wind energy, solar energy
+Relay selection, cooperation communication, fuzzy logic
+Fuzzy Logic, Word Frequency, Artificial Intelligence, Website Meta Tags
+Alzheimer's disease, MRI, classification, mild-cognitive impairment, fuzzy logic
+sensors, optimizing, Fuzzy logic, time syncronization, automation
+Fuzzy logic, image fusion, neuro-fuzzy
+automatic accompaniment, music chords, melody harmonization, MIDI, fuzzy logic
+Fuzzy Logic, RGB, Watermelon Leaf Diseases
+Fuzzy logic, polarized or reference voltage, fault directional detection, three phase transmission line
+Gradient descent optimization method, PID controller, Fuzzy logic controller (FLC), Fuzzy-PI controller
+membership function partitions, Fuzzy Logic Controller, Deep Submergence Rescue Vehicle
+Fuzzy logic system, Switched reluctance motor, Flux linkage characteristics, Fuzzy rules, Torque balanced positions
+Grey Wolf Optimizer, benchmark functions, performance, adaptation of parameters, dynamic simultaneous adaptation, fuzzy logic
+Fuzzy logic, wireless network control, PID controller, Mechatronic Systems
+Microcontroller, Remote, Wireless Sensor Network, Internet, Monitoring, Fuzzy Logic, Flood
+Fuzzy Logic Algorithm, Applemint, Lemonmint, Genus Mentha, Electronic Nose System, MQ Sensors, Peppermint
+type-2 fuzzy logic, permanent-magnet synchronous machines (PMSMs), Adaptive control, Lyapunov stability, nonlinearity
+environmental stimuli, steering behaviour, pedestrian walking path, pedestrian-environment interaction, fuzzy logic
+Active Power Filter, Energy efficiency, Fuzzy logic, nonlinear load, THDi, microgrid
+Artificial neural network, long term load forecasting, fuzzy logic
+hedge algebraic type-2 fuzzy sets, classification, type-2 fuzzy system, hedge algebra, type-2 fuzzy set
+PWM Generator, Fuzzy Logic Controller, PV Array, DC-DC converter
+disturbance handing, Fuzzy Logic control, series tanks flow process, PID, Fuzzy Logic Controller tuning, process control, flow rate control
+VSC, PWM, Power Balance Theory, solar PV generation, adaptive fuzzy logic Controller reactive power control, power quality, DSTATCOM
+gas sensor, livestock waste odor, fuzzy logic controller, yucca schidigera
+Type-2 fuzzy events, type-2 fuzzy probabilistic model, type-2 fuzzy sets, Type-2 fuzzy probabilistic system, real-valued random quantities, SARIMA
+Micro-grid (MG), Adaptive Fuzzy Logic based PI controller (AD-F-PI), Fuzzy Logic Controller (FLC), Wild-Goat Algorithm (WGA)
+Adaptive hierarchical fuzzy logic system, Cart Pole type Inverted Pendulum, Evolutionary Algorithms, Optimization, Fuzzy control
+fuzzy modeling, multi-cascade fuzzy logic controller, AC drive, fuzzy logic controller, control system
+solar tracker, solar energy, fuzzy logic
+Indirect vector control, Fuzzy logic control, speed control, induction motor, PI controller
+Intuitionistic fuzzy logic, Nonlinear Modelling, Nonlinear Identification, Chaotic time series, Takagi-Sugeno fuzzy inference, Fuzzy-Neural Models, Semi-Fuzzy Neural Network
+Bisimulation, description logic (DL), logical similarity, fuzzy logic
+interval type-2 fuzzy logic controller, membership function, Assisted electric wheelchair
+Rule Base, Roger, Fault Detection, DGA, IEC, Fuzzy Logic
+Intuitionistic Fuzzy Inference System (IFIS), Fuzzy Set, Non-membership function(NMF), Hesitant membership function(HMF), Medical diagnosis, Fuzzy Logic, Intuitionistic Fuzzy Set(IFS)
+digital system design, fuzzy-logic control (FLC) model, very-large scale-integration (VLSI) design, application-specific integrated-circuit (ASIC), Fuzzy logic, field-programmable gate-array (FPGA)
+Mamdani inference system, mobile robot, obstacle avoidance, Arduino microcontroller, fuzzy logic controller
+Cloud Classification, Near-infrared, Fuzzy logic, Infrared, Visible
+Bluetooth, FPGA, Omnidirectional Platform, Fuzzy Logic, VHDL
+Fuzzy Logic, Load Balancing
+Clustering, Fuzzy Logic, Fuzzy Inference System
+Fuzzy Logic System, Wind Generator, Rotor Broken Bars, Faults Diagnosis
+augmented reality, type-2 fuzzy logic systems, geographical information system, fuzzy logic
+MAPE-K, Pedagogical Strategy Switching, Uncertainty, Fuzzy Logic, Self-adaptation
+Battery charge control, Fuzzy Logic Controller, Dynamic modeling of battery, Conventional controller
+Fuzzy logic, Load flow, Fast decoupled method, Newton Rapshon method
+Fuzzy logic, Distributed multi-agent system, Q-learning, Self-learning fuzzy logic using Q-learning
+Placement, Evaluation, Assessment, Linguistic Variable, Fuzzy Logic
+elearning student engagement, Interval type-2 fuzzy logic systems
+obstacle avoidance, Fuzzy logic controller, rule base
+convolution neural network, AlexNet CNN, fuzzy logic, Lung cancer
+Energy efficiency, Fuzzy logic, Routing Protocol, Acoustic communication, FLOVP, UWSNs, VBF
+Quadruped Robots, Machine Learning, Fuzzy Logic Control
+neural fuzzy logic, complex environments, adaptability, Intelligent agents, decision- making
+Neuro-Fuzzy, Neural Networks, Mobile Robot, ANFIS, Fuzzy Logic, Wall Following
+Quasi-Z-source inverter, Fuzzy Logic Controller, Floating solar panels, PV-priority controller, Rule base
+torque estimation, sensor-less, SRM, adaptive fuzzy logic
+petroleum production, environmental risk assessment, emission control, global ecological problems, fuzzy logic
+electrical load, forecasting, practicle swarm optimization, interval type-2 fuzzy
+Mamdani Fuzzy Inference System, Fuzzy Logic and Risk classification of Nephropathy, Diabetes Risk Classifier, Fuzzy classifier
+Fuzzy Logic Controller, Torque, Oil level, Gearbox, Gearbox jamming, Fuzzy Logic
+Trapezoidal back-EMF, Fuzzy logic controller, PID Controller, Hall Effect Sensor
+state of charge, battery energy storage system, first order filter, fuzzy logic control, pitch angle
+fuzzy grading system, intelligent evaluation, transparent assessment, footprint-of-uncertainty (FOU), interval type-2 fuzzy sets (IT2FSs), learning achievement
+solar tracker, motor stepper, arduino mega, solar panel, ESP-12E, fuzzy logic. LDR, dual axis
+remote control, ultrasonic sensor, navigation robot, fuzzy logic
+detection patterns, fraud detection technique, international calls, user profiling, bypass fraud, fuzzy logic
+knowledge graph, ship formation, fuzzy logic, behavior rule
+underwater robots, fuzzy logic, navigation systems
+component, PI regulator, Photovoltaic system, MPPT, fuzzy logic
+stock price prediction, technical analysis, fuzzy logic
+fuel cell vehicle, efficiency improvement, power slope limitation, hybrid power system, fuzzy logic control
+automation, Tungsten Inert Gas, welding process, fuzzy logic
+Adaptive e-learning system, Domain model, Similarity index, Fuzzy logic, Fuzzy prerequisite relations
+type-reduction and defuzzification method, monotonicity, modeling and control, Data-driven method, fuzzy logic system, type-2 fuzzy
+first-order fuzzy logics, mathematical fuzzy logic, monoidal t-norms, Finite weighted structures
+Sugeno Fuzzy Logic, Fertigation, Lettuce, Control, Aeroponics
+fuzzy logic model, Decision-making system, irrigation scheduling, agriculture in protected environments, greenhouse horticulture
+finance, AI, fraud, customs, fuzzy logic
+Power System Stabilizer, Fuzzy Set Theory, Single Machine System, Stability, Fuzzy Logic
+soft computation techniques, Software project management, COCOMO II, software cost estimation models, fuzzy logic
+clustering, Cluster head, energy efficient, heterogeneous Wireless Sensor Networks, gateway, Fuzzy Logic
+Fault Diagnosis, Discrete Wavelet Transform (DWT), FLC, Multilevel Inverter, Fuzzy Logic
+Photovoltaics, Wind power, Buck-Boost converter, Fuzzy Logic control
+bisimulation, description logics (DLs), Bisimilarity, fuzzy logic
+monotonicity, interval type-2 fuzzy logic systems (FLSs), fuzzy logic modeling and control, Continuity, hybrid and switched systems, discontinuity, smoothness
+Fuzzy logic, Performance Management System (PMS), Organization effectiveness (OE), Emotional Intelligence training (EIT)
+Interval Type-2 fuzzy logic, Sliding mode observer, Chattering, Uncertainty, Quadcopter
+Travelling wave ultrasonic motor, Fuzzy logic proportional-Integral control, Fuzzy logic control, speed control, Fuzzy logic proportional-Integral-Derivative control, position control
+fuzzy logic, Modeling, construction project, conceptual framework
+SSSC, Fixed Speed Induction Generator, Fuzzy Logic Controller, UPFC
+Underlay Spectrum Sharing, Cognitive Radio, Spectrum Handoff, Spectrum Mobility, Fuzzy Logic
+directed simulation, fuzzy modal logics, simulation, fuzzy labeled transition systems
+positive & zero sequence currents, transmission lines, fault classification, symmetrical & unsymmertrical faults, fuzzy logic
+Trust model, Cloud computing, Fuzzy logic, Fuzzification, Defuzzification, QoS
+etc., Performance Comparision, Proportional Integral (PI), Fuzzy Logic, Permanent Magnet Synchronous Motor(PMSM)
+BLDC Motor Bidirectional power flow control, Solar photovoltaic, Fuzzy Logic control, Water pump
+Solar Energy, Smart microgrid, Energy management System, Fuzzy Logic, Wind Energy
+predictive model, Type-2 fuzzy logic, financial applications
+agent-based modeling, fuzzy agents, performance, behavior, construction crew, fuzzy logic
+Routing Protocol, Opportunistic Network, DTN, Fuzzy Logic
+Fuzzy Logic Controller, Damping Controller, Power System Stabilizer (PSS), Small Signal Stability
+Intelligent traffic control system, False Alarm Rate, Fuzzy Logic theory, Accident Detection Rate, Fuzzy Logic with Accident Detection, Linguistic variables
+Keywords not found
+Fuzzy Logic Controller, Dedicated Circuit, Embedded System, formatting, Autonomous Mobile Robots
+Electric vehicles, FMEA method, Fuzzy logic, RPN, Fuzzy rule-based method, Inverters
+heterogeneous wireless networks, handover dropping probability, markov chain, call admission control, fuzzy logic
+IoT, Energy Efficiency, Fuzzy Logic, Clustering, Genetic Algorithm
+Indusrial fan system, Energy saving, Automation and Control, Fuzzy Logic, Intelligent control
+Colored Petri Nets, Fuzzy Colored Petri Nets, Fuzzy Inference Engine Fuzzy Rule Base, Fuzzy Inference System
+Adaptive neural-network, position and tip deflection control, flexible manipulator, fuzzy logic controller, interval type2, hierarchical
+Fuzzy Logic, SoC, AOP, AOSD
+Cellular Interference, Fuzzy Logic, Cellular Tower, EM Level Fuzzy Rules
+n-fold implicative fuzzy filter, Rl-monoids, Fuzzy filter
+Autopilot, MATLAB, Unmanned Aerial Vehicle (UAV), Fuzzy C-Mean Clustering, Control Theory, Fuzzy Logic, Simulink, FlightGear Flight Simulator
+FuzzyTech Software, Fuzzy Logic with Accident Detection, Fuzzy Logic theory, Intelligent traffic control system
+folds depth index, drape distance ratio, drape coefficient, Fuzzy logic, Fabric drape, node number
+Renewable Energy Source (RES), State of Charge battery (SOC), photovoltaic (PV), Photovaltic Power Produced(Ppv), Electricity Consumption (Ei), fuzzy logic control(FLC), formatting
+quality of service, software defined networks, Internet of Things, modified paired transitions algorithm, fuzzy inference, fuzzy logic
+heterogeneous network, trunking system, vertical handover, fuzzy logic
+control system, membership function, knowledge base, fuzzy logic
+Combustion Control, Solid Fuel Boiler, Fuzzy Logic Control
+control algorithm, Fuzzy logic, monitoring system, pumping equipment, power costs
+energy management, hybrid energy storage, fuzzy logic
+Braitenberg, virtual robotics, firefighter, Fuzzy Logic, maze solver
+Crime, Safety Value Index, Fuzzy Logic, Fuzzy Control Systems
+wind turbine, computer algorithm, type-1 fuzzy logic, energy management, Photovoltaic panels, Hybrid Renewable energy system
+Cyberbullying, Meeting Transcripts, Sentiment classification, Fuzzy logic
+Stand-alone wind energy system, maximum power point tracking (MPPT), fuzzy logic
+Raspberry Pi 4, Fuzzy Logic Algorithm, Principal Component Analysis, MQ sensors, E-nose
+clustering, multi hop, energy consumption, CRSN, fuzzy logic
+DC-DC converter, duty cycle, sliding mode Introduction, boost converter, PI controller, fuzzy logic
+fuzzy logict, experiment, Mamdani's method
+Sentimental Analysis, Feature Classification, Fuzzy Sentiment Score, Linguistic Hedges, Feature Extraction, Fuzzy Logic
+precision winding, fuzzy logic control, fiber optic
+Energy Efficiency, Cluster Construction, Wireless Sensor Networks, Cluster Head Selection, Fuzzy Logic
+diagnosis system, power transformer, DGA, furan analysis, fuzzy logic
+chromatic monitoring, HVDC systems, fault classification, fuzzy logic
+classification, LHCP Antenna, Multipath, NLOS, urban area, fuzzy logic system, GNSS systems, GPS, line-of-sight (LOS), RHCP antenna
+S-Commerce, Trust, Fuzzy Logic, Instagram
+Android, Smart Fish Feeder, Firebase and Fuzzy Logic, Arduino
+Obstacle avoidance, Mobile Robot, Autonomous, Fuzzy Logic
+fuzzy logic, scoring process, answer extraction, question answering system, Indonesian language
+Climate Modelling, Fuzzy Logic, Fuzzy Inference System, Climate Change
+Fuzzy logic, Heating system Intelligent system, Adaptive system
+students testing, current progress, grade point average, fuzzy system, tasks distribution system, fuzzy logic
+GA, routing protocol, cluster formation, WSNs, fuzzy logic
+MRI, classification, a challenge, Fuzzy Logic, Alzheimer's disease (AD), PET, AD prediction
+autonomous electric vehicle, ublox neo M8N, MPU6050, position control, fuzzy logic
+Ebara Pra-50, Speed control, Fuzzy Logic controller, Asynchronous moto-pump, PI controller
+wireless sensor network, lifetime, fuzzy logic, base station
+Fuzzy Logic controller, PID controller, PID Fuzzy controller, BLDC Motor
+transportation and oil preparation, automation, control theory, artificial intelligence, logical controller, oil and gas company, fuzzy logic
+Wireless Sensor Network, LEACH, Fuzzy Logic, Clustering, Network Lifetime Increasing
+Classification, Water Pollution, Internet of Things, Monitoring, Fuzzy Logic
+Soil Nutrients, Fuzzy Logic, Image Processing, Vision System
+Faults, Transformer, Power system, Detection, Fuzzy logic. Fuzzy Inference System
+function point analysis, use case point, goal-driven use cases, fuzzy theory
+HeathCare-as-a-Service (HC-AAS) model, Health care, cloud-based applications, Fuzzy logic, medical systems, medical diagnostic, healthcare cloud service, Cloud Computing
+Fuzzy Logic Control (FLC), Solar Photovoltaic (PV) Systems, Maximum Power Point Tracking (MPPT), Perturb and Observe (P & O) control approach, DCDC converter
+powersystem, design, transformer, estimating weight, artificial intelligence, Fuzzy Logic
+Type -2 Fuzzy logic controllers, Model reference adaptive system (MRAS), Lyapunov theory, Induction machines (IM), Field oriented control
+Keywords not found
+membership functions, doubts, fuzzy logic
+Keywords not found
+Probabilistic fuzzy classifier (PFC), probabilistic fuzzy set, unified probabilistic fuzzy inference, probabilistic fuzzy logic system (PFLS)
+shiphandling difficulty, safety, ferry, fuzzy logic
+Hysteresis Band Current Controller(HBCC), Membership Function(MF), Scaling Factor(SF), Rule Base(RB), Voltage Source Converter (VSC), Adaptive Fuzzy Logic Controller (A-FLC), Microgrid, Distributed Generation(DG), PI Controller
+Mamdani Fuzzy Inference System, ultrasonic sensor, response surface of input and ouput relation, arduino UNO, current sensor, switch off iron, fuzzy logic controller
+Mamdani Fuzzy Inference System, Fuzzy Logic and, Fuzzy classifier, Risk classification of CAHD, Diabetes Risk Classifier
+DSPACE 1103, PLL, Power factor correction (PFC), Fuzzy logic controller (FLC), hysteresis controller
+component, PMF-FFT, signal acquisition, GPS, fuzzy logic
+Fuzzy logic, fuzzy inference system, Mamadani FIS, Sugeno FIS
+Type-1 TSK Fuzzy Logic System, Interval Type-2 TSK Fuzzy Logic System, Firefly Algorithm, Sea Water Level Prediction, Particle Swarm Optimization, Genetic Algorithm
+SIFT descriptor, Gait tracking, gait recognition, training, type-2 fuzzy Logic
+fuzzy conditional inference, fuzzy logic
+OPC, renewable energy, exergy, electrolyzer, PLC, fuzzy logic
+Fuzzy logic, image processing, smart air-conditioning system, neural networks
+WABL, Fuzzy ID3 algorithm, Fuzzy classification, FCM, Linguistic data
+question difficulty evaluation, online programming, fuzzy membership functions, fuzzy logic
+Weighted Control, Cluster Balancing, SOC, Fuzzy logic, Energy Storage, Fuzzy Logic Control
+Path planning, Collision avoidance, Fuzzy logic, Autonomous mobile robot, Obstacles
+heterogeneous wireless networks, Kalman filter, fuzzy logic, Vertical handoff decision
+Dynamic voltage restorer, enhanced phase lock loop, voltage sag detection, power quality, fuzzy logic
+Explainable Artificial Intelligence, Interval Type-2 Fuzzy Logic System, Deep Learning
+mechanical ventilation, Control, flow, PID controller, fuzzy logic
+polishing, pneumatics, tracking, fuzzy logic
+process improvement, Banking operations, fuzzy logic, leanness assessment
+Particles Swarm Optimization, Artificial Intelligence, CNC machine, Jerk, Reference Points, Fuzzy Inference System
+generalized type-2 fuzzy logic, edge detection, Alpha planes representation, image processing
+bowler, all-rounder, player selection, fuzzy inference system., batsman, Fuzzy logic
+Adaptive Neuro-Fuzzy controller, Sugeno Fuzzy Controller, Hebbian learning algorithm, PI Controller, Fuzzy Logic Controller(FLC)
+intelligent mines, adaptive fuzzy logic, ad-hoc network, distributed management, leaky bucket model
+Wind Turbine, Fuzzy logic controller, Pitch angle control
+servo motor, PID control, Fuzzy logic control
+Mathematical strategy, Computer technology, Artificial intelligence, Robotics, Fuzzy logic, Machine learning
+fuzzy logic controller (FLC), integral of time multiplied squared error (ITAE), adaptive fuzzy particle swarm optimization (AFPSO), phase jumps, Fuzzy phase locked loop (fuzzy PLL)
+MVDC system, bi-directional DAB converter, AES, hybrid energy storage, fuzzy-logic (FL) supervision
+fuzzy logic, fault condition, Transformer protection, microcontroller, differential protection, fuzzy system
+solar tracking, solar tracking controller, photovoltaic panels, fuzzy logic
+Induction generator (IG), Wind power control, Fuzzy logic controller (FLC), WECS
+industrial competitiveness, fuzzy
+elastic optical network, routing and spectrum assignment, RMSA, fuzzy logic control system
+convolutional neural network, CIFAR-10, pooling, Fuzzy logic, MNIST
+motion control, ultrasonic sensor, wall tracer robot, fuzzy logic
+naïve bayes classifier, disease, covid-19 symptoms, diagnosed, fuzzy logic
+TSK, Time varying delay, LMI, TSK model, interval type-2 fuzzy system
+DGA, Transformer Diagnosis, Condition monitoring, Fuzzy Logic
+Fuzzy Logic Controller, High Frequency Isolation Transformer, Switched Mode Converter, Filter Circuit, Circuit Simulation, PID Controller
+gait analysis, type-2 fuzzy logic, inertial sensors, anterior cruciate ligament, kinematics, EMG
+Keywords not found
+evaluation, business process, fuzzy sets theory, process approach, fuzzy logic
+Advanced Encryption Standard (AES), Cryptography, Wireless Sensor Network (WSN), Libelium, Fuzzy Logic
+Handover decision, 4G, Fuzzy logic, Fuzzy logic controller, Next Generation networks
+vulnerability, risk assessment, fuzzy logic
+genetic algorithms, Type-2 fuzzy logic, work area optimization, multi-objective, many-objective
+numerical simulation, fault diagnosis, simply supported bridge, fuzzy logic
+MATALAB, mobile robot navigation, mamdani fuzzy inference engine, AT89C52 micocontroller, wall tracking, fuzzy logic controller
+INEX, XML information retrieval, link evidence, fuzzy logic
+Microcontroller, Fuzzy Logic Controller (FLC), Temperature Control
+Membership functions, Straight micro channels, Fluid flow rate, MATLAB, Fuzzy rules, Fuzzy logic controller
+Fuzzy logic, Cross-linked polyethylene, Fuzzy inference system, Thermal aging, Prediction
+Fuzzy Logic Controller, Boost Converter, Power Factor Correction (PFC), traditional controllers, Proportional-Integral (PI), continuous conduction mode (CCM)
+multi-sensor, distributed, wireless, fire detection system, fuzzy logic
+photovoltaic system, real-time simulation, perturbation and observation, solar energy, fuzzy logic
+Mobile Robot, Interval Type-2 FLC, Quantum Genetic Algorithms, Optimization, Interval Type-2 fuzzy sets
+Fuzzy logic, knowledge engineering., sequence variables
+fault diagnosis, fuzzy inference, diesel engine
+membership function (MF), fuzzy logic controller (FLC), Cascaded H-bridge multi-level inverter (CHB MLI), selective harmonic elimination (SHE), pulsewidth modulation (PWM)
+Z-score, Fuzzy sets, Z-number, algorithm, Z-solution, logical model, program, uncertainty
+disturbance-observer-based (DOB) PI-type fuzzy controller., Non-Gaussian stochastic processes, fuzzy logic systems
+Fuzzy logic, Inverted Pendulum on Cart, LQG
+Game, Fuzzy Logic, NPC, Artificial Intelligence
+heavy metal, two position pump, time-delay, precipitation, fuzzy logic
+Fuzzy Logic System (FLS), Fuzzy Logic Based Clustering Protocol (FLCP), Distributed Sensor Network (DSN), Cluster Head (CH)
+Clustering, Fuzzy Logic, WSNs, Mobile Sink
+tarantula, molt, terrarium, temperature, fuzzy logic
+corporate sustainability assessment, financial performance, fuzzy logic approach, environmental performance
+in-wheel motors, permanent magnet brushless dc motors, fuzzy logic
+Power Inverter Real-time monitoring, Power Inverter, Power Inverter Protection, Zigbee, Fuzzy Logic
+Fuzzy Conditional Inference, Fuzzy Intuitions, Fuzzy Reasoning, Fuzzy Logic, Causal Logic
+Fuzzy Description Logics, False positive, Description Logics, Composite Intrusion Detection System, fuzzy logic
+double fuzzy logic controller, fuzzy PI controller, MATLAB Simulink simulation, voltage stability, power factor correction, Electric Spring circuit
+Clustering, type-2 fuzzy logic, multi-hop, CH election
+maneuver, 3D visualization, probability numbers, orientation, degree of rotation, speed, target, mathematical and physical calculations, classical logic, program codes, interface, program language, artificial intelligence, trajectory, ballistics, military sphere, distance, defense sphere, navigation, time, fuzzy logic, range, cruise missile, intelligent control, virtual software simulator, Boolean logic
+Cooling Schedules, Simulated Annealing, Fuzzy Logic Systems
+BERT, Transformer, Sarcasm Detection, Fuzzy Logic, Sentiment Analysis
+vagueness, scaling factors, step response, optimization technique, uncertainties, fuzzy logic controllers, intelligent controllers
+Balanced fuzzy sets, fuzzy sets, balanced fuzzy operators
+autonomous vehicle, object detection, fuzzy logic, sensor fusion
+servo motor, PID Controller, LQR Controller, fuzzy logic
+fuzzy model, Anemia, Anemia diagnosis, fuzzy logic system
+Heterogeneous wireless networks, Rough set theory, Fuzzy logic control, Vertical handoff
+Space Vector Pulse Width Modulation (SVPWM), Total Harmonics Distortion (THD), Induction motor (IM), Fuzzy Logic Controller (FLC)
+PSS, AVR, Fuzzy logic, Power System Stability, SMIB
+Genetic Fuzzy Markup Language, Adaptive Ontology, Genetic Learning, Personalized Diet Linguistic Recommendation, Type-2 Fuzzy Set
+Interval Type-2 fuzzy logic systems, video events classification
+Voltage sag, Fuzzy Logic Controller, Dstatcom, Genetic Algorithm, Optimization, Fuzzy Logic
+ultrasonic sensor, motion control, obstacle avoidance robot, fuzzy logic
+Mamdani, MPPT, Fuzzy logic controller, Photovoltaic, Takagi-Sugeno
+type-2 fuzzy neural network, type-2 fuzzy logic systems (T2FLSs), feedback error learning (FEL), Antilock braking system (ABS), extended Kalman filter (EKF), identification
+hierarchical systems, fuzzy systems, intelligent system, hierarchical fuzzy systems, hierarchical MIMO systems, Fuzzy hierarchical system, fuzzy logic
+Energy recover, Regenerative braking, State of charge, Fuzzy logic control
+Localized Clustering, Wireless Sensor Networks, CHEF, Fuzzy Logic, Fuzzy Clustering
+membership function, Fuzzy Logic, steam demand, heat recovery steam generator, PI controller
+Fuzzy logic, XBee, Membership functions, Arduino
+Fuzzy dominance, genetic algorithms (GAs), type-2 fuzzy logic, many-objective, workforce optimization, multiobjective
+bacteria foraging algorithm, WSNs, Type-2 Fuzzy Logic
+Automatic generation control, Fuzzy Logic Controller, HVDC, Tunisian Power System, Load Frequency Control, Ziegler-Nichols PI Controller
+voltage rise mitigation, Grid-connected PV System, fuzzy logic control, reactive power control
+modelling, high angle of attack, artificial intelligence, unsteady aerodynamics, fuzzy logic
+Adaptive Neuro Fuzzy Inference System, STATCOM, Fuzzy logic controller (FLC), Low frequency oscillations
+Shrimp Vision Features, Fuzzy Logic, Shrimp Feed Type Classification, Shrimp Feed Management
+Intuitionistic fuzzy logic, Multidimensional intuitionistic fuzzy quantifier, Multidimensional intuitionistic fuzzy logic
+n-gram, Fasttext, WAF, Web Application Security, Artificial Intelligence, Web Application Firewalls, Fuzzy Logic, NLP, Word Embeddings
+Artificial Neural Network (ANN), Load Forecasting (LF), Fuzzy Logic System (FLS), Smart Building (SB)
+energy efficiency, fuzzy control, fuzzy rules, fuzzy logic, pump
+control flow metrics, process complexity, business process model, size metrics, software tool, fuzzy logic
+fault detection, parameter estimation, interval type-2 fuzzy logic system, multivariate process, auto-associative kernel regression
+open loop, close loop, Fuzzy Logic, PID controller
+Multi input decision, 3G, JRRM, Fuzzy logic, Wlan, Heterogeneous networks, fuzzy controllers
+self-configuration, genetic fuzzy systems, evolutionary algorithms, fuzzy rule based classifiers
+Space Vector Pulse Width Modulation (SVPWM), Total Harmonics Distortion (THD), Induction motor (IM), Fuzzy Logic Controller (FLC)
+Fault Classification, Single Shot, Stability, Auto-Reclosure, Fuzzy Logic
+Fuzzy logic, MatLab, Expert system, Neural network
+Fuzzy logic, Life Expectancy Prediction, Child - Pugh classification, End-Stage Liver Disease
+membership function, PID, fuzzy logic controller, Continuous Conduction Mode (CCM)
+Switched reluctance generator (SRG), turn-on angle, turn-off angle, fuzzy logic control, voltage ripple
+fuzzy inference system, online distance learning, fuzzy logic
+precision agriculture, crop recommendation, crop, soil quality, fuzzy logic
+Doppler weather radar, convective precipitation, stratiform precipitation, fuzzy logic
+Human Pose Recognition, Yoga Pose Recognition, Multi-Layer Perceptron, Fuzzy Logic Modeling
+state of charge, fuel consumption efficiency, electric vehicle, energy storage system, Battery management systems, fuzzy logic control
+Adaptive Neuro-Fuzzy Inference System, Power System Stabilizer, Dynamic Load, Fuzzy Logic Controller
+modelling, component, light intensity control, fuzzy logic
+DC microgrid, droop control, fuzzy logic algorithm
+energy management, fuel cell, fuzzy logic control, hybrid electric vehicle
+well logging, hydrocarbon prospect zone, fuzzy logic
+cardiovascular disease, fuzzy logic, expert systems
+sliding mode controller, super-twisting sliding mode controller, chattering, time-varying sliding surface, Electronic throttle control, fuzzy logic
+smart load, voltage regulation, renewable energy, Electric spring, adaptive PI, fuzzy logic controller
+light system, fuzzy logic, RGB, LED
+looping depth, fuzzy logic, essential complexity, cyclomatic complexity
+faults, transformers, fuzzy logic controllers, criticality, membership functions
+Keywords not found
+Fuzzy logic, control, permanent magnet synchronous machines
+Playout Time, Fuzzy Logic, Jitter, Network
+Fuzzy logic, Power coefficient, Membership Function, Power production
+fault diagnosis, internet of things, rotating shaft, condition monitoring, fuzzy logic
+ESP32, Thingspeak, DHT22 Sensor, Fuzzy Logic Controller (FLC)
+Mamdani Fuzzy Inference System, Noise robustness, Generalised Type-2, Type 2 fuzzy logic controllers, Fuzzy sets, Model uncertainty, Benchmark control plants, Control applications, Fuzzy logic controllers, Interval Type-2, Integral time-weighted absolute error, Execution time, Integral squared error, Integral absolute error, Comparative analysis, Resilience
+engine rotational speed control system, fuzzy PID logic controller, Main diesel engine
+Photovoltaic (PV) Panel, Maximum Power Point Tracking System (MPPT), Fuzzy Logic Controller (FLC), Perturb & Observe Method
+cooperative adaptive control, Lyapunov stability theory, artificial potential functions, Multi-agent systems, fuzzy logic
+Computational cost, interval type-2 fuzzy logic system (IT2 FLS), Karnik–Mendel (KM) algorithms, fuzzy logic control, type-reduction (TR)
+Doubly fed induction generetor (DFIG), Maximum power point tracking (MPPT), Type-2 fuzzy logic control (T2-FLC), Neutral Point Clamped (NPC) Converter, Wind system (WS)
+Machine Learning, Fuzzy Logic, Classifier
+the dynamic environment, mobile robot, Ants colony algorithm, path planning, fuzzy logic
+Buck-Boost Converter, PV Array Design, Membership Functions, Fuzzy Logic Control
+contradictory negation, medium negation, medium fuzzy formula, opposite negation, fuzzy logic
+Keywords not found
+Lifetime, Routing, Fuzzy logic, WSNs, Clustering
+Buck-Boost Converter, PI Control, Fuzzy Logic Control
+ANFIS, CART, fuzzy logic, steel plate faults
+MADM, AHP, Fuzzy logic, Network selection, GRA
+clustering algorithm, wireless sensor networks, cluster formation, cluster head selection, fuzzy logic
+peppermint, herbaceous plants, spearmint, mq sensors, oregano, electronic nose system, fuzzy logic algorithm
+IEC Ratio, Duval Triangle Method, Pattern Search Optimization, Fuzzy Logic, Dissolved Gas Analysis
+sprinkler, pakcoy, irrigation, LoRa, fuzzy logic
+PV array, maximum power point tracking (MPPT), fuzzy logic controller (FLC), membership function, boost converter, Irradiance
+Fuzzy Logic Controller, Load Shifting, Demand Side Energy Management, Smart Home
+Dengue Fever, Notification System, Fuzzy Logic
+Particle swarm optimization, walking stable, Fuzzy logic controller, bipedal robot
+mamdani inference system, oyster mushroom cultivation, fuzzy logic controller, Arduino microcontroller
+interval type-2 fuzzy sets, Fuzzy rule interpolation, closed form interpolation
+MAT-LAB, Dynamixel MX-28, Transesophageal Echocardiography, Control, Fuzzy Logic
+Frequency Deviation, Fuzzy logic controller, Proportional-Integral-Derivative (PID) controller, Load Frequency Control (LFC)
+Distributed generation; Fuzzy logic; Islanding detection; power quality
+Fuzzy Logic, Hand gesture classification, Pattern recognition
+EDM process, fuzzy logic, gap controller, electric discharge machining
+unmanned aerial vehicles (UAVs), tracking control, type-2 fuzzy logic, fuzzy neural networks (FNNs), quadrotor, Aerial vehicles, elliptic membership functions, fuzzy logic
+Fuzzy logic, Fuzzy relations, Online apparel marketing, Apparel size
+hybrid ac/dc microgrid, optimal operating system, petri nets, cost optimization, Optimal power management, fuzzy logic
+Fraud detection, banking system, Neural-fuzzy, fuzzy logic
+data fusion, microcontroller-based, fire detection, multi-sensors, fuzzy logic
+Fuzzy Logic, Underground Distribution System, Fault Type
+Type-2Fuzzy Logic, Genetic Algorithms, Footprint of Uncertainty, Design of Fuzzy Systems
+neural network, Prediction, back propagation, fuzzy logic
+Fuzzy Logic Controller, Hovering control, Quadrotor
+Keywords not found
+Optimization, Hybrid optimized controller, Particle Swarm, Trajectory Tracking, Genetic Algorithm, Artificial Bee Colony, Fuzzy Logic Control
+strain gauge, piezoelectric sensor, light dependent sensor, heart beat rate, blood pressure, infrared sensor, fuzzy logic
+dynamic inverse, genetic algorithm, fuzzy logic, hypersonic vehicles
+Li-ion battery, rainflow, stress cycles, state of health, energy storage, degradation, diagnosis, load collective, fuzzy logic
+Weather, General Farming Automation, Watering, Weather Service Provider, Fuzzy Logic
+Matlab, TWIPR, gbell, Simulink, fuzzy logic
+Heterogeneous Networks, Fuzzy Logic, Vertical Handoff, Cognitive Radio
+DHT11, Fuzzy Sugeno, Internet of Things, Soil Moisture
+fuzzy logic controller, LoRa communication protocol, greenhouse
+Fuzzy Logic Controller, Shunt Active Power Filter, Synchronous Reference Frame (SRF), Harmonic Compensation, Power Quality
+Fuzzy Logic Toolbox in MATLAB Simulink, P-type fuzzy logic control, Single Photon Avalanche Diode (SPAD), Thermoelectric cooler (TEC), temperature control
+IPCC Data, Extension Principle, Global Warming, Fuzzy Logic, Temperature Modelling
+personnel selection, multifactor output simulation, fuzzy logic
+Active Power Filter, Power Quality Improvement, Neuro Fuzzy Controller, Fuzzy
+Brushless DC (BLDC) motor, DC link, current sensor, closed loop control, fuzzy logic
+automatic, convolutional neural networks (CNN), artificial intelligence, hot cracks, modeling, computer technology, fuzzy logic
+Electronic Nose, MQ Sensors, Mangifera Indica, Fuzzy Logic, Chamber
+Entropy, Bluetooth, Fuzzy Logic, E0, Correlation
+wireless sensor network, internet of things, reservoir upwelling, microcontroller, fuzzy logic
+recommender system, students’ employability, fuzzy logic
+maximum power point tracking, Microcontroller, Artificial Intelligence, MPPT, High precision, Fuzzy logic, High capacity PV, densely clustered
+HRRP, feature extraction, target recognition, type-1 fuzzy logic classifier
+Fuzzy Logic, Landslide Susceptibility Zoning, Geographic Information System (GIS)
+Ageing, Oil, Criticality, Paper insulation, DGA, SFRA, Power transformer, Fuzzy Logic
+Granular synthesis, musical harmony, fuzzy logic
+Mico gird, Mult-agent systems(MAS), energy management, fuzzy logic
+Medium access control (MAC), Traffic status register (TSR), wireless body area networks (WBANs), Traffic aware dynamic (TAD), fuzzy logic controller(FLC)
+Fuzzy Logic System, Classification, Discrete Wavelet Transform, Transmission Line
+Space vector pulse width modulation (SVPWM), TYPE-2 Fuzzy Logic Systems (T2FLS), Indirect Vector control, Two-level inverter
+defuzzified values, temper based k-means and modified fuzzy c-means clustering (TKFCM), Magnetic resonance imaging (MRI), fuzzy logic system
+Mobile Robot, Obstacle avoidance, Artificial Neural Network, Webots, Fuzzy Logic Control
+COVID-19, Virus, MATLAB, Triangular Membership Function (TMF), Disease, Fuzzy Logic
+deep learning, transmission network, power system, fuzzy logic
+power circuit breakers, monitoring, software application, diagnosis, fuzzy logic
+volume, soil moisture, temperature, duration, water, fuzzy logic
+area, centroid, image processing, disease spot, leaf image, fuzzy logic
+transformer oil, insulator, insulator properties, mineral oil, fuzzy logic, prediction
+Keywords not found
+stator current, Diagnosis, electrical faults, induction motor, fuzzy logic
+Fuzzy Logic Controller, Induction Motor, Field Oriented Control, MATLAB/SIMULINK
+adaptive control, Lyapunov function, robot, output constraint, fuzzy logic control
+vehicle profiling, car detection, intelligent traffic system, fuzzy logic
+hydroponic, control system, fuzzy logic
+Fuzzy logic, electrical drive, implementation
+AD, NAE, MSE, Fuzzy Logic, NK, ANN
+Electric bicycle, Throttle Less controller, Battery Optimization, Fuzzy logic Controller
+Fuzzy logic, Multiple robots, Group formation control
+Solar Energy, Maximum Power Point Tracking (MPPT), DC-AC Inverter, Fuzzy Logic
+flame detector sensor, fire fighting robot, ultrasonic sensor, fuzzy Logic
+fuzzy speed control, Voltage source inverter (VSI), electromagnetic torque ripple, fuzzy logic DTC (FLDTC)
+edge detection, interval type-2 fuzzy, measure, evaluation, image
+MPPT, Fuzzy Logic Controller and SVPWM, Wind Turbine System, Vienna Rectifier
+Fuzzy Logic, Data Integrity, Distribution Power Systems, Big Data
+prediction model, soft computing, Fuzzy logic, Mamdani model, membership functions
+fuzzy edge detector, general type-2 fuzzy logic, neural networks, alpha planes, pattern recognition systems
+Fuzzy logic, Obstacle avoidance, Autonomous robot, Sensors
+Adaptive fuzzy control, fuzzy logic systems, nonstrict-feedback systems
+clustering in WSN, energy efficiency, CH election, WSN, fuzzy logic
+Fuzzy logic, Flexibility, Traffic light
+Switched Reluctance Motor (SRM), Power Converter, Bang-Bang, Fuzzy Logic, Electric Vehicles (EV), Gate Signal
+Fuzzy logic, wireless sensor network, water irrigation, precision agriculture
+Congestion, network, capacity, load balancing, load, fuzzy logic
+Keywords not found
+Copra, Ac to Ac Voltage Controller, Coconut, Fuzzy Logic Control
+growth chamber, tomato, CO2 concentration, grow lights, humidity, vent fan, temperature, fuzzy logic controller
+Intersection of roads, Traffic lights, Attacks, VANETs, Fuzzy logic
+Fuzzy Logic, Parafoil, Control with Fixed Set-point, Interval Type II
+non-probabilistic, cluster head, fuzzy logic
+Keywords not found
+Robot navigation, Hybrid techniques, Humanoid robot, Fuzzy Logic, Petri nets
+Type-Reduction, Fuzzy Logic Systems, Uncertainty Modeling, Interval Type-2 Fuzzy Sets, Centroid
+stirred tank heater, Genetic algorithm, PID, fuzzy logic
+Neuro-Fuzzy Controller, LIHC Super Capacitor, VHDL
+shunt active filter, hysteresis-band, Power electronics, current controller, power quality, fuzzy logic controller
+interval type-2 fuzzy sets, linear matrix inequality, T-S fuzzy control
+fuzzy logic control, alternative vehicles, soft start, electric bicycles
+Interpolation, FIS (Fuzzy interface system), CMRS geomechanical classification, Fuzzy logic, RMR Parameters
+Mamdani, Scores, Fuzzy, Centroid
+pole-zero, DC-Motor, Fuzzy logic, Armature controlled Stability analysis, frequency domain, state space averaging, Genetic Algorithm, Field controlled, time domain
+nonconvex fuzzy sets, type-2 fuzzy logic, General type-2 fuzzy logic
+fuzzy logic controller, solar energy, MATLAB simulation, boost converter
+obstacle avoidance, hybrid mobile quadrotor, fuzzy controller, fuzzy logic
+relay, Soft Information Relaying, Cooperative Wireless Networks, LDPC codes, Fuzzy Logic
+Xilinx, Rule base, Fuzzy logic, Verilog-HDL, Kintex 7 KC705, Embedded electronic systems, Power reduction
+Fuzzy Logic System, Decomposition, Hierarchical Fuzzy Systems
+Cluster head selection, WBAN, energy consumption, network lifetime, fuzzy logic
+Fuzzy Logic, NetLogo Simulation, Intellegent Traffic Control System
+5G, smart grid, WSN, fuzzy logic
+Fuzzy logic, Surprise level, Business strategy
+Interval type-2 fuzzy logic systems (IT2 FLSs), Inverted pendulum, Fuzzy logic control, Defuzzification, Type-reduction
+train speed system, Mamdani, fuzzy logic controller, Centroid
+synthetic inertia control, wind turbine generator, droop control, fuzzy inertial control, grid frequency support
+Fire Tracking, Fuzzy Logic, Infrared, Robot
+computer simulation, voltage regulation, on-load tap-changing, fuzzy logic
+Ransomware, Performance Optimisation, Fuzzy Hashing, Fuzzy Rules, YARA Rules, Fuzzy Logic, Malware Analysis
+SPSTLS, Fuzzy Logic Controller, DPSTLS, Traffic Light Control
+Temperature control, Fuzzy Logic Controller, PID Controller
+the time complexity, Mamdani's fuzzy inference method, fuzzy logic
+phasor measurement units, wide area control, transient simulations, fuzzy logic control, power system stabilizer
+Fuzzy Logic, Pulse Electric Field, High Voltage Pulse Generator
+Keywords not found
+pond, oxygen, aquaculture, controller, fuzzy logic
+Interval Type-2 Fuzzy System, Type-2 non-singleton fuzzifier, Fuzzy, ANFIS
+K-Means, Fuzzy Logic, Particle Swarm Optimization
+controllers, Excitation control, transient voltage stability, fuzzy logic
+General Type-2 Fuzzy Systems, Machine Learning, Identification, Matlab Simulink
+ANFIS controller, STATCOM, Fuzzy logic controller, sub synchronous resonance
+T-S fuzzy system, time-varying system, Fuzzy control, fuzzy inference modeling method, state-space model, input-output model
+odor, olfactory display, human-computer interface, 3D, video game, smell, edge computing, fuzzy logic
+video quality, fuzzy inference system, Fuzzy logic, audio-visual quality assessment, audio quality
+fuzzy edge detector, general type-2 fuzzy logic, neural networks, alpha planes, pattern recognition systems
+task scheduling, fuzzy logic priority, phased array radar (PAR), scheduling interval, time pointer
+quality control, ground clutter, fuzzy logic
+adaptive control, tuning, Fuzzy systems, variable speed drives, fuzzy logic
+Fuzzy logic, Aging state, Deformation, Overhead transmission line
+Fuzzy logic, fault directional detection, three phase transmission line
+Fuzzy logic, DDoS attack, Cloud computing environment
+Fuzzy Logic, Control Fuzzy Regulator, Adaptive Gain, Permanent Magnet Synchronous Machine
+PI, Pitch angle, Fuzzy Logic Controller for Pitch Angle Control (FLCPAC), Self-Tuning Pitch Angle Fuzzy Logic Controller (STPAFLC)
+Fuzzy logic, Rotary inverted pendulum, Fuzzy control, Robustness
+WMRA, Fuzzy Logic Controller, PID, DC motor
+Fuzzy logic control, PID Control, Position and velocity PID control, Genetic algorithm optimized fuzzy logic controller, 3P robotic manipulator
+aero-engine, fuzzy logic, condition monitoring
+Matlab/Simulink, Fuzzy Logic Controller, Cuk converter, Simulation
+Keywords not found
+microcontroller, non-linear control, DC motor, fuzzy logic
+Fuzzy logic system, State of charge, Battery management system, State of health
+Proportional Integral controller, Wind Farm, Fuzzy Logic controller, Static Var Compensator, Induction Generator
+optimization algorithm, prior knowledge, interval type-2 fuzzy logic system
+Electric vehicle, Brushless DC motor, Fuzzy logic controller, BLDC drive, Electric motor, Vehicle Dynamics, PI controller
+Fuzzy logic-based decision algorithm, queue limit, queue scheduling, priority
+Fuzzy logic, VHDL, Fuzzy CMOS implementation, Traffic light control
+Rule-based, High Gain Converter (HGC), Fuzzy Logic Controller (FLC), Membership function
+Keywords not found
+data center network, software definded networking, fuzzy logic
+Sugeno Fuzzy Identifier, Fuzzy logic Controller, Rule Based fuzzy system, Particle Swarm optimization (PSO)
+Formation Control, Fuzzy Logic Controller, Swarm Robot, Real Mobile Robot
+Fuzzy Logic, Cybersecurity, Entity Behavior Analytics, Machine learning
+Risk Factors, Mamdani Fuzzy Inference System, Fuzzy Expert System, Gestational Diabetes Mellitus (GDM), Early Detection
+PI Controller, DC-DC Boost Converter, Fuzzy logic Controller
+Hiring, Decision Making, KPI, e-HRM Systems, Fuzzy Logic
+PH, Membership functions, Lab VIEW, Fuzzification, Fuzzy Logic
+Congestion, Real Time, Traffic Light, Control, Fuzzy Logic
+energy saving, genetic algorithm, refrigeration cavity, optimization, PID controller, fuzzy logic control, temperature control
+Fuzzy Control, Maximum Green Times, Traffic Actuated Control, Isolated Intersections
+solar photovoltaic, fuzzy logic controller, voltage source converter, ANFIS
+Fuzzy lattice, Complemented elements, Components of fuzzy lattices
+Wind turbine emulator, Hardware Co-simulation, DCM, FPGA, XSG, Fuzzy logic controller
+aquaponic, electrical conductivity, fuzzy logic control, TDS sensor
+Fuzzy logic, sugeno, Watering and control the micro-plant environment, Internet of things
+hot blast stoves, time adjustment, Blast Furnace, fuzzy logic
+Dynamic Webster Dynamic Cycle Time (DWDC), Fuzzy Logic with Accident Detection, Fuzzy Logic theory, Intelligent traffic control system
+Membership functions, Impulse noise, Image filtering, Gaussian noise, Switching median filter, Fuzzy logic, Rule editor, Salt-and-pepper noise, Fuzzification, Mixed noise, Defuzzification, gain factor, PSNR (Peak signal to noise ratio)
+autofocus, focus measure, astronomical, fuzzy logic
+type-1 fuzzy inference, type-2 fuzzy infererence, open-source software, R, Matlab, fuzzy inference software
+vector control, Brushless Motor, Neural network optimization, Fuzzy logic control
+DC Servo Motor, Fuzzy Logic Toolbox, Sisotool, PID Controler, Fuzzy Logic Controler
+fuzzy inference system, interval type-2 fuzzy logic, type-1 fuzzy logic
+road safety, recommendations, Road accident, grammatical fuzzy logic
+Fuzzy Disjunctive Normal Forms, Parameter Optimization, Forecasting, Type-2 Fuzzy System, Fuzzy Conjunctive Normal Forms
+interference coordination, small cell, fuzzy logic, Resource allocation
+PSO, Type-2 fuzzy logic, Wind speed, PMSG, Wind turbine
+Keywords not found
+internet of thing in retail, customer loyalty, fuzzy logic
+Fuzzy Logic Controller, Sustainable Water Supply, PV-Fed Water Pumping System, Modeling, Peak Current Detection, Renewable Energy, BLDC Motor, Simulation
+Sugeno Interval Type II Fuzzy Logic, Mamdani Interval Type II Fuzzy Logic, Harmonics Mitigation, DSTATCOM Device, DC capacitor voltage response parameters
+Mobility, Fuzzy Logic Controller, LTE, Handover Algorithms
+Self-Management, Fuzzy Logic, Autonomic Computing
+Levenberg-Marquardt algorithm, Mackey-Glass time series, Type-2 fuzzy neural networks
+Fault Types, discrete wavelet transform, ATP/EMTP, Simultaneous Fault, fuzzy logic
+flight operation quality (FOQ), flight training assessment, fuzzy logic
+Generalized predictive control (GPC), controller tuning, event-triggered mechanism (ETM), output slope, fuzzy logic
+Automobile, Fuzzy logic, Cruise control, PID, MPC, Intelligence control
+fuzzy hardware, fuzzy logic controller, self-balancing robot, Stochastic logic
+Induction motor, Fuzzy logic control and PI Control, field oriented control
+Sensitive System, Linguistic Fuzzy-Logic Control, Fuzzy Logic, Control
+Keywords not found
+fuzzy adaptive proportional-integral controller, fuzzy logic control, direct torque control
+Vector control, Induction motor, fuzzy logic controller (FLC)
+Digital signal processor, Perturb & Observe, MPPT, DC-DC boost converter, Adoptive Fuzzy logic controller
+Deodorizer, Fuzzy Logic, Palm Oil Refining, Troubleshooting
+Scrum process, Agile methodology, Fuzzy inference system, Effort estimation
+filters, Fuzzy logic controller, Image preprocessing, Edges, membership functions
+Energy efficiency, LEACH, Fuzzy logic control, The wireless sensor networks, Hot spot problem, CHEF
+mobile robot, heading control, response analysis, fuzzy logic
+Interval Type-2 fuzzy controller, disturbance rejection, parameter variations, inverted pendulum system
+Linguistic Fuzzy-Logic Control, Control, Sensitive System, Fuzzy Logic, Automatic Setting, Context
+Financial risk assessment, Fuzzy logic, Decision support system, Machine learning, Hybrid models
+linguistic variables, aufeis hazard, underground water, main pipelines, flood ice, fuzzy rule base component, membership function, fuzzy logic
+navigation obstruction, shipwreck, navigational safety, fuzzy logic
+virtual sensors, genetic algorithm, mobile robot, camera, fuzzy logic
+Fuzzy Logic Controller, Target Tracking, Doppler Effect, Radar System
+Voltage., Fuzzy controller, Dynamic Voltage Restorer, Proportional Integral, Adaptive fuzzy Proportional Integral
+low speed rotation, rolling rotor, sun tracking, fuzzy logic control
+adaptive Luenberger observer, induction motor drive, direct field oriented control, Fuzzy logic controller, low speeds, PI controller
+Newton law of motion, Artificial Intelligence, Fuzzy logic controller, Mathematical model, specialized computers
+Fuzzifier, Defuzzifier, Antenna array, Rule — base, Array synthesis, Inference engine, Fuzzy logic, Side Lobe Level, Fuzzy logic controller, Radiation Pattern
+MPPT, Fuzzy Logic, Boost converter
+permanent magnet synchronous generator (PMSG), Maximum power point tracking (MPPT), dimensional fuzzy logic controller (DFLC), Wind turbine (WT)
+Touchless Button, Covid-19, Elevator, PLC, Fuzzy Logic
+Image processing, spatial domain, spline, contrast enhancement, interpolation, histogram equalization, fuzzy logic
+Fuzzy logic, control, permanent magnet synchronous machines
+Membership function, Line regulation, Quadratic Boost Converter (QBC), Fuzzy Logic Controller (FLC), Linguistic variables, DC-DC converter
+Nonlinear Disturbance Observer(NDO), Pneumatic Artificial Muscle(PAM), Trajectory Tracking Control, T-S Fuzzy Logic Control
+Fuzzy logic, Polymer flooding injection, Genetic algorithm, Intelligent decision-making system
+component, Whale optimization algorithm, forecasting, interval type-2 fuzzy logic system, wind power
+DNA fuzzy inference engine, fan-out gate, maximum gate, DNA computing, minimum gate
+Robotic Arm, Control System, Sampling Algorithm, Matlab-Simulink, Mechatronic System, Soft Computing, MSC Adams, Co-simulation, Trajectory Tracking, Fuzzy Logic
+Fuzzy Logic System, Determinate, Shape Index, Hybrid, Membership Functions
+Fuzzy Logic, Handover, Cellular networks
+Keywords not found
+vanadium redox flow battery, wind farm, hybrid energy-storage system, PV farm, supercapacitor, adaptive fuzzy logic controller, power smoothing, multi-machine system.
+Demand Load Management, Fuzzy Logic, Energy Management, Smart Thermostat
+vehicle, collision prediction, anti-collision, fuzzy logic
+ISE, CSTR, PID, Fuzzy logic controller (FLC), Ziegler Nicholas, LabVIEW
+Fuzzy Logic System, Simpful, Microsoft Azure, Mamdani, Takagi-Sugeno-Kang, Ambient Intelligence, Fuzzy Inference System
+steam distillation, Fuzzy Logic controller, steam temperature
+Dynamic Webster Dynamic Cycle Time (DWDC), Fuzzy Logic with Accident Detection, Fuzzy Logic theory, Intelligent traffic control system
+MPPT, Fuzzy Logic, Incremental Conductance, Boost Converter
+MPPT, Fuzzy Logic, Fuzzy Type 2, DC-DC Boost Convertor
+android application, GPS, fuzzy logic
+single-input fuzzy logic control, load frequency control, fuzzy logic control, power system
+fuzzy logic analysis, power control software, SCADA with fuzzy logic
+photovoltaic system, intelligent algorithm, intelligent control, PID-Fuzzy controller, fuzzy logic
+smart system, Fuzzy logic-based system, PoseNet, abnormal behavior detection
+potato grading, Image acquisition, conveyor belt assembly, fuzzy logic
+enhancement, fuzzy logic
+Yager's fuzzy complement, aggregation, intuitionistic fuzzy set, Sugeno's fuzzy complement,   $q$  -rung orthopair fuzzy set
+possibility theory, Fuzzy control, rule extraction, fuzzy sets, fuzzy logic
+fuzzy logic controller, event-driven, fast frequency response, frequency stability
+Concretion based Boolean Relations, Buck-Boost, Defuzzification, Non-linear Dynamic Systems, Fuzzy Logic
+BBHE, SSIM, Fuzzy logic, PSNR, DE, UIQI, HE, NCC
+Network lifetime, Energy efficiency, Zone, Fuzzy logic, Wireless Sensor Networks, Heterogeneous nodes, Clustering
+magnetic sensor, data fusion, target monitoring, fuzzy logic theory, decision-making
+SVC, FACTS, Voltage Control, Fuzzy Logic
+PV Panel, Fault detection, ControlDesk DS1104., Diagnosis, Fuzzy Logic
+gene expression programming, crop classification, fuzzy logic
+fuzzy Expert system, recognition, LFE algorithm, headache
+Fuzzy logic, DGA, Health index, Power transformer, insulation condition
+Dual-axis tracker, light dependent resistor (LDR), styling, solar renewable energy, sunlight intensity method, fuzzy logic
+beamformer, production rules, SMART systemss, spatial barrier, radiation pattern, phased antenna arrays, fuzzy logic
+Fully-connected Neural Network, Fuzzy Logic Classification, Long Short-Term Memory, Recurrent Neural Network, Anger Detection
+Buried magnet permanent magnet synchronous machine, Sensorless control, Fuzzy logic, Permanent magnet motors, Direct flux control
+Security, Rogue Node, DoS, Wi-Fi, Fuzzy Logic, Wlan
+Fuzzy Set, Fuzzy-based Disease Inference Module, Fuzzy Rules, Fuzzy-based Disease Rules Module, conditional support
+computer simulation, graphical programming environment, Matlab software, engineering education, Fuzzy logic control, renewable heat energy
+transient response, PV array, fuzzy logic, proportional integral derivative controller
+coconut fruit, maturity stage, cocos nucifera, image analysis, sound spectral analysis, fuzzy logic
+and Smart Meter, Fuzzy Logic, Load Shedding, Artificial Intelligence
+regular epidemic prevention, human comfort, fuzzy logic algorithm, ventilation management
+Induction Motor, Modeling, Stator current amplitude, Diagnosis, Fuzzy logic, Simulation, Electrical Faults
+Flood Detection, Flood Monitoring System, Internet of Things (IoT), Low Power, Fuzzy Logic, LoRa
+asset identification, firewall, risk assessment, network security, fuzzy logic
+MATLAB/Simulink, MPPT, PI, Photovoltaic, Fuzzy Logic, DC-DC
+Fuzzy logic, Historical Figure, Puzzle, Educational Game
+Thermometer, IoT, Healthcare, Monitoring, Digital, Logic fuzzy
+Induction Motor, Fault Detection, Stator, Fuzzy Logic, Dynamic Model
+PI Fuzzy logic controller, DC DC power converters, Photovoltaic system, Voltage control system, PID controller, SEPIC Converter, Raspberry Pi 3 Board
+FIS, DWT, Fuzzy logic, Fusion, FIP, MSE
+vertical handoff, motion trend, fuzzy logic
+Artificial Neural Networks, Adaptive Neuro-Fuzzy Inference System, Fuzzy Logic, ECG classification
+Quadrotor, AR.Drone, target tracking, Identification, fuzzy logic
+Fuzzy Logic Controller, Obstacle Avoidance, Path Planning
+local analysis, context speculation, mobile terminal, Crowd-sensing, fuzzy logic
+Learner Model, Fuzzy Logic, Working Memory Capacity
+Fuzzy Logic Controller, PID controller, CUK converter, MATLAB Simulink, power factor correction circuits
+Safety Fuzzy Logic Controller (SFLC), Average Probability of failure on demand (PFDavg), Safety Integrity Level (SIL), 2 out of 3 architecture (2003), Reliability Block Diagram (RBD), 1 out of 2 architecture (1002), Fault Tree Analysis (FTA)
+THD, Sliding mode, Grid-connected PV System, Current source inverter (CSI), Fuzzy Logic
+Switching Frequency, TCSC, Modulation Index, Fuzzy Logic Control
+Observer, Evolutionary optimization, Triple vertical pendulum, Fuzzy logic, Controller, LQR
+GUI, Early Warning, Decision Support, GIS, ICT Mobile Devices, Open Source, Fuzzy Logic, Risk mitigation, Health Service Delivery
+forensic investigation, forensic data sensitivity, forensic report, IoT server, investigator expertise, fuzzy logic
+expert system, Discus, disease, diagnosis, fuzzy logic
+MPPT Fuzzy logic controller, incremental conductance algorithm, buck-boost converter, perturb and observe algorithm
+Batteries, Fuzzy Logic control, Airborne gravity, power decision
+drilling operaion system, fuzzy logic controller, intelligent system
+Nonstrict-feedback, indirect adaptive control, dynamic scaling, smooth switching, dynamic surface control, fuzzy logic system
+Reinforcement Learning, Fuzzy Logic, Flying Ad-Hoc Network, Routing.
+SRM, MATLAB/Simulink, ANN, fuzzy logic
+torque ripple, fuzzy logic rules, Switched reluctance motor, current chopping control
+dc-dc buck converter, incremental negative resistance, multiconverter, constant power load, fuzzy logic controller
+braking system, mamdani, fuzzy logic control
+RNA sequencing, nitrogen, gene expression, rice, fuzzy logic
+rehabilitation, wearable, stroke, exoskeleton, learning, Electromyography (EMG), fuzzy logic
+XAI, FRBS, Fuzzy, Time Series, Explainable
+Instructional style (INST), Fuzzy logic, IQP, E-learning, learning algorithm (L.A.), Courseware
+Goods Carrier Robot, Fuzzy Logic Control Mamdani, Speed Introduction, Weight
+trigger, FPGA, neural network, Pierre Auger Observatory, fuzzy logic
+generalized effective inference, fuzzy propositional calculus system ℋ, integral truth degree
+Matlab/Simulink, Fuzzy Logic Controller, Controlled converter, DC/DC buck converter
+Proton exchange membrane fuel cell, electrochemical impedance spectroscopy, fault diagnosis, water management, fuzzy logic
+Discrete Pulse Width Modulation, Fuzzy Logic Controller, dqo transformation, Dynamic Voltage Restorer, Voltage Sag, Phase-Lock-Loop (PLL), Harmonics, PI Controller
+Pitch angle, Fluctuation, Fuzzy logic, Wind turbine, SCIG, Design, Controller
+Gas sensor, Fuzzy Logic, Robot arm
+it Fuzzy logic, WECS, Pitch angle, MPPT, Wind turbine, PI
+Fuzzy logic, Clustering protocol, Energy-saving model, MOML
+back to back converter, PMSG, wind turbine generator, pitch angle control, fuzzy logic
+thermal comfort, environmental parameters, HVAC system, intelligent control, fuzzy logic control
+consensus, fuzzy logic, fan controller
+sepak takraw, Dempster-Shafer theory, kicking range, fuzzy logic
+fuzzy control, type-2 fuzzy set, simulation, interval type-2 fuzzy logic system
+energy management strategy, hybrid energy system, fuel cell, fuzzy logic control
+Fuzzy logic controller, tuning membership function, autonomous underwater vehicles
+fuzzy logic., Permanent magnet synchronous motor, Predictive direct Torque control, function objective, two level voltage source inverter
+Permanent Magnet Synchronous Motor, Direct Torque Control, Extended State Observer, Field Oriented Control, Fuzzy Logic
+signed distance/single input fuzzy logic controller (SDFLC/SIFLC), DC-DC power converter, sliding mode controller (SMC), Floating interleaved boost converter
+Fault Detection, Fuzzy Logic, Condition Monitoring, Induction Motor
+Fuzzy Logic, Vehicle to Vehicle, Visible Light Communication, Brake
+fuzzy logic inference, network activity, anomaly detection, association rules
+fuzzy logic controller, islanded mode, voltage source inverter
+Fuzzy logic, Sentiment Analysis, TnT tagger
+voltage-source converter, SMES, fuzzy logic control
+augmented reality, geolocation, type-2 fuzzy logic systems, field service
+PSO, wave energy converter, WEC, Wave energy, fuzzy logic controller
+kaneka GSA-60, Fuzzy Logic, Maximum Power Point Tracking, asynchrouns machine
+Battery management, temperature monitoring, fuzzy logic controller
+reactive power, FACTS, Adaptive fuzzy logic control, power quality, DSTATCOM, power factor
+renewable energy, distribution grid, intelligent control, Wind, fuzzy logic
+universal approximators, intuitionistic fuzzy residual implication, SISO intuitionistic fuzzy system, intuitionistic fuzzy inference, Intuitionistic fuzzy triangular norm
+interfacial tension, carbondioxide, insulation, degree of polymerization, carbonmonoxide, oil, transformer, paper, Fuzzy logic algorithm, acidity
+depth control, Fuzzy Logic Controller, Autonomous Underwater Vehicle, Six Degrees of Freedom, Phase Lead Compensator, Center of mass(COM), Proportional-Integral-Derivative (PID) controller
+Fuzzy Logic Controller, Power quality conditioner, Membership function, series active filter, current harmonics, VSI, DC link voltage, hysteresis controller
+social, routing, fuzzy logic, VANETs
+target trajectory, mobile robot, electric wheelchair, trajectory tracking, autonomous navigation, fuzzy logic controller
+Controller design, Power System Stabilizer, Fuzzy Logic
+wireless sensor network, Wireless Arbitration, real-time, deterministic, fuzzy logic
+Two-wheel Lego EV3 Robot and Stabilization, Fuzzy Logic controller
+Dissolved gas analyses (DGA), Di-electric strength (DES), Fuzzy inference system (FIS), Rule base Fuzzy logic approach, Health index, Power transformer, Capacitance and dissipation factor (C and DF), membership functions
+Sentiment analysis, ASFuL, Fuzzy logic, Aspect, Sentiment summarization
+frequency excursions, adaptive wind power command, frequency control, fuzzy logic approach, microgrid
+Fuel Cells, Fuzzy Logic Control (FLC), Experimental FC system, Maximum Efficiency Point Tracking (MEPT)
+Keywords not found
+Fuzzy logic based MPPT, PV array, Grid tie solar inverter, Boost Converter
+WSNs, localisatin, fuzzy logic
+Delta Parallel Robot, Interval Type-2 Fuzzy Logic Control, Resilient Systems
+Fuzzy Logic, Pulse Width Modulation, Dc-Dc converter, Adaptive PID Controller
+performance indicator, Aggregation, green supply chain, fuzzy logic
+Wireless sensor networks, flat routing, fuzzy logic
+Fuzzy Logic Controller, Renewable Energy, DC-DC Boost Converter, Duty Cycle

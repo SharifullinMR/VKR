@@ -1,0 +1,1100 @@
+Time measurement, Technological innovation, Velocity control, Fuzzy logic, Performance analysis, Uncertainty, Trajectory tracking
+Reactive power, Standards, Algebra, Fuzzy logic, Semantics, Natural languages, Context
+Fuzzy sets, Pragmatics, Decision making, Fuzzy logic, Lighting, Uncertainty, Indexes
+Electrical engineering, Alarm systems, Developing countries, Error analysis, Rain, Fuzzy logic, Process control
+Diseases, Medical diagnostic imaging, MATLAB, Fuzzy logic, Medical diagnosis, Automation
+Time factors, Modulation, Knowledge representation, Fuzzy logic, Logic programming, Fuzzy reasoning
+Fault tolerance, Actuators, Fuzzy logic, Uncertainty, Process control, Simulation, Fault tolerant systems
+Fuzzy sets, Accuracy, Fuzzy logic, Fuzzy systems, Uncertainty, Data models, Vectors
+Electronic countermeasures, Partitioning algorithms, Algorithm design and analysis, Fuzzy logic, Data mining, Clustering algorithms, Computers
+Fuzzy logic, Adaptive control, Numerical models, Process control, Mathematical model, Adaptation models
+Gaussian noise, Detectors, Fuzzy logic, Image edge detection, Fuzzy systems, Uncertainty, Mathematical model
+Tuning, Furnaces, Heating, Fuzzy logic, Process control, Mathematical model
+Fuzzy logic, Neurons, Fuzzy control, Training, Educational institutions, Neural networks, Fuzzy neural networks
+Sensors, Kinematics, Wheels, Fuzzy logic, Mobile robots, Mathematical model
+Generators, Fuzzy sets, Pragmatics, Fuzzy logic, Genetic algorithms, Training data
+Fuzzy sets, Pragmatics, Fuzzy logic, Fuzzy systems, Uncertainty, Mathematical model, Data models
+Engines, Fuzzy sets, Frequency selective surfaces, Fuzzy logic, Firing, Uncertainty, Mathematical model
+Cryptography, Fuzzy sets, Diseases, Lesions, Fuzzy logic, Uncertainty, Atrophy
+Power capacitors, Generators, Power system stability, Stability analysis, Fuzzy logic, Thyristors, Mathematical model
+Fuzzy sets, Shape, Input variables, Pragmatics, Fuzzy logic, Equations, Uncertainty
+Fuzzy sets, Signal to noise ratio, Frequency selective surfaces, Fuzzy logic, Estimation, Uncertainty, Noise level
+Moon, Nonlinear dynamical systems, Fuzzy logic, Uncertainty, Aerospace electronics, Signal generators, Games
+Benchmark testing, Statistics, Sociology, Frequency selective surfaces, Heuristic algorithms, Fuzzy logic, Fuzzy systems
+Linguistics, Fuzzy sets, Diseases, Fuzzy logic, Uncertainty, Pain
+Predictive models, Satellites, Fuzzy logic, Machine learning algorithms, Prediction algorithms, Classification algorithms, Data models
+Fuzzy sets, Power system stability, Fuzzy logic, Fuzzy systems, Maintenance engineering, Uncertainty
+Cognition, Automata, Standards, Fuzzy logic, Semantics, Computational modeling, Mathematical model
+Wind speed, Probabilistic logic, Probability density function, Fuzzy logic, Particle swarm optimization, Uncertainty
+Aerospace control, Atmospheric modeling, Airplanes, Fuzzy logic, Fuzzy systems, Uncertainty, Steady-state
+Fuzzy logic, Fuzzy systems, Brushless DC motors, Mathematical model, Induction motors
+Fuzzy sets, Cognition, Artificial intelligence, Fuzzy logic, Possibility theory, Uncertainty, Computers
+Wind speed, Wind turbines, Wind power generation, Batteries, Fuzzy logic, Wind energy, Switches
+Fuzzy sets, Rough sets, Blood pressure, Sociology, Pragmatics, Fuzzy logic, Fuzzy set theory
+Fuzzy sets, Expert systems, Tongue, Fuzzy logic, Fuzzy systems, Uncertainty, Visualization
+Fuzzy sets, Fingers, Fuzzy logic, Bars, Uncertainty, Robots, Mathematical model
+Fuzzy sets, Noise, Atmospheric modeling, Fuzzy logic, Airplanes, Fuzzy systems, Uncertainty
+Fuzzy sets, Standards, Probability density function, Fuzzy logic, Uncertainty, Fuzzy set theory, Random variables
+Education, Software, Humans, Fuzzy logic, Computational modeling, Data models, Computers
+Approximation algorithms, Fuzzy sets, Fuzzy logic, Fuzzy systems, Uncertainty, Mathematical model, Intelligent systems
+Fuzzy sets, Diseases, Medical diagnostic imaging, Fuzzy logic, Databases, Heart, Clustering algorithms
+Fuzzy logic, Algebra, Mathematical model, Fuzzy set theory
+Stability analysis, Fuzzy logic, Computational modeling, Surges, Adaptive control, Approximation methods, Adaptation models
+Fuzzy sets, Pragmatics, Decision making, Fuzzy logic, Fuzzy systems, Uncertainty, Educational institutions
+Kalman filters, Algorithm design and analysis, Optimization, Fuzzy logic, Fuzzy systems, Uncertainty, Linear programming
+Fuzzy sets, Input variables, Expert systems, Fuzzy logic, Fuzzy systems, Performance evaluation, Educational institutions
+Engines, Fuzzy sets, Pragmatics, Fuzzy logic, Genetic algorithms, Knowledge based systems, Loading
+Harmonic analysis, Reactive power, Active filters, Power harmonic filters, Fuzzy logic, Uncertainty
+Evolutionary computation, Fuzzy sets, Control systems, Fuzzy logic, Fuzzy control, Genetic algorithms, Biological cells
+Fuzzy sets, Electronic learning, Engineering education, Fuzzy logic, Task analysis, Fuzzy set theory, Automation
+Storage tanks, Pragmatics, Fuzzy logic, Fuzzy systems, Valves, Uncertainty, Mathematical model
+Fuzzy sets, Fuzzy logic, Computational modeling, Medical diagnosis, Tin, Educational institutions, Fuzzy reasoning
+Fuzzy sets, Pricing, Investment, Decision making, Fuzzy logic, Uncertainty, Fuzzy set theory
+Engines, Fuzzy sets, Angular velocity, Control systems, Fuzzy logic, Uncertainty, Mathematical model
+Fuzzy sets, Vehicles, Fuzzy logic, Fuzzy systems, Uncertainty, Analytical models, Real time systems
+Multivalued logic, Upper bound, Semantics, Fuzzy logic, Cost accounting, Convergence, Abstracts
+Telescopes, Position control, Torque, Fuzzy logic, Uncertainty, Permanent magnet motors
+Fuzzy sets, Standards, Fuzzy logic, Semantics, Description logic, Knowledge based systems, Complexity theory
+Benchmark testing, Sociology, Statistics, Frequency selective surfaces, Heuristic algorithms, Fuzzy logic, Fuzzy systems
+Keywords not found
+Fuzzy sets, Atmospheric modeling, Signal to noise ratio, Fuzzy logic, Fuzzy systems, Aerospace electronics, Aircraft
+Fuzzy sets, Wind speed, Control systems, Power generation, Fuzzy logic, Uncertainty, Wind energy
+Fuzzy sets, Cognition, Business intelligence, Fuzzy logic, Neural networks, Fuzzy neural networks
+Linguistics, Strategic planning, Fuzzy logic, Information technology, Decision support systems, Knowledge based systems, Surface acoustic waves
+Fuzzy sets, Fuzzy logic, Optimization, Genetic algorithms, Fuzzy systems, Immune system, Uncertainty
+Predictive models, Stability analysis, Fuzzy logic, Mathematical model, Predictive control, Adaptation models
+Helicopters, Cameras, Technological innovation, Fuzzy logic, Target tracking, Visualization, Autonomous aerial vehicles
+Standards, Fuzzy logic, Semantics, Conferences, Fuzzy systems, Fuzzy set theory
+Computer crashes, Kinetic energy, Vehicles, Pragmatics, Vehicle crash testing, Fuzzy logic, Mathematical model
+Algorithm design and analysis, Frequency selective surfaces, Power systems, Fuzzy logic, Optimization, Computational modeling, Uncertainty
+Nonlinear systems, Fuzzy logic, Particle swarm optimization, Uncertainty, Trajectory tracking, Simulation, Mathematical models
+Filling, Fuzzy logic, Conferences, Fuzzy systems, Absorption
+Torque, Hybrid electric vehicles, Fuzzy logic, Batteries, System-on-a-chip, Ice
+Real-time systems, Detectors, Field programmable gate arrays, Fuzzy logic, Image edge detection, Hardware, Computer architecture
+Fuzzy sets, Robot sensing systems, Collision avoidance, Fuzzy logic, Noise measurement, Trajectory
+Adaptive systems, Noise, Nonlinear systems, Firing, Fuzzy logic, Fuzzy neural networks
+Fuzzy sets, Cognition, Pragmatics, Fuzzy logic, Semantics, Natural languages, Educational institutions
+Synchronous motors, Torque, Velocity control, Fuzzy logic, Induction motors, Stators, Permanent magnet motors
+Cognition, Noise, Fuzzy sets, Three dimensional displays, Fuzzy logic, Noise measurement, Pixel
+Fuzzy sets, Fuzzy logic, Fuzzy control, Trajectory, Robots, Mathematical model
+Morphology, IP networks, Algorithm design and analysis, Detectors, Statistical analysis, Image edge detection, Hysteresis
+Base stations, Energy consumption, Protocols, Spread spectrum communication, Fuzzy logic, Wireless communication, Wireless sensor networks
+Fuzzy sets, Probabilistic logic, Probability density function, Fuzzy logic, Time series analysis, Probability, Correlation
+Cameras, Control systems, Fuzzy logic, Fuzzy systems, Design methodology, Signal generators, Games
+Education, Fuzzy sets, Urban areas, Information and communication technology, Fuzzy logic, Inference algorithms, Geology
+Fuzzy sets, Cognition, Expert systems, Fuzzy logic, Medical diagnosis, Uncertainty, Fuzzy reasoning
+Computer crashes, Vehicles, Accidents, Fuzzy logic, Injuries, Roads, Fuzzy systems
+Fuzzy sets, Robot sensing systems, Frequency selective surfaces, Fuzzy logic, Measurement uncertainty, Uncertainty, Joints
+Fuzzy sets, Cognition, Fuzzy logic, Medical diagnosis, Uncertainty, Educational institutions, Fuzzy reasoning
+Fuzzy logic, Software engineering
+Engines, Fuzzy sets, Fuzzy logic, Inference algorithms, Computational complexity, Approximation methods, Tin
+Fuzzy sets, Sugar, Fuzzy logic, Knowledge representation, Educational institutions, Fuzzy reasoning
+Fuzzy sets, Takagi-Sugeno model, Frequency selective surfaces, Uncertainty, Switches, Automation
+Fuzzy sets, Kinematics, Actuators, Fuzzy logic, Uncertainty, Vectors
+Sensors, Artificial intelligence, Accidents, Pragmatics, Roads, Fuzzy logic, Educational institutions
+Fuzzy logic, Medical expert systems, Fuzzy sets, Fuzzy reasoning
+Fuzzy sets, Cognition, Fuzzy logic, Semantics, Microscopy, Fuzzy set theory, Semiconductor optical amplifiers
+Artificial intelligence, Frequency selective surfaces, Fuzzy logic, Computational complexity, Computational modeling, Uncertainty, Computer architecture
+Fuzzy sets, Materials, Employment, Rain, Fuzzy logic, Association rules, Approximation methods
+Fuzzy sets, Diseases, Cognition, Fuzzy logic, Uncertainty, Ontologies, Diabetes
+Fuzzy logic, Uncertainty, Fuzzy sets, Probability density function
+Sensors, Velocity control, Fuzzy logic, Brushless DC motors, Mathematical model
+Cognition, Fuzzy sets, Pragmatics, Uncertainty, Computers, Lattices
+Nonlinear dynamical systems, Fuzzy logic, Fuzzy systems, Approximation methods, Robots, Adaptation models
+Industrial engineering, Pulse width modulation, Fuzzy logic, Libraries, Matlab, Shafts, Hardware
+Buildings, Fuzzy logic, Lighting, Visualization, Ventilation
+Scientific computing, Interoperability, Fuzzy logic, Computational modeling, Measurement uncertainty, Uncertainty, Data models
+Companies, Decision making, Fuzzy logic, Task analysis, Fuzzy control, Performance analysis, Indexes
+Fuzzy sets, Decoding, Integrated circuit modeling, Distortion, Decision making, Fuzzy logic, Decentralized control
+Fuzzy sets, Algorithm design and analysis, Magnetic levitation, Fuzzy logic, Rotors, Uncertainty, Mathematical model
+Fuzzy sets, Cognition, Fuzzy logic, Fuzzy systems, Fuzzy set theory, Educational institutions, Boundary conditions
+Collision avoidance, Fuzzy logic, Mobile robots, Robot kinematics, Uncertainty, Navigation
+Cognition, Software, Computer science, Fuzzy logic, Uncertainty, Machine learning, Power engineering
+Fuzzy logic, Information systems, Buildings, Ontologies
+Genetics, Fuzzy logic, Rubber, Forecasting, Genetic algorithms, Fuzzy systems, Mathematical model
+Arrays, Integrated circuit modeling, Fuzzy logic, Fuzzy control, Photovoltaic systems
+Object tracking, Robustness, Weight measurement, Fuzzy logic, Histograms, Visualization, Color
+Voltage control, Torque, Power system stability, Tuning, Oscillators, Fuzzy logic, Rotors
+Vehicles, Algorithm design and analysis, Artificial intelligence, Roads, Fuzzy logic, Genetic algorithms, Signal processing algorithms
+Fuzzy sets, Kinematics, Fuzzy logic, Analytical models, Trajectory, Mathematical model, Predictive control
+Soil moisture, Moisture, Water resources, Fuzzy logic, Fuzzy control, Irrigation
+Benchmark testing, Search problems, Algorithm design and analysis, Heuristic algorithms, Optimization, Fuzzy logic, Fuzzy systems
+Market research, Predictive models, Fuzzy logic, Time series analysis, Training, Deep learning, Neural networks
+Torque, Fuzzy logic, Rotors, Induction motor drives, Mathematical model, Stators
+Fuzzy sets, Xenon, Frequency selective surfaces, Fuzzy logic, Uncertainty, Steady-state, Switches
+Fuzzy sets, Delays, Fuzzy logic, Uncertainty, Packet loss, Queueing analysis
+Microcontrollers, Tools, Cows, Sociology, Fuzzy logic, Pregnancy, Process control
+Fuzzy sets, Gravity, Fuzzy control, Frequency modulation, Bismuth, Neural networks
+Predictive models, Hydrogen storage, Fuzzy logic, Hydrogen, Temperature control, Predictive control, Simulation
+Predictive models, Fuzzy sets, Fuzzy logic, Fuzzy control, Computational modeling, Monitoring, Alcoholic beverages
+Robot sensing systems, Liquids, Fuzzy logic, Fuzzy systems, Navigation
+Fuzzy sets, Communities, MATLAB, Fuzzy logic, Fuzzy systems, Java
+Linguistics, Modeling, Standards, Probabilistic logic, Fuzzy systems, Uncertainty, Knowledge engineering
+Interpolation, Transient analysis, Control systems, Fuzzy logic, Fuzzy control, Process control, Steady-state
+Fuzzy logic, White noise, Manipulators, MATLAB
+Vibrations, Manipulator dynamics, Fuzzy logic, Equations, Mathematical model
+Fuzzy sets, Artificial intelligence, Fuzzy logic, Mobile robots, Robot kinematics, Games
+Fuzzy sets, Cognition, Sensors, Fuzzy logic, Robot kinematics, Uncertainty
+Fuzzy sets, Water pollution, Oxygen, Fuzzy logic, Aquaculture, Fish, Temperature sensors
+Algorithm design and analysis, Pragmatics, Fuzzy logic, Prediction algorithms, Classification algorithms, Data mining, Clustering algorithms
+Routing protocols, Throughput, Decision making, Reliability, Fuzzy logic, Uncertainty, Mathematical models
+Fuzzy sets, Torque, Wheels, Fuzzy logic, Gravity, Mobile robots, Mathematical model
+Fuzzy sets, Detectors, Fuzzy logic, Image edge detection, Uncertainty, Euclidean distance, Filtering
+Image color analysis, Detectors, Fuzzy logic, Image edge detection, Fuzzy systems, Color
+Voltage control, Buck converters, Fuzzy logic, Uncertainty, Steady-state, Mathematical model, Switches
+Companies, Fuzzy sets, Fuzzy logic, Risk management, Estimation, Logistics, Educational institutions
+Distribution networks, Temperature distribution, Accuracy, Fuzzy logic, Forecasting, Schedules
+Engines, Velocity control, Fuzzy logic, Fuzzy control, Process control, Induction motors
+Fuzzy sets, Decision making, Fuzzy logic, Conferences, Decision support systems, Risk management
+Engines, Biological system modeling, Fuzzy sets, Finite element analysis, Fuzzy logic, Uncertainty, Mathematical model
+Temperature measurement, Meteorology, Fuzzy logic, Charge coupled devices, Fuzzy systems, Monitoring, Sensor fusion
+Fuzzy sets, Fuzzy logic, Computational complexity, Uncertainty, Mathematical model
+Fuzzy sets, Power system stability, Stability analysis, Probabilistic logic, Fuzzy logic, Uncertainty, Mathematical model
+Temperature measurement, Energy efficiency, Prototypes, Fuzzy logic, Humidity, Costs, Mathematical models
+Linear matrix inequalities, Polynomials, Fuzzy logic, Noise measurement, Fuzzy systems, Silicon, Knowledge engineering
+Niobium, Networked control systems, Fuzzy logic, Delay, Equations, Mathematical model, Delay effects
+Fuzzy logic, Particle swarm optimization, Equations, Fuzzy systems, Mathematical model, DC motors, Acceleration
+Torque, PD control, Fuzzy logic, Brushless DC motors, Steady-state, Mathematical model, Simulation
+Fuzzy sets, Fuzzy logic, Uncertainty, Process control, Simulation, Fuzzy reasoning
+Cameras, Fuzzy sets, Calibration, Image color analysis, Fuzzy logic, Microscopy, Lighting
+Insulators, Pragmatics, Fuzzy logic, Mathematical model, Current measurement, Aging, Epoxy resins
+Algorithm design and analysis, Fuzzy logic, Inference algorithms, Decision support systems, Simulation, Indexes
+Linguistics, Fuzzy sets, Control systems, Fuzzy logic, Inference algorithms, Process control, Navigation
+Gases, Power transformer insulation, Strain, Fuzzy logic, Oils, Oil insulation
+Transmission line measurements, Fuzzy sets, Robot sensing systems, Fuzzy logic, Rotors, Uncertainty
+Fuzzy sets, Electronic mail, Fuzzy logic, Uncertainty, Visualization, Educational institutions, Computer aided software engineering
+Fuzzy sets, Torque, Pulse width modulation, Fuzzy logic, Uncertainty, Induction motors, Vectors
+Algorithm design and analysis, Robustness, Transforms, Fuzzy logic, PSNR, Image reconstruction, Watermarking
+Production, Manipulators, Robot sensing systems, Shape, Sensor systems, Fuzzy logic, Color
+Harmonic analysis, Power system stability, Power filters, Active filters, Passive filters, Fuzzy logic, Hybrid power systems
+Sports, Robot sensing systems, Fuzzy logic, Mobile robots, Robots, Hardware, DC motors
+Niobium, Velocity control, Fuzzy logic, Genetic algorithms, Mathematical model, DC motors, Biological cells
+Regulators, Fuzzy logic, Personnel, Computational modeling, Training, Fuzzy reasoning, Mathematical models
+Real-time systems, Fuzzy logic, Fuzzy control, Unmanned aerial vehicles, Trajectory, Trajectory tracking, Steady-state
+Fuzzy logic, Routing, Packet loss
+Path planning, Collision avoidance, Heuristic algorithms, Fuzzy logic, Fuzzy control, Mobile robots, Planning
+Feature extraction, Support vector machine classification, Speech, Fuzzy logic, Vectors, Mel frequency cepstral coefficient, Databases
+Data science, Temperature distribution, Cloud computing, Fuzzy logic, Conferences, Temperature control, Soil
+Linguistics, Syntactics, Transforms, Fuzzy logic, Semantics, Set theory, Inference algorithms
+Adaptive systems, Sensors, Actuators, Fuzzy logic, Payloads, Couplings, Adaptation models
+Gases, Power transformer insulation, Fuzzy logic, Oils, IEC, Oil insulation
+Adaptive systems, Fuzzy sets, Artificial intelligence, Fuzzy logic, Hidden Markov models, Credit cards, Databases
+Fuzzy sets, Visualization, Medical diagnostic imaging, Pragmatics, Fuzzy set theory, Cultural differences, Pain
+Support vector machines, Fuzzy sets, Kernel, Fault detection, Accuracy, Fuzzy logic, Testing
+Predictive models, Fuzzy sets, Fuzzy logic, Time series analysis, Training, Computational modeling, Uncertainty
+Fuzzy logic, Training, Fuzzy systems, Uncertainty, Image recognition, Mathematical model, Neural networks
+Gaussian noise, Detectors, Fuzzy logic, Image edge detection, Fuzzy systems, Uncertainty
+Adaptive systems, Algorithm design and analysis, Mobile communication, Vehicles, Bandwidth, Fuzzy logic, Mobile computing
+Traffic control, Fuzzy sets, Instruments, Pragmatics, MATLAB, Fuzzy logic, Fuzzy systems
+Fuzzy sets, Electronic mail, Fuzzy logic, Conferences, Fuzzy systems, Uncertainty
+Genetics, Fuzzy sets, Frequency selective surfaces, Fuzzy logic, Optimization, Genetic algorithms, Fuzzy systems
+Animals, Pragmatics, Fuzzy logic, Humidity, Cognitive radio, Fans, Agriculture
+Fuzzy sets, Gaussian noise, Pragmatics, Fuzzy logic, Inference algorithms, Computational modeling
+Wireless networks, Algorithm design and analysis, Bandwidth, Load modeling, Fuzzy logic, Load management, Wireless LAN
+Diseases, Humans, Fuzzy logic, Breast cancer, Mathematical model, Computers
+Software, Temperature, Sensitivity, Fuzzy logic, Temperature sensors, Costs, Software algorithms
+Image fusion, Algorithm design and analysis, Fuzzy logic, Image segmentation, Signal processing algorithms, Fuzzy systems, Educational institutions
+Genetics, Fuzzy sets, Heuristic algorithms, Fuzzy logic, Genetic algorithms, Uncertainty, Planning
+Fuzzy sets, Shape, Fuzzy logic, Mathematical model, Transfer functions, Reduced order systems, Computers
+Fuzzy sets, Electronic mail, Shape, Fuzzy logic, Computational modeling, Uncertainty, Analytical models
+MATLAB, Fuzzy logic, Temperature control, Process control, Zirconium
+Fuzzy sets, Buildings, Fuzzy logic, Ontologies, Context, Lattices
+Companies, Fuzzy logic, Computational modeling, Equations, Uncertainty, Mathematical model
+Predictive models, Paints, Estimation, Fuzzy logic, Spraying, Educational institutions
+Benchmark testing, Algorithm design and analysis, Heuristic algorithms, Fuzzy logic, Optimization, Fuzzy systems, Uncertainty
+Microcontrollers, Robot sensing systems, Servomotors, Fuzzy logic, Mobile robots, Testing
+Torque, Robustness, Fuzzy logic, Sliding mode control, Mathematical model, Circuit faults, Radio frequency
+Pragmatics, Load modeling, Fuzzy logic, Load flow control, Fuzzy systems, Load management, Mathematical model
+Market research, Predictive models, Fuzzy sets, Forecasting, Time series analysis, Uncertainty, Indexes
+Industrial engineering, Software, Transient analysis, Control systems, Fuzzy logic, Process control, Automation
+Cameras, Delays, Automobiles, Decision making, Roads, Fuzzy logic
+Fuzzy logic, Control systems, Production, DC motors
+Fuzzy sets, Tutorials, Frequency selective surfaces, Fuzzy logic, Optimization, Uncertainty
+Decision support systems, Mercury (metals)
+Fuzzy logic, Wireless sensor networks, Clustering algorithms, Protocols
+Logic gates, Laboratories, Hazards, Fuzzy logic, Educational institutions, Programming, Microcomputers
+Force, Fuzzy logic, Particle swarm optimization, Fuzzy systems, Social factors, Convergence, Space exploration
+Temperature measurement, Microcontrollers, Temperature control, Fuzzy logic, Humidity, Temperature sensors
+Proposals, Fuzzy sets, Fuzzy logic, Fuzzy systems, Writing
+PD control, Nonlinear dynamical systems, State feedback, Fuzzy logic, Surges, Fuzzy systems, Mathematical model
+Robustness, Hydrodynamics, Fuzzy logic, Vehicle dynamics, Uncertainty, Robots, Underwater vehicles
+Engines, Security, Cloud computing, Reliability, Fuzzy logic, Fuzzy systems, Quality of service
+Microcontrollers, Software packages, Heating systems, Solid modeling, Detectors, Fuzzy logic, Computer languages
+Robot sensing systems, Fuzzy logic, Mobile robots, Robot kinematics, Educational institutions
+Soil moisture, Fuzzy logic, Soil measurements, Wireless communication, Wireless sensor networks, Humidity, Ultrasonic variables measurement
+Decoding, Control systems, Pragmatics, Decision making, Fuzzy logic, Estimation, Process control
+Manganese, Software packages, Vehicles, Tuning, Fuzzy logic, Cruise control, Mathematical model
+Predictive models, Fuzzy sets, Fuzzy logic, Decision support systems, Computational modeling, Prediction algorithms, Crisis management
+Estimation, Batteries, Fuzzy logic, State of charge, Current measurement, Battery charge measurement
+Companies, Fuzzy sets, Mobile applications, Fuzzy logic, Semantics, Analytical models
+Path planning, Fuzzy sets, Automobiles, Interference, Fuzzy logic, Visualization, Color
+PI control, Wind speed, Fuzzy logic, Maximum power point trackers, Performance evaluation, Uncertainty, Simulation
+Fuzzy sets, Sociology, Input variables, Particle swarm optimization, Fuzzy logic, Optimization, Fuzzy systems
+Real-time systems, Pulse width modulation, Artificial intelligence, Pragmatics, Fuzzy logic, Mathematical model, DC motors
+Logic gates, Diseases, Electromyography, Feature extraction, Muscles, Fuzzy logic, Classification algorithms
+Integrated circuit modeling, Pragmatics, Fuzzy logic, Monitoring, Induction motors, Circuit faults, Stators
+Input variables, Expert systems, Fuzzy logic, Noise measurement, Performance evaluation, Educational institutions
+Optical variables measurement, Image quality, Fuzzy logic, Image enhancement, Image edge detection, Approximation methods
+User experience, Protocols, Throughput, Scheduling algorithms, Multiplexing, Fuzzy logic, Switches
+Fuzzy logic, Manuals
+Vehicles, Fuzzy logic, Nanotechnology, Conferences, Information technology
+Sensitivity, Blood pressure, Fuzzy logic, Estimation, Time domain analysis, Data models, Adaptation models
+Adaptive systems, Fuzzy logic, Rotors, Analytical models, Simulation, Sensorless control, Adaptation models
+Bleaching, Cooling, Oils, Fuzzy logic, Refining, Data models, Poles and towers
+Discharges (electric), Partial discharges, Fuzzy logic, Signal processing algorithms, Switchgear, Insulation, Clustering algorithms
+Electrical engineering, Stability analysis, Control systems, Pragmatics, Fuzzy logic, Lyapunov method, Mathematical model
+Cancer, Entropy, Signal to noise ratio, Standards, Analytic hierarchy process, Fuzzy logic, Gene expression
+Sea measurements, Hydrodynamics, Fuzzy logic, Equations, Vehicle dynamics, Mathematical model, Underwater vehicles
+Robot sensing systems, Collision avoidance, Fuzzy logic, Mobile robots, Mathematical model
+Engines, Market research, Fuzzy sets, Technological innovation, Fuzzy logic, Industries, Planning
+Surface treatment, Pollution measurement, Response surface methodology, Fuzzy logic, Hydrogen, Process control, Pumps
+Adaptive systems, Fuzzy sets, Standards, Communications technology, Fuzzy logic, Histograms, Image enhancement
+Vehicles, Control systems, Accidents, MATLAB, Fuzzy logic, Process control, Mathematical model
+Throughput, Fuzzy logic, Load management, Random access memory, Servers, Quality of service, Software algorithms
+Computer network reliability, Telecommunication network reliability, Fuzzy logic, Mathematical model, Programming, Resource management
+Linguistics, Wheels, Fuzzy logic, Genetic algorithms, Mobile robots, Navigation
+Protocols, Throughput, Fuzzy logic, Delay, Wireless sensor networks, Indexes, Jitter
+Production, Neural networks, Fuzzy sets, Reservoirs, Fuzzy logic, Uncertainty, Coal
+Harmonic analysis, TV, Pragmatics, Power quality, Fuzzy logic, Fuzzy systems, Ovens
+Delays, Vehicles, Optimization, Fuzzy logic, Genetic algorithms, Educational institutions, Junctions
+Fuzzy sets, Streaming media, Image color analysis, Feature extraction, Fuzzy logic, Histograms, Training
+Generators, Modeling, Wind speed, Blades, Wind turbines, Fuzzy logic
+Linguistics, Feature extraction, Frequency selective surfaces, Fuzzy logic, Training, Machine learning, Clustering algorithms
+Fuzzy sets, Communities, Frequency selective surfaces, MATLAB, Fuzzy logic, Graphical user interfaces
+User experience, Heuristic algorithms, Fuzzy logic, Edge computing, Uncertainty, Resource management, Planning
+Arrays, Fuzzy logic, Inverters, Maximum power point trackers, Thyristors, Zirconium, Mathematical model
+Cameras, Image color analysis, Fuzzy logic, Fish, Object recognition
+Learning (artificial intelligence), System analysis and design, Artificial neural networks, Fuzzy logic, Deep learning, Medical services, Operations research
+Humans, Input variables, Fuzzy logic, Fuzzy control, Mobile robots, Robot kinematics
+Education, Predictive models, Seminars, Error analysis, Fuzzy logic, Estimation, Machine learning
+Fuzzy sets, Fault detection, Nonlinear systems, Fuzzy logic, Estimation, Mathematical model, Fuzzy neural networks
+Fuzzy sets, Fuzzy logic, Estimation, Computational modeling, Gravity, Transportation, Mathematical model
+Niobium, PD control, Pragmatics, Fuzzy logic, Computational modeling, Mathematical model, Computers
+Fuzzy sets, Fuzzy logic, Fuzzy systems, Adaptive control, Uncertainty, Adaptation model, Permanent magnet motors
+Temperature, Integrated circuit modeling, Water resources, Fuzzy logic, DC motors, Photovoltaic systems
+Engines, Vibrations, Fuzzy logic, Fuzzy systems, Monitoring, Maintenance engineering, Induction motors
+Robot sensing systems, Turning, Shape, Robustness, Fuzzy logic, Sensor systems, Navigation
+Problem-solving, Productivity, Fuzzy logic, Teamwork, Analytical models, Data models, Educational institutions
+Power cables, Discrete wavelet transforms, Fuzzy logic, Educational institutions, Fault location
+Diseases, Cows, Productivity, Input variables, Fuzzy logic, Immune system, Agriculture
+Automatic generation control, Capacitors, Frequency control, Detectors, Pins, Fuzzy logic, Gain control
+Sensors, Protocols, Base stations, Fuzzy logic, Wireless sensor networks, Mathematical model, Clustering algorithms
+Collaboration, Angular velocity, Shape, Service robots, Mechatronics, Fuzzy logic, Simulation
+Standards, Measurement, Algebra, Fuzzy logic, Computational modeling, Mathematical model, Lattices
+Fuzzy sets, Q measurement, Estimation, Semantics, Fuzzy logic, Fuzzy set theory
+Fuzzy sets, Fuzzy logic, Optimization, Fuzzy systems, Uncertainty, Mathematical model, Data models
+Three-dimensional displays, Global Positioning System, Probabilistic logic, Accuracy, Fuzzy logic, Wireless sensor networks, Simulation
+Angular velocity, Fuzzy logic, Joints, Legged locomotion, Gyroscopes, Foot
+Cognition, Fuzzy sets, Fuzzy logic, Uncertainty, Extraterrestrial measurements, Voting, Lattices
+Electrical engineering, Software, Power system protection, Fuzzy logic, Databases, Relays
+Stochastic processes, Probabilistic logic, Probability density function, Fuzzy logic, Fuzzy systems, Uncertainty, Bismuth
+Fuzzy sets, Fuzzy logic, Time series analysis, Fuzzy systems, Training, Uncertainty, Simulated annealing
+Fuzzy sets, Real-time systems, Fuzzy logic, Libraries, Graphical user interfaces, Robots, Unified modeling language
+Merging, Decision making, Fuzzy logic, Information technology, Semantics, Bismuth, Computers
+Adaptive systems, Fuzzy sets, Standards, Communications technology, Fuzzy logic, Histograms, Image enhancement
+Electroencephalography, Transient analysis, Sensitivity, Signal processing, Fuzzy logic, Uncertainty, Educational institutions
+Fault diagnosis, Cognition, Encoding, Fuzzy logic, IEC, Uncertainty
+Kalman filters, Robot sensing systems, Covariance matrices, Fuzzy logic, Mobile robots, Robot kinematics
+Velocity measurement, Adaptive systems, Fuzzy sets, Atmospheric modeling, Aerodynamics, Fuzzy logic, Noise measurement
+Arrays, Fuzzy logic, Decision support systems, Antenna arrays, Intelligent systems
+Biological system modeling, Fuzzy sets, Input variables, Response surface methodology, Calculators, Fuzzy logic, Indexes
+Fault diagnosis, Power transformer insulation, Fuzzy logic, Oil insulation, IEC standards
+Sociology, Fuzzy logic, Particle swarm optimization, Genetic algorithms, Mobile robots, Trajectory
+Torque control, Torque, Accuracy, Fuzzy logic, Switching frequency, Induction motors, Motor drives
+Cognition, Regulators, Heuristic algorithms, Fuzzy logic, Numerical models, Analytical models, Adaptation models
+Voltage control, Niobium, Arrays, Fuzzy logic, Maximum power point trackers, Mathematical model, Photovoltaic systems
+Linguistics, Delays, Fuzzy logic, Uncertainty, Analytical models, Quality function deployment, Adaptation models
+Vibrations, Fuzzy sets, Force, Actuators, Input variables, Fuzzy logic, Fuzzy control
+Fuzzy sets, Cognition, Fuzzy logic, Equations, Birds, Mathematical model, Context
+Test equipment, Tools, Fuzzy logic, Wireless communication, Fuzzy control, Steady-state, Soil
+Sports equipment, Wheels, Robot sensing systems, Robot vision systems, Fuzzy logic, Robot kinematics, DC motors
+Fuzzy sets, Business intelligence, Control systems, Fuzzy logic, Fuzzy control, Medical diagnosis
+Fuzzy sets, Technological innovation, Fuzzy logic, Estimation, Mobile robots, Mathematical model, Gain measurement
+Feature extraction, Conferences, Fuzzy logic, Semantics, Fuzzy systems, Informatics, Neural networks
+Gases, Fault detection, Fuzzy logic, Oils, Maintenance engineering, IEC, Oil insulation
+Fuzzy sets, Information retrieval, Input variables, Pragmatics, Fuzzy logic, Knowledge management, Metadata
+Industrial engineering, Fuzzy logic, Transportation, Computational modeling, Uncertainty, Mathematical model, Linear programming
+Pragmatics, Economics, Fuzzy logic, Uncertainty, Mathematical model, Supply chains, Safety
+Production, Power system management, Fuel cells, Fuzzy logic, Hydrogen, Schedules, Switches
+Temperature measurement, Microcontrollers, Acoustics, Tools, Fuzzy logic, Temperature sensors, Testing
+Resource management, Cognition, Security, Cloud computing, Fuzzy logic, Monitoring, Computer architecture
+Voltage control, Fuzzy sets, Generators, Control systems, Pragmatics, Fuzzy logic, Mathematical model
+Production, Adaptive systems, Microwave communication, Fuzzy logic, Design methodology, Microwave theory and techniques, Adaptation models
+Standards, Smart grids, Estimation, Fuzzy logic, Energy management, Uncertainty, Probability distribution
+Voltage control, Active filters, Regulators, Input variables, Pragmatics, Fuzzy logic
+Education, Fuzzy sets, Computer science, MATLAB, Fuzzy logic, Computational modeling, Informatics
+Phase locked loops, Signal to noise ratio, Bandwidth, Fuzzy logic, Time frequency analysis, Fuzzy control, Tracking loops
+Fuzzy sets, Sociology, Input variables, Fuzzy logic, Computational modeling, Hospitals, Heart
+Fuzzy sets, Distributed power generation, Linguistics, Reactive power, Fuzzy logic, Fuzzy control, Voltage measurement
+Fault diagnosis, Technological innovation, Fault detection, Voltage, Artificial neural networks, Fuzzy logic, Vectors
+Space vector pulse width modulation, Torque, Fuzzy logic, Stators, Induction motors, Vectors
+Urban areas, Linguistics, Temperature distribution, Containers, Programmable logic arrays, Fuzzy logic, Regulation
+Energy consumption, Spatial databases, Fuzzy logic, Wireless sensor networks, Performance evaluation, Simulation, Data aggregation
+Drives, Power electronics, Fuzzy logic, Particle swarm optimization, Total harmonic distortion, Induction motors, Stators
+Gases, IEC Standards, Power transformers, Fuzzy logic, Oils, IEC, Oil insulation
+Traffic control, Sensors, Algorithm design and analysis, Vehicles, Artificial intelligence, Field programmable gate arrays, Fuzzy logic
+Microcontrollers, Prototypes, Oxygen, Fuzzy logic, Medical treatment, Process control, Impedance matching
+Genetics, Input variables, Interference, Fuzzy logic, Uncertainty, Process control, Telecommunications
+Production, Quality control, Reliability, Fuzzy logic, Libraries, Classification algorithms, Software algorithms
+Fuzzy sets, Solid modeling, Control systems, Mechatronics, MATLAB, Fuzzy logic, Mathematical model
+Streaming media, Quantization (signal), Fuzzy logic, Bit rate, Uncertainty, Discrete cosine transforms, Image coding
+Energy conservation, Energy efficiency, Prototypes, Intelligent sensors, Fuzzy logic, Electricity, Lighting
+Voltage control, Pulse width modulation, Power conversion, Rectifiers, Fuzzy logic, Inverters
+Fuzzy logic, Oils, Transportation, Process control, Neural networks, Automation, Industries
+PI control, Wind speed, Wind turbines, Fuzzy logic, Maximum power point trackers, Steady-state, Production systems
+Temperature measurement, Vibrations, Fuzzy logic, Voltage measurement, Training, Oil insulation, Training data
+Standards, Robustness, Character recognition, Fuzzy logic, Histograms, Image recognition, Metals
+Software, Linguistics, Tools, Investment, Economics, Fuzzy logic, Matlab
+Social network services, Input variables, Pragmatics, Density measurement, Fuzzy logic, Organizations, Emergency services
+Syntactics, Fuzzy logic, Semantics, Knowledge representation, Fuzzy systems, Knowledge based systems, Pareto optimization
+Frequency control, Power system stability, Load flow, Oscillators, Fuzzy logic, Computational modeling, Damping
+Microcontrollers, Fuzzy sets, Robot sensing systems, Fuzzy logic, Legged locomotion
+Fuzzy sets, Cognition, Artificial intelligence, Fuzzy logic, Maintenance engineering
+Torque control, Torque, Electric vehicles, Fuzzy logic, Batteries, Acceleration, Electric machines
+Fuzzy sets, Pragmatics, Boundary conditions, Fuzzy logic, Cost accounting, Computer architecture, Lattices
+Electrical engineering, Active filters, Artificial neural networks, Current control, Fuzzy logic, Decision support systems, Hybrid power systems
+Fuzzy sets, Urban areas, Real-time systems, Fuzzy logic, Matlab, Schedules, Fuzzy reasoning
+Physical vapor deposition, Predictive models, Titanium, Cutting tools, Fuzzy logic, Tin, Analytical models
+Temperature measurement, Crops, Fuzzy logic, Humidity, Temperature sensors, Databases, Irrigation
+Fuzzy sets, Frequency selective surfaces, Fuzzy logic, Fuzzy systems, Noise measurement, Uncertainty, Clustering algorithms
+Voltage control, Heating systems, Control systems, Seminars, Fuzzy logic, Fuzzy control, Relays
+Fuzzy sets, Chlorine, Pragmatics, Fuzzy logic, Fuzzy systems, Uncertainty, Process control
+Temperature distribution, Seaweed, Fuzzy logic, Humidity, Uncertainty, Data collection, Industries
+Biological system modeling, Fuzzy logic, Computational modeling, Kinetic theory, Mathematical model, Data models, Proteins
+Traffic control, Throughput, Measurement, Fuzzy logic, Roads, Fuzzy control, Routing
+Discharges (electric), Fault diagnosis, Fuzzy logic, Transformers, Sparks, Uncertainty, Oil insulation
+Fuzzy logic, Measurement uncertainty, Uncertainty, Area measurement
+Insurance, Pragmatics, Economics, Relational databases, Fuzzy logic, Data mining
+Input variables, Pragmatics, Expert systems, Fuzzy logic, Fuzzy systems, Performance evaluation, Mathematical model
+Cryptography, Fuzzy sets, Image color analysis, Fuzzy logic, PSNR, Image edge detection, Uncertainty
+Mouth, Facial features, Feature extraction, Face, Fuzzy logic, Fuzzy systems, Face recognition
+Engines, Software, Transforms, Fuzzy logic, Abstracts, Adaptation models
+Traffic control, Sensors, Urban areas, Fuzzy logic, Roads, Process control
+Delays, Bandwidth, Admission control, Fuzzy logic, Telecommunication traffic, WiMAX
+Predictive models, Fuzzy logic, Oils, Humidity, Mathematical model, Data models, Data mining
+Energy consumption, Measurement, Fuzzy logic, Optimization, Wireless sensor networks, Mathematical model, Quality of service
+Companies, Fuzzy logic, Semantics, Decision support systems, Knowledge based systems, Task analysis, Analytical models
+Predictive models, Solid modeling, Three-dimensional displays, Mechatronics, Fuzzy logic, Frequency division multiplexing, Computational modeling
+COVID-19, Temperature measurement, Microcontrollers, Decision making, Fuzzy logic, Pandemics, Temperature sensors
+Fuzzy sets, Feature extraction, Pragmatics, Fuzzy logic, Inference mechanisms, Training, Data models
+PD control, Kinematics, Fuzzy logic, Joints, Zirconium, Prosthetic hand, Thumb
+Temperature measurement, Vibrations, Synchronous motors, Fuzzy logic, Monitoring, Temperature sensors, Induction motors
+Image processing, Biomedical imaging, Strain, Digital images, Fuzzy logic, Fuzzy systems, Webcams
+Algebra, Heuristic algorithms, Fuzzy logic, Fuzzy systems, Hardware, Minimization, Switches
+Servomotors, Force, Fuzzy logic, Valves, Adaptation model, Mathematical model
+Sensors, Interference, Fuzzy logic, Conferences, Handover, Cognitive radio
+Presses, Production, Companies, Fuzzy logic, Product design, Process control, Quality assessment
+Support vector machines, Predictive models, Artificial neural networks, Fuzzy logic, Recurrent neural networks, Computational modeling, Load forecasting
+Carbon monoxide, Fuzzy logic, Hydrogen, Monitoring, Public healthcare, Correlation
+Engines, Fuzzy sets, Sentiment analysis, Brain modeling, Fuzzy logic, Emotion recognition, Text recognition
+Fuzzy sets, Cognition, Entropy, Frequency selective surfaces, Fuzzy logic, Fuzzy systems, Uncertainty
+Harmonic analysis, Power system harmonics, Feature extraction, Input variables, Power quality, Fuzzy logic, Fuzzy reasoning
+Digital audio broadcasting, Predictive models, Solar energy, Power generation, Fuzzy logic, Humidity, Dynamics
+Engines, Fuzzy sets, Graphics processing units, Fuzzy logic, Instruction sets, Inference algorithms, Complexity theory
+Fuzzy sets, Diseases, Shape, Computer science, Fuzzy logic, Red blood cells
+Traffic control, Sensors, Filling, Automobiles, Accidents, Fuzzy logic, Roads
+Partitioning algorithms, Entropy, Fuzzy logic, Vectors, Linear programming, Clustering algorithms, Indexes
+Rain, Fuzzy logic, Fuzzy systems, Monitoring, Irrigation, Computers
+Fuzzy sets, Fuzzy logic, Fuzzy control, Valves, Uncertainty, Turbines
+Image color analysis, Fuzzy logic, Inference algorithms, Image segmentation, Monitoring, Agriculture, Clustering algorithms
+Fuzzy sets, Solvents, Food industry, Fuzzy logic, Performance evaluation, Design methodology, Proteins
+Robot sensing systems, Biochemistry, Control systems, Fuzzy logic, Fuzzy systems, Mathematical model
+Power system stability, Green products, Load modeling, Fuzzy logic, Batteries, Computational modeling, State of charge
+Filtering theory, Electromyography, Low pass filters, Force, Fuzzy logic, Band pass filters, Prosthetics
+Genetics, Fuzzy sets, Algorithm design and analysis, Tuning, Pragmatics, Fuzzy systems, Decision trees
+Temperature distribution, Temperature control, Fuzzy logic, Humidity, Monitoring, Temperature sensors, Servers
+Energy consumption, Robot sensing systems, Mobile communication, Pragmatics, Fuzzy logic
+PI control, Software packages, Buck converters, Fuzzy logic, Fuzzy control, Switches, Mathematical models
+Interoperability, Predictive models, Fuzzy sets, Input variables, Fuzzy logic, Optimization, Fuzzy systems, Complexity theory
+Decision making, Fuzzy logic, Law, Semantic Web, Semantics, Costs, Automation
+Energy conservation, Adaptive systems, Fuzzy logic, Rails, System performance, Simulation, Voltage fluctuations
+Solar energy, Solar panels, Wind speed, Fuzzy logic, Wind energy, Hybrid power systems, Renewable energy sources
+Fuzzy sets, Base stations, Signal to noise ratio, Fuzzy logic, Fuzzy systems, Tin, Relays
+Support vector machines, Text categorization, Feature extraction, Tagging, Fuzzy logic, Web pages, Search engines
+Magnetic resonance imaging, Alzheimer's disease, Support vector machines, Standards, Fuzzy logic, Databases
+Sensors, Petroleum, Synchronization, Oils, Fuzzy logic, Optimization, Mathematical model
+Image fusion, Computed tomography, Medical diagnostic imaging, Transforms, Fuzzy logic
+Music, Network topology, Fuzzy logic, Deep learning, Signal processing algorithms, Supervised learning, Manuals
+Diseases, Image color analysis, Pragmatics, Green products, Interference, Fuzzy logic, Fuzzy systems
+Software packages, Fault detection, Fuzzy logic, Voltage measurement, Power engineering, Power transmission lines, Voltage fluctuations
+PD control, Tuning, Signal processing, Fuzzy logic, Signal processing algorithms, Optimization methods
+Electrical engineering, Tuning, Control systems, Fuzzy logic, Conferences, Fuzzy systems, Process control
+Fuzzy sets, Clamps, Fuzzy logic, Rotors, Reluctance motors, Couplings
+Benchmark testing, Computer science, Heuristic algorithms, Optimization, Fuzzy logic, Biology, Mathematical model
+Actuators, Mechatronics, Fuzzy logic, Delay, Wireless communication, Delay effects
+Delays, Throughput, Sensors, Fuzzy logic, Wireless sensor networks, Monitoring, Meters
+Gases, Sensors, Prototypes, Fuzzy logic, System performance, Nose, Electronic noses
+Fuzzy sets, Torque, Friction, Fuzzy logic, Uncertainty, Mathematical model, Adaptation models
+Force, Decision making, Fuzzy logic, Computational modeling, Fuzzy systems, Legged locomotion, Navigation
+Harmonic analysis, Fuzzy sets, Active filters, Distortion, Microgrids, Fuzzy logic, Inverters
+Statistics, Sociology, Artificial neural networks, Load modeling, Fuzzy logic, Load forecasting, Economic indicators
+Fuzzy sets, Generators, Pragmatics, Transforms, Fuzzy logic, Training data
+Temperature measurement, Software packages, Fuzzy logic, Radiation effects, Voltage measurement, Switches, Photovoltaic systems
+Niobium, PD control, Tuning, Fuzzy logic, Valves, Process control, Mathematical model
+Capacitors, Filtering theory, Voltage control, Reactive power, Active filters, Fuzzy logic, Photovoltaic systems
+Gas detectors, Control systems, Fuzzy logic, Hydrogen, Valves, Pollution, Agriculture
+Fuzzy sets, Probabilistic logic, Fuzzy logic, Time series analysis, Forecasting, Probability distribution
+PI control, Power system stability, Microgrids, Fuzzy logic, Personnel, Renewable energy sources, Stability criteria
+Control systems, Input variables, Fuzzy logic, Fuzzy systems, Explosions, Computer architecture, Biological cells
+Control systems, Fuzzy logic, Inference algorithms, Computational modeling, Fuzzy control, Process control, Mathematical model
+Sun, Solar energy, Photovoltaic cells, Tracking, Fuzzy logic, Photovoltaic systems
+Machine vector control, Velocity control, Fuzzy logic, Rotors, Induction motor drives, Mathematical model
+Fuzzy sets, Fuzzy logic, Time series analysis, Computational modeling, Mathematical model, Fuzzy neural networks
+Symbols, Urban areas, Abstract algebra, Fuzzy logic, Semantics, Data structures, Task analysis
+Velocity control, Feedback loop, Fuzzy logic, Wheelchairs, Hardware, Simulation, Navigation
+Gases, IEC Standards, Power transformer insulation, Fuzzy logic, IEC, Oil insulation
+Fuzzy sets, Marine vehicles, Input variables, Instruments, Fuzzy logic, Medical diagnosis, Uncertainty
+Logic gates, Very large scale integration, Sensors, Automobiles, Multiplexing, Fuzzy logic, Clocks
+Fuzzy sets, Robot sensing systems, Wheels, Fuzzy logic, Mobile robots
+Meteorology, Clouds, Noise, Satellites, Fuzzy logic, Educational institutions, Reflection
+Fuzzy sets, Wheels, Mobile communication, Pragmatics, Field programmable gate arrays, Fuzzy logic, Mathematical model
+Fuzzy sets, Linguistics, Fuzzy logic, Inference algorithms, Load management, Simulation, Clustering algorithms
+Base stations, Protocols, Energy efficiency, Energy states, Fuzzy logic, Wireless sensor networks, Clustering algorithms
+Linguistics, Induction generators, Fuzzy logic, Bars, Rotors, Amplitude modulation
+Augmented reality, Fuzzy sets, Geographic information systems, Data visualization, Three-dimensional displays, Global Positioning System, Fuzzy logic
+Computer science, Fuzzy logic, Fuzzy control, Uncertainty, Process control, Refining, Switches
+Voltage control, Control systems, Lead, Fuzzy logic, Batteries, Process control, Lead compounds
+Load flow analysis, Reactive power, Load modeling, Fuzzy logic, Mathematical model, Jacobian matrices
+Sensors, Synchronization, Fuzzy logic, Roads, Junctions, Computers
+Education, Artificial intelligence, Computer science, Encoding, Fuzzy logic
+Engines, Fuzzy sets, Electronic learning, Fuzzy logic, Uncertainty
+Robot sensing systems, Wheels, Collision avoidance, Fuzzy logic, Mobile robots, Autonomous vehicles, Navigation
+Computed tomography, Sensitivity, Lung cancer, Fuzzy logic, Lung, Correlation, Training data
+Routing protocols, Energy consumption, Measurement, Routing, Fuzzy logic, Wireless sensor networks
+Robot control, Robots, Collision avoidance, Fuzzy logic, Quadrupedal robots, Trajectory, Machine learning
+Real-time systems, Cleaning, Fuzzy logic, Vacuum systems, Performance evaluation, Uncertainty, Neural networks
+Niobium, Wheels, Fuzzy logic, Neurons, Mobile robots, Navigation
+Solar energy, Solar panels, Power system stability, Stability analysis, Fuzzy logic, Statistical analysis, Signal processing algorithms
+Torque, Switched reluctance motors, Estimation, Fuzzy logic, Rotors
+Fuzzy sets, Probabilistic logic, Reliability theory, Fuzzy logic, Oils, Uncertainty, Pollution
+Predictive models, Economics, Fuzzy logic, Conferences, Forecasting, Particle swarm optimization, Prediction algorithms
+Diseases, Blood pressure, Hypertension, Sugar, Fuzzy logic, Insulin, Diabetes
+Companies, Torque, Jamming, Fuzzy logic, Monitoring, Maintenance engineering, Electric breakdown
+Fuzzy logic, Conferences, Brushless DC motors, Mathematical model, Permanent magnet motors
+Fluctuations, Wind power generation, Batteries, Fuzzy logic, State of charge, Smoothing methods
+Fuzzy sets, Pragmatics, Frequency selective surfaces, Fuzzy logic, Fuzzy systems, Uncertainty, Complexity theory
+Sun, Protocols, Tracking, Actuators, Data processing, Fuzzy logic, Informatics
+Acoustics, Robot sensing systems, Pulse width modulation, Fuzzy logic, Process control, Simulation, Navigation
+Logic gates, Companies, Mobile communication, Pragmatics, Fuzzy logic, GSM
+Military communication, Interference, Fuzzy logic, Knowledge graphs, Target recognition, Correlation, Manuals
+Keywords not found
+Voltage control, Regulators, Input variables, Fuzzy logic, Mathematical model, Photovoltaic systems
+Market research, Algorithm design and analysis, Oscillators, Fuzzy logic, Conferences, Genetic algorithms, Nanotechnology
+Fuels, Fuel cells, Fuzzy logic, Batteries, Energy management, State of charge, Hybrid power systems
+Fuzzy logic, Machine learning algorithms, Performance evaluation, Process control, Tungsten, Welding, Automation
+Learning systems, Adaptive systems, Electronic learning, Fuzzy logic, Computational modeling, Uncertainty, Adaptation models
+Shape, Input variables, Water heating, Frequency selective surfaces, Fuzzy logic, Complexity theory, Data models
+Context modeling, Algebra, Fuzzy logic, Semantics, Philosophical considerations, Lattices, Mathematical models
+Solar energy, Fuzzy logic, Lighting, Humidity, Process control, Simulation, Aeroponics
+Fuzzy sets, Green products, Decision making, Fuzzy logic, Substrates, Irrigation
+System implementation, Software, Arrays, Expert systems, Fuzzy logic, Supervised learning, Computer aided software engineering
+Time factors, Manganese, Power system stability, Load modeling, Fuzzy logic, Tin, Mathematical model
+Software, Estimation, Fuzzy logic, Computational modeling, Uncertainty, Mathematical model, Schedules
+Logic gates, Base stations, Protocols, Nominations and elections, Fuzzy logic, Wireless sensor networks, Mathematical model
+Fault diagnosis, Feature extraction, Fault detection, Voltage, Wavelet analysis, Fuzzy logic, Multilevel inverters
+PI control, Capacitors, Voltage control, Inductors, Fuzzy logic, Inductance, Renewable energy sources
+Cognition, Syntactics, Algebra, Fuzzy logic, Semantics, Description logic, OWL
+Manganese, Control systems, Frequency selective surfaces, USA Councils, Fuzzy logic, Uncertainty, Acceleration
+Leadership, Linguistics, Productivity, Decision making, Fuzzy logic, Training, Organizations
+Niobium, Observers, Robustness, Oscillators, Fuzzy logic, Noise measurement, Uncertainty
+Equivalent circuits, Acoustics, Position control, Fuzzy logic, Rotors, Steady-state
+Contracts, Delays, Project management, Fuzzy logic, Risk management, Complexity theory, Planning
+Voltage control, Reactive power, Power system stability, Induction generators, Wind turbines, Fuzzy logic, Hysteresis
+Algorithm design and analysis, Power control, Pragmatics, Interference, Fuzzy logic, Cognitive radio, Color
+Automata, Conferences, Semantics, Fuzzy systems, Lattices
+Fault detection, Fuzzy logic, Fuzzy systems, Mathematical model, Circuit faults, Power transmission lines, Relays
+Market research, Security, Cloud computing, Reliability, Fuzzy logic, Computational modeling, Quality of service
+Niobium, Torque, Load modeling, Fuzzy logic, Rotors, Mathematical model, Stators
+Power grids, Power quality, Fuzzy logic, Brushless DC motors, Power engineering, Water pumps, Photovoltaic systems
+Production, Fossil fuels, Sociology, Fuzzy logic, Pollution, Hospitals, Renewable energy sources
+Predictive models, Cognition, Artificial neural networks, Banking, Fuzzy logic, Uncertainty
+Pragmatics, Decision making, Fuzzy logic, Uncertainty, Complexity theory, Agent-based modeling, Adaptation models
+Routing protocols, Delays, Fuzzy logic, Routing, Genetic algorithms, Machine learning, Neural networks
+Generators, Power system stability, Load flow, Oscillators, Fuzzy logic, Rotors, Damping
+Vehicles, Accidents, Pragmatics, Fuzzy logic, Roads, Sensor systems
+Fuzzy sets, Fuzzy logic, Fuzzy systems, Uncertainty, Affective computing, Educational institutions, Computers
+Hardware design languages, Integrated circuit modeling, Control systems, Embedded systems, Fuzzy logic, Field programmable gate arrays, Mobile robots
+Electric vehicles, Reliability, Fuzzy logic, Batteries, Inverters, Induction motors, Permanent magnet motors
+Call admission control, Wireless networks, Heuristic algorithms, Fuzzy logic, Quality of service, Educational institutions, Wireless LAN
+Energy consumption, Energy efficiency, Internet of Things, Fuzzy logic, Batteries, Genetic algorithms, Simulation
+Niobium, Frequency control, Artificial intelligence, MATLAB, Fuzzy logic, Process control, Relays
+Engines, Fuzzy sets, Color, Fuzzy logic, Firing, Computational modeling, Petri nets
+Adaptive systems, Artificial neural networks, Manipulator dynamics, Fuzzy logic, Mathematical model
+Software, IEC Standards, Fuzzy logic, Object oriented modeling, Mathematical model, Unified modeling language, ISO Standards
+Antennas, Buildings, Mobile communication, Standards, Interference, Fuzzy logic, Poles and towers
+Filtering theory, Fuzzy sets, Computer science, Fuzzy logic, Lattices
+Aerospace control, Kinematics, Force, Pragmatics, Fuzzy logic, Mathematical model, Aircraft
+Filling, Vehicles, Accidents, Fuzzy logic, Roads, Radiation detectors
+Fabrics, Mechanical factors, Standards, Artificial neural networks, Fuzzy logic, Indexes
+Solar panels, Home appliances, Fuzzy logic, Batteries, Electricity, State of charge, Solar system
+Heuristic algorithms, Fuzzy logic, Routing, Inference algorithms, Visualization, Quality of service, Software algorithms
+Delays, Fuzzy logic, Batteries, Forecasting, Prediction algorithms, Handover
+Production, Linguistics, Heating systems, Fuzzy logic, Knowledge based systems, Process control, Metals
+Combustion, Fuels, Pragmatics, Oxygen, Fuzzy logic, Boilers, Solids
+Production, Cognition, Control systems, Pragmatics, Fuzzy logic, Mathematical model, Automation
+Electrical engineering, Real-time systems, Microgrids, Fuzzy logic, Degradation, Simulation, Renewable energy sources
+Software, Robot sensing systems, Fuzzy logic, Mobile robots, Testing, Fires
+Communication systems, Measurement, Fuzzy logic, Urban planning, Fuzzy control, Controllability, Safety
+System-on-chip, Wind turbines, Fuzzy logic, Batteries, Wind energy, Wind, Renewable energy sources
+Feature extraction, Meetings, Fuzzy logic, Conferences, Classification algorithms, Data mining, Clustering algorithms
+Niobium, Wind speed, Wind turbines, Fuzzy logic, Maximum power point trackers, Mathematical model
+Gases, Production, Data acquisition, Sensors, Prototypes, Fuzzy logic, Performance evaluation
+Logic gates, Energy consumption, Fuzzy logic, Routing, Wireless sensor networks, Simulation, Clustering algorithms
+PI control, Reliability, Fuzzy logic, Feedback control, Adaptive control, Power system reliability, Renewable energy sources
+Microcontrollers, Fuzzy sets, Shape, Pragmatics, MATLAB, Fuzzy logic, Programming
+Feature extraction, Sentiment analysis, Pragmatics, Fuzzy logic, Computational modeling, Mathematical model, Dictionaries
+Mechatronics, Fuzzy logic, Windings, Yarn, Optical fibers, Optical fiber sensors
+Energy consumption, Energy efficiency, Fuzzy logic, Wireless sensor networks, Fuzzy set theory, Pattern clustering
+Dissolved gas analysis, Oil insulation, Oils, Fuzzy logic, Power transformer insulation
+Fault diagnosis, Voltage, High-voltage techniques, Fuzzy logic, Roads, Uncertainty, HVDC transmission
+Receiving antennas, Satellites, Fuzzy logic, Global navigation satellite system, Fuzzy systems, Satellite antennas
+Fuzzy logic, Multimedia Web sites, Information technology, Guidelines
+Feeds, Microcontrollers, Fuzzy sets, Fuzzy logic, Temperature sensors, Fish
+Robot sensing systems, Fuzzy logic, Mobile robots, Matlab, Navigation
+Fuzzy sets, Natural language processing, Fuzzy logic, Semantics, Libraries, Knowledge discovery
+Meteorology, Temperature distribution, Atmospheric modeling, Fuzzy logic, Carbon dioxide, Mathematical model, Ocean temperature
+Linguistics, Fuzzy sets, Heating systems, Measurement, Fuzzy logic, Valves
+Data acquisition, Input variables, Fuzzy logic, Conferences, Fuzzy systems, Testing
+Fuzzy sets, Fuzzy logic, Inference algorithms, Genetic algorithms, Wireless sensor networks, Clustering algorithms, Biological cells
+Magnetic resonance imaging, Brain, Linguistics, Three-dimensional displays, Fuzzy logic, Prediction algorithms, Medical services
+Position control, System testing, Seminars, Electric vehicles, Velocity control, Prototypes, Fuzzy logic
+Stator windings, Torque, Fuzzy logic, Rotors, Inverters, Mathematical model
+Base stations, Data communication, Fuzzy logic, Wireless sensor networks, Fuzzy systems, Monitoring, Magnetic heads
+PI control, Synchronous motors, Torque, Velocity control, Fuzzy logic, Transfer functions, Permanent magnet motors
+Regulators, Intelligent control, Oils, Fuzzy logic, Process control, Automation
+Energy consumption, Fuzzy sets, Fuzzy logic, Wireless sensor networks, Fuzzy systems, Educational institutions, Power supplies
+Temperature measurement, Rivers, Water pollution, Pollution measurement, Fuzzy logic, Monitoring
+Nitrogen, Feature extraction, Image color analysis, Phosphorus, Fuzzy logic, Machine vision, Soil
+Protective relaying, Distance measurement, Software packages, Input variables, Fuzzy logic, Training, Power system reliability
+Software, Registers, Electronic mail, Estimation, Equations, Complexity theory, Mathematical model
+Diseases, Cloud computing, Medical diagnostic imaging, Fuzzy logic, Computational modeling, Body area networks
+Time factors, Thermal stability, Oscillators, Fuzzy logic, Temperature control, Maximum power point trackers, Photovoltaic systems
+Copper, Materials, Power transformer insulation, Iron, Fuzzy logic, Oil insulation
+Electromagnetics, Observers, Torque, Germanium, Fuzzy logic, Rotors, Mathematical model
+Fuzzy sets, Fuzzy logic, Matlab, Graphical user interfaces, Computer languages, Uncertainty, Computer architecture
+Technological innovation, Computer science, Fuzzy logic, Information technology, Informatics, Uncertainty, Mathematical model
+Sensors, Biomedical monitoring, Medical diagnostic imaging, Heart rate, Expert systems, Fuzzy logic, Monitoring
+Stochastic processes, Fuzzy sets, Modeling, Probabilistic logic, Fuzzy logic, Fuzzy systems, Uncertainty
+Engines, Meteorology, Marine vehicles, Accidents, Fuzzy logic, Safety, Navigation
+Voltage control, Niobium, Power conversion, Load modeling, Fuzzy logic, Hysteresis
+Acoustics, Iron, Fuzzy logic, Motion detection, Hardware, Switches
+Senior citizens, Diseases, Sugar, Arteries, Fuzzy logic, Heart, Diabetes
+Voltage control, Reactive power, Robustness, Rectifiers, Fuzzy logic, Hysteresis, Power factor correction
+Tools, Signal to noise ratio, Global Positioning System, Fuzzy logic, Conferences, Simulation
+Power system measurements, Fuzzy sets, Control systems, Wind speed, Density measurement, Fuzzy logic, Wind power generation
+Sociology, Artificial neural networks, Fuzzy logic, Particle swarm optimization, Genetic algorithms, Optimization, Prediction algorithms
+Feature extraction, Transforms, Fuzzy logic, Gait recognition, Hidden Markov models, Classification algorithms, Uncertainty
+Fuzzy sets, Fuzzy logic, Wireless communication, Wireless sensor networks, Fuzzy control, Sensor systems
+Generators, Electromagnetic compatibility, Fuzzy logic, Hydrogen, Batteries, Servers, Automation
+Temperature distribution, Image processing, Fuzzy logic, Air conditioning, Temperature sensors, Neural networks
+Cognition, Manganese, Pragmatics, Fuzzy logic, Classification algorithms, Qualifications, Decision trees
+Education, Learning systems, Reliability, Fuzzy logic, Conferences, Computer applications, Programming profession
+Discharges (electric), Pins, Fuzzy logic, Batteries, State of charge, Industries
+Robot sensing systems, Wheels, Collision avoidance, Fuzzy logic, Mobile robots, Navigation
+Kalman filters, Wireless networks, Load modeling, Fuzzy logic, Wireless LAN
+Voltage control, Control systems, Synchronization, Fuzzy logic, Voltage measurement, Voltage fluctuations, Asia
+Fuzzy sets, Decoding, Fuzzy logic, Hidden Markov models, Training, Machine learning
+PI control, PD control, Sensitivity, Reliability, Fuzzy logic, Ventilators, Lung
+Engines, Niobium, Pneumatic systems, Friction, Fuzzy logic, Fuzzy systems, Robots
+Pragmatics, Fuzzy logic, Computational modeling, Organizations, Standards organizations, Manufacturing, Bibliographies
+Fuzzy logic, Uncertainty, Trajectory, Machining, Databases, Industries, Dynamics
+Detectors, Pragmatics, Fuzzy logic, Image edge detection, Fuzzy systems, Uncertainty
+Fuzzy logic, Videos, Industrial electronics
+Insulated gate bipolar transistors, Fuzzy logic, Rotors, Equations, Mathematical model, Induction motors, Stators
+Sensors, Fuzzy systems, Prediction algorithms, Valves, Mathematical model, Explosions, Distributed algorithms
+Microcontrollers, Voltage control, Blades, Wind speed, Wind turbines, Fuzzy logic, Shafts
+Servomotors, Pulse width modulation, Pragmatics, Fuzzy logic, Digital signal processing, Equations, Mathematical model
+Image processing, Computer science, Service robots, Fuzzy logic, Computational modeling, Uncertainty, Industries
+Voltage control, Phase locked loops, Frequency control, Fuzzy logic, Particle swarm optimization, Fuzzy systems, Birds
+Marine vehicles, Fuzzy logic, Batteries, Supercapacitors, State of charge
+Microcontrollers, Fuzzy logic, Transducers, Circuit faults, Relays, Current transformers, Phase transformers
+Microcontrollers, Voltage control, Fuzzy logic, Fuzzy control, Matlab, Mathematical model, Photovoltaic systems
+Voltage control, Induction generators, Wind turbines, Fuzzy logic, Wind power generation, Wind energy, Mathematical model
+Fuzzy sets, Government, Economics, Fuzzy logic, Raw materials, Industries
+Modulation, Control systems, Bandwidth, Heuristic algorithms, Fuzzy logic, Routing
+Fuzzy sets, Convolutional neural networks, Standards, Microsoft Windows, Fuzzy logic, Uncertainty
+System testing, Robot sensing systems, Service robots, Pulse width modulation, Fuzzy logic, DC motors, Navigation
+COVID-19, Naive Bayes methods, Pulmonary diseases, Fuzzy logic, Informatics, Medical services, Lung
+Delays, Fuzzy sets, Control systems, Stability analysis, Fuzzy logic, Cybernetics, Fuzzy systems
+Gases, Partial discharges, Power transformer insulation, Fuzzy logic, Oil insulation
+Tools, Switched mode power supplies, Control systems, Fuzzy logic, Simulation, Switches, Mathematical models
+Sensors, Fuzzy sets, Electromyography, Kinematics, Feature extraction, Iron, Fuzzy logic
+Electroencephalography, Electromyography, Sleep, Feature extraction, Brain modeling, Fuzzy logic, Indexes
+Information science, Production, Predictive models, Fuzzy logic, Set theory, Process control, Analytical models
+Distributed databases, Temperature measurement, Decision making, Fuzzy logic, Air pollution, Wireless sensor networks, Temperature sensors
+Next generation networking, Mobile communication, Bandwidth, Fuzzy logic, Mobile computing, WiMAX, Wireless LAN
+Production, Software, Measurement, Pragmatics, Communications technology, Fuzzy logic, Risk management
+Sociology, Statistics, Measurement, Optimization, Fuzzy logic, Genetic algorithms, Fuzzy systems
+Fault diagnosis, Numerical simulation, Bridges, Input variables, Pragmatics, Fuzzy logic, Fuzzy systems
+Fuzzy sets, Robot sensing systems, Pragmatics, Fuzzy logic, Mobile robots
+Fuzzy sets, Information retrieval, Xenon, XML, Fuzzy logic, Context, Navigation
+Temperature measurement, Microcontrollers, Pulse width modulation, Fuzzy logic, Temperature control, Temperature sensors
+Control systems, MATLAB, Fuzzy logic, Fluids, Mathematical model, Microchannels
+Polyethylene, Temperature, High-voltage techniques, Economics, Fuzzy logic, Aging, Mechanical cables
+Software packages, Solids, Reactive power, Transforms, Fuzzy logic, Electromagnetic interference, Power factor correction
+Electrical engineering, Temperature distribution, Data processing, Fuzzy logic, Wireless communication, Temperature sensors, Fires
+Niobium, Real-time systems, Control systems, Pulse width modulation, Fuzzy logic, Maximum power point trackers, Mathematical model
+Fuzzy sets, Optimization, Fuzzy logic, Genetic algorithms, Mobile robots, Uncertainty
+Cognition, Tools, W3C, Fuzzy logic, Formal languages, Biology, Ontologies
+Fault diagnosis, Diesel engines, Employee welfare, Fuzzy logic, Valves, Power engineering, Educational institutions
+Logic gates, Pulse width modulation, Bridge circuits, Fuzzy logic, Inverters, Switches
+Fuzzy sets, Linguistics, Microsoft Windows, Fuzzy logic, Fuzzy systems, Mathematical model, Data models
+Stochastic processes, Shape control, Observers, Probability density function, Fuzzy logic, Analytical models
+Kalman filters, IP networks, Fuzzy logic, Noise measurement, Simulation
+Fuzzy sets, Cognition, Artificial intelligence, Fuzzy logic, Task analysis, Information technology, Games
+Control systems, Fuzzy logic, Wastewater, Process control, Ions, Metals, Delay effects
+Energy consumption, Protocols, Data processing, Fuzzy logic, Routing, Wireless sensor networks, Silicon
+Fuzzy sets, Protocols, Mobile communication, Fuzzy logic, Wireless sensor networks, Mobile computing, Clustering algorithms
+Temperature distribution, Humidity control, Heat pumps, Water heating, Fuzzy logic, Humidity, Temperature sensors
+Companies, Tools, Europe, Instruments, Fuzzy logic, Sustainable development, Analytical models
+Vehicles, Fuzzy logic, Brushless DC motors, Educational institutions, Permanent magnet motors
+Real-time systems, Pulse width modulation, Fuzzy logic, Wireless communication, Wireless sensor networks, Monitoring, Inverters
+Fuzzy logic, Standards, Cognition
+Syntactics, Detectors, Intrusion detection, Fuzzy logic, Semantics, Knowledge based systems, Monitoring
+PI control, Software packages, Reactive power, Stability analysis, Fuzzy logic, Renewable energy sources, Power factor correction
+Scalability, Energy consumption, Measurement, Fuzzy logic, Wireless sensor networks, Wireless communication, Voting
+Software, Three-dimensional displays, Missiles, Fuzzy logic, Trajectory, Visualization, Mathematical models
+Temperature dependence, Cloud computing, Fuzzy logic, Cooling, Training, Schedules, Adaptation models
+Iterative methods, Natural language processing, Accuracy, Fuzzy logic, Transformers, Reviews, Adaptation models
+Fuzzy sets, Control systems, Tuning, Fuzzy logic, Particle swarm optimization, Uncertainty, Zirconium
+Fuzzy logic, Fuzzy systems, Fuzzy sets
+Meteorology, Sensors, Reliability, Fuzzy logic, Autonomous vehicles, Sensor fusion, Sensor systems
+Servomotors, Fuzzy logic, Computational modeling, Steady-state, Mathematical model, DC motors
+Software, Diseases, Iron, Fuzzy logic, Fuzzy systems, Red blood cells
+Wireless networks, Bandwidth, Fuzzy logic, Batteries, Set theory, Computational complexity, WiMAX
+Space vector pulse width modulation, Fuzzy sets, Niobium, Torque, Fuzzy logic, Induction motors, Switches
+Generators, Niobium, Fuzzy sets, Power system stability, Oscillators, Fuzzy logic, Damping
+Genetics, Pragmatics, Fuzzy logic, Fuzzy systems, Uncertainty, Ontologies, Sugar
+Fuzzy sets, Feature extraction, Videos, Fuzzy logic, Histograms, Training, Video sequences
+Voltage control, Nanoelectromechanical systems, Control systems, Power quality, Fuzzy logic, Optimization, Genetic algorithms
+Sensors, Robot sensing systems, Service robots, Pulse width modulation, Fuzzy logic, Wireless sensor networks, Navigation
+Temperature, Oscillators, Fuzzy logic, Maximum power point trackers, Resistance, Photovoltaic systems
+Fuzzy sets, Kalman filters, Artificial neural networks, Fuzzy logic, Feedback control, Noise measurement, Uncertainty, Computational efficiency
+Hierarchical systems, Linguistics, Fuzzy logic, Inference algorithms, Fuzzy systems, Complexity theory, Neural networks
+Vehicles, Force, Fuzzy logic, Batteries, System-on-a-chip, Simulation
+Base stations, Protocols, Fuzzy logic, Wireless sensor networks, Uncertainty, Mathematical model, Voting
+Generators, Fuzzy sets, Fuzzy logic, Firing, Turbines, Mathematical model, Heat recovery
+Temperature measurement, Carbon monoxide, Green products, Fuzzy logic, Wireless sensor networks, Humidity, Temperature sensors
+Customer satisfaction, Optimization, Fuzzy logic, Genetic algorithms, Fuzzy set theory
+Protocols, Routing, Optimization, Fuzzy logic, Wireless sensor networks, Clustering algorithms, Microorganisms
+PI control, Tuning, Fuzzy logic, HVDC transmission, Power system dynamics
+Voltage control, Power distribution, Reactive power, Power measurement, Fuzzy logic, Voltage measurement, Inverters
+Stochastic systems, Atmospheric modeling, Stability analysis, Aerodynamics, Fuzzy logic, Data models, Mathematical models
+Power system stability, Oscillators, Fuzzy logic, Rotors, Damping, Automatic voltage control
+Feeds, Production, Image processing, Tools, Decision making, Fuzzy logic, Aquaculture
+Biological system modeling, Standards, Fuzzy logic, Conferences, Bioinformatics, Intelligent systems, Zinc
+Vocabulary, Firewalls (computing), Fuzzy logic, Application security, Uncertainty, Dictionaries, Web 2.0
+Energy consumption, Temperature distribution, Artificial neural networks, Fuzzy logic, Load forecasting, Training, Fuzzy systems
+Energy consumption, Energy efficiency, Control systems, Standards, Fuzzy logic, Fuzzy control, Automation
+Cognition, Usability, Measurement, Fuzzy logic, Complexity theory, Software tools, Costs
+Fault detection, Bandwidth, Fuzzy logic, Training, Uncertainty, Uncertain systems, Training data
+PI control, Harmonic distortion, PD control, Buck converters, Fuzzy logic, Reliability engineering, Simulation
+IEEE 802.11 Standards, Algorithm design and analysis, Wireless networks, Mobile communication, Fuzzy logic, Batteries, Wireless LAN
+Evolutionary computation, Genetics, Fuzzy sets, Algorithm design and analysis, Accuracy, Fuzzy systems, Classification algorithms
+Space vector pulse width modulation, Fuzzy sets, Technological innovation, Fuzzy logic, Induction motors, Switches, Computers
+Education, Fault detection, Synchronization, MATLAB, Fuzzy logic, Tin, Circuit faults
+Kidney, Respiratory system, Fuzzy logic, Liver diseases, Medical diagnosis, Heart, Diabetes
+Blood, Input variables, MATLAB, Fuzzy logic, Pediatrics, Liver diseases
+Voltage control, Control systems, Robustness, MATLAB, Fuzzy logic, Fuzzy control, Mathematical model
+Capacitors, Voltage control, Niobium, Control systems, Fuzzy logic, Loading, Analytical models
+Education, Technological innovation, Computer aided instruction, Fuzzy logic, Conferences, Pandemics, Uncertainty
+Soil moisture, Robot sensing systems, Fuzzy logic, Agriculture, Testing
+Meteorology, Doppler radar, Reflectivity, Fuzzy logic, Radar detection, Meteorological radar
+Pose estimation, Fuzzy logic, Computer vision, Computational modeling, Uncertainty, Machine learning, Multilayer perceptrons
+Engines, Discharges (electric), Electric vehicles, Fuzzy logic, Batteries, Fuzzy systems, State of charge
+Adaptive systems, Generators, Power system stability, Fuzzy logic, Rotors, Damping, Power system dynamics
+Control systems, Pulse width modulation, Fuzzy logic, LED lamps, Process control
+Power distribution, Voltage control, Power system stability, Stability analysis, Microgrids, Power electronics, Fuzzy logic
+Hybrid electric vehicles, Fuels, Fuel cells, Energy management, Batteries, Fuzzy logic, Mathematical model
+Production, Predictive models, Decision making, Fuzzy logic, Oils, Neutrons, Hydrocarbons
+Fuzzy sets, Diseases, Blood pressure, Expert systems, Fuzzy logic, Heart, Pain
+Robustness, Fuzzy logic, Sliding mode control, Uncertainty, Simulation, Stability criteria
+Voltage control, Reactive power, Springs, Fuzzy logic, Inverters, Renewable energy sources, Adaptation models
+Engines, Light emitting diodes, Green products, Fuzzy logic, Lighting, Matlab, Color
+Software, Measurement, Pragmatics, Fuzzy logic, Complexity theory, Testing, Computers
+Frequency response, Input variables, Oil insulation, Fuzzy logic, Windings, Power transformer insulation
+Electrodes, Muscles, Fuzzy logic, Trajectory, Rats, Spinal cord, Joints
+Niobium, Torque, Regulators, Pragmatics, Fuzzy logic, Fuzzy control, Process control
+Delays, Fuzzy logic, Packet loss, Quality of service, Neural networks, Jitter, Adaptation models
+Wind speed, Actuators, Wind turbines, Fuzzy logic, Rotors
+Vibrations, Inspection, Real-time systems, Fuzzy logic, Shafts, Schedules, Computer architecture
+Temperature measurement, Fuzzy logic, Fuzzy control, Humidity, Monitoring, Temperature sensors, Smart phones
+Noise robustness, Computational efficiency, Robustness, Fuzzy logic, Process control, Uncertainty, Stability criteria
+Niobium, Fuels, Diesel engines, Velocity control, Fuzzy logic
+Standards, Fuzzy logic, Radiation effects, Maximum power point trackers, Temperature control, Switches, Photovoltaic systems
+Fuzzy logic, Fuzzy systems, Vehicle dynamics, Uncertainty, Lyapunov methods, Multi-agent systems, Adaptation models
+Algorithm design and analysis, Frequency selective surfaces, Fuzzy logic, Strontium, Frequency modulation, Switches, Computational efficiency
+Wind turbines, Fuzzy logic, Rotors, Maximum power point trackers, Mathematical model, Stators
+Support vector machines, Diseases, Measurement, Fuzzy logic, Machine learning algorithms, Machine learning, Heart
+Path planning, Algorithm design and analysis, Heuristic algorithms, Routing, Fuzzy logic, Mobile robots
+Voltage control, Niobium, MATLAB, Fuzzy logic, Equations, Mathematical model, Simulation
+Power capacitors, Calculus, Algebra, Fuzzy logic, Fuzzy systems, Snow, Knowledge discovery
+Fuzzy sets, Semantics, Knowledge based systems, Ontologies, Complexity theory, Java, Lattices
+Routing protocols, Energy consumption, Fuzzy logic, Routing, Wireless sensor networks, Clustering algorithms
+Niobium, Control systems, Fuzzy logic, Batteries, Voltage measurement, Mathematical model, Simulation
+Production, Support vector machines, Predictive models, Fuzzy logic, Prediction algorithms, Costs, Adaptation models
+Proposals, IEEE 802.11 Standards, Fuzzy logic, Delay, Quality of service, Computers, Jitter
+Energy consumption, Protocols, Base stations, Algorithm design and analysis, Fuzzy logic, Wireless sensor networks, Clustering algorithms
+Gases, Sensors, Prototypes, Fuzzy logic, Nose, Electronic noses
+Dissolved gas analysis, Timing, Power transformers, Fuzzy logic, Maintenance engineering, IEC, Planning
+Transmitters, Temperature, Fuzzy logic, Spraying, Meters, Irrigation, Manuals
+Time factors, Software packages, Temperature, Fuzzy logic, Radiation effects, Maximum power point trackers, Mathematical models
+Market research, Home appliances, Power demand, Smart homes, Batteries, Fuzzy control, Renewable energy sources
+Diseases, Medical diagnostic imaging, Pragmatics, Fuzzy logic, Knowledge based systems, Vectors
+Robots, Heuristic algorithms, Fuzzy logic, Process control, Legged locomotion, Hip, Knee
+Microcontrollers, Pins, Fuzzy logic, Humidity, Fans, Ocean temperature
+Interpolation, Fuzzy sets, Fuzzy logic, Equations, Uncertainty, Mathematical model, Educational institutions
+Niobium, Echocardiography, MATLAB, Fuzzy logic, Probes, Fuzzy systems, Mathematical model
+Frequency control, Power system stability, Power generation, Fuzzy logic, Conferences, Mathematical model
+Distributed power generation, Generators, Reactive power, Feature extraction, Power quality, Fuzzy logic, Cranes
+Linguistics, Feature extraction, Fuzzy logic, Rocks, Games, Thumb
+Discharges (electric), Electrodes, Generators, Ignition, Fuzzy logic, Process control, Machining
+Vehicles, Fuzzy logic, Rotors, Vehicle dynamics, Uncertainty, Mathematical model, Fuzzy neural networks
+Size measurement, Fuzzy sets, Three-dimensional displays, Computer science, Textiles, Solid modeling, Fuzzy logic
+Wind speed, Wind turbines, Microgrids, Load modeling, Fuzzy logic, Batteries, State of charge
+Takagi-Sugeno model, Face, Banking, Training, Fuzzy systems, Decision trees
+Microcontrollers, Fuzzy sets, Smoke detectors, Fuzzy logic, GSM, Temperature sensors, Fires
+Discrete wavelet transforms, Complexity theory, Fault diagnosis, Fuzzy logic
+Fuzzy logic, Optimization, Genetic algorithms, Fuzzy systems, Uncertainty, Biometrics, Biological cells
+Predictive models, Pragmatics, Accuracy, Fuzzy logic, Analytical models, Data models, Neural networks
+Control systems, Pragmatics, Decision making, Backstepping, Fuzzy logic, Rotors, Robots
+Fuzzy sets, Electronic mail, Decision making, Fuzzy logic, Fuzzy systems, Knowledge engineering, Lattices
+Attitude control, Fuzzy sets, Control systems, Optimization, Fuzzy logic, Genetic algorithms, Trajectory
+Pressure measurement, Blood pressure, Medical diagnostic imaging, Fuzzy logic, Heart beat, Mathematical model
+Aerospace control, Nonlinear dynamical systems, Vehicles, Aerodynamics, Fuzzy logic, Genetic algorithms, Vehicle dynamics
+Predictive models, Reliability, Power electronics, Fuzzy logic, Quantization (signal), Prediction algorithms, Classification algorithms
+Soil moisture, Clouds, Rain, Fuzzy logic, Weather forecasting
+Wheels, Fuzzy logic, Fuzzy control, Mobile robots, Steady-state, Mathematical model
+IEEE 802.11 Standards, Mobile communication, Fuzzy logic, GSM, Batteries, WiMAX
+Temperature measurement, Soil moisture, Fuzzy logic, Wireless communication, Wireless sensor networks, Humidity, Temperature sensors
+Urban areas, Protocols, Seminars, Input variables, Prototypes, Fuzzy logic, Simulation
+Harmonic analysis, Voltage control, Active filters, Power filters, Power harmonic filters, Fuzzy logic
+Photonics, Materials, Heating, Fuzzy logic, Cooling, Temperature sensors
+Meteorology, Fuzzy sets, Temperature distribution, Atmospheric modeling, Pragmatics, Uncertainty, Ocean temperature
+Leadership, Companies, Fuzzy sets, Linguistics, Fuzzy logic, Personnel, Task analysis
+Harmonic analysis, Reactive power, Active filters, Power harmonic filters, Fuzzy logic, Firing
+Niobium, Robot sensing systems, Fuzzy logic, Rotors, Brushless DC motors
+Production, Shape, Fuzzy logic, Product design, Uncertainty, Casting, Safety
+Gases, Fuzzy logic, Humanoid robots, Information technology, Classification algorithms, Sensor phenomena and characterization, Electronic noses
+Fuzzy sets, Entropy, Encryption, Bluetooth, Fuzzy logic, Correlation
+Temperature, Sea surface, Internet of Things, Fuzzy logic, Temperature sensors, Ocean temperature
+Recommender systems, Predictive models, Linguistics, Engineering profession, Feature extraction, Fuzzy logic, Mathematical model
+Temperature, Algorithm design and analysis, Fuzzy logic, Mathematical model, Clustering algorithms, Software algorithms
+Engines, Radar, Feature extraction, Signal to noise ratio, Fuzzy logic, Target recognition
+Internet of Things, Fuzzy logic, Roads, Current measurement, Regulation, Landslides, Soil
+Stress, Standards, Power transformer insulation, Fuzzy logic, Oils, Monitoring, Oil insulation
+Time-frequency analysis, Real-time systems, Synthesizers, Fuzzy logic, Bars, Sequential analysis
+Fuzzy sets, Input variables, Fuzzy logic, Batteries, Optimization, Renewable energy sources
+Media Access Protocol, IEEE 802.15 Standard, Fuzzy logic, Body area networks, Wireless communication, Wireless sensor networks, Medical services
+Feature extraction, Fuzzy logic, Discrete wavelet transforms, Circuit faults, Power transmission lines, Impedance
+Voltage control, Torque, Machine vector control, Fuzzy logic, Inverters, Induction motors, Stators
+Magnetic resonance imaging, Feature extraction, Fuzzy logic, Image segmentation, Classification algorithms, Tumors, Clustering algorithms
+Sensors, Artificial neural networks, Fuzzy logic, Training, Mobile robots, Testing
+COVID-19, Urban areas, Tools, Fuzzy logic, Pandemics, Uncertainty, Ventilation
+Fuzzy logic, Power transmission, Voltage measurement, Training, Deep learning, Prediction algorithms, Simulation
+Mobile communication, Fuzzy logic, Fuzzy systems, Solenoids, Coils, Circuit faults, Circuit breakers
+Soil moisture, Microcontrollers, Robot sensing systems, Fuzzy logic, Temperature control, Thermometers, Water pumps
+Adaptive filters, Diseases, Noise, Image color analysis, Systems engineering and theory, Fuzzy logic
+Insulators, Viscosity, Vegetable oils, Fuzzy logic, Dielectrics, Minerals, Oil insulation
+Fuzzy sets, Fatigue, Materials, Laboratories, Fuzzy logic, Uncertainty, Stress
+Stator windings, Fault detection, Fuzzy logic, Mathematical model, Induction motors, Circuit faults
+Torque, Machine vector control, Velocity control, Fuzzy logic, Induction motors, Topology
+Adaptive systems, Robustness, Control design, Fuzzy logic, Uncertainty, Robots, Lyapunov methods
+Cameras, Image color analysis, Automobiles, MATLAB, Fuzzy logic, Fuzzy systems, Mathematical model
+Delays, Control systems, Instruments, Fuzzy logic, Valves, Process control, Solids
+Fuzzy logic, Genetic algorithms, Tin, Induction motors, DC motors
+Noise, Artificial neural networks, Fuzzy logic, Conferences, Image enhancement
+Real-time systems, Synthetic data, Fuzzy logic, Batteries, Deep learning, Visualization, Bicycles
+Robot sensing systems, Fuzzy logic, Mobile robots, Robot kinematics, Zirconium
+Solar panels, Pulse width modulation, Fuzzy logic, Maximum power point trackers, Inverters, Mathematical model, DC-DC power converters
+Robot sensing systems, Detectors, Fuzzy logic, Fans, DC motors, Fires, Manuals
+Torque measurement, Voltage control, Torque, Fuzzy logic, Voltage measurement, Stators, Hysteresis
+Measurement, Detectors, Fuzzy logic, Image edge detection, Fuzzy systems, Educational institutions, Indexes
+Harmonic analysis, Wind speed, Velocity control, Rectifiers, Fuzzy logic, Wind power generation, Maximum power point trackers
+Big Data, Power measurement, Power systems, Fuzzy logic, Load modeling, Loading
+Atmospheric modeling, Wind speed, Rain, Accuracy, Fuzzy logic, Computational modeling, Weather forecasting
+Detectors, Frequency selective surfaces, Fuzzy logic, Image edge detection, Training, Low-pass filters, Pattern recognition
+Robot sensing systems, Collision avoidance, Fuzzy logic, Mobile robots, Mathematical model, Navigation
+Adaptive systems, Nonlinear control systems, Nonlinear systems, Backstepping, Fuzzy logic, Fuzzy control, Approximation methods
+Sensors, Protocols, Linguistics, Base stations, Fuzzy logic, Wireless sensor networks, Voting
+Adaptive systems, Real-time systems, Timing, Fuzzy logic, Mathematical model, Junctions, Adaptation models
+Logic gates, Fuzzy logic, Costs, Induction motors, Permanent magnet motors, Motor drives, Industries
+Temperature measurement, Soil moisture, Fuzzy logic, Wireless sensor networks, Temperature sensors, Irrigation
+Delays, Throughput, Heuristic algorithms, Fuzzy logic, Routing, Load management, Packet loss
+Transistors, Power electronics, Fuzzy logic, Conferences, Fuzzy systems, CMOS technology, Hardware
+Voltage control, Integrated circuit modeling, Heating systems, Fuzzy logic, Thyristors, Firing, Oils
+Vents, Temperature distribution, Prototypes, Fuzzy logic, Humidity, Fans
+Traffic control, Security, Vehicular ad hoc networks, Fuzzy logic, Optimization, Roads, Smart transportation
+Fuzzy sets, Atmospheric modeling, Vehicles, Electronic mail, Brakes, Fuzzy logic, Mathematical model
+Base stations, Protocols, Energy consumption, Probabilistic logic, Fuzzy logic, Wireless sensor networks, Clustering algorithms
+Hyperspectral imaging, Fuzzy sets, Algorithm design and analysis, Electronic mail, Fuzzy logic, Fuzzy systems
+Fuzzy sets, Robot sensing systems, Fuzzy logic, Legged locomotion, Petri nets
+Fuzzy sets, Pragmatics, Frequency selective surfaces, Fuzzy logic, Computational modeling, Uncertainty, Analytical models
+Heating systems, Fuzzy logic, Genetic algorithms, Valves, Mathematical model, Biological cells
+Capacitors, Tools, Field programmable gate arrays, Fuzzy logic, Process control, Hardware, VHDL
+Harmonic analysis, Voltage control, Active filters, Power filters, Power harmonic filters, Fuzzy logic, Switches
+Manganese, Stability analysis, Control systems, Artificial intelligence, Fuzzy logic, Uncertainty, Mathematical model
+Pulse width modulation, Fuzzy logic, Batteries, Inverters, Integrated circuits, Commutation, Bicycles
+Coal mining, Fuzzy logic, Rocks, Silicon, Stress, Coal, Indexes
+Engines, Linguistics, Fuzzy sets, Shape, Fuzzy logic, Training, Manuals
+Voltage control, Stability analysis, Fuzzy logic, Genetic algorithms, Mathematical model, DC motors, Hysteresis motors
+Approximation algorithms, Fuzzy sets, Computational geometry, Fuzzy logic, Uncertainty, Mathematical model, Indexes
+Voltage control, Integrated circuit modeling, Load modeling, Fuzzy logic, Information technology, Renewable energy sources, Photovoltaic systems
+Robot sensing systems, Wheels, Vehicles, Collision avoidance, Fuzzy logic
+Protocols, Decoding, Wireless networks, Signal to noise ratio, Fuzzy logic, Parity check codes, Relays
+Engines, Power demand, Fuzzy logic, Table lookup, Vehicle dynamics, Random access memory, Hardware
+Explosions, Iris, Input variables, Hafnium, Fuzzy logic, Flowering plants, Topology
+Energy consumption, Protocols, Fuzzy logic, Wireless communication, Simulation, Voting, Clustering algorithms
+Traffic control, Cameras, Automobiles, Green products, Decision making, Fuzzy logic, Adaptation models
+5G mobile communication, Energy consumption, Fuzzy logic, Wireless sensor networks, Power transmission lines, Clustering algorithms, Software algorithms
+Engines, Electronic mail, Decision making, Fuzzy logic, Fuzzy systems, Mathematical model
+Closed-form solutions, Control systems, Iterative algorithms, Stability analysis, Fuzzy logic, Uncertainty, Simulation
+Control systems, Fuzzy logic, Resistance, Analytical models, Transfer functions, Testing, Computers
+Generators, Frequency control, Wind turbines, Power systems, Fuzzy logic, Wind power generation, Integrated circuits
+Software, Robot sensing systems, Wheels, Seminars, Input variables, Fuzzy logic, Steady-state
+Software, Regulators, Fuzzy logic, Reliability engineering, Power system reliability, Substations, Switches
+Fuzzy sets, Cryptography, Standards, Fuzzy logic, Optimization, Malware
+Real-time systems, Control systems, Traffic congestion, Fuzzy logic, Roads, Optimization, Dynamic scheduling
+Heating systems, Tuning, Oscillators, Fuzzy logic, Process control, Temperature sensors
+Time complexity, Fuzzy sets, Data processing, Fuzzy logic, Training, Fuzzy systems
+Generators, Power system stability, Phasor measurement units, Oscillators, Fuzzy logic, Mathematical model, Power system dynamics
+Generators, Ignition, High-voltage techniques, Media, Fuzzy logic, Electric shock, Pulse generation
+Adaptive systems, Vehicles, Approximation error, Fuzzy logic, Vehicle dynamics, Uncertainty
+Temperature measurement, Real-time systems, Control systems, Productivity, Fuzzy logic, Temperature sensors, Water quality
+Adaptive systems, Fuzzy sets, Noise, Fuzzy logic, Fuzzy systems, Noise measurement, Uncertainty
+Algorithm design and analysis, Iris, Particle swarm optimization, Fuzzy logic, Optimization, Convergence, Clustering algorithms
+Voltage control, Generators, Transient analysis, Power system stability, Stability analysis, Fuzzy logic
+Software packages, Heuristic algorithms, Fuzzy logic, Matlab, Trajectory, Mathematical model, Adaptation models
+Generators, Torque, Power system stability, Fuzzy logic, Automatic voltage control, Turbines
+Differential equations, Nonlinear systems, Fuzzy logic, Fuzzy systems, Time-varying systems, Mathematical model, Yttrium
+Microcontrollers, Protocols, Wireless networks, Three-dimensional displays, Olfactory, Fuzzy logic, Fans
+Tools, Merging, Measurement, Fuzzy logic, Multimedia systems, Multilayer perceptrons, Visualization
+Detectors, Frequency selective surfaces, Fuzzy logic, Image edge detection, Training, Low-pass filters, Pattern recognition
+Radar, Scheduling algorithms, Scheduling, Fuzzy logic, Task analysis, Target tracking, Radar tracking
+Meteorology, Reflectivity, Fuzzy logic, Clutter, Meteorological radar, Radar clutter
+Electrical engineering, Force, Oscillators, Fuzzy logic, Rails, Payloads, Cranes
+Power grids, Strain, Fuzzy logic, Risk management, Mathematical model, Aging, Power transmission lines
+Transmission line measurements, Fault currents, Fault detection, Fuzzy logic, Voltage measurement, Current measurement, Circuit faults
+Engines, Entropy, Cloud computing, Computer crime, Reliability, Fuzzy logic, Fuzzy systems
+Torque, Regulators, Fuzzy logic, Rotors, Stators, Synchronous machines, Adaptation models
+Generators, Transient analysis, Wind speed, Wind turbines, Fuzzy logic, Steady-state, Mathematical model
+Real-time systems, Stability analysis, Signal processing, Mechatronics, Fuzzy logic, Mathematical models, Robust control
+Transfer functions, Manipulators, Oscillators, Fuzzy logic, Mathematical model, DC motors
+Software packages, Service robots, End effectors, Heuristic algorithms, Fuzzy logic, Trajectory tracking, Software algorithms
+Engines, Vibrations, Real-time systems, Power electronics, Fuzzy logic, Inference algorithms, Monitoring
+Software, Aerodynamics, Fuzzy logic, Steady-state, System performance, Mathematical models, Adaptation models
+Fuzzy sets, Fuzzy logic, Time series analysis, Forecasting, Computational modeling, Uncertainty, Data models
+Microcontrollers, Niobium, Torque, Pulse width modulation, Fuzzy logic, DC motors
+Temperature measurement, Logic gates, Fuzzy logic, Batteries, Resistance, Electrical resistance measurement, Battery charge measurement
+Reactive power, Power system stability, Wind farms, Stability analysis, Fuzzy logic, Static VAr compensators, Simulation
+Learning systems, Algorithm design and analysis, Linear matrix inequalities, Fuzzy logic, Optimization, Silicon, Minimization
+PI control, Electric vehicles, Velocity control, Fuzzy logic, Brushless DC motors, Costs, Variable speed drives
+Throughput, Scheduling, Heuristic algorithms, Fuzzy logic, Delay, Internet, Quality of service
+Vehicles, Algorithm design and analysis, Fuzzy logic, Hardware, CMOS integrated circuits, Indexes, Layout
+DC-DC power converters, Sensitivity, Robustness, Power electronics, Fuzzy logic, Regulation, Switches
+Fuzzy sets, Security, Fuzzy logic, Rails, Operating systems, Uncertainty, Data models
+Throughput, Scheduling algorithms, Software defined networking, Load modeling, Fuzzy logic, Inference algorithms, Data centers
+Fuzzy sets, Humans, Algorithm design and analysis, Optimization, Fuzzy logic, Fuzzy systems, Process control
+Robot sensing systems, Collision avoidance, Fuzzy logic, Mobile robots, Robot kinematics
+Computer security, Delays, Companies, Fuzzy logic, Fuzzy systems, Password, Delay effects
+Glucose, Decision making, Fuzzy logic, Pregnancy, Fetus, Medical services, Diabetes
+Voltage control, Niobium, Switches, Pragmatics, Fuzzy logic, Mathematical model, DC-DC power converters
+Information science, Position measurement, Decision making, Communications technology, Fuzzy logic, Personnel, Databases
+Fuzzy sets, Reservoirs, Control systems, Fuzzy logic, Robots, Irrigation
+Real-time systems, Delays, Urban areas, Electrical engineering, Fuzzy logic, Matlab, Fuzzy systems
+Cavity resonators, Sociology, Statistics, Temperature control, Fuzzy logic, Genetic algorithms, Optimization
+Delays, Vehicles, Detectors, Pragmatics, Fuzzy logic, Fuzzy control
+Voltage control, Niobium, Current control, Fuzzy logic, Firing, Maximum power point trackers, Resistance
+Algebra, Fuzzy logic, Fuzzy systems, Educational institutions, Indexes, Lattices
+Fuzzy sets, Tools, Wind turbines, Field programmable gate arrays, Fuzzy logic, Hardware, DC motors
+Conductivity, Control systems, Fuzzy logic, Wireless communication, Wireless sensor networks, Telematics, Steady-state
+Embedded systems, Fuzzy logic, Humidity, Temperature sensors, Fans, Sensor systems
+Temperature dependence, Production, Temperature, Heating systems, Regulators, Fuzzy logic, Switches
+Sensors, Vehicles, Accidents, Heuristic algorithms, Fuzzy logic, Roads, Vehicle dynamics
+Filtering algorithms, Image filtering, Image color analysis, Fuzzy logic, Fuzzy systems, Switches
+Manganese, Fuzzy logic, Histograms, Frequency modulation, Discrete cosine transforms, Extraterrestrial measurements, Geophysical measurements
+Open source software, Communities, MATLAB, Fuzzy logic, Fuzzy systems, Visualization
+Niobium, Machine vector control, Fuzzy logic, Optimization, Brushless DC motors, Mathematical model
+Software packages, Manipulators, Servomotors, Fuzzy logic, Mathematical model, DC motors
+Fuzzy sets, Real-time systems, Fuzzy logic, Optimization, Internet, Google, Advertising
+Meteorology, Road accidents, Automobiles, Fuzzy logic, Data mining, Grammar
+Pragmatics, Fuzzy logic, Optimization, Equations, Fuzzy systems, Forecasting, Mathematical model
+Throughput, Signal to noise ratio, Interference, Fuzzy logic, Phase shift keying, Resource management, Fading
+Software, Torque, Wind speed, Wind turbines, Fuzzy logic, Uncertainty, System performance
+Biological system modeling, Predictive models, Biomechanics, Fuzzy logic, Logistics, Data models, Acceleration
+Customer satisfaction, Companies, Fuzzy sets, Control systems, Internet of Things, Fuzzy logic, Mathematical model
+Production, Fuzzy logic, Brushless DC motors, Motors, Renewable energy sources, Mathematical models, Photovoltaic systems
+Capacitors, Software packages, Rectifiers, Fuzzy logic, Performance evaluation, Process control, Total harmonic distortion
+Long Term Evolution, Delays, Throughput, Optimization, Fuzzy logic, Handover
+Fuzzy sets, Fuzzy logic, Software systems, Computational modeling, Maintenance engineering, Software engineering
+Fuzzy sets, Accuracy, Time series analysis, Training, Prediction algorithms, Noise measurement, Fuzzy neural networks
+Input variables, Fuzzy logic, Discrete wavelet transforms, Classification algorithms, Circuit faults, Power transmission lines
+Aerospace simulation, Input variables, Fuzzy logic, Training, Mathematical model, Analytical models, Data models
+Cyber-physical systems, Predictive models, Fuzzy logic, Conferences, Prediction algorithms, System performance, Hardware
+Road accidents, Predictive models, Tuners, Velocity control, Fuzzy logic, Roads, Simulation
+Logic gates, Stochastic processes, Field programmable gate arrays, Fuzzy logic, Estimation, Hardware, Computer architecture
+Fuzzy sets, Torque, Fuzzy logic, Induction motors, Rotors, Mathematical model, Adaptation models
+Helicopters, Pragmatics, Magnetic levitation, Fuzzy logic, Computational modeling, Mathematical model, Educational institutions
+Feature extraction, Fuzzy logic, Training, Uncertainty, Mathematical model, Lubrication, Switches
+Voltage control, Niobium, Torque control, Torque, Pragmatics, Fuzzy logic, Stators
+Adaptive systems, Torque, Velocity control, Systematics, Fuzzy logic, Induction motors, Adaptation models
+Tracking, Fuzzy logic, Maximum power point trackers, Signal processing algorithms, Hardware, Photovoltaic systems
+Predictive models, Pragmatics, Fuzzy logic, Cooling, Mathematical model, Refining, Poles and towers
+Software, Linguistics, Fuzzy logic, Estimation, Computational modeling, Task analysis, Complexity theory
+Software, Feature extraction, Fuzzy logic, Computational modeling, Image edge detection, Visualization, Data models
+Energy consumption, Decision making, Fuzzy logic, Wireless sensor networks, Probability, Clustering algorithms, Software algorithms
+Robot sensing systems, Fuzzy logic, Wireless communication, Wireless sensor networks, Process control, Telematics, Steady-state
+Fuzzy sets, Fuzzy logic, Sliding mode control, Fuzzy systems, Uncertainty, Simulation
+Helicopters, Control systems, Pragmatics, Fuzzy logic, Process control, Mathematical model, Context
+Technological innovation, Accuracy, Fuzzy logic, Machine learning algorithms, Decision support systems, Uncertainty, Adaptation models
+Rivers, Pipelines, Floods, Hazards, Fuzzy logic, Soil, Ice
+Rivers, Marine vehicles, Fuzzy logic, Transportation, Risk management, Safety, Navigation
+Cameras, Robot sensing systems, Fuzzy logic, Genetic algorithms, Mobile robots, Radiation detectors
+Doppler radar, Doppler effect, Radar measurements, Fuzzy logic, Measurement uncertainty, Trajectory
+PI control, Fluctuations, Fuzzy logic, Fuzzy control, Performance evaluation, Voltage fluctuations, Adaptation models
+Electromagnetics, Sun, Angular velocity, Fuzzy logic, Rotors, Stators, Photovoltaic systems
+Niobium, Observers, Torque, Fuzzy logic, Rotors, Mathematical model, Stators
+Vehicles, Force, Brakes, Roads, Cruise control, Fuzzy logic
+Arrays, Pragmatics, Fuzzy logic, Genetic algorithms, Linear antenna arrays, Antenna radiation patterns
+Electrical engineering, Software packages, Fuzzy logic, Radiation effects, Maximum power point trackers, Solar radiation, Photovoltaic systems
+Voltage control, Wind speed, Wind energy conversion, Velocity control, Wind turbines, Fuzzy logic, Synchronous generators
+COVID-19, Torque, Input variables, Prototypes, Fuzzy logic, Operating systems, DC motors
+Interpolation, Pragmatics, Fuzzy logic, Inference mechanisms, Histograms, Fuzzy systems, Splines (mathematics)
+Niobium, Torque, Regulators, Pragmatics, Fuzzy logic, Fuzzy control, Process control
+Control systems, Stability analysis, Robustness, Power electronics, Fuzzy logic, Regulation, Switches
+Stability analysis, Disturbance observers, Fuzzy logic, Conferences, Process control, Robots, Mathematical model
+Floods, Decision making, Polymers, Fuzzy logic, Oils, Uncertainty, Process control
+Stochastic processes, Predictive models, Fuzzy logic, Wind power generation, Time series analysis, Prediction algorithms, Uncertainty
+Logic gates, Targeted drug delivery, Decision making, DNA, Fuzzy logic, Computational modeling
+Fuzzy sets, Mechatronics, MATLAB, Fuzzy logic, Trajectory, Robots, Mathematical model
+Image color analysis, Shape, Color, Fuzzy logic, Conferences, Agriculture, Indexes
+Pragmatics, Fuzzy logic, Wireless communication, Handover, Process control, Communication system security
+Fuzzy sets, Artificial intelligence, Medical diagnostic imaging, Decision making, Surgery, Fuzzy logic, Medical diagnosis
+Redox, Adaptive systems, Power system management, Vanadium, Microgrids, Fuzzy logic, Power smoothing
+Energy consumption, Thermostats, Heating, Fuzzy logic, Electricity, Wireless communication, Load management
+Pulse width modulation, Automobiles, Decision making, Fuzzy logic, Roads, Humidity, Ultrasonic variables measurement
+Niobium, Real-time systems, Servomotors, Fuzzy logic, Performance analysis, Process control, Chemical reactors
+Resource management, Software packages, Mobile handsets, Mobile applications, Fuzzy logic, Load management, Neural networks
+Manganese, Materials, Temperature control, Fuzzy logic, Training, Tin
+Sensors, Filling, Accidents, Heuristic algorithms, Fuzzy logic, Roads, Vehicle dynamics
+Niobium, Fluctuations, Fuzzy logic, Maximum power point trackers, Renewable energy sources, Photovoltaic systems
+Control systems, Fuzzy logic, Radiation effects, Maximum power point trackers, Converters, Uncertainty, Mathematical model
+Fuzzy sets, Global Positioning System, Pragmatics, Mobile applications, Fuzzy logic, Hospitals, Data collection
+Time-frequency analysis, Tuning, Power systems, Fuzzy logic, Transient response, Simulation, Renewable energy sources
+Temperature measurement, Data acquisition, Software, Fuzzy logic, Temperature sensors, Photovoltaic systems
+Niobium, Power system stability, Thermal stability, Fuzzy logic, Inverters, Nickel
+Real-time systems, Media, Pose estimation, Fuzzy logic, Image resolution, Training, Visualization
+Microcontrollers, Image color analysis, Shape, Belts, Fuzzy logic, Manuals
+Adaptive equalizers, Image color analysis, Standards, Fuzzy logic, Histograms, Computational modeling, Analytical models
+Fuzzy sets, Probabilistic logic, Fuzzy logic, Semantics, Sustainable development, Boundary conditions
+Fuzzy sets, Control systems, Fuzzy logic, Fuzzy control, Possibility theory, Uncertainty, Aging
+Frequency response, Fuzzy sets, Frequency control, Power system stability, Input variables, Fuzzy logic, Monitoring
+Fuzzy sets, Distributed Bragg reflectors, PD control, Fuzzy logic, Process control, Design methodology
+Mammography, Cancer, Brightness, Fuzzy logic, Histograms, Visualization, Quality assessment
+Energy consumption, Protocols, Stability analysis, Fuzzy logic, Wireless sensor networks, Voting, Clustering algorithms
+Interference, Fuzzy logic, Magnetic sensors, Wireless sensor networks, Inference algorithms, Monitoring
+Voltage control, Power system stability, Stability analysis, Oscillators, Fuzzy logic, Mathematical model, Static VAr compensators
+Software, Mathematical models, Fuzzy logic, Databases, Power supplies, Fault location, Photovoltaic systems
+Accuracy, Fuzzy logic, Classification algorithms, Agriculture, Gene expression, Programming, Biological cells
+Diseases, Fuzzy sets, Pragmatics, Expert systems, Fuzzy logic, Fuzzy systems, Pain
+Oil insulation, Oils, Fuzzy logic, Power transformer insulation, Indexes
+Sun, Microcontrollers, Sensors, Fuzzy logic, Brushless DC motors
+Real-time systems, Input variables, Reliability, Heuristic algorithms, Fuzzy logic, Resistance, Knowledge based systems
+Electrical engineering, Computer science, Fuzzy logic, Recurrent neural networks, Computational modeling, Computer applications, Machine learning
+Pulse width modulation, Fuzzy logic, Saturation magnetization, Rotors, Fuzzy control, Magnetic flux, Couplings
+Protocols, IEEE 802.11 Standards, Security, Fuzzy logic, Wireless communication, Communication system security, Wireless LAN
+Diseases, Cognition, Pragmatics, Accuracy, Fuzzy logic, Inference algorithms
+Seminars, Greenhouses, Thermal engineering, Fuzzy logic, Conferences, Thermal management, Heat engines
+Temperature measurement, Photovoltaic cells, Power generation, Fuzzy logic, Voltage measurement, Silicon, Steady-state
+Spectral analysis, Image color analysis, Image analysis, Fuzzy logic, Matlab, Knowledge based systems, Solids
+Delays, Mechatronics, Fuzzy logic, Load shedding, Pattern recognition, Automation, Smart meters
+System testing, Actuators, Fuzzy logic, Epidemics, Humidity, Switches, Ventilation
+Stator windings, Torque, Fuzzy logic, Rotors, Mathematical model, Induction motors
+Surface treatment, Rivers, Power demand, Floods, Fuzzy logic, Batteries, Wireless communication
+Home appliances, Communication networks, Fuzzy logic, Risk management, Organizations
+PI control, Solar energy, Fluctuations, Fuzzy logic, Temperature control, Maximum power point trackers, Simulation
+Benchmark testing, Time measurement, Seminars, Fuzzy logic, History, Data collection, Games
+Temperature measurement, Temperature distribution, Fuzzy logic, Fuzzy systems, Monitoring, Temperature sensors, Testing
+Stator windings, Fault detection, Fuzzy logic, Mathematical model, Induction motors, Circuit faults
+Software packages, Solar energy, Climate change, Fuzzy logic, Maximum power point trackers, Power engineering, Renewable energy sources, Photovoltaic systems
+Image fusion, Biomedical imaging, Discrete wavelet transforms, Fuzzy logic, Image segmentation
+3G mobile communication, Manganese, Wireless networks, Heuristic algorithms, Fuzzy logic, Prediction algorithms, Wireless LAN
+Adaptive systems, Fuzzy sets, Feature extraction, Artificial neural networks, Fuzzy logic, Electrocardiography, Databases
+Cameras, Fuzzy logic, Target tracking, Aircraft, Visualization, Graphical user interfaces, Hardware
+Robot sensing systems, Turning, Collision avoidance, Fuzzy logic, Mobile robots
+Mobile handsets, Algorithm design and analysis, Mobile communication, Fuzzy logic, Legged locomotion, Acceleration, Context
+Learning systems, Pragmatics, Fuzzy logic, Conferences, Educational institutions, Games, Navigation
+Voltage control, Reactive power, Inductors, Fuzzy logic, Switches, Topology, Power factor correction
+Fault trees, Standards, Reliability, Field programmable gate arrays, Fuzzy logic, Computer architecture, Safety
+Reactive power, Fuzzy logic, Radiation effects, Sliding mode control, Resistance, Inverters
+Software packages, Real-time systems, Technological innovation, Fuzzy logic, Thyristors, Computer architecture, Mathematical models
+Observers, Tuning, Fuzzy logic, Optimization, Equations, Mathematical model, Couplings
+Diseases, Mobile handsets, Global Positioning System, Fuzzy logic, Optimization, Graphical user interfaces, Public healthcare
+Digital forensics, Tools, Fuzzy logic, Servers, Mathematical model, Data models
+Diseases, Clouds, Artificial neural networks, Expert systems, Fuzzy logic
+Electrical engineering, Power generation, Heuristic algorithms, Fuzzy logic, Radiation effects, Simulation, Testing
+Feeds, Power distribution, Gravity measurement, Fuzzy logic, Batteries, Gravity, Aircraft
+Feeds, Drilling machines, Pragmatics, Fuzzy logic, Lubricants, Machining, Intelligent systems
+Asymptotic stability, Adaptive systems, Observers, Control design, Fuzzy logic, Stability criteria
+Reinforcement learning, Network topology, Fuzzy logic, Routing, Computational modeling, Training, Autonomous aerial vehicles
+Torque, Control systems, Switched reluctance motors, Fuzzy logic, Zirconium
+Torque measurement, Torque, Control systems, Switched reluctance motors, Fuzzy logic, Switching frequency, Switches
+Buck converters, Resistance, Niobium, Fuzzy logic
+Force, Automobiles, Brakes, Fuzzy logic, Mathematics
+Production, Nitrogen, Biosensors, Fuzzy logic, Degradation, RNA, Sequential analysis
+Electromyography, Torque, Muscles, Fuzzy logic, Exoskeletons, Robots, Mathematical model
+Fuzzy logic, Time series analysis, Fuzzy systems, Linguistics
+Kernel, Algorithm design and analysis, Pragmatics, Electronic learning, Weight measurement, Fuzzy logic, Courseware
+Sensors, Robot sensing systems, Service robots, Pulse width modulation, Fuzzy logic, Simulation, Sensor systems
+Protons, Linguistics, Detectors, Fuzzy logic, Observatories, Cosmic rays, Neutrino sources
+Calculus, Fuzzy sets, Cognition, Fuzzy logic, Educational institutions, Fuzzy reasoning
+Voltage control, Buck converters, Fuzzy logic, Matlab, Mathematical model, Switches
+Fault diagnosis, Feature extraction, Floods, Fuel cells, Fuzzy logic, Resistance, Mathematical model
+Harmonic analysis, Voltage control, Power quality, Power harmonic filters, Fuzzy logic, Circuit faults, Voltage fluctuations
+Wind speed, Induction generators, Wind turbines, Fuzzy logic, Wind energy
+Gas detectors, Robot sensing systems, Servomotors, Fuzzy logic, Mobile robots
+PI control, Torque, Wind speed, Blades, Wind turbines, Fuzzy logic, Wind energy
+Energy consumption, Protocols, Energy efficiency, Stability analysis, Fuzzy logic, Wireless sensor networks, Adaptation models
+Niobium, Wind speed, Blades, Wind turbines, Aerodynamics, Fuzzy logic, Rotors
+Temperature measurement, Pragmatics, Heating, Fuzzy logic, Humidity
+Interpolation, Smart buildings, Carbon monoxide, Image color analysis, Heating systems, Fuzzy logic, Fans
+Cognition, Computer science, Fuzzy logic, Information technology, Uncertainty, Fuzzy reasoning, Games
+Keywords not found
+Discharges (electric), Fuels, Fuel cells, Fuzzy logic, Batteries, State of charge, Load management
+Electrical engineering, Tuning, Fuzzy logic, Matlab, Underwater autonomous vehicles, Process control, Adaptation models
+Torque control, Torque, Fuzzy logic, Inverters, Cost function, Stators
+Torque control, Torque, Robustness, Fuzzy logic, Rotors, Uncertainty, Stators
+Software, Robustness, Current control, Fuzzy logic, Voltage measurement, Complexity theory, Tracking loops
+Stator windings, Vibrations, Fuzzy logic, Rotors, Induction motors, Stress
+Brakes, Accidents, Vehicular ad hoc networks, Visible light communication, Fuzzy logic, Wireless communication, Lenses
+Time measurement, Protocols, Security, Fuzzy logic, Time series analysis, Context
+Voltage control, Software packages, Microgrids, Fuzzy logic, Load shedding, Renewable energy sources, Mathematical models
+Feature extraction, Tagging, Sentiment analysis, Fuzzy logic, Motion pictures, Training, Mood
+Discharges (electric), Microcontrollers, Superconducting magnetic energy storage, Fuzzy logic, Superconducting coils
+Augmented reality, Fuzzy sets, Receivers, Global Positioning System, Fuzzy logic, Uncertainty, Geology
+Force, Robustness, Fuzzy logic, Optimization, Damping, Mathematical model, Sea state
+Stator windings, Torque, Fuzzy logic, Rotors, Maximum power point trackers, Mathematical model
+Temperature measurement, Temperature distribution, Fuzzy logic, Batteries, Monitoring, State of charge, Battery charge measurement
+Harmonic analysis, Reactive power, Power system stability, Power quality, Power harmonic filters, Fuzzy logic, Automatic voltage control
+Stability analysis, Regulators, Wind turbines, Fuzzy logic, Regulation, Simulation, Renewable energy sources
+Interpolation, Fuzzy sets, Cognition, Linguistics, Fuzzy logic, Fuzzy systems, Fuzzy set theory
+Entropy, Power transformer insulation, Fuzzy logic, Oil insulation, Correlation
+PD control, Vehicles, Fuzzy logic, Equations, Vehicle dynamics, Mathematical model, Underwater vehicles
+Harmonic analysis, Voltage control, Niobium, Active filters, Power quality, Power harmonic filters, Fuzzy logic
+Routing protocols, Delays, Vehicles, Routing, Fuzzy logic, Wireless communication
+Fuzzy logic, Mobile robots, Trajectory, Wheelchairs, Mathematical model, Navigation
+Niobium, Power system stability, Input variables, Fuzzy logic, Rotors, Acceleration, Synchronous generators
+Logic gates, Media Access Protocol, Delays, Real-time systems, Fuzzy logic, Wireless sensor networks, Wireless communication
+Stability analysis, Shape, Fuzzy logic, Mobile robots, Mathematical model, DC motors
+Power transformer insulation, Oils, Fuzzy logic, Oil insulation, Indexes
+Fuzzy sets, Urban areas, Social network services, Sentiment analysis, Pragmatics, Business, Fuzzy logic
+Generators, Frequency control, Wind speed, Load modeling, Wind power generation, Fuzzy logic
+Real-time systems, Control systems, Fuels, Fuel cells, Fuzzy logic, Hydrogen, Solids
+Real-time systems, Linguistics, Biological control systems, Fuzzy logic, Training, Data collection
+Solar panels, Photovoltaic cells, Input variables, Fuzzy logic, Inference algorithms, Maximum power point trackers, Inverters
+Sensors, Algorithm design and analysis, Probabilistic logic, Accuracy, Fuzzy logic, Wireless sensor networks, Mathematical model
+Fuzzy sets, Position control, Robot sensing systems, PD control, Fuzzy logic, Uncertainty
+Voltage control, PD control, Pulse width modulation, Fuzzy logic, Fuzzy control, Steady-state
+Companies, Cognition, Green products, Fuzzy logic, Supply chain management, Supply chains
+Sensors, Decision making, Routing, Fuzzy logic, Wireless sensor networks, Fuzzy systems, Educational institutions
+Voltage control, Software packages, Integrated circuit modeling, Control systems, Fuzzy logic, Conferences, Renewable energy sources
